@@ -1,0 +1,212 @@
+[
+  {
+    "name": "Financial Conduct Authority",
+    "category": "Official regulators",
+    "region": "United Kingdom",
+    "tier": "Tier 1",
+    "type": "Official regulator",
+    "coverage": "UK cryptoasset regime, authorisation, custody, market abuse, disclosures, perimeter guidance.",
+    "url": "https://www.fca.org.uk/firms/cryptoassets",
+    "notes": "Core UK source. Monitor publications, consultations, policy statements and cryptoassets pages."
+  },
+  {
+    "name": "Bank of England",
+    "category": "Central banks & public authorities",
+    "region": "United Kingdom",
+    "tier": "Tier 1",
+    "type": "Central bank",
+    "coverage": "Digital pound, systemic stablecoins, settlement assets, payment systems and financial stability.",
+    "url": "https://www.bankofengland.co.uk/rss",
+    "notes": "RSS page available for news, events and publications."
+  },
+  {
+    "name": "HM Treasury",
+    "category": "Official regulators",
+    "region": "United Kingdom",
+    "tier": "Tier 1",
+    "type": "Government department",
+    "coverage": "UK legislative framework for cryptoassets, stablecoins and financial services policy.",
+    "url": "https://www.gov.uk/government/organisations/hm-treasury",
+    "notes": "Use GOV.UK search/collections and policy papers for legislation and consultations."
+  },
+  {
+    "name": "European Securities and Markets Authority",
+    "category": "Official regulators",
+    "region": "European Union",
+    "tier": "Tier 1",
+    "type": "Official regulator",
+    "coverage": "MiCA, CASPs, technical standards, supervisory convergence, market abuse and disclosures.",
+    "url": "https://www.esma.europa.eu/esmas-activities/digital-finance-and-innovation/markets-crypto-assets-regulation-mica",
+    "notes": "Core EU securities regulator source for MiCA implementation."
+  },
+  {
+    "name": "European Banking Authority",
+    "category": "Official regulators",
+    "region": "European Union",
+    "tier": "Tier 1",
+    "type": "Official regulator",
+    "coverage": "MiCA, ARTs, EMTs, significant tokens, prudential and supervisory matters.",
+    "url": "https://www.eba.europa.eu/activities/direct-supervision-and-oversight/ebas-supervisory-role-under-mica",
+    "notes": "Core EU source for stablecoin supervision under MiCA."
+  },
+  {
+    "name": "U.S. Securities and Exchange Commission",
+    "category": "Official regulators",
+    "region": "United States",
+    "tier": "Tier 1",
+    "type": "Official regulator",
+    "coverage": "Crypto asset securities, disclosure, registration pathways, custody and market intermediaries.",
+    "url": "https://www.sec.gov/securities-topics/crypto-task-force",
+    "notes": "Monitor the Crypto Task Force, statements, speeches, rulemaking and enforcement context."
+  },
+  {
+    "name": "Commodity Futures Trading Commission",
+    "category": "Official regulators",
+    "region": "United States",
+    "tier": "Tier 1",
+    "type": "Official regulator",
+    "coverage": "Digital assets, commodities, derivatives, market oversight and customer protection.",
+    "url": "https://www.cftc.gov/LearnandProtect/digitalassets/index.htm",
+    "notes": "CFTC provides digital assets resources and RSS feeds for updates."
+  },
+  {
+    "name": "Bank for International Settlements",
+    "category": "Standard setters & global bodies",
+    "region": "Global",
+    "tier": "Tier 1",
+    "type": "Central bank body",
+    "coverage": "Tokenisation, stablecoins, CBDC, unified ledger, settlement, financial stability.",
+    "url": "https://www.bis.org/",
+    "notes": "High-value source for institutional tokenisation and monetary system analysis."
+  },
+  {
+    "name": "International Organization of Securities Commissions",
+    "category": "Standard setters & global bodies",
+    "region": "Global",
+    "tier": "Tier 1",
+    "type": "Standard setter",
+    "coverage": "Crypto and digital asset market integrity, custody, conflicts, market abuse and cross-border coordination.",
+    "url": "https://www.iosco.org/",
+    "notes": "Monitor policy recommendations and implementation reviews."
+  },
+  {
+    "name": "Financial Stability Board",
+    "category": "Standard setters & global bodies",
+    "region": "Global",
+    "tier": "Tier 1",
+    "type": "Standard setter",
+    "coverage": "Global cryptoasset framework, global stablecoin arrangements and financial stability risks.",
+    "url": "https://www.fsb.org/work-of-the-fsb/financial-innovation-and-structural-change/crypto-assets-and-global-stablecoins/",
+    "notes": "Core source for global stablecoin and cross-border financial stability policy."
+  },
+  {
+    "name": "Basel Committee on Banking Supervision",
+    "category": "Standard setters & global bodies",
+    "region": "Global",
+    "tier": "Tier 1",
+    "type": "Standard setter",
+    "coverage": "Prudential treatment of banks' cryptoasset exposures, tokenised assets and stablecoins.",
+    "url": "https://www.bis.org/bcbs/publ/d545.htm",
+    "notes": "Key source for bank capital and prudential treatment."
+  },
+  {
+    "name": "Ledger Insights",
+    "category": "Institutional news & analysis",
+    "region": "Global",
+    "tier": "Tier 2",
+    "type": "Specialist publication",
+    "coverage": "Enterprise blockchain, CBDC, stablecoins, tokenised deposits, capital markets and tokenisation.",
+    "url": "https://www.ledgerinsights.com/news/",
+    "notes": "Useful market context; filter for institutional and regulatory relevance."
+  },
+  {
+    "name": "Finextra",
+    "category": "Institutional news & analysis",
+    "region": "Global",
+    "tier": "Tier 2",
+    "type": "Fintech / banking news",
+    "coverage": "Banking technology, digital market infrastructure, tokenisation and payments.",
+    "url": "https://www.finextra.com/",
+    "notes": "Good for market infrastructure and banking implementation context."
+  },
+  {
+    "name": "Latham & Watkins UK Cryptoasset Regulatory Tracker",
+    "category": "Legal & regulatory analysis",
+    "region": "United Kingdom",
+    "tier": "Tier 2",
+    "type": "Legal analysis",
+    "coverage": "UK cryptoasset regulatory milestones, consultation papers and implementation timelines.",
+    "url": "https://www.lw.com/en/uk-cryptoasset-regulatory-tracker",
+    "notes": "Useful secondary source for timeline and practical interpretation."
+  },
+  {
+    "name": "Norton Rose Fulbright Regulation Tomorrow",
+    "category": "Legal & regulatory analysis",
+    "region": "Global",
+    "tier": "Tier 2",
+    "type": "Legal analysis",
+    "coverage": "Regulatory updates across UK, EU and global financial services, including cryptoassets and MiCA.",
+    "url": "https://www.regulationtomorrow.com/",
+    "notes": "Useful for concise summaries of regulator publications."
+  },
+  {
+    "name": "arXiv / academic research",
+    "category": "Academic & research",
+    "region": "Global",
+    "tier": "Tier 3",
+    "type": "Academic research",
+    "coverage": "Emerging research on stablecoins, tokenisation, market structure, taxonomy and regulatory impact.",
+    "url": "https://arxiv.org/",
+    "notes": "Use selectively; valuable for deeper research but not a primary regulatory source."
+  },
+  {
+    "name": "Office of the Comptroller of the Currency",
+    "category": "Official regulators",
+    "region": "United States",
+    "tier": "Tier 1",
+    "type": "Banking regulator",
+    "coverage": "National bank and federal savings association crypto-asset activities, custody, DLT, stablecoin and payment-stablecoin issuer implementation.",
+    "url": "https://www.occ.gov/topics/charters-and-licensing/interpretations-and-actions/index-interpretations-and-actions.html",
+    "notes": "Monitor interpretive letters, bulletins, proposed rules and GENIUS Act implementation."
+  },
+  {
+    "name": "Federal Reserve Board",
+    "category": "Central banks & public authorities",
+    "region": "United States",
+    "tier": "Tier 1",
+    "type": "Central bank / banking supervisor",
+    "coverage": "Crypto-asset activities by supervised banking organizations, dollar-token activities, payments, supervision and financial stability.",
+    "url": "https://www.federalreserve.gov/newsevents/pressreleases.htm",
+    "notes": "Monitor supervision and regulation press releases, speeches and letters."
+  },
+  {
+    "name": "Federal Deposit Insurance Corporation",
+    "category": "Official regulators",
+    "region": "United States",
+    "tier": "Tier 1",
+    "type": "Banking regulator / deposit insurer",
+    "coverage": "FDIC-supervised institutions, stablecoin implementation, bank crypto-asset risks and deposit-insurance perimeter issues.",
+    "url": "https://www.fdic.gov/news/press-releases",
+    "notes": "Useful for U.S. bank stablecoin and crypto-risk supervisory developments."
+  },
+  {
+    "name": "Federal Register",
+    "category": "Official registers",
+    "region": "United States",
+    "tier": "Tier 1",
+    "type": "Official register",
+    "coverage": "U.S. proposed rules, final rules, notices and implementation documents from federal agencies.",
+    "url": "https://www.federalregister.gov/",
+    "notes": "High-value source for formal rulemaking timelines and consultation windows."
+  },
+  {
+    "name": "U.S. Department of the Treasury",
+    "category": "Central banks & public authorities",
+    "region": "United States",
+    "tier": "Tier 1",
+    "type": "Government department",
+    "coverage": "Digital asset policy, financial stability, international coordination, AML/CFT and stablecoin policy.",
+    "url": "https://home.treasury.gov/news/press-releases",
+    "notes": "Monitor press releases, reports and policy papers on digital assets and financial stability."
+  }
+]

@@ -1,0 +1,28 @@
+{
+  "name": "Digital Assets Regulatory Watch",
+  "short_name": "Reg Watch",
+  "description": "Informational regulatory intelligence workspace for public-source monitoring of digital assets regulation and financial market infrastructure developments.",
+  "start_url": "https://example.com/",
+  "scope": "https://example.com/",
+  "display": "standalone",
+  "background_color": "#0b1220",
+  "theme_color": "#0b1220",
+  "categories": ["business", "finance", "productivity", "news"],
+  "icons": [
+    {
+      "src": "assets/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    },
+    {
+      "src": "assets/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "assets/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}

@@ -1,0 +1,466 @@
+[
+  {
+    "id": "eu-credit-institution-custody-mica",
+    "jurisdiction": "European Union",
+    "entityType": "Credit Institution",
+    "activity": "Custody for clients",
+    "assetType": "MiCA cryptoasset",
+    "outcomeType": "notification",
+    "outcome": "Existing authorisation plus MiCA notification",
+    "standaloneLicence": "Generally no standalone CASP authorisation",
+    "regulatoryRoute": "A credit institution may provide crypto-asset services after notifying its home competent authority under MiCA Article 60 at least 40 working days before first providing the service.",
+    "status": "In force",
+    "effectiveFrom": "30 December 2024",
+    "confidence": "High",
+    "conditions": [
+      "Article 60 notification package",
+      "Client-asset segregation and custody policy",
+      "AML/CFT controls and risk assessment",
+      "ICT security and business-continuity documentation"
+    ],
+    "classificationNote": "This route applies to crypto-assets within MiCA. A token qualifying as a financial instrument is governed by the relevant securities framework instead.",
+    "lastReviewed": "2026-07-14",
+    "sources": [
+      {
+        "label": "ESMA MiCA Article 60",
+        "url": "https://www.esma.europa.eu/publications-and-data/interactive-single-rulebook/mica/article-60-provision-crypto-asset-services"
+      },
+      {
+        "label": "MiCA Regulation",
+        "url": "https://eur-lex.europa.eu/eli/reg/2023/1114/oj/eng"
+      }
+    ]
+  },
+  {
+    "id": "eu-investment-firm-execution-mica",
+    "jurisdiction": "European Union",
+    "entityType": "Investment Firm",
+    "activity": "Executing client orders",
+    "assetType": "MiCA cryptoasset",
+    "outcomeType": "notification",
+    "outcome": "Equivalent MiFID permission plus MiCA notification",
+    "standaloneLicence": "Generally no, where the service is equivalent to an existing permission",
+    "regulatoryRoute": "An investment firm may provide only the MiCA services equivalent to the MiFID II services and activities for which it is specifically authorised, following an Article 60 notification at least 40 working days in advance.",
+    "status": "In force",
+    "effectiveFrom": "30 December 2024",
+    "confidence": "High",
+    "conditions": [
+      "Existing MiFID II permission must cover the equivalent service",
+      "Article 60 notification package",
+      "Execution policy and client-protection controls",
+      "AML/CFT, ICT and operational-resilience arrangements"
+    ],
+    "classificationNote": "Execution of orders in MiCA crypto-assets is mapped to execution of orders on behalf of clients under MiFID II for the purpose of Article 60 equivalence.",
+    "lastReviewed": "2026-07-14",
+    "sources": [
+      {
+        "label": "ESMA MiCA Article 60",
+        "url": "https://www.esma.europa.eu/publications-and-data/interactive-single-rulebook/mica/article-60-provision-crypto-asset-services"
+      }
+    ]
+  },
+  {
+    "id": "eu-aifm-portfolio-management-mica",
+    "jurisdiction": "European Union",
+    "entityType": "AIFM / UCITS Management Company",
+    "activity": "Portfolio management or advice",
+    "assetType": "MiCA cryptoasset",
+    "outcomeType": "notification",
+    "outcome": "Existing management-company authorisation plus notification",
+    "standaloneLicence": "Generally no for equivalent authorised services",
+    "regulatoryRoute": "An authorised AIFM or UCITS management company may provide equivalent portfolio-management, advice and certain reception-and-transmission services after an Article 60 notification at least 40 working days before launch.",
+    "status": "In force",
+    "effectiveFrom": "30 December 2024",
+    "confidence": "High",
+    "conditions": [
+      "The relevant non-core or portfolio-management permission must already exist",
+      "Article 60 notification package",
+      "Fund mandate and eligible-asset analysis",
+      "Risk-management, valuation, custody and disclosure review"
+    ],
+    "classificationNote": "MiCA notification does not itself make a cryptoasset eligible for a particular UCITS or AIF mandate.",
+    "lastReviewed": "2026-07-14",
+    "sources": [
+      {
+        "label": "ESMA MiCA Article 60",
+        "url": "https://www.esma.europa.eu/publications-and-data/interactive-single-rulebook/mica/article-60-provision-crypto-asset-services"
+      },
+      {
+        "label": "ESMA Article 60 Q&A",
+        "url": "https://www.esma.europa.eu/publications-data/questions-answers/2397"
+      }
+    ]
+  },
+  {
+    "id": "eu-csd-custody-mica",
+    "jurisdiction": "European Union",
+    "entityType": "Central Securities Depository",
+    "activity": "Custody for clients",
+    "assetType": "MiCA cryptoasset",
+    "outcomeType": "notification",
+    "outcome": "CSD authorisation plus limited MiCA notification route",
+    "standaloneLicence": "Generally no for the specified equivalent custody service",
+    "regulatoryRoute": "A CSD authorised under CSDR may provide custody and administration of crypto-assets on behalf of clients after notifying its home competent authority at least 40 working days before first providing the service.",
+    "status": "In force",
+    "effectiveFrom": "30 December 2024",
+    "confidence": "High",
+    "conditions": [
+      "Service is limited to the Article 60 equivalence route",
+      "Article 60 notification package",
+      "Segregation, custody policy and ICT controls",
+      "Separate analysis for settlement and financial-instrument activities"
+    ],
+    "classificationNote": "Tokenised financial instruments and DLT settlement systems may fall under CSDR, MiFID II and the DLT Pilot Regime rather than MiCA.",
+    "lastReviewed": "2026-07-14",
+    "sources": [
+      {
+        "label": "ESMA MiCA Article 60",
+        "url": "https://www.esma.europa.eu/publications-and-data/interactive-single-rulebook/mica/article-60-provision-crypto-asset-services"
+      },
+      {
+        "label": "ESMA DLT Pilot Regime",
+        "url": "https://www.esma.europa.eu/esmas-activities/digital-finance-and-innovation/dlt-pilot-regime"
+      }
+    ]
+  },
+  {
+    "id": "eu-market-operator-platform-mica",
+    "jurisdiction": "European Union",
+    "entityType": "Market Operator",
+    "activity": "Operating a trading platform",
+    "assetType": "MiCA cryptoasset",
+    "outcomeType": "notification",
+    "outcome": "MiFID market-operator authorisation plus MiCA notification",
+    "standaloneLicence": "Generally no, where operating-platform equivalence applies",
+    "regulatoryRoute": "A MiFID-authorised market operator may operate a trading platform for MiCA crypto-assets after an Article 60 notification at least 40 working days before first providing the service.",
+    "status": "In force",
+    "effectiveFrom": "30 December 2024",
+    "confidence": "High",
+    "conditions": [
+      "Existing market-operator authorisation",
+      "Article 60 notification package",
+      "Platform operating rules and market-abuse detection procedures",
+      "Admission, disclosure, conflicts and operational-resilience controls"
+    ],
+    "classificationNote": "A platform for tokenised financial instruments may instead require a MiFID trading-venue route and, where applicable, DLT Pilot permission.",
+    "lastReviewed": "2026-07-14",
+    "sources": [
+      {
+        "label": "ESMA MiCA Article 60",
+        "url": "https://www.esma.europa.eu/publications-and-data/interactive-single-rulebook/mica/article-60-provision-crypto-asset-services"
+      }
+    ]
+  },
+  {
+    "id": "eu-institution-proprietary-holding-mica",
+    "jurisdiction": "European Union",
+    "entityType": "Institutional Investor / Corporate Treasury",
+    "activity": "Proprietary holding",
+    "assetType": "MiCA cryptoasset",
+    "outcomeType": "case-specific",
+    "outcome": "No CASP service authorisation normally triggered solely by passive holding",
+    "standaloneLicence": "Not usually for holding on the institution's own account",
+    "regulatoryRoute": "MiCA authorisation focuses on issuing crypto-assets and providing crypto-asset services. Passive proprietary holding, without providing a service to third parties, is generally a different perimeter question.",
+    "status": "In force · case-specific",
+    "effectiveFrom": "30 December 2024",
+    "confidence": "Medium",
+    "conditions": [
+      "Confirm the institution is not providing custody, execution, exchange or other services",
+      "Check sector-specific eligible-asset and mandate restrictions",
+      "Apply AML, sanctions, accounting, tax and governance controls",
+      "Assess prudential capital and concentration treatment where relevant"
+    ],
+    "classificationNote": "This is a high-level inference from MiCA's scope, not a safe harbour. Regulated institutions remain subject to their sectoral rulebooks.",
+    "lastReviewed": "2026-07-14",
+    "sources": [
+      {
+        "label": "MiCA Regulation",
+        "url": "https://eur-lex.europa.eu/eli/reg/2023/1114/oj/eng"
+      }
+    ]
+  },
+  {
+    "id": "eu-dlt-market-infrastructure-tokenised-fi",
+    "jurisdiction": "European Union",
+    "entityType": "Investment Firm / Market Operator / CSD",
+    "activity": "Operating DLT market infrastructure",
+    "assetType": "Tokenised financial instrument",
+    "outcomeType": "permission",
+    "outcome": "Sectoral authorisation plus DLT Pilot specific permission",
+    "standaloneLicence": "Yes — relevant market-infrastructure permission is required",
+    "regulatoryRoute": "Tokenised instruments that qualify as financial instruments remain within the securities framework. Eligible authorised firms, market operators and CSDs may apply to operate a DLT MTF, DLT settlement system or combined DLT trading and settlement system.",
+    "status": "In force",
+    "effectiveFrom": "23 March 2023",
+    "confidence": "High",
+    "conditions": [
+      "MiFID II or CSDR authorisation, or qualifying temporary authorisation route",
+      "Application for DLT Pilot specific permission",
+      "Instrument eligibility thresholds and requested exemptions",
+      "Investor protection, settlement, transparency and market-integrity controls"
+    ],
+    "classificationNote": "The technology does not remove the instrument from MiFID II. Legal classification as a financial instrument is the starting point.",
+    "lastReviewed": "2026-07-14",
+    "sources": [
+      {
+        "label": "ESMA DLT Pilot Regime",
+        "url": "https://www.esma.europa.eu/esmas-activities/digital-finance-and-innovation/dlt-pilot-regime"
+      },
+      {
+        "label": "ESMA Classification Guidelines",
+        "url": "https://www.esma.europa.eu/document/guidelines-conditions-and-criteria-qualification-crypto-assets-financial-instruments"
+      }
+    ]
+  },
+  {
+    "id": "eu-investor-holding-tokenised-fi",
+    "jurisdiction": "European Union",
+    "entityType": "Institutional Investor / Investment Fund",
+    "activity": "Proprietary holding",
+    "assetType": "Tokenised financial instrument",
+    "outcomeType": "existing-framework",
+    "outcome": "Existing securities, fund and mandate rules apply",
+    "standaloneLicence": "No new licence solely because the instrument is tokenised",
+    "regulatoryRoute": "Where the token qualifies as a financial instrument, the existing MiFID II and sectoral framework applies. The investor must assess its own mandate, eligible-asset rules, custody chain, venue and settlement arrangements.",
+    "status": "In force",
+    "effectiveFrom": "Classification dependent",
+    "confidence": "High",
+    "conditions": [
+      "Confirm legal classification and instrument documentation",
+      "Check fund or treasury mandate and eligible-asset rules",
+      "Use an appropriate custody and settlement arrangement",
+      "Assess liquidity, valuation, insolvency and operational risks"
+    ],
+    "classificationNote": "MiCA generally does not replace the securities framework for crypto-assets that qualify as financial instruments.",
+    "lastReviewed": "2026-07-14",
+    "sources": [
+      {
+        "label": "ESMA Classification Guidelines",
+        "url": "https://www.esma.europa.eu/document/guidelines-conditions-and-criteria-qualification-crypto-assets-financial-instruments"
+      },
+      {
+        "label": "ESMA DLT Pilot Regime",
+        "url": "https://www.esma.europa.eu/esmas-activities/digital-finance-and-innovation/dlt-pilot-regime"
+      }
+    ]
+  },
+  {
+    "id": "uk-firm-custody-qualifying-cryptoasset",
+    "jurisdiction": "United Kingdom",
+    "entityType": "Bank / Custodian / Cryptoasset Firm",
+    "activity": "Custody for clients",
+    "assetType": "Qualifying cryptoasset",
+    "outcomeType": "permission",
+    "outcome": "Relevant FCA permission under the future FSMA regime",
+    "standaloneLicence": "Yes — safeguarding permission or variation is expected",
+    "regulatoryRoute": "Safeguarding, or arranging safeguarding, qualifying cryptoassets and relevant specified-investment cryptoassets is a regulated activity under the future UK regime. Firms in scope will need the relevant FCA permission from the regime's start.",
+    "status": "Future regime",
+    "effectiveFrom": "25 October 2027",
+    "confidence": "High",
+    "conditions": [
+      "Apply through the FCA cryptoasset authorisation gateway",
+      "Existing authorised firms may need a variation of permission",
+      "Safeguarding, prudential, conduct and operational-resilience requirements",
+      "Until commencement, current MLR registration requirements may still apply to relevant custodian-wallet activity"
+    ],
+    "classificationNote": "The future FSMA permission is separate from current FCA registration under the Money Laundering Regulations.",
+    "lastReviewed": "2026-07-14",
+    "sources": [
+      {
+        "label": "FCA regulated activities overview",
+        "url": "https://www.fca.org.uk/firms/new-regime-cryptoasset-regulation/fsma-handbook"
+      },
+      {
+        "label": "FCA perimeter guidance",
+        "url": "https://www.fca.org.uk/publications/consultation-papers/cp26-13-cryptoasset-perimeter-guidance"
+      },
+      {
+        "label": "Current MLR registration",
+        "url": "https://www.fca.org.uk/firms/cryptoassets/how-apply-registration"
+      }
+    ]
+  },
+  {
+    "id": "uk-firm-dealing-arranging-qualifying-cryptoasset",
+    "jurisdiction": "United Kingdom",
+    "entityType": "Investment Firm / Broker / Cryptoasset Firm",
+    "activity": "Dealing or arranging transactions",
+    "assetType": "Qualifying cryptoasset",
+    "outcomeType": "permission",
+    "outcome": "Relevant FCA permission under the future FSMA regime",
+    "standaloneLicence": "Yes — permission for the relevant regulated activity",
+    "regulatoryRoute": "Dealing in qualifying cryptoassets as principal or agent and arranging deals in qualifying cryptoassets are within the future UK regulated-activities perimeter when the statutory conditions are met.",
+    "status": "Future regime",
+    "effectiveFrom": "25 October 2027",
+    "confidence": "High",
+    "conditions": [
+      "Determine the exact principal, agent or arranging activity",
+      "Apply for permission or variation through the FCA gateway",
+      "Meet applicable conduct, disclosure, market-abuse and prudential requirements",
+      "Assess territorial scope and available exclusions"
+    ],
+    "classificationNote": "Whether a specific transaction model is in scope depends on the activity, asset definition, territorial connection and applicable exclusions.",
+    "lastReviewed": "2026-07-14",
+    "sources": [
+      {
+        "label": "FCA regulated activities overview",
+        "url": "https://www.fca.org.uk/firms/new-regime-cryptoasset-regulation/fsma-handbook"
+      },
+      {
+        "label": "FCA perimeter guidance",
+        "url": "https://www.fca.org.uk/publications/consultation-papers/cp26-13-cryptoasset-perimeter-guidance"
+      }
+    ]
+  },
+  {
+    "id": "uk-treasury-proprietary-holding",
+    "jurisdiction": "United Kingdom",
+    "entityType": "Corporate Treasury / Institutional Investor",
+    "activity": "Proprietary holding",
+    "assetType": "Qualifying cryptoasset",
+    "outcomeType": "case-specific",
+    "outcome": "Passive holding and regulated dealing must be distinguished",
+    "standaloneLicence": "Not automatically; perimeter analysis required",
+    "regulatoryRoute": "Simply holding an asset for the institution's own account is not the same as safeguarding for clients. However, dealing as principal in qualifying cryptoassets can be a regulated activity under the future regime where carried on within the statutory perimeter.",
+    "status": "Future regime · case-specific",
+    "effectiveFrom": "25 October 2027",
+    "confidence": "Medium",
+    "conditions": [
+      "Document whether activity is passive treasury holding or dealing by way of business",
+      "Check frequency, commercial purpose, counterparties and territorial scope",
+      "Apply internal governance, accounting, sanctions and financial-crime controls",
+      "For regulated firms, assess capital, risk appetite and exposure limits"
+    ],
+    "classificationNote": "This record is intentionally cautious. The FCA perimeter guidance and the final fact pattern should be reviewed before relying on an exclusion or outside-scope conclusion.",
+    "lastReviewed": "2026-07-14",
+    "sources": [
+      {
+        "label": "FCA perimeter guidance",
+        "url": "https://www.fca.org.uk/publications/consultation-papers/cp26-13-cryptoasset-perimeter-guidance"
+      },
+      {
+        "label": "FCA regulated activities overview",
+        "url": "https://www.fca.org.uk/firms/new-regime-cryptoasset-regulation/fsma-handbook"
+      }
+    ]
+  },
+  {
+    "id": "us-national-bank-crypto-custody-occ",
+    "jurisdiction": "United States",
+    "entityType": "National Bank / Federal Savings Association",
+    "activity": "Custody for clients",
+    "assetType": "Cryptoasset",
+    "outcomeType": "existing-framework",
+    "outcome": "Existing bank authority, subject to safe-and-sound supervision",
+    "standaloneLicence": "No separate crypto licence under OCC interpretive letters, but activity remains supervised",
+    "regulatoryRoute": "OCC Interpretive Letter 1183 reaffirms prior OCC letters addressing crypto-asset custody, dollar-deposit reserve services and certain stablecoin/DLT activities, while rescinding the prior supervisory nonobjection process.",
+    "status": "In force · supervised activity",
+    "effectiveFrom": "7 March 2025",
+    "confidence": "High",
+    "conditions": [
+      "Activity must be legally permissible for the bank",
+      "Conducted in a safe, sound and fair manner",
+      "Strong operational, custody, cybersecurity and financial-crime controls",
+      "Ongoing supervisory review by the OCC"
+    ],
+    "classificationNote": "This record applies to OCC-supervised national banks and federal savings associations. Other U.S. banking charters and nonbank custodians may follow different supervisory pathways.",
+    "lastReviewed": "2026-07-14",
+    "sources": [
+      {
+        "label": "OCC Interpretive Letter 1183",
+        "url": "https://www.occ.gov/topics/charters-and-licensing/interpretations-and-actions/2025/int1183.pdf"
+      }
+    ]
+  },
+  {
+    "id": "us-payment-stablecoin-issuer-genius",
+    "jurisdiction": "United States",
+    "entityType": "Bank / Nonbank Stablecoin Issuer",
+    "activity": "Issuing a payment stablecoin",
+    "assetType": "Payment stablecoin",
+    "outcomeType": "permission",
+    "outcome": "Permitted payment stablecoin issuer status required",
+    "standaloneLicence": "Yes — issuer must qualify as a permitted payment stablecoin issuer or permitted foreign issuer route where applicable",
+    "regulatoryRoute": "The GENIUS Act establishes a U.S. framework for payment stablecoin activities and generally prohibits issuance in the United States except by permitted payment stablecoin issuers. Federal and state implementation rules determine the applicable pathway.",
+    "status": "Enacted · implementing rules in progress",
+    "effectiveFrom": "18 January 2027 or earlier if final implementing rules trigger the statutory timeline",
+    "confidence": "High",
+    "conditions": [
+      "Issuer eligibility under the GENIUS Act",
+      "Reserve, redemption and disclosure requirements",
+      "Primary federal or state payment stablecoin regulator pathway",
+      "AML/CFT, operational resilience and custody arrangements for reserves and related assets"
+    ],
+    "classificationNote": "This scenario is about issuing a payment stablecoin, not merely holding or using one. Custody, trading, securities and derivatives questions may trigger separate frameworks.",
+    "lastReviewed": "2026-07-14",
+    "sources": [
+      {
+        "label": "White House signing statement",
+        "url": "https://www.whitehouse.gov/briefings-statements/2025/07/the-president-signed-into-law-s-1582/"
+      },
+      {
+        "label": "OCC proposed implementation rule",
+        "url": "https://www.federalregister.gov/documents/2026/03/02/2026-04089/implementing-the-guiding-and-establishing-national-innovation-for-us-stablecoins-act-for-the"
+      }
+    ]
+  },
+  {
+    "id": "us-cftc-tokenized-collateral-derivatives",
+    "jurisdiction": "United States",
+    "entityType": "Derivatives Market Participant / Clearinghouse",
+    "activity": "Using an asset as collateral",
+    "assetType": "Tokenized collateral / payment stablecoin",
+    "outcomeType": "case-specific",
+    "outcome": "Existing derivatives framework plus CFTC pilot/guidance analysis",
+    "standaloneLicence": "Not a standalone crypto licence, but eligible collateral use depends on CFTC-regulated market rules and approved arrangements",
+    "regulatoryRoute": "The CFTC launched a digital assets pilot and guidance on tokenized collateral in derivatives markets, with later staff updates addressing payment stablecoins as eligible tokenized collateral in defined circumstances.",
+    "status": "Pilot / guidance workstream",
+    "effectiveFrom": "8 December 2025 and subsequent 2026 staff updates",
+    "confidence": "Medium",
+    "conditions": [
+      "Instrument-specific eligibility and haircuts",
+      "Clearinghouse and FCM rulebook treatment",
+      "Custody, control, settlement finality and default-management analysis",
+      "Compliance with CFTC regulations and any no-action terms"
+    ],
+    "classificationNote": "This is a collateral-use scenario. It does not determine whether the asset is a security, commodity, payment stablecoin or another instrument for all purposes.",
+    "lastReviewed": "2026-07-14",
+    "sources": [
+      {
+        "label": "CFTC digital assets pilot announcement",
+        "url": "https://www.cftc.gov/PressRoom/PressReleases/9146-25"
+      },
+      {
+        "label": "CFTC stablecoin collateral update",
+        "url": "https://www.cftc.gov/PressRoom/PressReleases/9180-26"
+      }
+    ]
+  },
+  {
+    "id": "us-state-member-bank-crypto-activities-fed",
+    "jurisdiction": "United States",
+    "entityType": "State Member Bank",
+    "activity": "Crypto-asset activity",
+    "assetType": "Cryptoasset / dollar token",
+    "outcomeType": "case-specific",
+    "outcome": "Normal supervisory process after withdrawal of prior Fed notification/nonobjection guidance",
+    "standaloneLicence": "No generic crypto licence; permissibility and supervision remain activity-specific",
+    "regulatoryRoute": "The Federal Reserve withdrew prior guidance that had expected advance notification for crypto-asset activities and a supervisory nonobjection process for certain dollar-token activities, moving monitoring into the normal supervisory process.",
+    "status": "In force · supervisory approach updated",
+    "effectiveFrom": "24 April 2025",
+    "confidence": "Medium",
+    "conditions": [
+      "Confirm legal permissibility for the specific bank and activity",
+      "Risk management, compliance, operational resilience and consumer protection controls",
+      "Engage with supervisors through normal supervision where material",
+      "Separate GENIUS Act analysis for payment stablecoin issuance"
+    ],
+    "classificationNote": "This record is supervisory-process oriented. It should not be read as blanket permission for all state member bank crypto or dollar-token activities.",
+    "lastReviewed": "2026-07-14",
+    "sources": [
+      {
+        "label": "Federal Reserve withdrawal announcement",
+        "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20250424a.htm"
+      }
+    ]
+  }
+]

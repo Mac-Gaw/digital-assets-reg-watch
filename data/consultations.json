@@ -1,0 +1,57 @@
+[
+  {
+    "title": "CP26/13: Cryptoasset perimeter guidance",
+    "regulator": "Financial Conduct Authority",
+    "jurisdiction": "United Kingdom",
+    "topic": "Regulatory perimeter",
+    "publicationDate": "2026-06-30",
+    "deadline": "TBC / check source",
+    "status": "Open / monitoring",
+    "expectedNextStep": "Further policy statement expected on perimeter application in September 2026.",
+    "url": "https://www.fca.org.uk/publications/consultation-papers/cp26-13-cryptoasset-perimeter-guidance"
+  },
+  {
+    "title": "EBA draft methodology for setting fines under MiCA",
+    "regulator": "European Banking Authority",
+    "jurisdiction": "European Union",
+    "topic": "MiCA enforcement methodology",
+    "publicationDate": "2026-06-26",
+    "deadline": "Check source",
+    "status": "Open / monitoring",
+    "expectedNextStep": "EBA review of responses and final methodology publication.",
+    "url": "https://www.eba.europa.eu/publications-and-media/press-releases/european-banking-authority-consults-draft-methodology-setting-fines-under-markets-crypto-assets"
+  },
+  {
+    "title": "UK cryptoasset authorisation gateway preparation",
+    "regulator": "Financial Conduct Authority",
+    "jurisdiction": "United Kingdom",
+    "topic": "Authorisation readiness",
+    "publicationDate": "2026-07-07",
+    "deadline": "Gateway expected 2026-09-30",
+    "status": "Implementation milestone",
+    "expectedNextStep": "Authorisation gateway expected to open on 30 September 2026.",
+    "url": "https://www.fca.org.uk/news/press-releases/fca-sets-landmark-crypto-rules-cement-uks-place-global-hub"
+  },
+  {
+    "title": "GENIUS Act implementation for OCC-regulated payment stablecoin issuers",
+    "regulator": "Office of the Comptroller of the Currency",
+    "jurisdiction": "United States",
+    "topic": "Payment stablecoin implementation",
+    "publicationDate": "2026-03-02",
+    "deadline": "Check Federal Register docket",
+    "status": "Proposed rule / implementation workstream",
+    "expectedNextStep": "OCC review of comments and final implementation rules for permitted payment stablecoin issuer pathways.",
+    "url": "https://www.federalregister.gov/documents/2026/03/02/2026-04089/implementing-the-guiding-and-establishing-national-innovation-for-us-stablecoins-act-for-the"
+  },
+  {
+    "title": "CFTC tokenized collateral pilot and stablecoin collateral updates",
+    "regulator": "Commodity Futures Trading Commission",
+    "jurisdiction": "United States",
+    "topic": "Tokenized collateral in derivatives markets",
+    "publicationDate": "2025-12-08",
+    "deadline": "Pilot / monitor staff letters and guidance",
+    "status": "Pilot / guidance workstream",
+    "expectedNextStep": "Further CFTC guidance, staff letters or rulebook updates on eligible tokenized collateral and market safeguards.",
+    "url": "https://www.cftc.gov/PressRoom/PressReleases/9146-25"
+  }
+]

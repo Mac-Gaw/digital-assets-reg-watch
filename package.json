@@ -1,0 +1,19 @@
+{
+  "name": "digital-assets-regulatory-watch",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Informational regulatory intelligence workspace for public-source monitoring of digital assets regulation, tokenisation, stablecoins and financial market infrastructure.",
+  "type": "module",
+  "scripts": {
+    "build:data": "node scripts/build-data.mjs",
+    "fetch": "node scripts/fetch-feeds.mjs",
+    "fetch:dry-run": "node scripts/fetch-feeds.mjs --dry-run",
+    "fetch:rss-only": "node scripts/fetch-feeds.mjs --rss-only",
+    "fetch:scheduled": "node scripts/fetch-feeds.mjs --scheduled",
+    "configure:url": "node scripts/update-site-url.mjs",
+    "serve": "python3 -m http.server 8080"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}

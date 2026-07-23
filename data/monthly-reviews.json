@@ -1,0 +1,17 @@
+[
+  {
+    "id": "monthly-review-2026-06",
+    "period": "June 2026",
+    "publishedAt": "2026-07-01",
+    "title": "June 2026 Regulatory Review",
+    "status": "Published",
+    "summary": "June was shaped by the FCA's continued build-out of the future UK cryptoasset regime, further MiCA supervisory work in the European Union and global institutional analysis of tokenisation, stablecoins and settlement architecture.",
+    "topics": [
+      "UK Cryptoasset Regime",
+      "MiCA",
+      "Tokenisation",
+      "Stablecoins"
+    ],
+    "note": "Editorial review based on monitored public regulatory and institutional sources. MVP First Release v1.0 adds RSS-first monitoring automation, a source registry and corporate-safe informational metadata."
+  }
+]

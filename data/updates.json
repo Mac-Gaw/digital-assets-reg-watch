@@ -1,0 +1,580 @@
+[
+  {
+    "id": "fca-crypto-rules-2026-07",
+    "title": "FCA sets landmark cryptoasset regime rules and confirms authorisation gateway timing",
+    "source": "Financial Conduct Authority",
+    "sourceType": "Official regulator",
+    "url": "https://www.fca.org.uk/news/press-releases/fca-sets-landmark-crypto-rules-cement-uks-place-global-hub",
+    "publishedAt": "2026-07-07",
+    "jurisdiction": "United Kingdom",
+    "category": "Regulatory Update",
+    "topics": [
+      "Cryptoasset Regulation",
+      "Authorisation",
+      "Custody",
+      "Market Abuse"
+    ],
+    "priority": "High",
+    "status": "Published",
+    "summary": "The FCA announced landmark rules for the UK cryptoasset regime and confirmed that the authorisation gateway for firms is expected to open on 30 September 2026.",
+    "whyItMatters": "Relevant for firms preparing to conduct regulated cryptoasset activities, including custody, trading platform activity, dealing, arranging, issuing and related market infrastructure services."
+  },
+  {
+    "id": "fca-policy-statements-2026-06",
+    "title": "FCA publishes overview of cryptoasset regime policy statements",
+    "source": "Financial Conduct Authority",
+    "sourceType": "Official regulator",
+    "url": "https://www.fca.org.uk/publications/policy-statements/cryptoasset-regime",
+    "publishedAt": "2026-06-30",
+    "jurisdiction": "United Kingdom",
+    "category": "Policy Statement",
+    "topics": [
+      "Cryptoasset Regulation",
+      "Disclosure",
+      "Conduct",
+      "Custody"
+    ],
+    "priority": "High",
+    "status": "Published",
+    "summary": "The FCA published an overview page for policy statements applying to firms that carry out or intend to carry out regulated cryptoasset activities or designated activities under the Cryptoassets Regulations.",
+    "whyItMatters": "This is a core implementation reference for UK firms assessing scope, authorisation preparation, conduct requirements and operational readiness."
+  },
+  {
+    "id": "fca-perimeter-guidance-2026",
+    "title": "FCA consults on cryptoasset perimeter guidance",
+    "source": "Financial Conduct Authority",
+    "sourceType": "Official regulator",
+    "url": "https://www.fca.org.uk/publications/consultation-papers/cp26-13-cryptoasset-perimeter-guidance",
+    "publishedAt": "2026-06-30",
+    "jurisdiction": "United Kingdom",
+    "category": "Consultation",
+    "topics": [
+      "Cryptoasset Regulation",
+      "Regulatory Perimeter",
+      "Authorisation"
+    ],
+    "priority": "High",
+    "status": "Consultation",
+    "summary": "The FCA is consulting on proposed perimeter guidance for the UK future cryptoasset regime, intended to help firms understand when authorisation may be required.",
+    "whyItMatters": "Perimeter guidance is likely to be one of the most important documents for deciding whether a product, service or platform activity falls within the future UK regime."
+  },
+  {
+    "id": "eba-mica-fines-2026-06",
+    "title": "EBA consults on methodology for setting fines under MiCA",
+    "source": "European Banking Authority",
+    "sourceType": "Official regulator",
+    "url": "https://www.eba.europa.eu/publications-and-media/press-releases/european-banking-authority-consults-draft-methodology-setting-fines-under-markets-crypto-assets",
+    "publishedAt": "2026-06-26",
+    "jurisdiction": "European Union",
+    "category": "Consultation",
+    "topics": [
+      "MiCA",
+      "Stablecoins",
+      "Supervision",
+      "Enforcement"
+    ],
+    "priority": "High",
+    "status": "Consultation",
+    "summary": "The EBA consulted on draft methodology for setting fines under the Markets in Crypto-Assets Regulation.",
+    "whyItMatters": "Enforcement methodology affects issuers and service providers subject to MiCA oversight, especially significant ART and EMT issuers."
+  },
+  {
+    "id": "bis-tokenisation-2026",
+    "title": "BIS Annual Economic Report discusses tokenisation and stablecoin limitations",
+    "source": "Bank for International Settlements",
+    "sourceType": "Standard setter / central bank body",
+    "url": "https://www.bis.org/publ/arpdf/ar2026e3.htm",
+    "publishedAt": "2026-06-23",
+    "jurisdiction": "Global",
+    "category": "Institutional Report",
+    "topics": [
+      "Tokenisation",
+      "Stablecoins",
+      "Settlement",
+      "Central Bank Money"
+    ],
+    "priority": "High",
+    "status": "Published",
+    "summary": "The BIS analysed tokenisation, programmable platforms and stablecoins, highlighting the role of trusted money and the limitations of current private stablecoin arrangements.",
+    "whyItMatters": "Important for assessing whether tokenised settlement should rely on stablecoins, tokenised deposits, central bank money or new wholesale settlement architectures."
+  },
+  {
+    "id": "fsb-framework-implementation-2026",
+    "title": "FSI summarises implementation of the FSB global regulatory framework for cryptoasset activities",
+    "source": "Financial Stability Institute / BIS",
+    "sourceType": "Standard setter / central bank body",
+    "url": "https://www.bis.org/fsi/fsisummaries/exsum_24901.htm",
+    "publishedAt": "2026-06-25",
+    "jurisdiction": "Global",
+    "category": "Implementation Review",
+    "topics": [
+      "Cryptoasset Regulation",
+      "Global Stablecoins",
+      "Cross-Border",
+      "Financial Stability"
+    ],
+    "priority": "High",
+    "status": "Published",
+    "summary": "The FSI summarised global implementation progress for the FSB framework covering cryptoasset activities and global stablecoin arrangements.",
+    "whyItMatters": "Useful for comparing implementation approaches across jurisdictions and identifying areas where regulatory divergence may affect cross-border market infrastructure."
+  },
+  {
+    "id": "finextra-tokenisation-dmi-2026",
+    "title": "Tokenisation as digital market infrastructure: from single-chain simplicity to 24/7 liquidity",
+    "source": "Finextra",
+    "sourceType": "Institutional news / analysis",
+    "url": "https://www.finextra.com/the-long-read/1695/tokenisation-as-digital-market-infrastructure-from-singlechain-simplicity-to-247-liquidity",
+    "publishedAt": "2026-07-05",
+    "jurisdiction": "Global",
+    "category": "Market Infrastructure Analysis",
+    "topics": [
+      "Tokenisation",
+      "Market Infrastructure",
+      "Settlement",
+      "Collateral"
+    ],
+    "priority": "Medium",
+    "status": "Published",
+    "summary": "Finextra published a long-read discussing tokenisation as a form of digital market infrastructure and the operational frictions it may reduce.",
+    "whyItMatters": "Useful market context for how tokenisation is being positioned around issuance, servicing, reconciliation, collateral and settlement workflows."
+  },
+  {
+    "id": "sec-crypto-task-force",
+    "title": "SEC Crypto Task Force tracks policy work on crypto asset markets",
+    "source": "U.S. Securities and Exchange Commission",
+    "sourceType": "Official regulator",
+    "url": "https://www.sec.gov/securities-topics/crypto-task-force",
+    "publishedAt": "2026-07-13",
+    "jurisdiction": "United States",
+    "category": "Source Watchlist",
+    "topics": [
+      "Cryptoasset Regulation",
+      "Disclosure",
+      "Market Intermediaries",
+      "Custody"
+    ],
+    "priority": "High",
+    "status": "Monitoring source",
+    "summary": "The SEC Crypto Task Force page is a key public source for policy materials, written submissions and work on the application of federal securities laws to crypto asset markets.",
+    "whyItMatters": "A key source for tracking U.S. policy development around registration pathways, disclosure, custody, market intermediaries and investor protection."
+  },
+  {
+    "id": "basel-sco60-reference",
+    "title": "Basel Committee standard on prudential treatment of cryptoasset exposures",
+    "source": "Basel Committee on Banking Supervision",
+    "sourceType": "Standard setter / central bank body",
+    "url": "https://www.bis.org/bcbs/publ/d545.htm",
+    "publishedAt": "2022-12-16",
+    "jurisdiction": "Global",
+    "category": "Prudential Standard",
+    "topics": [
+      "Prudential Treatment",
+      "Cryptoasset Exposures",
+      "Tokenised Assets",
+      "Stablecoins"
+    ],
+    "priority": "Medium",
+    "status": "Reference standard",
+    "summary": "The Basel Committee standard sets out the prudential treatment of banks' exposures to cryptoassets, including tokenised traditional assets, stablecoins and unbacked cryptoassets.",
+    "whyItMatters": "Useful baseline for bank capital treatment, risk classification and internal policy discussions on direct or indirect cryptoasset exposures."
+  },
+  {
+    "id": "ledger-insights-news-watch",
+    "title": "Ledger Insights provides institutional news on tokenisation, stablecoins and digital currency",
+    "source": "Ledger Insights",
+    "sourceType": "Institutional news / analysis",
+    "url": "https://www.ledgerinsights.com/news/",
+    "publishedAt": "2026-07-13",
+    "jurisdiction": "Global",
+    "category": "Source Watchlist",
+    "topics": [
+      "Tokenisation",
+      "Stablecoins",
+      "CBDC",
+      "Market Infrastructure"
+    ],
+    "priority": "Medium",
+    "status": "Monitoring source",
+    "summary": "Ledger Insights is useful for enterprise blockchain, tokenised deposits, stablecoins, digital assets and capital markets infrastructure news.",
+    "whyItMatters": "Good secondary source for identifying institutional pilots, market infrastructure projects and central-bank-adjacent developments."
+  },
+  {
+    "id": "us-genius-act-enacted-2025",
+    "title": "GENIUS Act establishes U.S. federal framework for payment stablecoins",
+    "source": "The White House / U.S. Federal Register",
+    "sourceType": "Government / official register",
+    "url": "https://www.whitehouse.gov/briefings-statements/2025/07/the-president-signed-into-law-s-1582/",
+    "publishedAt": "2025-07-18",
+    "jurisdiction": "United States",
+    "category": "Historical Milestone",
+    "topics": [
+      "Stablecoins",
+      "Payment Stablecoins",
+      "Issuance",
+      "Federal Framework"
+    ],
+    "priority": "High",
+    "status": "Enacted",
+    "summary": "The President signed S. 1582, the GENIUS Act, into law, creating a federal statutory framework for payment stablecoins in the United States.",
+    "whyItMatters": "This is a core U.S. baseline for payment-stablecoin issuance, permitted issuers, reserve requirements, redemption expectations and state/federal supervisory pathways."
+  },
+  {
+    "id": "occ-genius-implementation-proposed-rule-2026",
+    "title": "OCC proposes rules implementing the GENIUS Act for stablecoin issuance",
+    "source": "Office of the Comptroller of the Currency / Federal Register",
+    "sourceType": "Official regulator",
+    "url": "https://www.federalregister.gov/documents/2026/03/02/2026-04089/implementing-the-guiding-and-establishing-national-innovation-for-us-stablecoins-act-for-the",
+    "publishedAt": "2026-03-02",
+    "jurisdiction": "United States",
+    "category": "Implementation Workstream",
+    "topics": [
+      "Stablecoins",
+      "Issuance",
+      "Banking",
+      "Federal Framework"
+    ],
+    "priority": "High",
+    "status": "Proposed rule",
+    "summary": "The OCC proposed a rule to implement the GENIUS Act for entities subject to OCC jurisdiction, including pathways for permitted payment stablecoin issuers.",
+    "whyItMatters": "Relevant for banks, nonbank stablecoin issuers and service providers assessing U.S. stablecoin issuance, reserve custody, transition and supervisory requirements."
+  },
+  {
+    "id": "sec-sab122-rescinds-sab121-2025",
+    "title": "SEC Staff Accounting Bulletin 122 rescinds SAB 121 crypto safeguarding guidance",
+    "source": "U.S. Securities and Exchange Commission",
+    "sourceType": "Official regulator",
+    "url": "https://www.sec.gov/rules-regulations/staff-guidance/staff-accounting-bulletins/staff-accounting-bulletin-122",
+    "publishedAt": "2025-01-23",
+    "jurisdiction": "United States",
+    "category": "Historical Milestone",
+    "topics": [
+      "Custody",
+      "Accounting",
+      "Safeguarding",
+      "Cryptoasset Regulation"
+    ],
+    "priority": "High",
+    "status": "Published",
+    "summary": "SEC SAB 122 rescinded the staff interpretive guidance in SAB 121 regarding obligations to safeguard crypto-assets held for platform users.",
+    "whyItMatters": "A key U.S. accounting and custody milestone for entities safeguarding crypto-assets for customers, especially banks and listed companies evaluating custody models."
+  },
+  {
+    "id": "occ-il1183-bank-crypto-activities-2025",
+    "title": "OCC Interpretive Letter 1183 reaffirms national bank authority for certain crypto-asset activities",
+    "source": "Office of the Comptroller of the Currency",
+    "sourceType": "Official regulator",
+    "url": "https://www.occ.gov/topics/charters-and-licensing/interpretations-and-actions/2025/int1183.pdf",
+    "publishedAt": "2025-03-07",
+    "jurisdiction": "United States",
+    "category": "Historical Milestone",
+    "topics": [
+      "Banking",
+      "Custody",
+      "Stablecoins",
+      "Distributed Ledger"
+    ],
+    "priority": "High",
+    "status": "Published",
+    "summary": "OCC Interpretive Letter 1183 rescinded the prior supervisory nonobjection process and reaffirmed that crypto-asset custody, certain stablecoin and DLT activities discussed in earlier OCC letters remain permissible for national banks when conducted safely and lawfully.",
+    "whyItMatters": "Important for U.S. bank engagement with crypto custody, stablecoin reserves and DLT payment activities, while keeping the focus on safe and sound risk management."
+  },
+  {
+    "id": "fed-withdraws-crypto-guidance-2025",
+    "title": "Federal Reserve withdraws prior crypto-asset and dollar-token guidance for banks",
+    "source": "Federal Reserve Board",
+    "sourceType": "Central bank / banking supervisor",
+    "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20250424a.htm",
+    "publishedAt": "2025-04-24",
+    "jurisdiction": "United States",
+    "category": "Historical Milestone",
+    "topics": [
+      "Banking",
+      "Dollar Tokens",
+      "Stablecoins",
+      "Supervision"
+    ],
+    "priority": "High",
+    "status": "Published",
+    "summary": "The Federal Reserve withdrew prior guidance related to crypto-asset and dollar-token activities, including the advance-notification expectation for state member banks and the dollar-token supervisory nonobjection process.",
+    "whyItMatters": "Significant for U.S. banks because crypto-asset activities are monitored through the normal supervisory process rather than the withdrawn notification/nonobjection guidance."
+  },
+  {
+    "id": "cftc-tokenized-collateral-pilot-2025",
+    "title": "CFTC launches digital assets pilot program for tokenized collateral in derivatives markets",
+    "source": "Commodity Futures Trading Commission",
+    "sourceType": "Official regulator",
+    "url": "https://www.cftc.gov/PressRoom/PressReleases/9146-25",
+    "publishedAt": "2025-12-08",
+    "jurisdiction": "United States",
+    "category": "Implementation Workstream",
+    "topics": [
+      "Collateral",
+      "Tokenisation",
+      "Derivatives",
+      "Stablecoins"
+    ],
+    "priority": "High",
+    "status": "Pilot program",
+    "summary": "The CFTC announced a digital assets pilot program and guidance on using certain tokenized assets, including BTC, ETH and USDC, as collateral in derivatives markets.",
+    "whyItMatters": "Highly relevant for institutional collateral use cases, margin settlement, tokenized treasury collateral and regulated derivatives market infrastructure."
+  },
+  {
+    "id": "cftc-stablecoin-tokenized-collateral-update-2026",
+    "title": "CFTC expands eligible tokenized collateral framework to payment stablecoins",
+    "source": "Commodity Futures Trading Commission",
+    "sourceType": "Official regulator",
+    "url": "https://www.cftc.gov/PressRoom/PressReleases/9180-26",
+    "publishedAt": "2026-02-12",
+    "jurisdiction": "United States",
+    "category": "Implementation Workstream",
+    "topics": [
+      "Collateral",
+      "Stablecoins",
+      "Derivatives",
+      "Tokenisation"
+    ],
+    "priority": "High",
+    "status": "Published",
+    "summary": "CFTC staff reissued and updated no-action relief to expand eligible tokenized collateral to include payment stablecoins issued by qualifying institutions.",
+    "whyItMatters": "Strengthens the link between payment stablecoin regulation and collateral eligibility in regulated derivatives markets."
+  },
+  {
+    "id": "sec-sab121-crypto-safeguarding-2022",
+    "title": "SEC Staff Accounting Bulletin 121 addresses obligations to safeguard crypto-assets",
+    "source": "U.S. Securities and Exchange Commission",
+    "sourceType": "Official regulator",
+    "url": "https://www.sec.gov/rules-regulations/staff-guidance/staff-accounting-bulletins/staff-accounting-bulletin-121",
+    "publishedAt": "2022-03-24",
+    "jurisdiction": "United States",
+    "category": "Historical Milestone",
+    "topics": [
+      "Custody",
+      "Accounting",
+      "Safeguarding",
+      "Cryptoasset Regulation"
+    ],
+    "priority": "Medium",
+    "status": "Superseded / rescinded by SAB 122",
+    "summary": "SAB 121 expressed SEC staff views on accounting and disclosure obligations for entities safeguarding crypto-assets for platform users.",
+    "whyItMatters": "Historical baseline for understanding the 2022–2025 U.S. custody-accounting debate and the later significance of SAB 122."
+  },
+  {
+    "id": "us-banking-agencies-crypto-risk-statement-2023",
+    "title": "U.S. banking agencies issue joint statement on crypto-asset risks to banking organizations",
+    "source": "FDIC / Federal Reserve / OCC",
+    "sourceType": "Banking regulators",
+    "url": "https://www.fdic.gov/news/press-releases/2023/pr23002.html",
+    "publishedAt": "2023-01-03",
+    "jurisdiction": "United States",
+    "category": "Historical Milestone",
+    "topics": [
+      "Banking",
+      "Risk Management",
+      "Cryptoasset Exposures",
+      "Supervision"
+    ],
+    "priority": "Medium",
+    "status": "Withdrawn in 2025",
+    "summary": "Federal banking agencies issued a joint statement highlighting crypto-asset risks for banking organizations after the 2022 market turmoil.",
+    "whyItMatters": "Useful historical marker for the earlier supervisory posture toward bank crypto-asset exposures and the subsequent 2025 withdrawal of the joint statements."
+  },
+  {
+    "id": "treasury-international-engagement-digital-assets-2022",
+    "title": "U.S. Treasury sets framework for international engagement on digital assets",
+    "source": "U.S. Department of the Treasury",
+    "sourceType": "Government department",
+    "url": "https://home.treasury.gov/news/press-releases/jy0854",
+    "publishedAt": "2022-07-07",
+    "jurisdiction": "United States",
+    "category": "Historical Milestone",
+    "topics": [
+      "Digital Assets",
+      "International Coordination",
+      "Financial Stability",
+      "Policy Framework"
+    ],
+    "priority": "Medium",
+    "status": "Published",
+    "summary": "Treasury published a framework for international engagement on digital assets following the 2022 Executive Order on responsible development of digital assets.",
+    "whyItMatters": "Provides a U.S. policy baseline for cross-border regulatory coordination, financial stability and international standard-setting engagement."
+  },
+  {
+    "id": "eu-mica-official-journal-2023",
+    "title": "MiCA published in the Official Journal of the European Union",
+    "source": "EUR-Lex",
+    "sourceType": "Official register",
+    "url": "https://eur-lex.europa.eu/eli/reg/2023/1114/oj/eng",
+    "publishedAt": "2023-06-09",
+    "jurisdiction": "European Union",
+    "category": "Historical Milestone",
+    "topics": [
+      "MiCA",
+      "Cryptoasset Regulation",
+      "Stablecoins",
+      "CASP"
+    ],
+    "priority": "High",
+    "status": "Published",
+    "summary": "Regulation (EU) 2023/1114 on markets in crypto-assets was published in the Official Journal, establishing the EU-wide MiCA framework.",
+    "whyItMatters": "Core EU baseline for issuers of crypto-assets, ARTs, EMTs and crypto-asset service providers."
+  },
+  {
+    "id": "eu-mica-stablecoin-provisions-apply-2024",
+    "title": "MiCA stablecoin provisions begin applying to ARTs and EMTs",
+    "source": "EUR-Lex / European Union",
+    "sourceType": "Official register",
+    "url": "https://eur-lex.europa.eu/eli/reg/2023/1114/oj/eng",
+    "publishedAt": "2024-06-30",
+    "jurisdiction": "European Union",
+    "category": "Historical Milestone",
+    "topics": [
+      "MiCA",
+      "Stablecoins",
+      "ART",
+      "EMT"
+    ],
+    "priority": "High",
+    "status": "In force",
+    "summary": "MiCA provisions for asset-referenced tokens and e-money tokens began applying before the full CASP regime.",
+    "whyItMatters": "Key date for EU stablecoin issuance, reserve, authorisation and supervisory requirements."
+  },
+  {
+    "id": "eu-mica-full-application-2024",
+    "title": "MiCA becomes fully applicable across the European Union",
+    "source": "EUR-Lex / ESMA / EBA",
+    "sourceType": "Official register / regulators",
+    "url": "https://eur-lex.europa.eu/eli/reg/2023/1114/oj/eng",
+    "publishedAt": "2024-12-30",
+    "jurisdiction": "European Union",
+    "category": "Historical Milestone",
+    "topics": [
+      "MiCA",
+      "CASP",
+      "Cryptoasset Regulation",
+      "Market Abuse"
+    ],
+    "priority": "High",
+    "status": "In force",
+    "summary": "MiCA became fully applicable, including the framework for crypto-asset service providers and broader cryptoasset market conduct requirements.",
+    "whyItMatters": "Primary EU go-live date for CASP authorisation, service provision, market abuse and disclosure obligations."
+  },
+  {
+    "id": "esma-crypto-assets-as-financial-instruments-guidelines-2024",
+    "title": "ESMA finalises guidance on when crypto-assets qualify as financial instruments",
+    "source": "European Securities and Markets Authority",
+    "sourceType": "Official regulator",
+    "url": "https://www.esma.europa.eu/document/guidelines-conditions-and-criteria-qualification-crypto-assets-financial-instruments",
+    "publishedAt": "2024-12-17",
+    "jurisdiction": "European Union",
+    "category": "Historical Milestone",
+    "topics": [
+      "MiCA",
+      "Tokenised Securities",
+      "Financial Instruments",
+      "Regulatory Perimeter"
+    ],
+    "priority": "High",
+    "status": "Published",
+    "summary": "ESMA released final materials on the conditions and criteria for qualifying crypto-assets as financial instruments under MiCA/MiFID II.",
+    "whyItMatters": "Important for RWA and tokenised securities because the legal classification determines whether MiCA or existing securities law is the relevant regime."
+  },
+  {
+    "id": "uk-crypto-financial-promotions-ps23-6-2023",
+    "title": "FCA finalises UK financial promotion rules for qualifying cryptoassets",
+    "source": "Financial Conduct Authority",
+    "sourceType": "Official regulator",
+    "url": "https://www.fca.org.uk/publications/policy-statements/ps23-6-financial-promotion-rules-cryptoassets",
+    "publishedAt": "2023-06-07",
+    "jurisdiction": "United Kingdom",
+    "category": "Historical Milestone",
+    "topics": [
+      "Financial Promotions",
+      "Cryptoasset Regulation",
+      "Consumer Protection"
+    ],
+    "priority": "High",
+    "status": "Published",
+    "summary": "The FCA published PS23/6 setting out financial promotion rules for cryptoassets marketed to UK consumers.",
+    "whyItMatters": "Major UK milestone because cryptoasset promotions capable of having an effect in the UK were brought into a more formal conduct regime."
+  },
+  {
+    "id": "uk-hmt-final-proposals-crypto-regime-2023",
+    "title": "HM Treasury confirms final proposals for UK cryptoasset regulatory regime",
+    "source": "HM Treasury",
+    "sourceType": "Government department",
+    "url": "https://www.gov.uk/government/consultations/future-financial-services-regulatory-regime-for-cryptoassets",
+    "publishedAt": "2023-10-30",
+    "jurisdiction": "United Kingdom",
+    "category": "Historical Milestone",
+    "topics": [
+      "Cryptoasset Regulation",
+      "Regulatory Perimeter",
+      "Authorisation",
+      "Stablecoins"
+    ],
+    "priority": "High",
+    "status": "Published",
+    "summary": "HM Treasury published its response and final proposals for bringing a number of cryptoasset activities into the UK financial services regulatory perimeter.",
+    "whyItMatters": "The main UK policy bridge between earlier consultations and the detailed FCA regime now being implemented."
+  },
+  {
+    "id": "fsb-global-framework-crypto-stablecoins-2023",
+    "title": "FSB finalises global regulatory framework for crypto-asset activities and stablecoins",
+    "source": "Financial Stability Board",
+    "sourceType": "Standard setter / global body",
+    "url": "https://www.fsb.org/2023/07/high-level-recommendations-for-the-regulation-supervision-and-oversight-of-crypto-asset-activities-and-markets-final-report/",
+    "publishedAt": "2023-07-17",
+    "jurisdiction": "Global",
+    "category": "Historical Milestone",
+    "topics": [
+      "Cryptoasset Regulation",
+      "Global Stablecoins",
+      "Financial Stability",
+      "Cross-Border"
+    ],
+    "priority": "High",
+    "status": "Published",
+    "summary": "The FSB finalised recommendations forming a global framework for crypto-asset activities and global stablecoin arrangements.",
+    "whyItMatters": "Important cross-jurisdictional baseline for supervisory consistency, global stablecoin oversight and financial stability expectations."
+  },
+  {
+    "id": "iosco-cda-recommendations-2023",
+    "title": "IOSCO finalises policy recommendations for crypto and digital asset markets",
+    "source": "International Organization of Securities Commissions",
+    "sourceType": "Standard setter / global body",
+    "url": "https://www.iosco.org/library/pubdocs/pdf/IOSCOPD747.pdf",
+    "publishedAt": "2023-11-16",
+    "jurisdiction": "Global",
+    "category": "Historical Milestone",
+    "topics": [
+      "Cryptoasset Regulation",
+      "Market Integrity",
+      "Custody",
+      "Conflicts of Interest"
+    ],
+    "priority": "Medium",
+    "status": "Published",
+    "summary": "IOSCO finalised policy recommendations for crypto and digital asset markets, covering intermediaries, custody, conflicts, market abuse and cross-border cooperation.",
+    "whyItMatters": "Useful securities-regulator baseline for comparing local regimes against international expectations for market integrity and investor protection."
+  },
+  {
+    "id": "basel-cryptoasset-disclosure-framework-2024",
+    "title": "Basel Committee finalises disclosure framework and targeted amendments for cryptoasset exposures",
+    "source": "Basel Committee on Banking Supervision",
+    "sourceType": "Standard setter / central bank body",
+    "url": "https://www.bis.org/press/p240717.htm",
+    "publishedAt": "2024-07-17",
+    "jurisdiction": "Global",
+    "category": "Historical Milestone",
+    "topics": [
+      "Prudential Treatment",
+      "Cryptoasset Exposures",
+      "Stablecoins",
+      "Disclosure"
+    ],
+    "priority": "High",
+    "status": "Published",
+    "summary": "The Basel Committee published its final disclosure framework for banks cryptoasset exposures and targeted amendments to the cryptoasset standard.",
+    "whyItMatters": "Important for banks because the disclosure framework and amendments are intended to be implemented from 1 January 2026."
+  }
+]
