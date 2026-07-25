@@ -1,43 +1,41 @@
 {
   "siteName": "Digital Assets Regulatory Watch",
   "release": "MVP First Release v1.0",
-  "lastUpdated": "2026-07-21",
+  "lastUpdated": "2026-07-25",
   "monitoring": {
     "status": "Active",
-    "lastScan": "2026-07-21T20:22:00+01:00",
+    "lastScan": "2026-07-25T07:36:09.767Z",
     "quietPeriodDays": 14,
     "regions": [
       {
         "name": "United Kingdom",
         "shortName": "UK",
-        "lastChecked": "2026-07-21",
+        "lastChecked": "2026-07-25",
         "status": "Active"
       },
       {
         "name": "European Union",
         "shortName": "EU",
-        "lastChecked": "2026-07-21",
+        "lastChecked": "2026-07-25",
+        "status": "Active"
+      },
+      {
+        "name": "Global",
+        "shortName": "Global",
+        "lastChecked": "2026-07-25",
         "status": "Active"
       },
       {
         "name": "United States",
         "shortName": "US",
-        "lastChecked": "2026-07-21",
-        "status": "Active"
-      },
-      {
-        "name": "Global standard setters",
-        "shortName": "Global",
-        "lastChecked": "2026-07-21",
-        "status": "Active"
-      },
-      {
-        "name": "Asia-Pacific",
-        "shortName": "APAC",
-        "lastChecked": "2026-07-21",
+        "lastChecked": "2026-07-25",
         "status": "Active"
       }
-    ]
+    ],
+    "lastScanResult": {
+      "newPublishedItems": 73,
+      "checkedSources": 25
+    }
   },
   "description": "Informational regulatory intelligence workspace for public-source monitoring of digital assets, tokenisation, stablecoins and financial market infrastructure developments.",
   "nonPurpose": [
