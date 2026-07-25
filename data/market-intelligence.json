@@ -1,1 +1,373 @@
-[]
+[
+  {
+    "id": "finextra-payments-are-banks-actually-ready-for-digital-money-2026-09-15",
+    "title": "Are banks actually ready for digital money?",
+    "source": "Finextra",
+    "url": "https://www.finextra.com/event-info/625/are-banks-actually-ready-for-digital-money",
+    "publishedAt": "2026-09-15T15:00:00.000Z",
+    "category": "Tokenisation",
+    "topics": [
+      "Tokenisation",
+      "Stablecoins & settlement",
+      "Institutional adoption"
+    ],
+    "collectionMode": "auto"
+  },
+  {
+    "id": "finextra-crypto-what-profitable-roles-can-banks-play-in-the-digital-currency-race-2026-09-10",
+    "title": "What profitable roles can banks play in the digital currency race?",
+    "source": "Finextra",
+    "url": "https://www.finextra.com/event-info/621/what-profitable-roles-can-banks-play-in-the-digital-currency-race",
+    "publishedAt": "2026-09-10T15:00:00.000Z",
+    "category": "Market infrastructure",
+    "topics": [
+      "Market infrastructure"
+    ],
+    "collectionMode": "auto"
+  },
+  {
+    "id": "markets-media-feed-eurex-members-mobilize-collateral-on-dlt-2026-07-24",
+    "title": "Eurex Members Mobilize Collateral on DLT",
+    "source": "Markets Media",
+    "url": "https://www.marketsmedia.com/eurex-members-mobilize-collateral-on-dlt",
+    "publishedAt": "2026-07-24T13:30:03.000Z",
+    "category": "Collateral",
+    "topics": [
+      "Collateral",
+      "Institutional adoption"
+    ],
+    "collectionMode": "auto"
+  },
+  {
+    "id": "securities-finance-times-ecb-provides-enhanced-repo-facility-for-central-banks-2026-07-24",
+    "title": "ECB provides enhanced repo facility for central banks",
+    "source": "Securities Finance Times",
+    "url": "https://www.securitiesfinancetimes.com/securitieslendingnews/repoarticle.php?article_id=228854",
+    "publishedAt": "2026-07-24T11:46:04.000Z",
+    "category": "Collateral",
+    "topics": [
+      "Collateral"
+    ],
+    "collectionMode": "auto"
+  },
+  {
+    "id": "markets-media-feed-fix-calls-on-esma-to-update-reporting-rules-2026-07-24",
+    "title": "FIX Calls on ESMA to Update Reporting Rules",
+    "source": "Markets Media",
+    "url": "https://www.marketsmedia.com/fix-calls-on-esma-to-update-reporting-rules",
+    "publishedAt": "2026-07-24T08:06:39.000Z",
+    "category": "Collateral",
+    "topics": [
+      "Collateral"
+    ],
+    "collectionMode": "auto"
+  },
+  {
+    "id": "securities-finance-times-lch-sa-extends-eligible-collateral-for-margin-requirements-2026-07-23",
+    "title": "LCH SA extends eligible collateral for margin requirements",
+    "source": "Securities Finance Times",
+    "url": "https://www.securitiesfinancetimes.com/securitieslendingnews/industryarticle.php?article_id=228851",
+    "publishedAt": "2026-07-23T10:59:18.000Z",
+    "category": "Collateral",
+    "topics": [
+      "Collateral"
+    ],
+    "collectionMode": "auto"
+  },
+  {
+    "id": "securities-finance-times-icbc-asia-joins-securities-finance-association-2026-07-23",
+    "title": "ICBC Asia joins Securities Finance Association",
+    "source": "Securities Finance Times",
+    "url": "https://www.securitiesfinancetimes.com/securitieslendingnews/industryarticle.php?article_id=228850",
+    "publishedAt": "2026-07-23T10:44:49.000Z",
+    "category": "Collateral",
+    "topics": [
+      "Collateral"
+    ],
+    "collectionMode": "auto"
+  },
+  {
+    "id": "finextra-crypto-boerse-stuttgart-adopts-socgen-stablecoin-2026-07-23",
+    "title": "Boerse Stuttgart adopts SocGen stablecoin",
+    "source": "Finextra",
+    "url": "https://www.finextra.com/pressarticle/110480/boerse-stuttgart-adopts-socgen-stablecoin",
+    "publishedAt": "2026-07-23T10:08:00.000Z",
+    "category": "Custody",
+    "topics": [
+      "Custody",
+      "Stablecoins & settlement"
+    ],
+    "collectionMode": "auto"
+  },
+  {
+    "id": "asset-servicing-times-allunity-joins-swiss-fintech-innovations-2026-07-23",
+    "title": "AllUnity joins Swiss Fintech Innovations",
+    "source": "Asset Servicing Times",
+    "url": "https://www.assetservicingtimes.com/assetservicesnews/digitalassetsarticle.php?article_id=18176",
+    "publishedAt": "2026-07-23T09:10:31.000Z",
+    "category": "Stablecoins & settlement",
+    "topics": [
+      "Stablecoins & settlement"
+    ],
+    "collectionMode": "auto"
+  },
+  {
+    "id": "asset-servicing-times-tcs-bancs-integrates-zodia-solutions-platform-2026-07-23",
+    "title": "TCS BaNCS integrates Zodia Solutions platform",
+    "source": "Asset Servicing Times",
+    "url": "https://www.assetservicingtimes.com/assetservicesnews/digitalassetsarticle.php?article_id=18175",
+    "publishedAt": "2026-07-23T08:57:51.000Z",
+    "category": "Custody",
+    "topics": [
+      "Custody",
+      "Market infrastructure"
+    ],
+    "collectionMode": "auto"
+  },
+  {
+    "id": "finextra-crypto-augustus-secures-180-million-series-b-2026-07-22",
+    "title": "Augustus secures $180 million Series B",
+    "source": "Finextra",
+    "url": "https://www.finextra.com/newsarticle/48134/augustus-secures-180-million-series-b",
+    "publishedAt": "2026-07-22T13:15:00.000Z",
+    "category": "Market infrastructure",
+    "topics": [
+      "Market infrastructure"
+    ],
+    "collectionMode": "auto"
+  },
+  {
+    "id": "securities-finance-times-t-1-move-for-asia-pacific-presents-high-stakes-for-securities-finance-says-report-2026-07-22",
+    "title": "T+1 move for Asia Pacific presents high stakes for securities finance, says report",
+    "source": "Securities Finance Times",
+    "url": "https://www.securitiesfinancetimes.com/securitieslendingnews/regulationarticle.php?article_id=228849",
+    "publishedAt": "2026-07-22T13:10:17.000Z",
+    "category": "Collateral",
+    "topics": [
+      "Collateral"
+    ],
+    "collectionMode": "auto"
+  },
+  {
+    "id": "finextra-markets-anthropic-to-support-ai-tests-in-fca-s-supercharged-sandbox-2026-07-22",
+    "title": "Anthropic to support AI tests in FCA's Supercharged Sandbox",
+    "source": "Finextra",
+    "url": "https://www.finextra.com/newsarticle/48131/anthropic-to-support-ai-tests-in-fcas-supercharged-sandbox",
+    "publishedAt": "2026-07-22T10:35:00.000Z",
+    "category": "Institutional adoption",
+    "topics": [
+      "Institutional adoption"
+    ],
+    "collectionMode": "auto"
+  },
+  {
+    "id": "finextra-payments-aci-worldwide-explores-sale-of-billing-division-2026-07-20",
+    "title": "ACI Worldwide explores sale of billing division",
+    "source": "Finextra",
+    "url": "https://www.finextra.com/newsarticle/48121/aci-worldwide-explores-sale-of-billing-division",
+    "publishedAt": "2026-07-20T12:28:00.000Z",
+    "category": "Collateral",
+    "topics": [
+      "Collateral"
+    ],
+    "collectionMode": "auto"
+  },
+  {
+    "id": "global-custodian-feed-from-the-research-desk-could-ai-be-the-next-differentiator-for-pe-fund-administrators-2026-07-16",
+    "title": "From the research desk: Could AI be the next differentiator for PE fund administrators?",
+    "source": "Global Custodian",
+    "url": "https://www.globalcustodian.com/from-the-researck-desk-could-ai-be-the-next-differentiator-for-pe-fund-administrators",
+    "publishedAt": "2026-07-16T15:39:06.000Z",
+    "category": "Custody",
+    "topics": [
+      "Custody"
+    ],
+    "collectionMode": "auto"
+  },
+  {
+    "id": "finextra-wholesale-swedbank-pays-50-million-penalty-to-nydfs-over-historical-shortcomings-2026-07-16",
+    "title": "Swedbank pays $50 million penalty to NYDFS over historical shortcomings",
+    "source": "Finextra",
+    "url": "https://www.finextra.com/pressarticle/110441/swedbank-pays-50-million-penalty-to-nydfs-over-historical-shortcomings",
+    "publishedAt": "2026-07-16T15:20:00.000Z",
+    "category": "Market infrastructure",
+    "topics": [
+      "Market infrastructure"
+    ],
+    "collectionMode": "auto"
+  },
+  {
+    "id": "finextra-crypto-tokenized-deposits-explained-what-swift-s-multi-bank-pilot-means-for-the-future-of-banking-2026-07-16",
+    "title": "Tokenized Deposits Explained: What Swift’s Multi-Bank Pilot Means for the Future of Banking",
+    "source": "Finextra",
+    "url": "https://www.finextra.com/blogposting/32296/tokenized-deposits-explained-what-swifts-multi-bank-pilot-means-for-the-future-of-banking",
+    "publishedAt": "2026-07-16T10:58:53.000Z",
+    "category": "Tokenisation",
+    "topics": [
+      "Tokenisation",
+      "Stablecoins & settlement"
+    ],
+    "collectionMode": "auto"
+  },
+  {
+    "id": "finextra-markets-dtcc-turns-tokenisation-into-reality-2026-07-15",
+    "title": "DTCC turns tokenisation into reality",
+    "source": "Finextra",
+    "url": "https://www.finextra.com/newsarticle/48102/dtcc-turns-tokenisation-into-reality",
+    "publishedAt": "2026-07-15T18:48:00.000Z",
+    "category": "Tokenisation",
+    "topics": [
+      "Tokenisation",
+      "Market infrastructure"
+    ],
+    "collectionMode": "auto"
+  },
+  {
+    "id": "finextra-markets-sponsor-s-message-new-report-operationalising-ai-in-payments-testing-2026-07-15",
+    "title": "Sponsor's message: [New Report] Operationalising AI in Payments Testing",
+    "source": "Finextra",
+    "url": "https://www.finextra.com/banners/banner.aspx?opt=ad&baid=8128",
+    "publishedAt": "2026-07-15T00:00:00.000Z",
+    "category": "Collateral",
+    "topics": [
+      "Collateral"
+    ],
+    "collectionMode": "auto"
+  },
+  {
+    "id": "finextra-crypto-why-tokenisation-will-spread-to-private-market-funds-2026-07-13",
+    "title": "Why tokenisation will spread to private market funds",
+    "source": "Finextra",
+    "url": "https://www.finextra.com/blogposting/32262/why-tokenisation-will-spread-to-private-market-funds",
+    "publishedAt": "2026-07-13T18:50:48.000Z",
+    "category": "Tokenisation",
+    "topics": [
+      "Tokenisation"
+    ],
+    "collectionMode": "auto"
+  },
+  {
+    "id": "finextra-wholesale-tokenized-payments-how-swift-project-agor-and-225-pontes-and-appia-are-positioned-2026-07-12",
+    "title": "Tokenized payments: how SWIFT, Project Agor&#225;, PONTES and APPIA are positioned",
+    "source": "Finextra",
+    "url": "https://www.finextra.com/blogposting/32251/tokenized-payments-how-swift-project-agor-pontes-and-appia-are-positioned",
+    "publishedAt": "2026-07-12T01:22:22.000Z",
+    "category": "Tokenisation",
+    "topics": [
+      "Tokenisation"
+    ],
+    "collectionMode": "auto"
+  },
+  {
+    "id": "finextra-crypto-what-are-the-best-use-cases-for-tokenisation-and-programmability-2026-07-10",
+    "title": "What Are the Best Use Cases for Tokenisation and Programmability?",
+    "source": "Finextra",
+    "url": "https://www.finextra.com/videoarticle/3563/what-are-the-best-use-cases-for-tokenisation-and-programmability",
+    "publishedAt": "2026-07-10T15:00:00.000Z",
+    "category": "Tokenisation",
+    "topics": [
+      "Tokenisation",
+      "Stablecoins & settlement"
+    ],
+    "collectionMode": "auto"
+  },
+  {
+    "id": "finextra-markets-wall-street-banks-clamp-down-on-employee-use-of-prediction-markets-2026-07-10",
+    "title": "Wall Street banks clamp down on employee use of prediction markets",
+    "source": "Finextra",
+    "url": "https://www.finextra.com/newsarticle/48075/wall-street-banks-clamp-down-on-employee-use-of-prediction-markets",
+    "publishedAt": "2026-07-10T14:54:00.000Z",
+    "category": "Collateral",
+    "topics": [
+      "Collateral"
+    ],
+    "collectionMode": "auto"
+  },
+  {
+    "id": "finextra-crypto-esma-to-review-the-resilience-of-crypto-custodians-2026-07-10",
+    "title": "ESMA to review the resilience of crypto custodians",
+    "source": "Finextra",
+    "url": "https://www.finextra.com/newsarticle/48073/esma-to-review-the-resilience-of-crypto-custodians",
+    "publishedAt": "2026-07-10T12:23:00.000Z",
+    "category": "Custody",
+    "topics": [
+      "Custody"
+    ],
+    "collectionMode": "auto"
+  },
+  {
+    "id": "global-custodian-feed-fireside-friday-with-transcend-s-bimal-kadikar-2026-07-10",
+    "title": "Fireside Friday with… Transcend’s Bimal Kadikar",
+    "source": "Global Custodian",
+    "url": "https://www.globalcustodian.com/fireside-friday-with-transcends-bimal-kadikar-2",
+    "publishedAt": "2026-07-10T10:38:38.000Z",
+    "category": "Tokenisation",
+    "topics": [
+      "Tokenisation",
+      "Custody",
+      "Collateral"
+    ],
+    "collectionMode": "auto"
+  },
+  {
+    "id": "finextra-crypto-siam-commercial-bank-selects-citi-s-token-clearing-service-2026-07-10",
+    "title": "Siam Commercial Bank selects Citi's token clearing service",
+    "source": "Finextra",
+    "url": "https://www.finextra.com/pressarticle/110391/siam-commercial-bank-selects-citis-token-clearing-service",
+    "publishedAt": "2026-07-10T08:45:00.000Z",
+    "category": "Market infrastructure",
+    "topics": [
+      "Market infrastructure"
+    ],
+    "collectionMode": "auto"
+  },
+  {
+    "id": "finextra-payments-emerging-payments-technologies-what-will-the-direction-of-travel-look-like-2026-07-09",
+    "title": "Emerging Payments Technologies: What Will the Direction of Travel Look Like?",
+    "source": "Finextra",
+    "url": "https://www.finextra.com/videoarticle/3562/emerging-payments-technologies-what-will-the-direction-of-travel-look-like",
+    "publishedAt": "2026-07-09T15:00:00.000Z",
+    "category": "Tokenisation",
+    "topics": [
+      "Tokenisation"
+    ],
+    "collectionMode": "auto"
+  },
+  {
+    "id": "finextra-crypto-nodu-receives-mica-and-payment-institution-licences-from-the-bank-of-latvia-2026-07-09",
+    "title": "Nodu receives MiCA and Payment Institution licences from the Bank of Latvia",
+    "source": "Finextra",
+    "url": "https://www.finextra.com/pressarticle/110387/nodu-receives-mica-and-payment-institution-licences-from-the-bank-of-latvia",
+    "publishedAt": "2026-07-09T11:51:00.000Z",
+    "category": "Stablecoins & settlement",
+    "topics": [
+      "Stablecoins & settlement"
+    ],
+    "collectionMode": "auto"
+  },
+  {
+    "id": "finextra-crypto-sony-bank-wins-us-regulatory-approval-for-stablecoin-trust-bank-2026-07-09",
+    "title": "Sony Bank wins US regulatory approval for stablecoin trust bank",
+    "source": "Finextra",
+    "url": "https://www.finextra.com/newsarticle/48064/sony-bank-wins-us-regulatory-approval-for-stablecoin-trust-bank",
+    "publishedAt": "2026-07-09T10:46:00.000Z",
+    "category": "Stablecoins & settlement",
+    "topics": [
+      "Stablecoins & settlement"
+    ],
+    "collectionMode": "auto"
+  },
+  {
+    "id": "finextra-payments-the-three-factors-for-a-fast-modernisation-journey-2026-07-06",
+    "title": "The Three Factors for a Fast Modernisation Journey",
+    "source": "Finextra",
+    "url": "https://www.finextra.com/videoarticle/3541/the-three-factors-for-a-fast-modernisation-journey",
+    "publishedAt": "2026-07-06T15:00:00.000Z",
+    "category": "Market infrastructure",
+    "topics": [
+      "Market infrastructure",
+      "Collateral"
+    ],
+    "collectionMode": "auto"
+  }
+]
