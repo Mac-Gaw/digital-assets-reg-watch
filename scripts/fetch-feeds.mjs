@@ -122,7 +122,7 @@ function regionShort(region) {
   return region;
 }
 
-function updateMonitoring(metadata, registry, newPublishedCount) {
+function updateMonitoring(metadata, registry, newPublishedItems, newPendingItems) {
   const now = new Date();
   const london = londonTimeParts(now);
   const isoDate = `${london.year}-${london.month}-${london.day}`;
@@ -138,8 +138,18 @@ function updateMonitoring(metadata, registry, newPublishedCount) {
     lastChecked: isoDate,
     status: "Active"
   }));
+  const priorityBreakdown = newPublishedItems.reduce((acc, item) => {
+    const priority = item.priority || "Unclassified";
+    acc[priority] = (acc[priority] || 0) + 1;
+    return acc;
+  }, {});
   metadata.monitoring.lastScanResult = {
-    newPublishedItems: newPublishedCount,
+    newPublishedItems: newPublishedItems.length,
+    newHighPriorityItems: priorityBreakdown.High || 0,
+    newMediumPriorityItems: priorityBreakdown.Medium || 0,
+    newLowPriorityItems: priorityBreakdown.Low || 0,
+    materialItems: priorityBreakdown.High || 0,
+    newPendingItems: newPendingItems.length,
     checkedSources: registry.filter(s => s.enabled !== false).length
   };
 }
@@ -200,7 +210,7 @@ if (!dryRun) {
     pending.unshift(...newPending.sort((a, b) => String(b.publishedAt).localeCompare(String(a.publishedAt))));
     await writeJson("pending-items.json", pending);
   }
-  updateMonitoring(metadata, registry, newAuto.length);
+  updateMonitoring(metadata, registry, newAuto, newPending);
   await writeJson("metadata.json", metadata);
   await fs.mkdir(path.join(root, "logs"), { recursive: true });
   await fs.writeFile(path.join(root, "logs", "last-scan.json"), `${JSON.stringify({ scannedAt: new Date().toISOString(), newAuto: newAuto.length, newPending: newPending.length, sources: scanLog }, null, 2)}\n`, "utf8");
