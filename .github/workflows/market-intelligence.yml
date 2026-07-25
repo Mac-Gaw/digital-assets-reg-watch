@@ -1,0 +1,31 @@
+name: Market intelligence monitor
+
+on:
+  workflow_dispatch:
+  schedule:
+    # GitHub Actions uses UTC. Run hourly, offset from the top of the hour.
+    - cron: "17 * * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  market-intelligence:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 24
+
+      - name: Fetch third-party market intelligence links
+        run: npm run fetch:market
+
+      - name: Commit market intelligence updates
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: update market intelligence links"
+          file_pattern: "assets/data.js data/*.json logs/*.json"
