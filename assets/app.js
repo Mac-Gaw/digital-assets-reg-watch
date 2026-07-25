@@ -290,12 +290,69 @@ function renderMonitoring() {
   const quietDays = latestDate ? daysBetween(now, latestDate) : null;
   const quietThreshold = monitoring.quietPeriodDays || 14;
   const notice = $("#quietPeriodNotice");
+  const noteTitle = $("#monitoringNoteTitle");
+  const noteText = $("#quietPeriodText");
+  const noteIcon = notice ? notice.querySelector(".quiet-period-icon") : null;
+  const result = monitoring.lastScanResult || null;
+  const hasScanResult = result && Number.isFinite(Number(result.newPublishedItems));
   const recentlyScanned = scanAge !== null && scanAge <= 3;
-  const shouldShowQuietNotice = recentlyScanned && quietDays !== null && quietDays >= quietThreshold;
-  if (notice) notice.classList.toggle("hidden", !shouldShowQuietNotice);
-  if (shouldShowQuietNotice) {
-    $("#quietPeriodText").textContent = `All monitored sources have been reviewed. No significant new items have been identified during the past ${quietDays} days. Last source scan: ${fmtDateTime(monitoring.lastScan)}.`;
+
+  const newPublished = hasScanResult ? Number(result.newPublishedItems) : 0;
+  const highNew = hasScanResult ? Number(result.newHighPriorityItems || result.materialItems || 0) : 0;
+  const mediumNew = hasScanResult ? Number(result.newMediumPriorityItems || 0) : 0;
+  const lowNew = hasScanResult ? Number(result.newLowPriorityItems || 0) : 0;
+  const pendingNew = hasScanResult ? Number(result.newPendingItems || 0) : 0;
+
+  let showNote = false;
+  let noteType = "quiet";
+  let icon = "✓";
+  let title = "No material regulatory developments identified";
+  let text = "All monitored sources have been reviewed. No new high-priority items were identified in the latest scan.";
+
+  if (scanAge !== null && scanAge > 7) {
+    showNote = true;
+    noteType = "overdue";
+    icon = "!";
+    title = "Monitoring review overdue";
+    text = `The last source scan was ${scanAge} days ago. Review the workflow status before relying on the dashboard.`;
+  } else if (recentlyScanned && hasScanResult) {
+    showNote = true;
+    if (highNew > 0) {
+      noteType = "material";
+      icon = "!";
+      title = "Material regulatory update identified";
+      text = `Latest scan added ${highNew} high-priority item${highNew === 1 ? "" : "s"} requiring review. ${newPublished} published item${newPublished === 1 ? "" : "s"} added in total.`;
+    } else if (newPublished > 0) {
+      noteType = "updates";
+      icon = "+";
+      title = "New relevant updates identified";
+      text = `Latest scan added ${newPublished} published item${newPublished === 1 ? "" : "s"}: ${mediumNew} medium and ${lowNew} low priority. No high-priority items were identified.`;
+    } else if (pendingNew > 0) {
+      noteType = "updates";
+      icon = "+";
+      title = "New draft items awaiting review";
+      text = `Latest scan collected ${pendingNew} draft item${pendingNew === 1 ? "" : "s"} from non-auto-published sources. No high-priority published items were identified.`;
+    } else {
+      noteType = "quiet";
+      icon = "✓";
+      title = "No new relevant updates since latest scan";
+      text = `All monitored sources have been reviewed. No new published items were added in the latest scan. Last source scan: ${fmtDateTime(monitoring.lastScan)}.`;
+    }
+  } else if (recentlyScanned && quietDays !== null && quietDays >= quietThreshold) {
+    showNote = true;
+    noteType = "quiet";
+    icon = "✓";
+    title = "No material regulatory developments identified recently";
+    text = `All monitored sources have been reviewed. No significant new items have been identified during the past ${quietDays} days. Last source scan: ${fmtDateTime(monitoring.lastScan)}.`;
   }
+
+  if (notice) {
+    notice.classList.toggle("hidden", !showNote);
+    notice.dataset.note = noteType;
+  }
+  if (noteIcon) noteIcon.textContent = icon;
+  if (noteTitle) noteTitle.textContent = title;
+  if (noteText) noteText.textContent = text;
 }
 
 function renderMonthlyReview() {
@@ -333,7 +390,7 @@ function renderMonthlyReview() {
 
 function renderDashboard() {
   const latest = data.updates
-    .filter(item => item.priority === "High")
+    .slice()
     .sort((a, b) => b.publishedAt.localeCompare(a.publishedAt))
     .slice(0, 3);
   $("#latestCards").innerHTML = latest.map(renderUpdateCard).join("");
