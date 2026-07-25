@@ -77,7 +77,7 @@
         <p class="eyebrow">Regulatory intelligence workspace</p>
         <div class="brand-title-row">
           <h1>Digital Assets Regulatory Watch</h1>
-          <span class="version-badge" aria-label="MVP First Release version 1.0">MVP v1.0</span>
+          <span class="version-badge" aria-label="MVP First Release version 1.0.4">MVP v1.0.4</span>
         </div>
       </div>
     </div>
@@ -183,11 +183,25 @@
           <h2>Institutional market watch</h2>
           <p class="section-note">Selected third-party titles and source links only — no article summaries or copied news text.</p>
         </div>
-        <span class="section-note compact-note" id="marketIntelligenceStatus">Latest 30 days</span>
+        <a class="text-link archive-link" href="#market" data-route="market" id="marketIntelligenceStatus">Archive: last 30 days →</a>
       </div>
       <div id="marketIntelligenceList" class="market-intelligence-list"></div>
     </section>
 
+    <section class="route route-market hidden" data-page="market">
+      <div class="section-heading block">
+        <div>
+          <p class="eyebrow">Market intelligence archive</p>
+          <h2>Institutional market watch</h2>
+          <p class="section-note">30-day archive of selected third-party institutional digital assets titles. Headlines link directly to the original source.</p>
+        </div>
+        <div class="section-heading-actions">
+          <span class="section-note compact-note" id="marketArchiveStatus">Latest 30 days</span>
+          <a class="text-link" href="#dashboard" data-route="dashboard">Back to dashboard →</a>
+        </div>
+      </div>
+      <div id="marketArchiveList" class="market-intelligence-list archive-list"></div>
+    </section>
 
     <section class="route route-feed hidden" data-page="feed">
       <div class="feed-page-header">
@@ -420,7 +434,7 @@
   </main>
 
   <footer class="footer">
-    <p>Digital Assets Regulatory Watch <span class="footer-version">MVP v1.0</span> · Regulatory intelligence workspace</p>
+    <p>Digital Assets Regulatory Watch <span class="footer-version">MVP v1.0.4</span> · Regulatory intelligence workspace</p>
     <p>Last content update: <span id="lastUpdated"></span></p>
   </footer>
 
