@@ -208,5 +208,65 @@
     "coverage": "Digital asset policy, financial stability, international coordination, AML/CFT and stablecoin policy.",
     "url": "https://home.treasury.gov/news/press-releases",
     "notes": "Monitor press releases, reports and policy papers on digital assets and financial stability."
+  },
+  {
+    "name": "Finextra",
+    "category": "Market intelligence",
+    "region": "Global",
+    "tier": "Market source",
+    "type": "Third-party RSS",
+    "coverage": "Institutional fintech, payments, markets, regulation and cryptoasset-adjacent developments filtered for tokenisation, stablecoins, custody, FMI and post-trade context.",
+    "url": "https://www.finextra.com/rss/rss.aspx",
+    "notes": "Auto-monitored by RSS; titles and links only."
+  },
+  {
+    "name": "Global Custodian",
+    "category": "Market intelligence",
+    "region": "Global",
+    "tier": "Market source",
+    "type": "Third-party RSS",
+    "coverage": "Custody, securities services, asset servicing, market infrastructure and digital asset servicing developments.",
+    "url": "https://www.globalcustodian.com/",
+    "notes": "Auto-monitored where feed access is available; titles and links only."
+  },
+  {
+    "name": "Asset Servicing Times",
+    "category": "Market intelligence",
+    "region": "Global",
+    "tier": "Market source",
+    "type": "Third-party RSS",
+    "coverage": "Asset servicing, custody, digital assets, clearing and settlement news relevant to institutional workflows.",
+    "url": "https://www.assetservicingtimes.com/",
+    "notes": "Auto-monitored by RSS; titles and links only."
+  },
+  {
+    "name": "Securities Finance Times",
+    "category": "Market intelligence",
+    "region": "Global",
+    "tier": "Market source",
+    "type": "Third-party RSS",
+    "coverage": "Securities finance and collateral-market context where digital assets, tokenisation or settlement infrastructure are relevant.",
+    "url": "https://www.securitiesfinancetimes.com/",
+    "notes": "Auto-monitored by RSS; titles and links only."
+  },
+  {
+    "name": "Markets Media",
+    "category": "Market intelligence",
+    "region": "Global",
+    "tier": "Market source",
+    "type": "Third-party RSS",
+    "coverage": "Institutional market structure, trading infrastructure and tokenisation context.",
+    "url": "https://www.marketsmedia.com/",
+    "notes": "Auto-monitored where feed access is available; titles and links only."
+  },
+  {
+    "name": "Ledger Insights, Reuters, Bloomberg, Financial Times, Risk.net, The Paypers",
+    "category": "Manual market intelligence",
+    "region": "Global",
+    "tier": "Manual curated",
+    "type": "Manual links",
+    "coverage": "High-value institutional digital assets, tokenisation, custody, FMI, payments and regulatory-market context from premium or manual-only sources.",
+    "url": "https://www.ledgerinsights.com/",
+    "notes": "Manual curated links only; no automated scraping or reproduced article text."
   }
 ]

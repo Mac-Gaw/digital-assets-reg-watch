@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Ledger Insights",
+    "url": "https://www.ledgerinsights.com/",
+    "mode": "manual",
+    "notes": "Manual curated links only unless explicit feed/permission is confirmed."
+  },
+  {
+    "name": "Reuters",
+    "url": "https://www.reuters.com/",
+    "mode": "manual",
+    "notes": "Manual curated links only; do not scrape or reproduce article content."
+  },
+  {
+    "name": "Bloomberg",
+    "url": "https://www.bloomberg.com/",
+    "mode": "manual",
+    "notes": "Manual curated links only; paywalled/premium source."
+  },
+  {
+    "name": "Financial Times",
+    "url": "https://www.ft.com/",
+    "mode": "manual",
+    "notes": "Manual curated links only; paywalled/premium source."
+  },
+  {
+    "name": "Risk.net",
+    "url": "https://www.risk.net/",
+    "mode": "manual",
+    "notes": "Manual curated links unless RSS access and licensing fit the project."
+  },
+  {
+    "name": "The Paypers",
+    "url": "https://thepaypers.com/",
+    "mode": "manual",
+    "notes": "Manual curated until a stable, permitted RSS feed is confirmed."
+  }
+]

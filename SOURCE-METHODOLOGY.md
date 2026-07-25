@@ -79,3 +79,22 @@ The feed includes a curated baseline of selected regulatory milestones. It is no
 ## Regulatory Access Matrix
 
 The Access Matrix covers selected UK, EU and US institutional scenarios. Missing combinations do not mean that an activity is permitted or prohibited. They only mean that the MVP matrix does not yet contain that scenario.
+
+## Market Intelligence lane — v1.0.2
+
+The Market Intelligence lane is intentionally separate from the official regulatory feed. It is designed to provide institutional context only: tokenisation, custody, stablecoins as payment or settlement infrastructure, FMI, clearing, settlement, collateral, securities services and regulated market infrastructure.
+
+Market intelligence records store only:
+
+- article title;
+- source name;
+- publication date;
+- outbound URL;
+- high-level category;
+- collection mode.
+
+The site does not store third-party article summaries, excerpts or article body text in this lane.
+
+Auto-monitored sources are RSS-first. Manual-only sources such as Reuters, Bloomberg, Financial Times, Ledger Insights and other premium or rights-sensitive publishers should be added only as curated links when appropriate, not scraped.
+
+Default retention is 30 days, capped at 100 retained items unless changed through environment variables.

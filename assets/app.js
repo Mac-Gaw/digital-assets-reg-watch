@@ -388,6 +388,49 @@ function renderMonthlyReview() {
   `;
 }
 
+
+function renderMarketIntelligenceItem(item) {
+  return `
+    <article class="market-intelligence-item">
+      <div class="market-intelligence-main">
+        <a href="${escapeHtml(item.url)}" target="_blank" rel="noreferrer noopener">${escapeHtml(item.title)}</a>
+        <div class="market-intelligence-meta">
+          <span>${escapeHtml(item.source)}</span>
+          <span>${fmtDate(item.publishedAt)}</span>
+          <span>${escapeHtml(item.category || "Institutional digital assets")}</span>
+        </div>
+      </div>
+      <span class="badge">${escapeHtml((item.collectionMode || "auto").toUpperCase())}</span>
+    </article>
+  `;
+}
+
+function renderMarketIntelligence() {
+  const container = $("#marketIntelligenceList");
+  if (!container) return;
+  const items = (data.marketIntelligence || [])
+    .slice()
+    .sort((a, b) => String(b.publishedAt).localeCompare(String(a.publishedAt)));
+  const latest = items.slice(0, 5);
+  const status = $("#marketIntelligenceStatus");
+  const marketMeta = data.marketIntelligence ? (data.marketIntelligence.length || 0) : 0;
+  const scan = data.marketIntelligence?.lastScan || data.marketIntelligenceLastScan;
+  if (status) {
+    const meta = data.marketIntelligence && data.marketIntelligence.length ? `${data.marketIntelligence.length} links retained · 30 days` : "Latest 30 days";
+    status.textContent = meta;
+  }
+  if (!latest.length) {
+    container.innerHTML = `
+      <article class="market-intelligence-empty">
+        <strong>No market intelligence links retained yet.</strong>
+        <p>Hourly RSS monitoring will add matching institutional digital assets links when titles pass the filters. Manual curated links can be added to <code>data/market-intelligence.json</code>.</p>
+      </article>
+    `;
+    return;
+  }
+  container.innerHTML = latest.map(renderMarketIntelligenceItem).join("");
+}
+
 function renderDashboard() {
   const latest = data.updates
     .slice()
@@ -716,6 +759,7 @@ initMobileMenu();
 initMetrics();
 renderMonitoring();
 renderMonthlyReview();
+renderMarketIntelligence();
 renderDashboard();
 initFeedFilters();
 renderFeed();

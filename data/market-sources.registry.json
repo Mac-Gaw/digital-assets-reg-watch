@@ -1,0 +1,74 @@
+[
+  {
+    "id": "finextra-crypto",
+    "name": "Finextra",
+    "feedUrl": "https://www.finextra.com/rss/channel.aspx?channel=crypto",
+    "pageUrl": "https://www.finextra.com/channel/crypto",
+    "category": "Digital assets",
+    "enabled": true
+  },
+  {
+    "id": "finextra-markets",
+    "name": "Finextra",
+    "feedUrl": "https://www.finextra.com/rss/channel.aspx?channel=markets",
+    "pageUrl": "https://www.finextra.com/channel/markets",
+    "category": "Market infrastructure",
+    "enabled": true
+  },
+  {
+    "id": "finextra-payments",
+    "name": "Finextra",
+    "feedUrl": "https://www.finextra.com/rss/channel.aspx?channel=payments",
+    "pageUrl": "https://www.finextra.com/channel/payments",
+    "category": "Payments",
+    "enabled": true
+  },
+  {
+    "id": "finextra-regulation",
+    "name": "Finextra",
+    "feedUrl": "https://www.finextra.com/rss/channel.aspx?channel=regulation",
+    "pageUrl": "https://www.finextra.com/channel/regulation",
+    "category": "Regulation",
+    "enabled": true
+  },
+  {
+    "id": "finextra-wholesale",
+    "name": "Finextra",
+    "feedUrl": "https://www.finextra.com/rss/channel.aspx?channel=wholesale",
+    "pageUrl": "https://www.finextra.com/channel/wholesale",
+    "category": "Wholesale banking",
+    "enabled": true
+  },
+  {
+    "id": "global-custodian-feed",
+    "name": "Global Custodian",
+    "feedUrl": "https://www.globalcustodian.com/feed/",
+    "pageUrl": "https://www.globalcustodian.com/news/",
+    "category": "Securities services",
+    "enabled": true
+  },
+  {
+    "id": "asset-servicing-times",
+    "name": "Asset Servicing Times",
+    "feedUrl": "https://www.assetservicingtimes.com/rssfeed.php",
+    "pageUrl": "https://www.assetservicingtimes.com/assetservicesnews/digitalassetsnews.php",
+    "category": "Asset servicing",
+    "enabled": true
+  },
+  {
+    "id": "securities-finance-times",
+    "name": "Securities Finance Times",
+    "feedUrl": "https://www.securitiesfinancetimes.com/rssfeed.php",
+    "pageUrl": "https://www.securitiesfinancetimes.com/",
+    "category": "Securities finance",
+    "enabled": true
+  },
+  {
+    "id": "markets-media-feed",
+    "name": "Markets Media",
+    "feedUrl": "https://www.marketsmedia.com/feed/",
+    "pageUrl": "https://www.marketsmedia.com/",
+    "category": "Market structure",
+    "enabled": true
+  }
+]
