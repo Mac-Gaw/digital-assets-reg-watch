@@ -400,35 +400,42 @@ function renderMarketIntelligenceItem(item) {
           <span>${escapeHtml(item.category || "Institutional digital assets")}</span>
         </div>
       </div>
-      <span class="badge">${escapeHtml((item.collectionMode || "auto").toUpperCase())}</span>
     </article>
   `;
 }
 
 function renderMarketIntelligence() {
   const container = $("#marketIntelligenceList");
-  if (!container) return;
+  const archiveContainer = $("#marketArchiveList");
+  if (!container && !archiveContainer) return;
   const items = (data.marketIntelligence || [])
     .slice()
     .sort((a, b) => String(b.publishedAt).localeCompare(String(a.publishedAt)));
   const latest = items.slice(0, 5);
+  const statusText = items.length ? `${items.length} links retained · 30 days` : "Latest 30 days";
   const status = $("#marketIntelligenceStatus");
-  const marketMeta = data.marketIntelligence ? (data.marketIntelligence.length || 0) : 0;
-  const scan = data.marketIntelligence?.lastScan || data.marketIntelligenceLastScan;
+  const archiveStatus = $("#marketArchiveStatus");
   if (status) {
-    const meta = data.marketIntelligence && data.marketIntelligence.length ? `${data.marketIntelligence.length} links retained · 30 days` : "Latest 30 days";
-    status.textContent = meta;
+    status.textContent = "Archive: last 30 days →";
+    status.setAttribute("title", statusText);
   }
-  if (!latest.length) {
-    container.innerHTML = `
+  if (archiveStatus) archiveStatus.textContent = statusText;
+
+  const emptyMarkup = `
       <article class="market-intelligence-empty">
         <strong>No market intelligence links retained yet.</strong>
         <p>Hourly RSS monitoring will add matching institutional digital assets links when titles pass the filters. Manual curated links can be added to <code>data/market-intelligence.json</code>.</p>
       </article>
     `;
+
+  if (!items.length) {
+    if (container) container.innerHTML = emptyMarkup;
+    if (archiveContainer) archiveContainer.innerHTML = emptyMarkup;
     return;
   }
-  container.innerHTML = latest.map(renderMarketIntelligenceItem).join("");
+
+  if (container) container.innerHTML = latest.map(renderMarketIntelligenceItem).join("");
+  if (archiveContainer) archiveContainer.innerHTML = items.map(renderMarketIntelligenceItem).join("");
 }
 
 function renderDashboard() {
@@ -729,7 +736,7 @@ function renderSources() {
 function navigate(route) {
   setMobileMenu(false);
   const page = route || location.hash.replace("#", "") || "dashboard";
-  const valid = ["dashboard", "feed", "consultations", "access", "coverage", "about"].includes(page) ? page : "dashboard";
+  const valid = ["dashboard", "market", "feed", "consultations", "access", "coverage", "about"].includes(page) ? page : "dashboard";
   $$(".route").forEach(section => section.classList.toggle("hidden", section.dataset.page !== valid));
   $$(".topnav a").forEach(link => {
     const active = link.dataset.route === valid;
