@@ -4,7 +4,7 @@
   "lastUpdated": "2026-07-25",
   "monitoring": {
     "status": "Active",
-    "lastScan": "2026-07-25T07:36:09.767Z",
+    "lastScan": "2026-07-25T12:57:31.025Z",
     "quietPeriodDays": 14,
     "regions": [
       {
@@ -33,7 +33,12 @@
       }
     ],
     "lastScanResult": {
-      "newPublishedItems": 73,
+      "newPublishedItems": 0,
+      "newHighPriorityItems": 0,
+      "newMediumPriorityItems": 0,
+      "newLowPriorityItems": 0,
+      "materialItems": 0,
+      "newPendingItems": 0,
       "checkedSources": 25
     }
   },
