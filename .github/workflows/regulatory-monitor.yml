@@ -3,7 +3,8 @@ name: Regulatory Monitor
 on:
   workflow_dispatch:
   schedule:
-    - cron: "30 7 * * *"
+    - cron: "17 6 * * *"
+    - cron: "47 12 * * *"
 
 permissions:
   contents: write
