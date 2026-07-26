@@ -12,8 +12,11 @@
   <meta name="rating" content="General" />
   <meta name="referrer" content="strict-origin-when-cross-origin" />
   <link rel="canonical" href="https://example.com/" />
-  <link rel="icon" href="assets/favicon.svg" type="image/svg+xml" />
-  <link rel="apple-touch-icon" href="assets/apple-touch-icon.png" />
+  <link rel="icon" href="assets/favicon.svg?v=1.0.14" type="image/svg+xml" />
+  <link rel="icon" type="image/png" sizes="32x32" href="assets/favicon-32.png?v=1.0.14" />
+  <link rel="icon" type="image/png" sizes="16x16" href="assets/favicon-16.png?v=1.0.14" />
+  <link rel="shortcut icon" href="assets/favicon.ico?v=1.0.14" />
+  <link rel="apple-touch-icon" href="assets/apple-touch-icon.png?v=1.0.14" />
   <link rel="manifest" href="site.webmanifest" />
   <meta name="theme-color" content="#f5f7fb" />
   <meta property="og:type" content="website" />
@@ -72,12 +75,15 @@
 
   <header class="topbar">
     <div class="brand" aria-label="Digital Assets Regulatory Watch">
-      <div class="brand-mark" aria-hidden="true"><img src="assets/icon-192.png" alt="" /></div>
+      <div class="brand-mark" aria-hidden="true">
+          <img class="brand-mark-dark" src="assets/header-icon-dark.png" alt="" />
+          <img class="brand-mark-light" src="assets/header-icon-light.png" alt="" />
+        </div>
       <div class="brand-copy">
         <p class="eyebrow">Regulatory intelligence workspace</p>
         <div class="brand-title-row">
           <h1>Digital Assets Regulatory Watch</h1>
-          <span class="version-badge" aria-label="MVP First Release version 1.0.13">MVP v1.0.13</span>
+          <span class="version-badge" aria-label="MVP First Release version 1.0.15">MVP v1.0.15</span>
         </div>
       </div>
     </div>
@@ -416,7 +422,7 @@
   </main>
 
   <footer class="footer">
-    <p>Digital Assets Regulatory Watch <span class="footer-version">MVP v1.0.13</span> · Regulatory intelligence workspace</p>
+    <p>Digital Assets Regulatory Watch <span class="footer-version">MVP v1.0.15</span> · Regulatory intelligence workspace</p>
     <p>Last content update: <span id="lastUpdated"></span></p>
   </footer>
 
