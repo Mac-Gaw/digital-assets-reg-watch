@@ -2605,3 +2605,371 @@ td strong { color: var(--strong); }
     white-space: normal;
   }
 }
+
+
+/* Market Intelligence archive compact density · MVP v1.0.10 */
+.archive-list {
+  gap: .42rem;
+}
+
+.archive-list .market-intelligence-item {
+  padding: .58rem .72rem;
+  border-radius: 12px;
+  box-shadow: none;
+  background: color-mix(in srgb, var(--surface) 92%, var(--surface-soft));
+}
+
+.archive-list .market-intelligence-main > a {
+  font-size: .92rem;
+  line-height: 1.28;
+  letter-spacing: -.018em;
+}
+
+.archive-list .market-intelligence-meta {
+  margin-top: .22rem;
+  font-size: .72rem;
+  gap: .2rem .62rem;
+}
+
+.archive-list .market-intelligence-meta span + span::before {
+  margin-right: .62rem;
+}
+
+@media (max-width: 700px) {
+  .archive-list .market-intelligence-item {
+    padding: .62rem .7rem;
+  }
+}
+
+/* v1.0.6: combined monitoring status + last scan metric */
+.monitoring-combined-metric {
+  display: grid;
+  gap: .18rem;
+}
+
+.monitoring-combined-metric strong {
+  line-height: 1;
+}
+
+.monitoring-combined-metric span {
+  color: var(--muted);
+  font-size: .76rem;
+  font-weight: 800;
+  line-height: 1.25;
+}
+
+@media (max-width: 700px) {
+  .monitoring-combined-metric {
+    grid-column: 1 / -1;
+  }
+}
+
+/* v1.0.6: compact operations panel, monitoring status and last scan combined */
+.operations-panel {
+  grid-template-columns: minmax(260px, .9fr) minmax(360px, 1.45fr);
+}
+
+.operations-scan-card {
+  display: none;
+}
+
+.last-scan-inline {
+  margin: .28rem 0 0;
+  color: var(--muted);
+  font-size: .76rem;
+  font-weight: 800;
+  line-height: 1.25;
+}
+
+.last-scan-inline span {
+  color: color-mix(in srgb, var(--text) 82%, var(--muted));
+}
+
+@media (max-width: 920px) {
+  .operations-panel {
+    grid-template-columns: 1fr;
+  }
+}
+
+@media (max-width: 560px) {
+  .operations-status {
+    align-items: flex-start;
+    flex-direction: column;
+  }
+
+  .operations-status .freshness-badge {
+    align-self: flex-start;
+  }
+}
+
+/* v1.0.7: unified dashboard command center */
+.dashboard-command-center {
+  display: grid;
+  grid-template-columns: minmax(0, 1.28fr) minmax(320px, .82fr);
+  gap: .75rem;
+  align-items: stretch;
+  margin: 0 0 1.05rem;
+  padding: .78rem;
+  border: 1px solid var(--line);
+  border-radius: 18px;
+  background: color-mix(in srgb, var(--surface) 78%, var(--surface-soft));
+  box-shadow: var(--shadow-soft);
+}
+
+.command-center-main,
+.command-center-status {
+  min-width: 0;
+}
+
+.command-center-main {
+  display: grid;
+  align-content: space-between;
+  gap: .9rem;
+  padding: .82rem .9rem;
+  border: 1px solid var(--line);
+  border-radius: 14px;
+  background: var(--surface);
+}
+
+.command-center-main h2 {
+  margin: .16rem 0 .4rem;
+  color: var(--strong);
+  font-size: clamp(1.42rem, 2.2vw, 2rem);
+  line-height: .98;
+  letter-spacing: -.055em;
+}
+
+.command-center-main .section-note {
+  max-width: 58rem;
+  margin: 0;
+}
+
+.command-center-status {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: .58rem;
+}
+
+.dashboard-command-center .operations-status,
+.dashboard-command-center .operations-pulse {
+  min-height: 0;
+  padding: .76rem .82rem;
+  border: 1px solid var(--line);
+  border-radius: 14px;
+  background: var(--surface);
+  box-shadow: none;
+}
+
+.dashboard-command-center .operations-status {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: .75rem;
+}
+
+.dashboard-command-center .operations-status h2 {
+  margin-top: .08rem;
+  font-size: 1.02rem;
+}
+
+.dashboard-command-center .freshness-badge {
+  max-width: 9.5rem;
+  min-height: 0;
+  padding: .28rem .48rem;
+  line-height: 1.15;
+  text-align: center;
+  white-space: normal;
+}
+
+.compact-pulse {
+  display: grid;
+  gap: .35rem;
+}
+
+.pulse-heading-inline {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: .6rem;
+}
+
+.pulse-heading-inline .eyebrow {
+  margin: 0;
+}
+
+.pulse-heading-inline span {
+  color: var(--muted);
+  font-size: .72rem;
+  font-weight: 850;
+  white-space: nowrap;
+}
+
+.compact-pulse > strong {
+  color: var(--strong);
+  font-size: 1rem;
+  line-height: 1.1;
+}
+
+.compact-pulse > p {
+  margin: 0;
+  color: var(--muted);
+  font-size: .8rem;
+  line-height: 1.45;
+}
+
+.compact-lanes {
+  gap: .38rem;
+}
+
+.compact-lanes span {
+  padding: .34rem .55rem;
+  font-size: .7rem;
+}
+
+.quiet-period-compact {
+  grid-column: 1 / -1;
+  margin: 0;
+  padding: .72rem .82rem;
+  gap: .68rem;
+  border-radius: 14px;
+  box-shadow: none;
+}
+
+.quiet-period-compact .quiet-period-icon {
+  width: 1.72rem;
+  height: 1.72rem;
+  font-size: .82rem;
+}
+
+.quiet-period-compact .eyebrow {
+  margin: 0 0 .12rem;
+  font-size: .63rem;
+}
+
+.quiet-period-compact h2 {
+  display: inline;
+  margin: 0;
+  font-size: .92rem;
+  line-height: 1.25;
+}
+
+.quiet-period-compact p:not(.eyebrow) {
+  display: inline;
+  margin-left: .45rem;
+  font-size: .82rem;
+  line-height: 1.35;
+}
+
+@media (max-width: 980px) {
+  .dashboard-command-center {
+    grid-template-columns: 1fr;
+  }
+
+  .command-center-status {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+
+  .quiet-period-compact {
+    grid-column: 1 / -1;
+  }
+}
+
+@media (max-width: 700px) {
+  .command-center-status {
+    grid-template-columns: 1fr;
+  }
+
+  .dashboard-command-center .operations-status {
+    flex-direction: column;
+  }
+
+  .dashboard-command-center .freshness-badge {
+    align-self: flex-start;
+  }
+
+  .quiet-period-compact h2,
+  .quiet-period-compact p:not(.eyebrow) {
+    display: block;
+    margin-left: 0;
+  }
+}
+
+/* v1.0.8: simplify command center and restore regulatory pulse colour states */
+.command-center-main {
+  align-content: center;
+}
+
+.command-center-main .section-note {
+  max-width: 64rem;
+}
+
+.dashboard-command-center .operations-pulse[data-level="low"] {
+  border-color: color-mix(in srgb, #22c55e 34%, var(--line));
+  background: color-mix(in srgb, var(--surface) 88%, #22c55e 12%);
+}
+
+.dashboard-command-center .operations-pulse[data-level="medium"] {
+  border-color: color-mix(in srgb, #eab308 40%, var(--line));
+  background: color-mix(in srgb, var(--surface) 86%, #eab308 14%);
+}
+
+.dashboard-command-center .operations-pulse[data-level="high"] {
+  border-color: color-mix(in srgb, #f97316 42%, var(--line));
+  background: color-mix(in srgb, var(--surface) 84%, #f97316 16%);
+}
+
+.dashboard-command-center .operations-pulse[data-level="low"] > strong {
+  color: #86efac;
+}
+
+.dashboard-command-center .operations-pulse[data-level="medium"] > strong {
+  color: #fde047;
+}
+
+.dashboard-command-center .operations-pulse[data-level="high"] > strong {
+  color: #fdba74;
+}
+
+:root[data-theme="light"] .dashboard-command-center .operations-pulse[data-level="low"] > strong {
+  color: #15803d;
+}
+
+:root[data-theme="light"] .dashboard-command-center .operations-pulse[data-level="medium"] > strong {
+  color: #a16207;
+}
+
+:root[data-theme="light"] .dashboard-command-center .operations-pulse[data-level="high"] > strong {
+  color: #c2410c;
+}
+
+/* v1.0.9: Regulatory Pulse uses coloured text only, with Monitoring Note merged into summary */
+.dashboard-command-center .operations-pulse[data-level="low"],
+.dashboard-command-center .operations-pulse[data-level="medium"],
+.dashboard-command-center .operations-pulse[data-level="high"] {
+  border-color: var(--line);
+  background: var(--surface);
+}
+
+.dashboard-command-center .operations-pulse[data-level="low"] > strong {
+  color: #86efac;
+}
+
+.dashboard-command-center .operations-pulse[data-level="medium"] > strong {
+  color: #fde047;
+}
+
+.dashboard-command-center .operations-pulse[data-level="high"] > strong {
+  color: #fdba74;
+}
+
+:root[data-theme="light"] .dashboard-command-center .operations-pulse[data-level="low"] > strong {
+  color: #15803d;
+}
+
+:root[data-theme="light"] .dashboard-command-center .operations-pulse[data-level="medium"] > strong {
+  color: #a16207;
+}
+
+:root[data-theme="light"] .dashboard-command-center .operations-pulse[data-level="high"] > strong {
+  color: #c2410c;
+}

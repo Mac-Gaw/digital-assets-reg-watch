@@ -303,56 +303,64 @@ function renderMonitoring() {
   const lowNew = hasScanResult ? Number(result.newLowPriorityItems || 0) : 0;
   const pendingNew = hasScanResult ? Number(result.newPendingItems || 0) : 0;
 
-  let showNote = false;
   let noteType = "quiet";
   let icon = "✓";
-  let title = "No material regulatory developments identified";
-  let text = "All monitored sources have been reviewed. No new high-priority items were identified in the latest scan.";
+  let title = "Latest scan status";
+  let text = "Latest scan result is not available yet.";
+  let scanNote = "Latest scan result is not available yet.";
 
   if (scanAge !== null && scanAge > 7) {
-    showNote = true;
     noteType = "overdue";
     icon = "!";
     title = "Monitoring review overdue";
     text = `The last source scan was ${scanAge} days ago. Review the workflow status before relying on the dashboard.`;
+    scanNote = `Latest scan: overdue by ${scanAge} days. Review the workflow status before relying on the dashboard.`;
   } else if (recentlyScanned && hasScanResult) {
-    showNote = true;
     if (highNew > 0) {
       noteType = "material";
       icon = "!";
       title = "Material regulatory update identified";
       text = `Latest scan added ${highNew} high-priority item${highNew === 1 ? "" : "s"} requiring review. ${newPublished} published item${newPublished === 1 ? "" : "s"} added in total.`;
+      scanNote = `Latest scan: ${newPublished} published item${newPublished === 1 ? "" : "s"} added, including ${highNew} high-priority item${highNew === 1 ? "" : "s"} requiring review.`;
     } else if (newPublished > 0) {
       noteType = "updates";
       icon = "+";
       title = "New relevant updates identified";
       text = `Latest scan added ${newPublished} published item${newPublished === 1 ? "" : "s"}: ${mediumNew} medium and ${lowNew} low priority. No high-priority items were identified.`;
+      scanNote = `Latest scan: ${newPublished} published item${newPublished === 1 ? "" : "s"} added (${mediumNew} medium, ${lowNew} low). No high-priority items were identified.`;
     } else if (pendingNew > 0) {
       noteType = "updates";
       icon = "+";
       title = "New draft items awaiting review";
       text = `Latest scan collected ${pendingNew} draft item${pendingNew === 1 ? "" : "s"} from non-auto-published sources. No high-priority published items were identified.`;
+      scanNote = `Latest scan: no new published items, but ${pendingNew} draft item${pendingNew === 1 ? "" : "s"} collected for review.`;
     } else {
       noteType = "quiet";
       icon = "✓";
       title = "No new relevant updates since latest scan";
       text = `All monitored sources have been reviewed. No new published items were added in the latest scan. Last source scan: ${fmtDateTime(monitoring.lastScan)}.`;
+      scanNote = "Latest scan: no new published items were added.";
     }
   } else if (recentlyScanned && quietDays !== null && quietDays >= quietThreshold) {
-    showNote = true;
     noteType = "quiet";
     icon = "✓";
     title = "No material regulatory developments identified recently";
     text = `All monitored sources have been reviewed. No significant new items have been identified during the past ${quietDays} days. Last source scan: ${fmtDateTime(monitoring.lastScan)}.`;
+    scanNote = `Latest scan: no significant new items identified; latest retained update is ${quietDays} days old.`;
   }
 
   if (notice) {
-    notice.classList.toggle("hidden", !showNote);
+    notice.classList.add("hidden");
     notice.dataset.note = noteType;
   }
   if (noteIcon) noteIcon.textContent = icon;
   if (noteTitle) noteTitle.textContent = title;
   if (noteText) noteText.textContent = text;
+
+  const pulseSummaryEl = $("#pulseSummary");
+  if (pulseSummaryEl) {
+    pulseSummaryEl.textContent = `${summary} ${scanNote}`;
+  }
 }
 
 function renderMonthlyReview() {
@@ -416,7 +424,7 @@ function renderMarketIntelligence() {
   const status = $("#marketIntelligenceStatus");
   const archiveStatus = $("#marketArchiveStatus");
   if (status) {
-    status.textContent = "Archive: last 30 days →";
+    status.textContent = "Last 30 days →";
     status.setAttribute("title", statusText);
   }
   if (archiveStatus) archiveStatus.textContent = statusText;
