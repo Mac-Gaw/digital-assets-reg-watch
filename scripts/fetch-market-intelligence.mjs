@@ -8,6 +8,8 @@ const args = new Set(process.argv.slice(2));
 const dryRun = args.has("--dry-run");
 const RETENTION_DAYS = Number(process.env.MARKET_RETENTION_DAYS || 30);
 const MAX_ITEMS = Number(process.env.MARKET_MAX_ITEMS || 100);
+const FUTURE_DATE_GRACE_HOURS = Number(process.env.MARKET_FUTURE_DATE_GRACE_HOURS || 12);
+const FUTURE_DATE_GRACE_MS = FUTURE_DATE_GRACE_HOURS * 60 * 60 * 1000;
 
 const POSITIVE_RULES = [
   { category: "Tokenisation", terms: ["tokenisation", "tokenization", "tokenised", "tokenized", "digital securities", "digital security", "tokenised securities", "tokenized securities", "fund tokenisation", "fund tokenization", "tokenised fund", "tokenized fund"] },
@@ -29,6 +31,11 @@ const NEGATIVE_RULES = [
   "bitcoin price", "btc price", "ether price", "eth price", "memecoin", "meme coin", "airdrop", "nft collection",
   "whale", "trader says", "traders say", "bullish", "bearish", "altcoin", "gaming token", "exchange token",
   "hack", "exploit", "rug pull", "scam token"
+];
+
+const EVENT_RULES = [
+  "webinar", "web seminar", "event registration", "register now", "register for", "online event",
+  "conference", "summit", "awards", "roundtable", "masterclass"
 ];
 
 async function readJson(file, fallback) {
@@ -110,6 +117,16 @@ function itemKey(item) {
   return normaliseUrl(item.url) || `${slugify(item.title)}-${String(item.publishedAt || "").slice(0, 10)}`;
 }
 
+function isFutureDated(raw) {
+  const date = new Date(raw.publishedAt);
+  return !Number.isNaN(date.getTime()) && date.getTime() > Date.now() + FUTURE_DATE_GRACE_MS;
+}
+
+function looksLikeEventOrWebinar(raw) {
+  const haystack = [raw.title, raw.description, raw.url].filter(Boolean).join(" ").toLowerCase();
+  return EVENT_RULES.some(term => haystack.includes(term));
+}
+
 function classifyMarketItem(raw, source) {
   const haystack = [raw.title, raw.description].filter(Boolean).join(" ").toLowerCase();
   const matchedCategories = POSITIVE_RULES
@@ -117,7 +134,8 @@ function classifyMarketItem(raw, source) {
     .map(rule => rule.category);
   const contextHits = CONTEXT_TERMS.filter(term => haystack.includes(term)).length;
   const hasNegative = NEGATIVE_RULES.some(term => haystack.includes(term));
-  const isRelevant = matchedCategories.length > 0 && contextHits > 0 && !hasNegative;
+  const isFutureEvent = isFutureDated(raw) && (looksLikeEventOrWebinar(raw) || source.excludeFutureDatedItems !== false);
+  const isRelevant = matchedCategories.length > 0 && contextHits > 0 && !hasNegative && !isFutureEvent;
   return {
     isRelevant,
     category: matchedCategories[0] || source.category || "Institutional digital assets",
@@ -139,11 +157,13 @@ function toMarketItem(raw, source, classification) {
 }
 
 function applyRetention(items) {
-  const cutoff = Date.now() - RETENTION_DAYS * 86400000;
+  const now = Date.now();
+  const cutoff = now - RETENTION_DAYS * 86400000;
+  const futureCutoff = now + FUTURE_DATE_GRACE_MS;
   return items
     .filter(item => {
       const date = new Date(item.publishedAt);
-      return !Number.isNaN(date.getTime()) && date.getTime() >= cutoff;
+      return !Number.isNaN(date.getTime()) && date.getTime() >= cutoff && date.getTime() <= futureCutoff;
     })
     .sort((a, b) => String(b.publishedAt).localeCompare(String(a.publishedAt)))
     .slice(0, MAX_ITEMS);
