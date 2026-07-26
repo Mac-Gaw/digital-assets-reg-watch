@@ -77,7 +77,7 @@
         <p class="eyebrow">Regulatory intelligence workspace</p>
         <div class="brand-title-row">
           <h1>Digital Assets Regulatory Watch</h1>
-          <span class="version-badge" aria-label="MVP First Release version 1.0.4">MVP v1.0.4</span>
+          <span class="version-badge" aria-label="MVP First Release version 1.0.11">MVP v1.0.11</span>
         </div>
       </div>
     </div>
@@ -103,54 +103,36 @@
   </header>
 
   <main id="main" class="shell">
-    <section class="operations-panel route route-dashboard" data-page="dashboard" aria-labelledby="monitoringTitle">
-      <article class="monitoring-card operations-status">
-        <div class="ops-main-status">
-          <span class="status-dot" aria-hidden="true"></span>
-          <div>
-            <p class="eyebrow">Monitoring</p>
-            <h2 id="monitoringTitle"><span id="monitoringStatus">Active</span></h2>
+    <section class="dashboard-command-center route route-dashboard" data-page="dashboard" aria-labelledby="monitoringTitle">
+      <div class="command-center-main">
+        <div class="workspace-summary-copy">
+          <p class="eyebrow">Regulatory coverage</p>
+          <h2>Digital assets regulatory intelligence</h2>
+          <p class="section-note">A focused view of public regulatory activity and institutional market structure developments relevant to digital assets, tokenisation, stablecoins, custody and financial market infrastructure.</p>
+        </div>
+      </div>
+
+      <div class="command-center-status">
+        <article class="monitoring-card operations-status compact-status">
+          <div class="ops-main-status">
+            <span class="status-dot" aria-hidden="true"></span>
+            <div>
+              <p class="eyebrow">Monitoring</p>
+              <h2 id="monitoringTitle"><span id="monitoringStatus">Active</span></h2>
+              <p class="last-scan-inline">Last scan: <span id="lastSourceScan">—</span></p>
+            </div>
           </div>
-        </div>
-        <span class="freshness-badge" id="monitoringFreshness">Checking status…</span>
-      </article>
+          <span class="freshness-badge" id="monitoringFreshness">Checking status…</span>
+        </article>
 
-      <article class="operations-scan-card" aria-label="Last source scan">
-        <p class="eyebrow">Last scan</p>
-        <strong id="lastSourceScan">—</strong>
-      </article>
-
-      <article class="pulse-card operations-pulse">
-        <p class="eyebrow">Regulatory pulse</p>
-        <div class="pulse-level-row">
+        <article class="pulse-card operations-pulse compact-pulse">
+          <div class="pulse-heading-inline">
+            <p class="eyebrow">Regulatory pulse</p>
+            <span id="pulseWindow">Last 30 days</span>
+          </div>
           <strong id="pulseLevel">—</strong>
-          <span id="pulseWindow">Last 30 days</span>
-        </div>
-        <p id="pulseSummary">Calculating recent publication activity…</p>
-      </article>
-    </section>
-
-    <section class="workspace-summary route route-dashboard" data-page="dashboard" aria-label="Workspace summary">
-      <div class="workspace-summary-copy">
-        <p class="eyebrow">Workspace</p>
-        <h2>Regulatory intelligence workspace</h2>
-        <p class="section-note">Public-source monitoring across regulatory updates, consultations, institutional permissions and selected historical milestones.</p>
-      </div>
-      <div class="workspace-lanes-inline" aria-label="Coverage lanes">
-        <span>Regulatory updates</span>
-        <span>Consultations</span>
-        <span>Tokenisation &amp; market infrastructure</span>
-        <span>Stablecoins</span>
-        <span>Access matrix</span>
-      </div>
-    </section>
-
-    <section id="quietPeriodNotice" class="quiet-period route route-dashboard hidden" data-page="dashboard" aria-live="polite">
-      <div class="quiet-period-icon" aria-hidden="true">✓</div>
-      <div>
-        <p class="eyebrow">Monitoring note</p>
-        <h2 id="monitoringNoteTitle">No material regulatory developments identified recently</h2>
-        <p id="quietPeriodText"></p>
+          <p id="pulseSummary">Calculating recent publication activity…</p>
+        </article>
       </div>
     </section>
 
@@ -183,7 +165,7 @@
           <h2>Institutional market watch</h2>
           <p class="section-note">Selected third-party titles and source links only — no article summaries or copied news text.</p>
         </div>
-        <a class="text-link archive-link" href="#market" data-route="market" id="marketIntelligenceStatus">Archive: last 30 days →</a>
+        <a class="text-link archive-link" href="#market" data-route="market" id="marketIntelligenceStatus">Last 30 days →</a>
       </div>
       <div id="marketIntelligenceList" class="market-intelligence-list"></div>
     </section>
@@ -434,7 +416,7 @@
   </main>
 
   <footer class="footer">
-    <p>Digital Assets Regulatory Watch <span class="footer-version">MVP v1.0.4</span> · Regulatory intelligence workspace</p>
+    <p>Digital Assets Regulatory Watch <span class="footer-version">MVP v1.0.11</span> · Regulatory intelligence workspace</p>
     <p>Last content update: <span id="lastUpdated"></span></p>
   </footer>
 
