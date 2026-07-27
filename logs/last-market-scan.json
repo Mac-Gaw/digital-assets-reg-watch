@@ -1,12 +1,12 @@
 {
-  "scannedAt": "2026-07-27T15:12:09.871Z",
-  "newItems": 25,
+  "scannedAt": "2026-07-27T17:06:45.724Z",
+  "newItems": 21,
   "sources": [
     {
       "source": "finextra-crypto",
       "status": "ok",
       "feedItems": 44,
-      "relevantItems": 18
+      "relevantItems": 17
     },
     {
       "source": "finextra-markets",
@@ -30,7 +30,7 @@
       "source": "finextra-wholesale",
       "status": "ok",
       "feedItems": 45,
-      "relevantItems": 8
+      "relevantItems": 7
     },
     {
       "source": "global-custodian-feed",
