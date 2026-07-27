@@ -60,6 +60,56 @@ window.REGWATCH_DATA = {
   },
   "marketIntelligence": [
     {
+      "id": "asset-servicing-times-fca-and-boe-appoint-members-to-post-trade-taskforce-2026-07-27",
+      "title": "FCA and BoE appoint members to post-trade taskforce",
+      "source": "Asset Servicing Times",
+      "url": "https://www.assetservicingtimes.com/assetservicesnews/industryarticle.php?article_id=18183",
+      "publishedAt": "2026-07-27T14:37:12.000Z",
+      "category": "Market infrastructure",
+      "topics": [
+        "Market infrastructure",
+        "Collateral"
+      ],
+      "collectionMode": "auto"
+    },
+    {
+      "id": "securities-finance-times-fca-and-boe-appoint-members-to-post-trade-taskforce-2026-07-27",
+      "title": "FCA and BoE appoint members to post-trade taskforce",
+      "source": "Securities Finance Times",
+      "url": "https://www.securitiesfinancetimes.com/securitieslendingnews/industryarticle.php?article_id=228859",
+      "publishedAt": "2026-07-27T14:14:29.000Z",
+      "category": "Market infrastructure",
+      "topics": [
+        "Market infrastructure",
+        "Collateral"
+      ],
+      "collectionMode": "auto"
+    },
+    {
+      "id": "markets-media-feed-bgc-fanatics-to-partner-on-prediction-markets-2026-07-27",
+      "title": "BGC, Fanatics to Partner on Prediction Markets",
+      "source": "Markets Media",
+      "url": "https://www.marketsmedia.com/bgc-fanatics-to-partner-on-prediction-markets",
+      "publishedAt": "2026-07-27T14:07:26.000Z",
+      "category": "Market infrastructure",
+      "topics": [
+        "Market infrastructure"
+      ],
+      "collectionMode": "auto"
+    },
+    {
+      "id": "markets-media-feed-securitize-approved-as-registered-investment-adviser-2026-07-27",
+      "title": "Securitize Approved as Registered Investment Adviser",
+      "source": "Markets Media",
+      "url": "https://www.marketsmedia.com/securitize-approved-as-registered-investment-adviser",
+      "publishedAt": "2026-07-27T13:32:53.000Z",
+      "category": "Tokenisation",
+      "topics": [
+        "Tokenisation"
+      ],
+      "collectionMode": "auto"
+    },
+    {
       "id": "asset-servicing-times-standard-bank-processes-over-rmb8bn-in-payments-through-cips-2026-07-27",
       "title": "Standard Bank processes over RMB8bn in payments through CIPS",
       "source": "Asset Servicing Times",
