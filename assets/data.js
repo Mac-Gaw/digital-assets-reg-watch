@@ -60,6 +60,18 @@ window.REGWATCH_DATA = {
   },
   "marketIntelligence": [
     {
+      "id": "finextra-payments-outage-leaves-uk-bank-customers-unable-to-make-payments-2026-07-27",
+      "title": "Outage leaves UK bank customers unable to make payments",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/newsarticle/48151/outage-leaves-uk-bank-customers-unable-to-make-payments",
+      "publishedAt": "2026-07-27T17:51:00.000Z",
+      "category": "Collateral",
+      "topics": [
+        "Collateral"
+      ],
+      "collectionMode": "auto"
+    },
+    {
       "id": "asset-servicing-times-fca-and-boe-appoint-members-to-post-trade-taskforce-2026-07-27",
       "title": "FCA and BoE appoint members to post-trade taskforce",
       "source": "Asset Servicing Times",
