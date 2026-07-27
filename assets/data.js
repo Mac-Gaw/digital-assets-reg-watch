@@ -60,6 +60,30 @@ window.REGWATCH_DATA = {
   },
   "marketIntelligence": [
     {
+      "id": "asset-servicing-times-standard-bank-processes-over-rmb8bn-in-payments-through-cips-2026-07-27",
+      "title": "Standard Bank processes over RMB8bn in payments through CIPS",
+      "source": "Asset Servicing Times",
+      "url": "https://www.assetservicingtimes.com/assetservicesnews/industryarticle.php?article_id=18179",
+      "publishedAt": "2026-07-27T08:50:13.000Z",
+      "category": "Market infrastructure",
+      "topics": [
+        "Market infrastructure"
+      ],
+      "collectionMode": "auto"
+    },
+    {
+      "id": "markets-media-feed-sec-consults-on-net-margin-for-u-s-treasury-securities-2026-07-27",
+      "title": "SEC Consults on Net Margin for U.S. Treasury Securities",
+      "source": "Markets Media",
+      "url": "https://www.marketsmedia.com/sec-consults-on-net-margin-for-u-s-treasury-securities",
+      "publishedAt": "2026-07-27T08:33:17.000Z",
+      "category": "Collateral",
+      "topics": [
+        "Collateral"
+      ],
+      "collectionMode": "auto"
+    },
+    {
       "id": "markets-media-feed-eurex-members-mobilize-collateral-on-dlt-2026-07-24",
       "title": "Eurex Members Mobilize Collateral on DLT",
       "source": "Markets Media",
