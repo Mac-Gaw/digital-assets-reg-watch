@@ -446,6 +446,77 @@ function renderMarketIntelligence() {
   if (archiveContainer) archiveContainer.innerHTML = items.map(renderMarketIntelligenceItem).join("");
 }
 
+function renderEventItem(item) {
+  const format = item.format || "Event";
+  const location = item.location || "Location not stated";
+  const access = item.access || "Access not stated";
+  const category = item.category || "Institutional digital assets";
+  return `
+    <article class="event-item">
+      <div class="event-date-pill">
+        <span>${escapeHtml(fmtDate(item.eventDate).split(" ")[0] || "")}</span>
+        <small>${escapeHtml(fmtDate(item.eventDate).replace(/^\d{2}\s/, ""))}</small>
+      </div>
+      <div class="event-main">
+        <div class="meta-row">
+          <span class="badge">${escapeHtml(format)}</span>
+          <span class="badge official">${escapeHtml(category)}</span>
+        </div>
+        <a href="${escapeHtml(item.url)}" target="_blank" rel="noreferrer noopener">${escapeHtml(item.title)}</a>
+        <div class="market-intelligence-meta">
+          <span>${escapeHtml(item.source)}</span>
+          <span>${escapeHtml(location)}</span>
+          <span>${escapeHtml(access)}</span>
+        </div>
+      </div>
+    </article>
+  `;
+}
+
+function renderEvents() {
+  const container = $("#eventsList");
+  const archiveContainer = $("#eventsArchiveList");
+  if (!container && !archiveContainer) return;
+  const now = new Date();
+  const lower = new Date(now.getTime() - 7 * 86400000);
+  const items = (data.events || [])
+    .slice()
+    .filter(item => {
+      const date = parseDateValue(item.eventDate);
+      return date && date >= lower;
+    })
+    .sort((a, b) => String(a.eventDate).localeCompare(String(b.eventDate)));
+  const upcoming = items.filter(item => {
+    const date = parseDateValue(item.eventDate);
+    return date && date >= new Date(now.toDateString());
+  });
+  const latest = items.slice(0, 4);
+  const statusText = upcoming.length ? `${upcoming.length} upcoming event${upcoming.length === 1 ? "" : "s"} · 180 days` : "No upcoming events retained";
+  const status = $("#eventsStatus");
+  const archiveStatus = $("#eventsArchiveStatus");
+  if (status) {
+    status.textContent = "Upcoming events →";
+    status.setAttribute("title", statusText);
+  }
+  if (archiveStatus) archiveStatus.textContent = statusText;
+
+  const emptyMarkup = `
+    <article class="market-intelligence-empty">
+      <strong>No upcoming events retained yet.</strong>
+      <p>Event monitoring will add matching webinars, conferences and briefings when eligible sources publish event dates. Manual curated events can be added to <code>data/events.json</code>.</p>
+    </article>
+  `;
+
+  if (!items.length) {
+    if (container) container.innerHTML = emptyMarkup;
+    if (archiveContainer) archiveContainer.innerHTML = emptyMarkup;
+    return;
+  }
+
+  if (container) container.innerHTML = latest.map(renderEventItem).join("");
+  if (archiveContainer) archiveContainer.innerHTML = items.map(renderEventItem).join("");
+}
+
 function renderDashboard() {
   const latest = data.updates
     .slice()
@@ -744,7 +815,7 @@ function renderSources() {
 function navigate(route) {
   setMobileMenu(false);
   const page = route || location.hash.replace("#", "") || "dashboard";
-  const valid = ["dashboard", "market", "feed", "consultations", "access", "coverage", "about"].includes(page) ? page : "dashboard";
+  const valid = ["dashboard", "market", "events", "feed", "consultations", "access", "coverage", "about"].includes(page) ? page : "dashboard";
   $$(".route").forEach(section => section.classList.toggle("hidden", section.dataset.page !== valid));
   $$(".topnav a").forEach(link => {
     const active = link.dataset.route === valid;
@@ -775,6 +846,7 @@ initMetrics();
 renderMonitoring();
 renderMonthlyReview();
 renderMarketIntelligence();
+renderEvents();
 renderDashboard();
 initFeedFilters();
 renderFeed();
