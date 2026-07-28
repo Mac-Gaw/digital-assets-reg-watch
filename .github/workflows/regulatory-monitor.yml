@@ -1,41 +1,40 @@
-name: Regulatory Monitor
+name: Regulatory monitor
 
 on:
   workflow_dispatch:
   schedule:
-    - cron: "17 6 * * *"
-    - cron: "47 12 * * *"
+    # GitHub Actions uses UTC. Running at both 07:17 and 08:17 UTC lets the
+    # script keep the intended 08:xx Europe/London run across BST/GMT changes.
+    - cron: "17 7 * * *"
+    - cron: "17 8 * * *"
 
 permissions:
   contents: write
 
 jobs:
-  update-regulatory-data:
+  monitor:
     runs-on: ubuntu-latest
-
     steps:
-      - name: Checkout repository
+      - name: Check out repository
         uses: actions/checkout@v4
 
-      - name: Setup Node.js
+      - name: Set up Node
         uses: actions/setup-node@v4
         with:
-          node-version: 20
+          node-version: 24
 
-      - name: Install dependencies
-        run: npm install
+      - name: Run scheduled RSS-first regulatory monitor
+        if: github.event_name == 'schedule'
+        env:
+          TARGET_LONDON_HOUR: 8
+        run: npm run fetch:scheduled
 
-      - name: Fetch regulatory feeds
+      - name: Run manual RSS-first regulatory monitor
+        if: github.event_name == 'workflow_dispatch'
         run: npm run fetch
 
-      - name: Build static data
-        run: npm run build:data
-
-      - name: Commit updated data
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add assets/data.js data/*.json
-          git diff --cached --quiet && echo "No data changes to commit" && exit 0
-          git commit -m "Update regulatory monitoring data"
-          git push
+      - name: Commit monitoring updates
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: update regulatory monitoring feed"
+          file_pattern: "assets/data.js data/*.json logs/*.json"
