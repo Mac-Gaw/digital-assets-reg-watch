@@ -1,6 +1,6 @@
 {
   "name": "digital-assets-regulatory-watch",
-  "version": "1.0.2",
+  "version": "1.0.19",
   "private": true,
   "description": "Informational regulatory intelligence workspace for public-source monitoring of digital assets regulation, tokenisation, stablecoins and financial market infrastructure.",
   "type": "module",
@@ -13,7 +13,9 @@
     "configure:url": "node scripts/update-site-url.mjs",
     "serve": "python3 -m http.server 8080",
     "fetch:market": "node scripts/fetch-market-intelligence.mjs",
-    "fetch:market:dry-run": "node scripts/fetch-market-intelligence.mjs --dry-run"
+    "fetch:market:dry-run": "node scripts/fetch-market-intelligence.mjs --dry-run",
+    "fetch:events": "node scripts/fetch-events.mjs",
+    "fetch:events:dry-run": "node scripts/fetch-events.mjs --dry-run"
   },
   "engines": {
     "node": ">=20"
