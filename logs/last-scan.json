@@ -1,0 +1,141 @@
+{
+  "scannedAt": "2026-07-28T21:19:30.226Z",
+  "newAuto": 0,
+  "newPending": 1,
+  "prunedFalsePositives": 58,
+  "sources": [
+    {
+      "source": "fca-publications",
+      "status": "manual-or-page-watch",
+      "reason": "No RSS/Atom feed configured in MVP v1.0"
+    },
+    {
+      "source": "fca-regime-page",
+      "status": "manual-or-page-watch",
+      "reason": "No RSS/Atom feed configured in MVP v1.0"
+    },
+    {
+      "source": "bank-of-england-publications",
+      "status": "ok",
+      "feedItems": 50,
+      "relevantItems": 2
+    },
+    {
+      "source": "bank-of-england-pra",
+      "status": "ok",
+      "feedItems": 50,
+      "relevantItems": 2
+    },
+    {
+      "source": "hm-treasury-news",
+      "status": "manual-or-page-watch",
+      "reason": "No RSS/Atom feed configured in MVP v1.0"
+    },
+    {
+      "source": "esma-digital-finance",
+      "status": "manual-or-page-watch",
+      "reason": "No RSS/Atom feed configured in MVP v1.0"
+    },
+    {
+      "source": "eba-mica",
+      "status": "manual-or-page-watch",
+      "reason": "No RSS/Atom feed configured in MVP v1.0"
+    },
+    {
+      "source": "eurlex-mica",
+      "status": "manual-or-page-watch",
+      "reason": "No RSS/Atom feed configured in MVP v1.0"
+    },
+    {
+      "source": "sec-crypto-task-force",
+      "status": "manual-or-page-watch",
+      "reason": "No RSS/Atom feed configured in MVP v1.0"
+    },
+    {
+      "source": "cftc-digital-assets",
+      "status": "manual-or-page-watch",
+      "reason": "No RSS/Atom feed configured in MVP v1.0"
+    },
+    {
+      "source": "occ-interpretive-actions",
+      "status": "manual-or-page-watch",
+      "reason": "No RSS/Atom feed configured in MVP v1.0"
+    },
+    {
+      "source": "federal-reserve-press",
+      "status": "manual-or-page-watch",
+      "reason": "No RSS/Atom feed configured in MVP v1.0"
+    },
+    {
+      "source": "fdic-press",
+      "status": "manual-or-page-watch",
+      "reason": "No RSS/Atom feed configured in MVP v1.0"
+    },
+    {
+      "source": "federal-register",
+      "status": "manual-or-page-watch",
+      "reason": "No RSS/Atom feed configured in MVP v1.0"
+    },
+    {
+      "source": "us-treasury-press",
+      "status": "manual-or-page-watch",
+      "reason": "No RSS/Atom feed configured in MVP v1.0"
+    },
+    {
+      "source": "bis-all",
+      "status": "ok",
+      "feedItems": 25,
+      "relevantItems": 3
+    },
+    {
+      "source": "bis-fsi",
+      "status": "ok",
+      "feedItems": 25,
+      "relevantItems": 5
+    },
+    {
+      "source": "fsb-publications",
+      "status": "ok",
+      "feedItems": 0,
+      "relevantItems": 0
+    },
+    {
+      "source": "fsb-consultations",
+      "status": "ok",
+      "feedItems": 0,
+      "relevantItems": 0
+    },
+    {
+      "source": "basel-committee",
+      "status": "manual-or-page-watch",
+      "reason": "No RSS/Atom feed configured in MVP v1.0"
+    },
+    {
+      "source": "iosco-publications",
+      "status": "manual-or-page-watch",
+      "reason": "No RSS/Atom feed configured in MVP v1.0"
+    },
+    {
+      "source": "ledger-insights",
+      "status": "ok",
+      "feedItems": 1,
+      "relevantItems": 1
+    },
+    {
+      "source": "finextra",
+      "status": "manual-or-page-watch",
+      "reason": "No RSS/Atom feed configured in MVP v1.0"
+    },
+    {
+      "source": "latham-tracker",
+      "status": "manual-or-page-watch",
+      "reason": "No RSS/Atom feed configured in MVP v1.0"
+    },
+    {
+      "source": "nrf-regulation-tomorrow",
+      "status": "ok",
+      "feedItems": 10,
+      "relevantItems": 1
+    }
+  ]
+}
