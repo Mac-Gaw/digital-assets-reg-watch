@@ -4,7 +4,7 @@ window.REGWATCH_DATA = {
   "lastUpdated": "2026-07-28",
   "monitoring": {
     "status": "Active",
-    "lastScan": "2026-07-28T09:08:52.614Z",
+    "lastScan": "2026-07-28T15:07:33.061Z",
     "quietPeriodDays": 14,
     "regions": [
       {
@@ -33,12 +33,12 @@ window.REGWATCH_DATA = {
       }
     ],
     "lastScanResult": {
-      "newPublishedItems": 0,
+      "newPublishedItems": 1,
       "newHighPriorityItems": 0,
-      "newMediumPriorityItems": 0,
+      "newMediumPriorityItems": 1,
       "newLowPriorityItems": 0,
       "materialItems": 0,
-      "newPendingItems": 1,
+      "newPendingItems": 4,
       "checkedSources": 25
     }
   },
@@ -583,6 +583,23 @@ window.REGWATCH_DATA = {
     }
   ],
   "updates": [
+    {
+      "id": "bis-all-ai-and-the-global-economy-implications-for-central-banks-2026-07-28",
+      "title": "AI and the global economy: implications for central banks",
+      "source": "Bank for International Settlements",
+      "sourceType": "Central bank body",
+      "url": "https://www.bis.org/publ/bisbull130.htm",
+      "publishedAt": "2026-07-28T09:52:00.000Z",
+      "jurisdiction": "Global",
+      "category": "Source Update",
+      "topics": [
+        "Settlement"
+      ],
+      "priority": "Medium",
+      "status": "Published",
+      "summary": "by Iñaki Aldasoro, Leonardo Gambacorta, Enisse Kharroubi, Matthias Rottner The AI boom is driving a large, increasingly debt-financed investment surge and boosting trade and equity markets, generating sizeable terms-of-trade and wealth effects that differ across countries. The productivity payoff from AI, though potentially large, remains uncertain and uneven, across both sectors and countries. By simultaneously affe",
+      "whyItMatters": "Relevant for institutional tokenisation, settlement, custody, DvP, collateral and financial market infrastructure use cases."
+    },
     {
       "id": "bank-of-england-publications-the-devil-in-the-detail-assessing-state-contingent-tail-effects-of-a-releasable-macroprudential--2026-07-24",
       "title": "The devil in the DeTail: assessing state-contingent tail effects of a releasable macroprudential capital buffer using a parsimonious agent-based framework",
