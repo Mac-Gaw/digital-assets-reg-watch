@@ -1,0 +1,167 @@
+[
+  {
+    "id": "finextra-events",
+    "name": "Finextra Events",
+    "sourceGroup": "Market intelligence",
+    "collectionMode": "auto",
+    "feedUrl": "https://www.finextra.com/rss/events.aspx",
+    "sourceUrl": "https://www.finextra.com/events/grid/crypto?eventtype=webinar",
+    "defaultFormat": "Webinar",
+    "defaultLocation": "Online",
+    "defaultAccess": "Registration required",
+    "notes": "Auto-monitored via public Finextra Events RSS; filtered for institutional digital assets, tokenisation, stablecoins, FMI and regulation."
+  },
+  {
+    "id": "dtcc-events",
+    "name": "DTCC Events",
+    "sourceGroup": "Market infrastructure",
+    "collectionMode": "semi-auto",
+    "sourceUrl": "https://www.dtcc.com/events",
+    "defaultAccess": "Industry audience",
+    "notes": "Public event listings, external conference appearances and replays. Access may vary."
+  },
+  {
+    "id": "dtcc-learning",
+    "name": "DTCC Learning Live Events",
+    "sourceGroup": "Market infrastructure",
+    "collectionMode": "semi-auto",
+    "sourceUrl": "https://dtcclearning.com/events.html",
+    "defaultAccess": "Industry audience",
+    "notes": "Webinars and training sessions often aimed at DTCC clients, participants or industry users."
+  },
+  {
+    "id": "dtcc-tokenization-hub",
+    "name": "DTCC Tokenization Hub",
+    "sourceGroup": "Market infrastructure",
+    "collectionMode": "manual",
+    "sourceUrl": "https://www.dtcc.com/digital-assets/tokenization/hub",
+    "defaultAccess": "Public / replay",
+    "notes": "Use for curated tokenisation replays, videos and thought leadership rather than live event automation."
+  },
+  {
+    "id": "clearstream-deutsche-boerse",
+    "name": "Clearstream / Deutsche B\u00f6rse / Eurex",
+    "sourceGroup": "Market infrastructure",
+    "collectionMode": "manual",
+    "sourceUrl": "https://www.clearstream.com/clearstream-en/newsroom",
+    "defaultAccess": "Registration required",
+    "notes": "Watch for D7, D7 DLT, digital securities, tokenised issuance, collateral and market infrastructure briefings."
+  },
+  {
+    "id": "euroclear",
+    "name": "Euroclear",
+    "sourceGroup": "Market infrastructure",
+    "collectionMode": "manual",
+    "sourceUrl": "https://www.euroclear.com/innovation/en/digital-assets.html",
+    "defaultAccess": "Registration required",
+    "notes": "Watch for digital assets, dematerialisation, securities issuance, settlement and asset servicing webinars."
+  },
+  {
+    "id": "sec-crypto-task-force",
+    "name": "SEC Crypto Task Force",
+    "sourceGroup": "Regulators",
+    "collectionMode": "manual",
+    "sourceUrl": "https://www.sec.gov/featured-topics/crypto-task-force/crypto-task-force-roundtables",
+    "defaultAccess": "Public",
+    "notes": "Official SEC crypto asset regulation roundtables and public meetings."
+  },
+  {
+    "id": "fed-stablecoins-tokenization",
+    "name": "Federal Reserve conferences",
+    "sourceGroup": "Public policy",
+    "collectionMode": "manual",
+    "sourceUrl": "https://www.newyorkfed.org/research/conference",
+    "defaultAccess": "Public / registration required",
+    "notes": "Watch New York Fed / Boston Fed conferences on stablecoins, tokenisation and payments."
+  },
+  {
+    "id": "icma",
+    "name": "ICMA FinTech & Digitalisation",
+    "sourceGroup": "Industry associations",
+    "collectionMode": "manual",
+    "sourceUrl": "https://www.icmagroup.org/events/fintech-and-digitalisation-forum-2026/",
+    "defaultAccess": "Registration required",
+    "notes": "Capital markets forum covering tokenisation, digital money and bond market structure."
+  },
+  {
+    "id": "isda",
+    "name": "ISDA Events",
+    "sourceGroup": "Industry associations",
+    "collectionMode": "manual",
+    "sourceUrl": "https://events.isda.org/",
+    "defaultAccess": "Registration required",
+    "notes": "Watch for digital assets, collateral, derivatives, legal and regulatory events."
+  },
+  {
+    "id": "sifma",
+    "name": "SIFMA Digital Assets Week",
+    "sourceGroup": "Industry associations",
+    "collectionMode": "manual",
+    "sourceUrl": "https://events.sifma.org/digital-assets-week",
+    "defaultAccess": "Members / industry audience",
+    "notes": "Useful for US market structure and broker-dealer digital assets topics; access may be member-oriented."
+  },
+  {
+    "id": "omfif-dmi",
+    "name": "OMFIF Digital Monetary Institute",
+    "sourceGroup": "Public policy",
+    "collectionMode": "manual",
+    "sourceUrl": "https://www.omfif.org/events/",
+    "defaultAccess": "Registration required",
+    "notes": "Central bank, stablecoin, tokenised deposits and digital money events."
+  },
+  {
+    "id": "city-financial-global",
+    "name": "City & Financial Global",
+    "sourceGroup": "Industry conferences",
+    "collectionMode": "manual",
+    "sourceUrl": "https://www.cityandfinancialglobal.com/the-tokenisation-summit-2026/agenda",
+    "defaultAccess": "Paid / registration required",
+    "notes": "Tokenisation Summit and related UK regulatory / market infrastructure conferences."
+  },
+  {
+    "id": "global-custodian-events",
+    "name": "Global Custodian Events",
+    "sourceGroup": "Custody and securities services",
+    "collectionMode": "manual",
+    "sourceUrl": "https://www.globalcustodian.com/events/",
+    "defaultAccess": "Registration required",
+    "notes": "Digital custody, asset servicing, post-trade and tokenisation webinars/events."
+  },
+  {
+    "id": "bny-webcasts",
+    "name": "BNY Webcasts",
+    "sourceGroup": "Banks and custodians",
+    "collectionMode": "manual",
+    "sourceUrl": "https://info.bny.com/PaymentswithoutPause.html",
+    "defaultAccess": "Registration required",
+    "notes": "Watch for payments, APIs, digital assets, tokenisation and infrastructure briefings."
+  },
+  {
+    "id": "jpmorgan-kinexys",
+    "name": "J.P. Morgan / Kinexys",
+    "sourceGroup": "Banks and infrastructure",
+    "collectionMode": "manual",
+    "sourceUrl": "https://www.jpmorgan.com/payments/newsroom",
+    "defaultAccess": "Registration required",
+    "notes": "Manual watchlist for tokenised deposits, payments, collateral, Kinexys and institutional blockchain briefings."
+  },
+  {
+    "id": "goldman-sachs",
+    "name": "Goldman Sachs Digital Assets Conference",
+    "sourceGroup": "Banks and institutional events",
+    "collectionMode": "manual",
+    "sourceUrl": "https://www.goldmansachs.com/insights",
+    "defaultAccess": "Client / invite only",
+    "notes": "Manual watchlist for the annual Digital Assets Conference and related institutional digital assets events."
+  },
+  {
+    "id": "six-sdx",
+    "name": "SIX / SDX",
+    "sourceGroup": "Market infrastructure",
+    "collectionMode": "manual",
+    "sourceUrl": "https://www.sdx.com/news",
+    "defaultAccess": "Registration required",
+    "notes": "Watch for regulated digital exchange, CSD, tokenised securities and institutional digital assets events."
+  }
+]
