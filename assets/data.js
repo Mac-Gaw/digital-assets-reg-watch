@@ -60,6 +60,32 @@ window.REGWATCH_DATA = {
   },
   "marketIntelligence": [
     {
+      "id": "asset-servicing-times-state-street-to-acquire-santander-caceis-latam-securities-services-2026-07-28",
+      "title": "State Street to acquire Santander CACEIS Latam Securities Services",
+      "source": "Asset Servicing Times",
+      "url": "https://www.assetservicingtimes.com/assetservicesnews/industryarticle.php?article_id=18185",
+      "publishedAt": "2026-07-28T14:29:59.000Z",
+      "category": "Custody",
+      "topics": [
+        "Custody",
+        "Institutional adoption"
+      ],
+      "collectionMode": "auto"
+    },
+    {
+      "id": "finextra-markets-fca-and-bofe-appoint-members-to-transaction-and-post-trade-reporting-harmonisation-taskforce-2026-07-28",
+      "title": "FCA and BofE appoint members to Transaction and Post-trade Reporting Harmonisation Taskforce",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/pressarticle/110508/fca-and-bofe-appoint-members-to-transaction-and-post-trade-reporting-harmonisation-taskforce",
+      "publishedAt": "2026-07-28T14:14:00.000Z",
+      "category": "Market infrastructure",
+      "topics": [
+        "Market infrastructure",
+        "Collateral"
+      ],
+      "collectionMode": "auto"
+    },
+    {
       "id": "securities-finance-times-leverage-terms-and-margin-constraints-push-prime-brokerage-competition-says-report-2026-07-28",
       "title": "Leverage terms and margin constraints push prime brokerage competition, says report",
       "source": "Securities Finance Times",
