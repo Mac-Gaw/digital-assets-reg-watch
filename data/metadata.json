@@ -54,5 +54,15 @@
     "scraping": "disabled in MVP v1.0",
     "schedule": "daily target: 07:30 Europe/London",
     "marketIntelligence": "third-party links only; no summaries or article excerpts; 30-day retention; hourly monitoring where feed access is available"
+  },
+  "events": {
+    "lastScan": "2026-07-28T21:18:16.754Z",
+    "lookaheadDays": 180,
+    "keepPastDays": 7,
+    "lastScanResult": {
+      "newItems": 4,
+      "storedItems": 4,
+      "checkedSources": 1
+    }
   }
 }
