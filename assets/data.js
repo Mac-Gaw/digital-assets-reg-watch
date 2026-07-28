@@ -60,6 +60,30 @@ window.REGWATCH_DATA = {
   },
   "marketIntelligence": [
     {
+      "id": "finextra-regulation-zimbabwe-regulator-approves-seven-fintechs-for-sandbox-2026-07-28",
+      "title": "Zimbabwe regulator approves seven fintechs for sandbox",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/newsarticle/48153/zimbabwe-regulator-approves-seven-fintechs-for-sandbox",
+      "publishedAt": "2026-07-28T09:00:00.000Z",
+      "category": "Institutional adoption",
+      "topics": [
+        "Institutional adoption"
+      ],
+      "collectionMode": "auto"
+    },
+    {
+      "id": "markets-media-feed-market-makes-and-8216-substantial-and-8217-progress-in-treasury-clearing-2026-07-28",
+      "title": "Market Makes &#8216;Substantial&#8217; Progress in Treasury Clearing",
+      "source": "Markets Media",
+      "url": "https://www.marketsmedia.com/market-makes-substantial-progress-in-implementing-treasury-clearing",
+      "publishedAt": "2026-07-28T08:44:58.000Z",
+      "category": "Market infrastructure",
+      "topics": [
+        "Market infrastructure"
+      ],
+      "collectionMode": "auto"
+    },
+    {
       "id": "finextra-payments-outage-leaves-uk-bank-customers-unable-to-make-payments-2026-07-27",
       "title": "Outage leaves UK bank customers unable to make payments",
       "source": "Finextra",
