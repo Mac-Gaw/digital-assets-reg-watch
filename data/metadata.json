@@ -59,7 +59,7 @@
     "marketIntelligence": "third-party links only; no summaries or article excerpts; 30-day retention; hourly monitoring where feed access is available"
   },
   "marketIntelligence": {
-    "lastScan": "2026-07-28T03:32:41.008Z",
+    "lastScan": "2026-07-28T06:39:08.382Z",
     "retentionDays": 30,
     "maxItems": 100,
     "lastScanResult": {

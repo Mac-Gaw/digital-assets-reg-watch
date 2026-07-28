@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-07-28T03:32:41.008Z",
+  "scannedAt": "2026-07-28T06:39:08.382Z",
   "newItems": 21,
   "sources": [
     {
@@ -18,7 +18,7 @@
       "source": "finextra-payments",
       "status": "ok",
       "feedItems": 48,
-      "relevantItems": 6
+      "relevantItems": 5
     },
     {
       "source": "finextra-regulation",
@@ -30,7 +30,7 @@
       "source": "finextra-wholesale",
       "status": "ok",
       "feedItems": 45,
-      "relevantItems": 8
+      "relevantItems": 7
     },
     {
       "source": "global-custodian-feed",
