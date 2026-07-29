@@ -36,6 +36,21 @@
     "collectionMode": "manual"
   },
   {
+    "id": "finextra-events-tackling-fraud-as-an-ecosystem-exploring-the-shift-needed-in-regulation-and-the-industry-2026-09-08",
+    "title": "Tackling fraud as an ecosystem: Exploring the shift needed in regulation and the industry",
+    "source": "Finextra Events",
+    "url": "https://www.finextra.com/event-info/623/tackling-fraud-as-an-ecosystem-exploring-the-shift-needed-in-regulation-and-the-industry",
+    "eventDate": "2026-09-08T15:00:00.000Z",
+    "format": "Webinar",
+    "location": "Online",
+    "access": "Registration required",
+    "category": "Regulation",
+    "topics": [
+      "Regulation"
+    ],
+    "collectionMode": "auto"
+  },
+  {
     "id": "icma-bwf-capital-markets-conference-2026",
     "title": "14th bwf and ICMA Capital Markets Conference",
     "source": "ICMA",
@@ -52,6 +67,38 @@
       "Market infrastructure"
     ],
     "collectionMode": "manual"
+  },
+  {
+    "id": "finextra-events-what-profitable-roles-can-banks-play-in-the-digital-currency-race-2026-09-10",
+    "title": "What profitable roles can banks play in the digital currency race?",
+    "source": "Finextra Events",
+    "url": "https://www.finextra.com/event-info/621/what-profitable-roles-can-banks-play-in-the-digital-currency-race",
+    "eventDate": "2026-09-10T15:00:00.000Z",
+    "format": "Webinar",
+    "location": "Online",
+    "access": "Registration required",
+    "category": "Digital money & settlement assets",
+    "topics": [
+      "Digital money & settlement assets",
+      "Market infrastructure"
+    ],
+    "collectionMode": "auto"
+  },
+  {
+    "id": "finextra-events-are-banks-actually-ready-for-digital-money-2026-09-15",
+    "title": "Are banks actually ready for digital money?",
+    "source": "Finextra Events",
+    "url": "https://www.finextra.com/event-info/625/are-banks-actually-ready-for-digital-money",
+    "eventDate": "2026-09-15T15:00:00.000Z",
+    "format": "Webinar",
+    "location": "Online",
+    "access": "Registration required",
+    "category": "Tokenisation",
+    "topics": [
+      "Tokenisation",
+      "Digital money & settlement assets"
+    ],
+    "collectionMode": "auto"
   },
   {
     "id": "omfif-european-blockchain-convention-2026",
@@ -144,6 +191,21 @@
       "Market infrastructure"
     ],
     "collectionMode": "manual"
+  },
+  {
+    "id": "finextra-events-ai-without-the-hype-what-aml-transformation-means-2026-10-06",
+    "title": "AI without the hype: What AML transformation means",
+    "source": "Finextra Events",
+    "url": "https://www.finextra.com/event-info/627/ai-without-the-hype-what-aml-transformation-means",
+    "eventDate": "2026-10-06T15:00:00.000Z",
+    "format": "Webinar",
+    "location": "Online",
+    "access": "Registration required",
+    "category": "Regulation",
+    "topics": [
+      "Regulation"
+    ],
+    "collectionMode": "auto"
   },
   {
     "id": "digital-asset-conference-iv-2026",

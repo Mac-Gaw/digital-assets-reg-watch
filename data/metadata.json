@@ -61,7 +61,13 @@
   "events": {
     "lastManualReview": "2026-07-29",
     "lookaheadDays": 365,
-    "keepPastDays": 7
+    "keepPastDays": 7,
+    "lastScan": "2026-07-29T21:55:05.119Z",
+    "lastScanResult": {
+      "newItems": 4,
+      "storedItems": 14,
+      "checkedSources": 1
+    }
   },
   "marketIntelligence": {
     "lastScan": "2026-07-29T21:44:13.925Z",
