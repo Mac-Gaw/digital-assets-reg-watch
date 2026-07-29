@@ -3281,3 +3281,17 @@ td strong { color: var(--strong); }
 .route-events .events-list {
   gap: .72rem;
 }
+
+
+/* Dashboard spacing fix
+   Restores the normal vertical rhythm between Editorial Summary and the
+   Market Intelligence / Events & Briefings two-column block. */
+.route-dashboard + .route-dashboard.market-events-grid {
+  margin-top: 2.4rem;
+}
+
+/* The section itself is the grid, so it does not have a normal .section-heading
+   outside it. This margin replaces the missing section-heading top spacing. */
+.market-events-grid {
+  margin-top: 2.4rem;
+}
