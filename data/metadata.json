@@ -59,5 +59,15 @@
     "lastManualReview": "2026-07-29",
     "lookaheadDays": 365,
     "keepPastDays": 7
+  },
+  "marketIntelligence": {
+    "lastScan": "2026-07-29T20:43:57.429Z",
+    "retentionDays": 30,
+    "maxItems": 100,
+    "lastScanResult": {
+      "newItems": 46,
+      "storedItems": 25,
+      "checkedSources": 9
+    }
   }
 }
