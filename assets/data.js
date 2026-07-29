@@ -59,11 +59,11 @@ window.REGWATCH_DATA = {
     "marketIntelligence": "third-party links only; no summaries or article excerpts; 30-day retention; hourly monitoring where feed access is available"
   },
   "events": {
-    "lastScan": "2026-07-28T21:18:16.754Z",
+    "lastScan": "2026-07-29T09:23:57.927Z",
     "lookaheadDays": 180,
     "keepPastDays": 7,
     "lastScanResult": {
-      "newItems": 4,
+      "newItems": 0,
       "storedItems": 4,
       "checkedSources": 1
     }
