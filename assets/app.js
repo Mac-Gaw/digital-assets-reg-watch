@@ -491,7 +491,7 @@ function renderEvents() {
     return date && date >= new Date(now.toDateString());
   });
   const latest = items.slice(0, 4);
-  const statusText = upcoming.length ? `${upcoming.length} upcoming event${upcoming.length === 1 ? "" : "s"} · 180 days` : "No upcoming events retained";
+  const statusText = upcoming.length ? `${upcoming.length} upcoming event${upcoming.length === 1 ? "" : "s"} · next 12 months` : "No upcoming events retained";
   const status = $("#eventsStatus");
   const archiveStatus = $("#eventsArchiveStatus");
   if (status) {
