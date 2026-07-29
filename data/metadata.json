@@ -60,5 +60,16 @@
     "lookaheadDays": 365,
     "keepPastDays": 7,
     "lastScanResult": {}
+  },
+  "marketIntelligence": {
+    "lastScan": "2026-07-29T19:20:44.651Z",
+    "retentionDays": 30,
+    "maxItems": 100,
+    "lastScanResult": {
+      "newItems": 13,
+      "storedItems": 18,
+      "prunedStoredItems": 13,
+      "checkedSources": 9
+    }
   }
 }
