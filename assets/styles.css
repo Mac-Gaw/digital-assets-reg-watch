@@ -3220,8 +3220,8 @@ td strong { color: var(--strong); }
   gap: .62rem;
 }
 
-/* Dashboard is a preview, not the full calendar. Show first two events only. */
-.route-dashboard #eventsList .event-item:nth-child(n+3) {
+/* Dashboard is a preview, not the full calendar. Show first four events only. */
+.route-dashboard #eventsList .event-item:nth-child(n+5) {
   display: none;
 }
 
@@ -3295,3 +3295,28 @@ td strong { color: var(--strong); }
 .market-events-grid {
   margin-top: 2.4rem;
 }
+
+
+/* Dashboard column balance fix
+   Market Intelligence renders up to 5 links; Events & Briefings renders up to 4
+   slightly taller event cards. The full calendar remains available via #events. */
+.route-dashboard #eventsList .event-item:nth-child(n+3) {
+  display: grid;
+}
+
+.route-dashboard #eventsList .event-item:nth-child(n+5) {
+  display: none;
+}
+
+.market-events-grid {
+  align-items: stretch;
+}
+
+.market-events-grid > .dashboard-list-card {
+  height: 100%;
+}
+
+.dashboard-list-card .compact-list {
+  flex: 1 1 auto;
+}
+

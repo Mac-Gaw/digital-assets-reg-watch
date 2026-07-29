@@ -1,6 +1,8 @@
 const data = window.REGWATCH_DATA;
 
 const THEME_KEY = "regwatch-theme";
+const DASHBOARD_MARKET_LIMIT = 5;
+const DASHBOARD_EVENTS_LIMIT = 4;
 
 function getSystemTheme() {
   return window.matchMedia && window.matchMedia("(prefers-color-scheme: dark)").matches ? "dark" : "light";
@@ -419,7 +421,7 @@ function renderMarketIntelligence() {
   const items = (data.marketIntelligence || [])
     .slice()
     .sort((a, b) => String(b.publishedAt).localeCompare(String(a.publishedAt)));
-  const latest = items.slice(0, 5);
+  const latest = items.slice(0, DASHBOARD_MARKET_LIMIT);
   const statusText = items.length ? `${items.length} links retained · 30 days` : "Latest 30 days";
   const status = $("#marketIntelligenceStatus");
   const archiveStatus = $("#marketArchiveStatus");
@@ -503,7 +505,7 @@ function renderEvents() {
     return date && date >= new Date(now.toDateString());
   });
 
-  const latest = items.slice(0, 4);
+  const latest = items.slice(0, DASHBOARD_EVENTS_LIMIT);
   const statusText = upcoming.length ? `${upcoming.length} upcoming event${upcoming.length === 1 ? "" : "s"} · next 12 months` : "No upcoming events retained";
   const status = $("#eventsStatus");
   const archiveStatus = $("#eventsArchiveStatus");
