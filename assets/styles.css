@@ -3077,7 +3077,7 @@ td strong { color: var(--strong); }
   display: block;
 }
 
-/* v1.0.16: Market Intelligence + Events & Briefings two-column dashboard */
+/* Events & Briefings add-on for MVP v1.0.15 baseline */
 .market-events-grid {
   display: grid;
   grid-template-columns: minmax(0, 1fr) minmax(0, 1fr);
@@ -3094,27 +3094,19 @@ td strong { color: var(--strong); }
   box-shadow: var(--shadow-soft);
 }
 
-.dashboard-list-card .section-heading {
-  margin-bottom: .8rem;
-}
+.dashboard-list-card .section-heading { margin-bottom: .8rem; }
 
 .compact-heading {
   align-items: flex-start;
   gap: .8rem;
 }
 
-.compact-heading h2 {
-  font-size: 1.3rem;
-}
+.compact-heading h2 { font-size: 1.3rem; }
 
-.compact-list {
-  gap: .55rem;
-}
+.compact-list { gap: .55rem; }
 
 .compact-list .market-intelligence-item,
-.compact-list .event-item {
-  box-shadow: none;
-}
+.compact-list .event-item { box-shadow: none; }
 
 .events-list {
   display: grid;
@@ -3162,9 +3154,7 @@ td strong { color: var(--strong); }
   text-transform: uppercase;
 }
 
-.event-main {
-  min-width: 0;
-}
+.event-main { min-width: 0; }
 
 .event-main > a {
   display: inline-block;
@@ -3188,36 +3178,22 @@ td strong { color: var(--strong); }
   grid-template-columns: 52px minmax(0, 1fr);
 }
 
-.archive-list .event-date-pill {
-  min-height: 52px;
-}
+.archive-list .event-date-pill { min-height: 52px; }
 
-@media (max-width: 980px) {
-  .market-events-grid {
-    grid-template-columns: 1fr;
-  }
-}
-
-@media (max-width: 560px) {
-  .event-item {
-    grid-template-columns: 1fr;
-  }
-
-  .event-date-pill {
-    justify-self: start;
-    min-width: 64px;
-  }
-}
-
-/* v1.0.21: resilient empty states for dashboard cards */
 .dashboard-list-card .market-intelligence-empty {
   min-height: 112px;
   display: grid;
   align-content: center;
 }
 
-.cards-grid .card code,
-.market-intelligence-empty code {
-  font-size: .85em;
-  color: var(--accent);
+@media (max-width: 980px) {
+  .market-events-grid { grid-template-columns: 1fr; }
+}
+
+@media (max-width: 560px) {
+  .event-item { grid-template-columns: 1fr; }
+  .event-date-pill {
+    justify-self: start;
+    min-width: 64px;
+  }
 }

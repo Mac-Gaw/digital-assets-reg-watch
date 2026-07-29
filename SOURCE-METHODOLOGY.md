@@ -98,3 +98,10 @@ The site does not store third-party article summaries, excerpts or article body 
 Auto-monitored sources are RSS-first. Manual-only sources such as Reuters, Bloomberg, Financial Times, Ledger Insights and other premium or rights-sensitive publishers should be added only as curated links when appropriate, not scraped.
 
 Default retention is 30 days, capped at 100 retained items unless changed through environment variables.
+
+
+## Events & Briefings methodology
+
+Events are tracked separately from regulatory updates and market intelligence. The events panel is intended for webinars, conferences, roundtables and briefings relevant to institutional digital assets, tokenisation, stablecoins, custody, collateral and financial market infrastructure.
+
+The initial dataset is manually curated from public event pages. The automated event workflow may append RSS-derived matches where eligible sources publish dated events.

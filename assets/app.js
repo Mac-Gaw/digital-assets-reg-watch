@@ -446,7 +446,17 @@ function renderMarketIntelligence() {
   if (archiveContainer) archiveContainer.innerHTML = items.map(renderMarketIntelligenceItem).join("");
 }
 
+function formatEventDateParts(value) {
+  const formatted = fmtDate(value);
+  const parts = String(formatted).split(" ");
+  return {
+    day: parts[0] || "—",
+    rest: parts.slice(1).join(" ") || formatted
+  };
+}
+
 function renderEventItem(item) {
+  const dateParts = formatEventDateParts(item.eventDate);
   const format = item.format || "Event";
   const location = item.location || "Location not stated";
   const access = item.access || "Access not stated";
@@ -454,8 +464,8 @@ function renderEventItem(item) {
   return `
     <article class="event-item">
       <div class="event-date-pill">
-        <span>${escapeHtml(fmtDate(item.eventDate).split(" ")[0] || "")}</span>
-        <small>${escapeHtml(fmtDate(item.eventDate).replace(/^\d{2}\s/, ""))}</small>
+        <span>${escapeHtml(dateParts.day)}</span>
+        <small>${escapeHtml(dateParts.rest)}</small>
       </div>
       <div class="event-main">
         <div class="meta-row">
@@ -477,6 +487,7 @@ function renderEvents() {
   const container = $("#eventsList");
   const archiveContainer = $("#eventsArchiveList");
   if (!container && !archiveContainer) return;
+
   const now = new Date();
   const lower = new Date(now.getTime() - 7 * 86400000);
   const items = (data.events || [])
@@ -485,11 +496,13 @@ function renderEvents() {
       const date = parseDateValue(item.eventDate);
       return date && date >= lower;
     })
-    .sort((a, b) => String(a.eventDate).localeCompare(String(b.eventDate)));
+    .sort((a, b) => String(a.eventDate || "").localeCompare(String(b.eventDate || "")));
+
   const upcoming = items.filter(item => {
     const date = parseDateValue(item.eventDate);
     return date && date >= new Date(now.toDateString());
   });
+
   const latest = items.slice(0, 4);
   const statusText = upcoming.length ? `${upcoming.length} upcoming event${upcoming.length === 1 ? "" : "s"} · next 12 months` : "No upcoming events retained";
   const status = $("#eventsStatus");
@@ -504,7 +517,7 @@ function renderEvents() {
   const emptyMarkup = `
     <article class="market-intelligence-empty">
       <strong>No upcoming events retained yet.</strong>
-      <p>The event source watchlist is configured${configuredSources ? ` with ${configuredSources} sources` : ""}, but no dated future events are currently stored in <code>data/events.json</code>. This is expected until a matching source publishes a dated event or a curated event is added manually.</p>
+      <p>The event source watchlist is configured${configuredSources ? ` with ${configuredSources} sources` : ""}, but no dated future events are currently stored in <code>data/events.json</code>.</p>
     </article>
   `;
 
@@ -519,25 +532,11 @@ function renderEvents() {
 }
 
 function renderDashboard() {
-  const container = $("#latestCards");
-  if (!container) return;
-  const latest = (data.updates || [])
+  const latest = data.updates
     .slice()
-    .sort((a, b) => String(b.publishedAt || "").localeCompare(String(a.publishedAt || "")))
+    .sort((a, b) => b.publishedAt.localeCompare(a.publishedAt))
     .slice(0, 3);
-
-  if (!latest.length) {
-    container.innerHTML = `
-      <article class="card">
-        <p class="eyebrow">No regulatory items</p>
-        <h3>No retained regulatory updates yet</h3>
-        <p>The regulatory monitor has not retained any items after the current filters. Run the monitor or review <code>data/updates.json</code>.</p>
-      </article>
-    `;
-    return;
-  }
-
-  container.innerHTML = latest.map(renderUpdateCard).join("");
+  $("#latestCards").innerHTML = latest.map(renderUpdateCard).join("");
 }
 
 function setFeedFilterPanel(open) {
@@ -855,27 +854,19 @@ function initRouting() {
   navigate();
 }
 
-function safeRun(label, fn) {
-  try {
-    fn();
-  } catch (error) {
-    console.error(`[RegWatch] ${label} failed`, error);
-  }
-}
-
 initTheme();
 initMobileMenu();
-safeRun("metrics", initMetrics);
-safeRun("monitoring overview", renderMonitoring);
-safeRun("regulatory radar", renderDashboard);
-safeRun("monthly review", renderMonthlyReview);
-safeRun("market intelligence", renderMarketIntelligence);
-safeRun("events and briefings", renderEvents);
-safeRun("feed filters", initFeedFilters);
-safeRun("regulatory feed", renderFeed);
-safeRun("consultations", renderConsultations);
-safeRun("access matrix filters", initAccessMatrixFilters);
-safeRun("access matrix", renderAccessMatrix);
-safeRun("source filters", initSourceFilters);
-safeRun("sources", renderSources);
-safeRun("routing", initRouting);
+initMetrics();
+renderMonitoring();
+renderMonthlyReview();
+renderMarketIntelligence();
+renderEvents();
+renderDashboard();
+initFeedFilters();
+renderFeed();
+renderConsultations();
+initAccessMatrixFilters();
+renderAccessMatrix();
+initSourceFilters();
+renderSources();
+initRouting();

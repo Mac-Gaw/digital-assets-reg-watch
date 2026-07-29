@@ -24,6 +24,8 @@ const bundle = {
   accessMatrix: await readJson("access-matrix.json", []),
   consultations: await readJson("consultations.json", []),
   marketIntelligence: await readJson("market-intelligence.json", []),
+  events: await readJson("events.json", []),
+  eventSources: await readJson("events-sources.registry.json", []),
   marketManualSources: await readJson("market-manual-sources.json", []),
   sources: await readJson("sources.json", [])
 };
@@ -35,4 +37,4 @@ await fs.writeFile(
   "utf8"
 );
 
-console.log(`Built assets/data.js with ${bundle.updates.length} feed items, ${bundle.consultations.length} consultations, ${bundle.marketIntelligence.length} market intelligence links, ${bundle.sources.length} sources.`);
+console.log(`Built assets/data.js with ${bundle.updates.length} feed items, ${bundle.consultations.length} consultations, ${bundle.marketIntelligence.length} market intelligence links, ${bundle.events.length} events, ${bundle.sources.length} sources.`);

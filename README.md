@@ -108,8 +108,24 @@ It is a public-source research and monitoring tool.
 
 ## Market Intelligence lane
 
-MVP v1.0.2 adds a lightweight Institutional Market Watch section. It stores third-party market intelligence as titles and outbound links only. No article summaries, excerpts or copied article text are stored.
+MVP v1.0.15 adds a lightweight Institutional Market Watch section. It stores third-party market intelligence as titles and outbound links only. No article summaries, excerpts or copied article text are stored.
 
 Auto-monitoring is RSS-first and configured in `data/market-sources.registry.json`. Manual curated sources are listed in `data/market-manual-sources.json` and can be added to `data/market-intelligence.json` when a link is worth retaining.
 
 The market intelligence workflow runs hourly via `.github/workflows/market-intelligence.yml` and retains matching links for 30 days, capped at 100 items by default.
+
+
+## Events & Briefings add-on
+
+This build is based on MVP v1.0.15 and adds the Events & Briefings module only. It does not include the later regulatory-filter rewrites from v1.0.17-v1.0.22.
+
+The dashboard shows Market Intelligence and Events & Briefings side by side. The full events archive is available via `#events`.
+
+Key event files:
+
+```text
+data/events.json
+data/events-sources.registry.json
+scripts/fetch-events.mjs
+.github/workflows/events-briefings.yml
+```

@@ -10,7 +10,7 @@
   "categories": ["business", "finance", "productivity", "news"],
   "icons": [
     {
-      "src": "assets/favicon.svg",
+      "src": "assets/icon-192.png",
       "sizes": "any",
       "type": "image/svg+xml"
     },

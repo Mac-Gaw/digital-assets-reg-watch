@@ -1,6 +1,63 @@
+## v1.0.15-events
+- Restored the MVP v1.0.15 baseline and added the Events & Briefings dashboard panel.
+- Added an Events & Briefings archive route at `#events`.
+- Added curated upcoming events to `data/events.json`.
+- Added event source registry, event fetch script and Events & Briefings GitHub workflow.
+- Updated the static data build to include `events` and `eventSources` in `assets/data.js`.
+
+## v1.0.15
+- Added separate light and dark header icon variants and theme-based switching for the brand mark.
+
+## v1.0.14
+- Tightened icon crops and added explicit PNG/ICO favicon links to reduce white corners / border effects.
+- Forced Editorial Summary date text to white in both light and dark themes for readability.
+
+## v1.0.13
+- Replaced the hardcoded DA header mark with the generated icon asset.
+- Added light and dark vertical editorial summary background images.
+- Applied theme-aware background art to the Monthly Review / Editorial Summary date panel.
+
+## v1.0.12
+- Added future-date protection to Market Intelligence ingestion to prevent event/webinar dates being treated as article publication dates.
+- Market Intelligence retention now removes future-dated retained items when the next scan runs.
+
+## v1.0.11
+- Reworked the top dashboard copy from generic workspace wording to clearer Regulatory Coverage / Digital Assets Regulatory Intelligence positioning.
+
+## v1.0.10
+- Reworked Regulatory Pulse into a true 2-in-1 summary: 30-day activity level plus latest scan result in the same description.
+- Latest scan note now explicitly states how many items were added, or that no new published items were found.
+
+## v1.0.9
+- Changed Regulatory Pulse styling so only the status text is colour-coded; the card background remains neutral.
+- Merged Monitoring Note into the Regulatory Pulse summary instead of displaying it as a separate panel.
+
+## v1.0.8
+- Removed non-interactive workspace category chips from the dashboard command center.
+- Restored colour-coded Regulatory Pulse states in the compact command center layout.
+
+## v1.0.7
+- Combined Workspace, Monitoring, Regulatory Pulse and Monitoring Note into one compact dashboard command center.
+- Reduced Monitoring Note visual footprint while keeping status visibility.
+
+## v1.0.6
+- Combined Monitoring and Last Scan into a single dashboard metric to reduce wasted space in the monitoring overview.
+
+## v1.0.6
+- Simplified the Market Intelligence dashboard archive link to “Last 30 days”.
+- Made the Market Intelligence archive view more compact while keeping each link visually separated.
+
+## v1.0.4
+- Simplified the Market Intelligence dashboard archive link to a single “Archive: last 30 days” link.
+
+## v1.0.3
+- Restyled Monitoring Note alert states to better match the workspace visual system.
+- Removed collection-mode badges from Market Intelligence items.
+- Added a dedicated 30-day Market Intelligence archive view and visible archive link from the dashboard.
+
 # Changelog
 
-## MVP v1.0.2 — Market Intelligence
+## MVP v1.0.3 — Market Intelligence
 
 ### Added
 

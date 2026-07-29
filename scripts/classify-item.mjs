@@ -1,67 +1,21 @@
-const CORE_DIGITAL_TERMS = [
-  "cryptoasset", "crypto-asset", "crypto asset", "digital asset", "digital assets",
-  "stablecoin", "stablecoins", "tokenisation", "tokenization", "tokenised", "tokenized",
-  "tokenised asset", "tokenized asset", "tokenised assets", "tokenized assets",
-  "tokenised securities", "tokenized securities", "digital securities", "digital security",
-  "tokenised deposit", "tokenized deposit", "deposit token", "bank-issued token", "bank issued token",
-  "distributed ledger", "dlt", "permissioned blockchain", "blockchain settlement",
-  "crypto regulation", "crypto regulatory", "markets in crypto-assets", "markets in crypto assets",
-  "mica", "casp", "asset-referenced token", "asset referenced token", "asset-referenced tokens",
-  "e-money token", "e-money tokens", "emt", "digital pound", "digital euro", "cbdc",
-  "central bank digital currency", "wholesale cbdc", "unified ledger", "digital settlement asset",
-  "tokenised collateral", "tokenized collateral", "digital asset custody", "crypto custody",
-  "private key", "wallet"
-];
-
-const BROAD_CONTEXT_TERMS = [
-  "financial market infrastructure", "market infrastructure", "fmi", "post-trade", "post trade",
-  "settlement", "delivery versus payment", "dvp", "payment system", "payments", "collateral",
-  "margin", "haircut", "derivatives", "eligible collateral", "custody", "custodian", "safeguarding",
-  "prudential", "macroprudential", "capital", "basel", "operational resilience", "authorisation",
-  "authorization", "perimeter", "financial promotions", "market abuse", "securities services",
-  "asset servicing", "central securities depository", "csd", "ccp", "clearing"
-];
-
-const OFFICIAL_NAME_TERMS = [
-  "fca", "financial conduct authority", "bank of england", "boe", "pra", "sec", "esma", "eba",
-  "cftc", "fsb", "bis", "iosco", "hm treasury"
-];
-
-const NEGATIVE_TERMS = [
-  "exchange rate", "exchange-rate", "exchange rate pass-through", "exchange rate pass-throughs",
-  "inflation", "phillips curve", "macroprudential capital buffer", "capital buffer",
-  "state-contingent tail effects", "tail effects", "parsimonious agent-based framework",
-  "agent-based framework", "business cycle", "monetary policy transmission", "labour market",
-  "labor market", "productivity", "gdp", "gross domestic product", "house prices", "mortgage",
-  "mortgages", "interest rate pass-through", "non-parametric method", "nonparametric method",
-  "bank profitability", "credit supply", "sovereign debt", "yield curve",
-  "outage", "unable to make payments", "customers unable", "retail banking", "mobile banking",
-  "online banking", "internet banking", "bank app", "banking app", "debit card", "credit card",
-  "current account", "savings account", "atm", "branch", "branches", "mortgage customers",
-  "personal banking", "consumer banking", "contactless", "cash withdrawal", "payment outage",
-  "service disruption", "systems outage", "app outage", "website outage",
-  "appoint members", "appointed members", "new members", "membership of", "taskforce members",
-  "task force members", "working group members", "advisory group members"
-];
-
 const TOPIC_KEYWORDS = [
-  { topic: "MiCA", terms: ["mica", "markets in crypto-assets", "markets in crypto assets", "casp", "asset-referenced token", "asset referenced token", "e-money token", "emt", "art"] },
-  { topic: "UK Cryptoasset Regime", terms: ["uk cryptoasset", "uk crypto asset", "qualifying cryptoasset", "qualifying crypto asset", "cryptoasset regime", "crypto asset regime", "cryptoasset regulation", "crypto asset regulation"] },
-  { topic: "Cryptoasset Regulation", terms: ["cryptoasset", "crypto-asset", "crypto asset", "digital asset", "digital assets", "crypto regulation", "crypto regulatory"] },
+  { topic: "MiCA", terms: ["mica", "markets in crypto-assets", "markets in crypto assets", "casp", "asset-referenced", "e-money token", "emt", "art"] },
+  { topic: "UK Cryptoasset Regime", terms: ["fca", "uk cryptoasset", "qualifying cryptoasset", "financial promotions", "fsma", "authorisation gateway"] },
+  { topic: "Cryptoasset Regulation", terms: ["cryptoasset", "crypto-asset", "crypto asset", "digital asset", "crypto regulation", "crypto regulatory"] },
   { topic: "Stablecoins", terms: ["stablecoin", "stablecoins", "payment stablecoin", "global stablecoin", "dollar token", "tokenised deposit", "tokenized deposit"] },
-  { topic: "Tokenisation", terms: ["tokenisation", "tokenization", "tokenised", "tokenized", "distributed ledger", "dlt", "unified ledger", "digital securities", "digital security"] },
-  { topic: "Custody", terms: ["digital asset custody", "crypto custody", "safeguarding of cryptoassets", "private key", "wallet"] },
-  { topic: "Collateral", terms: ["tokenised collateral", "tokenized collateral", "digital collateral", "eligible cryptoasset collateral", "eligible digital asset collateral"] },
-  { topic: "Settlement", terms: ["delivery versus payment", "dvp", "digital settlement", "tokenised settlement", "tokenized settlement", "settlement asset", "digital settlement asset", "wholesale settlement"] },
-  { topic: "Prudential Treatment", terms: ["prudential treatment of crypto", "cryptoasset exposure", "crypto-asset exposure", "basel crypto", "bank cryptoasset", "bank crypto-asset"] },
-  { topic: "Market Abuse", terms: ["cryptoasset market abuse", "crypto-asset market abuse", "digital asset market abuse", "admissions and disclosures", "inside information"] },
-  { topic: "CBDC", terms: ["cbdc", "digital pound", "digital euro", "central bank digital currency", "wholesale cbdc"] }
+  { topic: "Tokenisation", terms: ["tokenisation", "tokenization", "tokenised", "tokenized", "distributed ledger", "dlt", "unified ledger"] },
+  { topic: "Custody", terms: ["custody", "custodian", "safeguarding", "private key", "wallet"] },
+  { topic: "Collateral", terms: ["collateral", "margin", "haircut", "derivatives", "eligible collateral"] },
+  { topic: "Settlement", terms: ["settlement", "delivery versus payment", "dvp", "payment system", "fmi", "market infrastructure"] },
+  { topic: "Prudential Treatment", terms: ["prudential", "capital", "basel", "risk weight", "exposure", "disclosure"] },
+  { topic: "Market Abuse", terms: ["market abuse", "market integrity", "inside information", "disclosure", "admissions"] },
+  { topic: "CBDC", terms: ["cbdc", "digital pound", "central bank digital currency", "wholesale cbdc"] }
 ];
 
 const HIGH_PRIORITY_TERMS = [
   "consultation", "policy statement", "final rule", "proposed rule", "guidance", "authorisation", "authorization",
   "regime", "regulation", "rulemaking", "deadline", "in force", "implementation", "supervision", "prudential",
-  "stablecoin", "mica", "custody", "safeguarding", "market abuse", "tokenisation", "tokenization"
+  "stablecoin", "mica", "custody", "safeguarding", "market abuse", "collateral"
 ];
 
 const MEDIUM_PRIORITY_TERMS = [
@@ -85,93 +39,12 @@ export function slugify(value) {
     .slice(0, 96) || "item";
 }
 
-function escapeRegex(value) {
-  return String(value).replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
-}
-
-function termPattern(term) {
-  const escaped = escapeRegex(term.trim()).replace(/\s+/g, "\\s+");
-  if (/^[a-z0-9]+$/i.test(term)) return new RegExp(`\\b${escaped}\\b`, "i");
-  return new RegExp(`(^|[^a-z0-9])${escaped}([^a-z0-9]|$)`, "i");
-}
-
-function hasTerm(text, term) {
-  return termPattern(term).test(String(text || ""));
-}
-
-function hasAny(text, terms) {
-  return terms.some(term => hasTerm(text, term));
-}
-
-function textParts(raw) {
-  return {
-    metadata: [raw.keywords, raw.categories].filter(Boolean).join(" ").toLowerCase(),
-    title: String(raw.title || "").toLowerCase(),
-    summary: [raw.summary, raw.description].filter(Boolean).join(" ").toLowerCase()
-  };
-}
-
-function allText(raw) {
-  const parts = textParts(raw);
-  return [parts.metadata, parts.title, parts.summary].filter(Boolean).join(" ");
-}
-
-function scoreAgainstTerms(text, terms, weight) {
-  return terms.reduce((score, term) => score + (hasTerm(text, term) ? weight : 0), 0);
-}
-
-function relevanceScore(raw, source = {}) {
-  const parts = textParts(raw);
-
-  const metadataPositive = scoreAgainstTerms(parts.metadata, CORE_DIGITAL_TERMS, 4);
-  const titlePositive = scoreAgainstTerms(parts.title, CORE_DIGITAL_TERMS, 3);
-  const summaryPositive = scoreAgainstTerms(parts.summary, CORE_DIGITAL_TERMS, 1.5);
-
-  const broadContext = Math.min(
-    scoreAgainstTerms([parts.metadata, parts.title, parts.summary].join(" "), BROAD_CONTEXT_TERMS, 0.5),
-    2
-  );
-
-  const sourceKeywords = (source?.keywords || []).map(k => String(k).toLowerCase());
-  const coreSourceKeywords = sourceKeywords.filter(keyword =>
-    CORE_DIGITAL_TERMS.some(term => keyword === term || keyword.includes(term) || term.includes(keyword))
-  );
-  const sourceKeywordScore = Math.min(scoreAgainstTerms([parts.metadata, parts.title, parts.summary].join(" "), coreSourceKeywords, 2), 4);
-
-  const metadataNegative = scoreAgainstTerms(parts.metadata, NEGATIVE_TERMS, 5);
-  const titleNegative = scoreAgainstTerms(parts.title, NEGATIVE_TERMS, 4);
-  const summaryNegative = scoreAgainstTerms(parts.summary, NEGATIVE_TERMS, 2);
-
-  const officialOnlyPenalty = hasAny([parts.metadata, parts.title, parts.summary].join(" "), OFFICIAL_NAME_TERMS)
-    && metadataPositive + titlePositive + summaryPositive === 0
-    ? 4
-    : 0;
-
-  const positive = metadataPositive + titlePositive + summaryPositive + sourceKeywordScore;
-  const negative = metadataNegative + titleNegative + summaryNegative + officialOnlyPenalty;
-
-  return {
-    positive,
-    negative,
-    context: broadContext,
-    score: positive + (positive > 0 ? broadContext : 0) - negative,
-    hasCoreDigital: positive > 0,
-    metadataPositive,
-    titlePositive,
-    summaryPositive,
-    negativeMatched: negative > 0
-  };
-}
-
-function matchedTopics(text) {
-  return TOPIC_KEYWORDS
-    .filter(rule => rule.terms.some(term => hasTerm(text, term)))
-    .map(rule => rule.topic);
-}
-
 export function classifyItem(raw, source) {
-  const text = allText(raw);
-  const topics = matchedTopics(text);
+  const text = [raw.title, raw.summary, source?.name, source?.region].filter(Boolean).join(" ").toLowerCase();
+  const topics = TOPIC_KEYWORDS
+    .filter(rule => rule.terms.some(term => text.includes(term)))
+    .map(rule => rule.topic);
+
   const category = determineCategory(text, raw.title);
   const priority = determinePriority(text, source, category);
 
@@ -204,8 +77,8 @@ function determineCategory(text, title = "") {
 
 function determinePriority(text, source, category) {
   const isPrimary = String(source?.tier || "").toLowerCase() === "tier 1";
-  const highScore = HIGH_PRIORITY_TERMS.reduce((score, term) => score + (hasTerm(text, term) ? 1 : 0), 0);
-  const mediumScore = MEDIUM_PRIORITY_TERMS.reduce((score, term) => score + (hasTerm(text, term) ? 1 : 0), 0);
+  const highScore = HIGH_PRIORITY_TERMS.reduce((score, term) => score + (text.includes(term) ? 1 : 0), 0);
+  const mediumScore = MEDIUM_PRIORITY_TERMS.reduce((score, term) => score + (text.includes(term) ? 1 : 0), 0);
   if (isPrimary && highScore >= 1) return "High";
   if (category === "Consultation" || category === "Policy Statement") return "High";
   if (highScore >= 2) return "High";
@@ -230,17 +103,9 @@ function buildWhyItMatters(topics, source) {
 }
 
 export function isRelevant(raw, source) {
-  const text = allText(raw);
-  if (!text.trim()) return false;
-
-  const relevance = relevanceScore(raw, source);
-
-  // Keyword/category metadata and title matches carry the most weight. Summary
-  // matches are accepted only when a genuine digital-assets anchor exists and
-  // negative metadata/title signals do not overwhelm the item.
-  return relevance.hasCoreDigital && relevance.score >= 3;
-}
-
-export function explainRelevance(raw, source) {
-  return relevanceScore(raw, source);
+  const sourceKeywords = (source?.keywords || []).map(k => k.toLowerCase());
+  const haystack = [raw.title, raw.summary, raw.description, source?.name].filter(Boolean).join(" ").toLowerCase();
+  if (!haystack.trim()) return false;
+  return sourceKeywords.some(keyword => haystack.includes(keyword.toLowerCase()))
+    || TOPIC_KEYWORDS.some(rule => rule.terms.some(term => haystack.includes(term)));
 }

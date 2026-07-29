@@ -1,46 +1,43 @@
 window.REGWATCH_DATA = {
   "siteName": "Digital Assets Regulatory Watch",
-  "release": "MVP v1.0.22",
-  "lastUpdated": "2026-07-29",
+  "release": "MVP v1.0.15 + Events",
+  "lastUpdated": "2026-07-21",
   "monitoring": {
     "status": "Active",
-    "lastScan": "2026-07-29T19:21:21.544Z",
+    "lastScan": "2026-07-21T20:22:00+01:00",
     "quietPeriodDays": 14,
     "regions": [
       {
         "name": "United Kingdom",
         "shortName": "UK",
-        "lastChecked": "2026-07-29",
+        "lastChecked": "2026-07-21",
         "status": "Active"
       },
       {
         "name": "European Union",
         "shortName": "EU",
-        "lastChecked": "2026-07-29",
-        "status": "Active"
-      },
-      {
-        "name": "Global",
-        "shortName": "Global",
-        "lastChecked": "2026-07-29",
+        "lastChecked": "2026-07-21",
         "status": "Active"
       },
       {
         "name": "United States",
         "shortName": "US",
-        "lastChecked": "2026-07-29",
+        "lastChecked": "2026-07-21",
+        "status": "Active"
+      },
+      {
+        "name": "Global standard setters",
+        "shortName": "Global",
+        "lastChecked": "2026-07-21",
+        "status": "Active"
+      },
+      {
+        "name": "Asia-Pacific",
+        "shortName": "APAC",
+        "lastChecked": "2026-07-21",
         "status": "Active"
       }
-    ],
-    "lastScanResult": {
-      "newPublishedItems": 0,
-      "newHighPriorityItems": 0,
-      "newMediumPriorityItems": 0,
-      "newLowPriorityItems": 0,
-      "materialItems": 0,
-      "newPendingItems": 0,
-      "checkedSources": 25
-    }
+    ]
   },
   "description": "Informational regulatory intelligence workspace for public-source monitoring of digital assets, tokenisation, stablecoins and financial market infrastructure developments.",
   "nonPurpose": [
@@ -58,234 +55,189 @@ window.REGWATCH_DATA = {
     "schedule": "daily target: 07:30 Europe/London",
     "marketIntelligence": "third-party links only; no summaries or article excerpts; 30-day retention; hourly monitoring where feed access is available"
   },
-  "events": {
-    "lastManualReview": "2026-07-29",
-    "lookaheadDays": 365,
-    "keepPastDays": 7,
-    "lastScanResult": {}
-  },
-  "marketIntelligence": [
+  "events": [
     {
-      "id": "finextra-crypto-imf-issues-crypto-asset-warning-to-brazil-2026-07-28",
-      "title": "IMF issues crypto asset warning to Brazil",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/newsarticle/48156/imf-issues-crypto-asset-warning-to-brazil",
-      "publishedAt": "2026-07-28T12:38:00.000Z",
-      "category": "Digital assets",
-      "topics": [
-        "Digital assets"
-      ],
-      "collectionMode": "auto"
-    },
-    {
-      "id": "finextra-crypto-marqeta-and-zerohash-make-stablecoins-spendable-on-cards-2026-07-24",
-      "title": "Marqeta and zerohash make stablecoins spendable on cards",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/pressarticle/110495/marqeta-and-zerohash-make-stablecoins-spendable-on-cards",
-      "publishedAt": "2026-07-24T15:48:00.000Z",
+      "id": "rwa-summit-brooklyn-2026",
+      "title": "Real-World Asset Summit Brooklyn 2026",
+      "source": "Real-World Asset Summit",
+      "url": "https://www.rwasummit.io/",
+      "eventDate": "2026-09-01T09:00:00-04:00",
+      "endDate": "2026-09-02",
+      "format": "Summit",
+      "location": "Brooklyn, New York",
+      "access": "Invite-only / application required",
       "category": "Tokenisation",
       "topics": [
         "Tokenisation",
-        "Stablecoins & settlement"
+        "Real-world assets",
+        "Institutional digital assets"
       ],
-      "collectionMode": "auto"
+      "collectionMode": "manual"
     },
     {
-      "id": "markets-media-feed-eurex-members-mobilize-collateral-on-dlt-2026-07-24",
-      "title": "Eurex Members Mobilize Collateral on DLT",
-      "source": "Markets Media",
-      "url": "https://www.marketsmedia.com/eurex-members-mobilize-collateral-on-dlt",
-      "publishedAt": "2026-07-24T13:30:03.000Z",
-      "category": "Collateral",
-      "topics": [
-        "Collateral",
-        "Institutional adoption"
-      ],
-      "collectionMode": "auto"
-    },
-    {
-      "id": "finextra-crypto-leading-digital-assets-firms-pledge-15-million-to-establish-bitcoin-security-consortium-2026-07-24",
-      "title": "Leading digital assets firms pledge $15 million to establish Bitcoin Security Consortium",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/newsarticle/48142/leading-digital-assets-firms-pledge-15-million-to-establish-bitcoin-security-consortium",
-      "publishedAt": "2026-07-24T11:16:00.000Z",
-      "category": "Digital assets",
-      "topics": [
-        "Digital assets"
-      ],
-      "collectionMode": "auto"
-    },
-    {
-      "id": "finextra-crypto-boerse-stuttgart-adopts-socgen-stablecoin-2026-07-23",
-      "title": "Boerse Stuttgart adopts SocGen stablecoin",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/pressarticle/110480/boerse-stuttgart-adopts-socgen-stablecoin",
-      "publishedAt": "2026-07-23T10:08:00.000Z",
-      "category": "Custody",
-      "topics": [
-        "Custody",
-        "Stablecoins & settlement"
-      ],
-      "collectionMode": "auto"
-    },
-    {
-      "id": "finextra-crypto-stablecoin-infrastructure-startup-cyclops-raises-20-million-2026-07-20",
-      "title": "Stablecoin infrastructure startup Cyclops raises $20 million",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/pressarticle/110452/stablecoin-infrastructure-startup-cyclops-raises-20-million",
-      "publishedAt": "2026-07-20T09:31:00.000Z",
-      "category": "Stablecoins & settlement",
-      "topics": [
-        "Stablecoins & settlement"
-      ],
-      "collectionMode": "auto"
-    },
-    {
-      "id": "finextra-crypto-tokenized-real-estate-needs-machine-readable-physical-data-2026-07-19",
-      "title": "Tokenized Real Estate Needs Machine-Readable Physical Data",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/blogposting/32317/tokenized-real-estate-needs-machine-readable-physical-data",
-      "publishedAt": "2026-07-19T10:55:53.000Z",
-      "category": "Tokenisation",
-      "topics": [
-        "Tokenisation"
-      ],
-      "collectionMode": "auto"
-    },
-    {
-      "id": "finextra-crypto-visa-launches-stablecoin-platform-2026-07-16",
-      "title": "Visa launches stablecoin platform",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/newsarticle/48110/visa-launches-stablecoin-platform",
-      "publishedAt": "2026-07-16T18:21:00.000Z",
-      "category": "Stablecoins & settlement",
-      "topics": [
-        "Stablecoins & settlement"
-      ],
-      "collectionMode": "auto"
-    },
-    {
-      "id": "finextra-crypto-tokenized-deposits-explained-what-swift-s-multi-bank-pilot-means-for-the-future-of-banking-2026-07-16",
-      "title": "Tokenized Deposits Explained: What Swift’s Multi-Bank Pilot Means for the Future of Banking",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/blogposting/32296/tokenized-deposits-explained-what-swifts-multi-bank-pilot-means-for-the-future-of-banking",
-      "publishedAt": "2026-07-16T10:58:53.000Z",
+      "id": "dtcc-real-world-asset-summit-2026",
+      "title": "DTCC to speak: Real-World Asset Summit",
+      "source": "DTCC Events",
+      "url": "https://www.dtcc.com/events?pgs=1",
+      "eventDate": "2026-09-01T09:00:00-04:00",
+      "endDate": "2026-09-02",
+      "format": "Conference appearance",
+      "location": "Brooklyn, New York",
+      "access": "External event / DTCC speaker",
       "category": "Tokenisation",
       "topics": [
         "Tokenisation",
-        "Stablecoins & settlement"
+        "Digital assets",
+        "Market infrastructure"
       ],
-      "collectionMode": "auto"
+      "collectionMode": "manual"
     },
     {
-      "id": "finextra-markets-dtcc-turns-tokenisation-into-reality-2026-07-15",
-      "title": "DTCC turns tokenisation into reality",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/newsarticle/48102/dtcc-turns-tokenisation-into-reality",
-      "publishedAt": "2026-07-15T18:48:00.000Z",
+      "id": "icma-bwf-capital-markets-conference-2026",
+      "title": "14th bwf and ICMA Capital Markets Conference",
+      "source": "ICMA",
+      "url": "https://www.icmagroup.org/events/14th-bwf-and-icma-capital-markets-conference/",
+      "eventDate": "2026-09-09T09:30:00+02:00",
+      "endDate": "2026-09-09",
+      "format": "Conference",
+      "location": "Frankfurt",
+      "access": "Open to all / free",
       "category": "Tokenisation",
       "topics": [
+        "Tokenisation",
+        "Bond markets",
+        "Market infrastructure"
+      ],
+      "collectionMode": "manual"
+    },
+    {
+      "id": "omfif-european-blockchain-convention-2026",
+      "title": "European Blockchain Convention",
+      "source": "OMFIF Digital Monetary Institute",
+      "url": "https://www.omfif.org/meetings/?pi_theme=Digital+Monetary+Institute",
+      "eventDate": "2026-09-16T09:00:00+02:00",
+      "endDate": "2026-09-17",
+      "format": "Partner event",
+      "location": "Barcelona",
+      "access": "Registration required",
+      "category": "Institutional digital assets",
+      "topics": [
+        "Digital assets",
+        "Tokenisation",
+        "Stablecoins"
+      ],
+      "collectionMode": "manual"
+    },
+    {
+      "id": "dtcc-fintech-conference-2026",
+      "title": "DTCC to speak: The 10th Annual Fintech Conference",
+      "source": "DTCC Events",
+      "url": "https://www.dtcc.com/events?pgs=-1135",
+      "eventDate": "2026-09-24T09:00:00-04:00",
+      "endDate": "2026-09-25",
+      "format": "Conference appearance",
+      "location": "Philadelphia",
+      "access": "External event / DTCC speaker",
+      "category": "Market infrastructure",
+      "topics": [
+        "Digital assets",
+        "Market infrastructure",
+        "Fintech"
+      ],
+      "collectionMode": "manual"
+    },
+    {
+      "id": "dtcc-sibos-miami-2026",
+      "title": "DTCC at Sibos Miami 2026",
+      "source": "DTCC Events",
+      "url": "https://www.dtcc.com/events?pgs=-1135",
+      "eventDate": "2026-09-28T09:00:00-04:00",
+      "endDate": "2026-10-01",
+      "format": "Conference appearance",
+      "location": "Miami",
+      "access": "External event / DTCC sponsor & speaker",
+      "category": "Market infrastructure",
+      "topics": [
+        "Digital assets",
+        "Market infrastructure",
+        "Asset services"
+      ],
+      "collectionMode": "manual"
+    },
+    {
+      "id": "icma-fintech-digitalisation-forum-2026",
+      "title": "ICMA FinTech & Digitalisation Forum 2026",
+      "source": "ICMA",
+      "url": "https://www.icmagroup.org/events/fintech-and-digitalisation-forum-2026/",
+      "eventDate": "2026-09-29T09:00:00+01:00",
+      "endDate": "2026-09-29",
+      "format": "Forum",
+      "location": "London",
+      "access": "Free for eligible ICMA/regulator attendees; paid for others",
+      "category": "Tokenisation",
+      "topics": [
+        "DLT bonds",
+        "Stablecoins",
+        "Digital money",
+        "Capital markets"
+      ],
+      "collectionMode": "manual"
+    },
+    {
+      "id": "uk-public-private-capital-markets-summit-2026",
+      "title": "Reform of the UK Public and Private Capital Markets Summit 2026",
+      "source": "City & Financial Global / ICMA",
+      "url": "https://www.icmagroup.org/events/reform-of-the-uk-public-and-private-capital-markets-summit-2026/",
+      "eventDate": "2026-10-05T09:00:00+01:00",
+      "endDate": "2026-10-05",
+      "format": "Summit",
+      "location": "London",
+      "access": "Paid / registration required",
+      "category": "Tokenisation",
+      "topics": [
+        "UK capital markets",
+        "DLT",
         "Tokenisation",
         "Market infrastructure"
       ],
-      "collectionMode": "auto"
+      "collectionMode": "manual"
     },
     {
-      "id": "finextra-crypto-how-centralized-exchanges-are-becoming-the-gateway-between-traditional-finance-and-digital-asset-2026-07-14",
-      "title": "How Centralized Exchanges Are Becoming the Gateway Between Traditional Finance and Digital Assets",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/blogposting/32271/how-centralized-exchanges-are-becoming-the-gateway-between-traditional-finance-and-digital-assets",
-      "publishedAt": "2026-07-14T13:38:38.000Z",
-      "category": "Digital assets",
+      "id": "digital-asset-conference-iv-2026",
+      "title": "The Digital Asset Conference IV",
+      "source": "The Digital Asset Conference",
+      "url": "https://www.thedigitalassetconference.com/event-details/the-digital-asset-conference-iv",
+      "eventDate": "2026-10-20T09:00:00+01:00",
+      "endDate": "2026-10-20",
+      "format": "Conference",
+      "location": "London",
+      "access": "Paid tickets",
+      "category": "Institutional digital assets",
       "topics": [
-        "Digital assets"
-      ],
-      "collectionMode": "auto"
-    },
-    {
-      "id": "finextra-crypto-jcb-signs-stablecoin-mou-with-circle-2026-07-14",
-      "title": "JCB signs stablecoin MoU with Circle",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/pressarticle/110410/jcb-signs-stablecoin-mou-with-circle",
-      "publishedAt": "2026-07-14T11:56:00.000Z",
-      "category": "Stablecoins & settlement",
-      "topics": [
-        "Stablecoins & settlement"
-      ],
-      "collectionMode": "auto"
-    },
-    {
-      "id": "finextra-crypto-why-tokenisation-will-spread-to-private-market-funds-2026-07-13",
-      "title": "Why tokenisation will spread to private market funds",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/blogposting/32262/why-tokenisation-will-spread-to-private-market-funds",
-      "publishedAt": "2026-07-13T18:50:48.000Z",
-      "category": "Tokenisation",
-      "topics": [
-        "Tokenisation"
-      ],
-      "collectionMode": "auto"
-    },
-    {
-      "id": "finextra-crypto-sbi-holdings-leads-125-million-investment-round-in-digital-asset-firm-gauntlet-2026-07-13",
-      "title": "SBI Holdings leads $125 million investment round in digital asset firm Gauntlet",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/pressarticle/110399/sbi-holdings-leads-125-million-investment-round-in-digital-asset-firm-gauntlet",
-      "publishedAt": "2026-07-13T09:38:00.000Z",
-      "category": "Digital assets",
-      "topics": [
-        "Digital assets"
-      ],
-      "collectionMode": "auto"
-    },
-    {
-      "id": "finextra-wholesale-tokenized-payments-how-swift-project-agor-and-225-pontes-and-appia-are-positioned-2026-07-12",
-      "title": "Tokenized payments: how SWIFT, Project Agor&#225;, PONTES and APPIA are positioned",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/blogposting/32251/tokenized-payments-how-swift-project-agor-pontes-and-appia-are-positioned",
-      "publishedAt": "2026-07-12T01:22:22.000Z",
-      "category": "Tokenisation",
-      "topics": [
-        "Tokenisation"
-      ],
-      "collectionMode": "auto"
-    },
-    {
-      "id": "finextra-crypto-what-are-the-best-use-cases-for-tokenisation-and-programmability-2026-07-10",
-      "title": "What Are the Best Use Cases for Tokenisation and Programmability?",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/videoarticle/3563/what-are-the-best-use-cases-for-tokenisation-and-programmability",
-      "publishedAt": "2026-07-10T15:00:00.000Z",
-      "category": "Tokenisation",
-      "topics": [
+        "Digital assets",
         "Tokenisation",
-        "Stablecoins & settlement"
+        "Institutional adoption"
       ],
-      "collectionMode": "auto"
+      "collectionMode": "manual"
     },
     {
-      "id": "finextra-crypto-sony-bank-wins-us-regulatory-approval-for-stablecoin-trust-bank-2026-07-09",
-      "title": "Sony Bank wins US regulatory approval for stablecoin trust bank",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/newsarticle/48064/sony-bank-wins-us-regulatory-approval-for-stablecoin-trust-bank",
-      "publishedAt": "2026-07-09T10:46:00.000Z",
-      "category": "Stablecoins & settlement",
+      "id": "omfif-digital-money-summit-2027",
+      "title": "Digital Money Summit 2027",
+      "source": "OMFIF Digital Monetary Institute",
+      "url": "https://www.omfif.org/dms2027/",
+      "eventDate": "2027-05-18T09:00:00+01:00",
+      "endDate": "2027-05-19",
+      "format": "Summit",
+      "location": "London",
+      "access": "Register interest",
+      "category": "Stablecoins & digital money",
       "topics": [
-        "Stablecoins & settlement"
+        "Stablecoins",
+        "Tokenised deposits",
+        "Digital money",
+        "Cryptoasset regulation"
       ],
-      "collectionMode": "auto"
-    },
-    {
-      "id": "finextra-wholesale-the-yield-illusion-how-unpriced-technical-debt-is-crashing-rwa-tokenization-2026-07-07",
-      "title": "The Yield Illusion: How Unpriced Technical Debt is Crashing RWA Tokenization",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/blogposting/32214/the-yield-illusion-how-unpriced-technical-debt-is-crashing-rwa-tokenization",
-      "publishedAt": "2026-07-07T15:28:16.000Z",
-      "category": "Tokenisation",
-      "topics": [
-        "Tokenisation"
-      ],
-      "collectionMode": "auto"
+      "collectionMode": "manual"
     }
   ],
   "monthlyReviews": [
@@ -306,354 +258,6 @@ window.REGWATCH_DATA = {
     }
   ],
   "updates": [
-    {
-      "id": "bis-all-dollarisation-and-monetary-control-what-lessons-for-the-rise-of-stablecoins-2026-07-21",
-      "title": "Dollarisation and monetary control: what lessons for the rise of stablecoins?",
-      "source": "Bank for International Settlements",
-      "sourceType": "Central bank body",
-      "url": "https://www.bis.org/publ/work1370.htm",
-      "publishedAt": "2026-07-21T06:24:00.000Z",
-      "jurisdiction": "Global",
-      "category": "Source Update",
-      "topics": [
-        "Stablecoins",
-        "Settlement"
-      ],
-      "priority": "High",
-      "status": "Published",
-      "summary": "by Boris Hofmann, Aaron Mehrotra, Jan Paulick The emergence of stablecoins has created a new channel to access US dollar liquidity in emerging market and developing economies (EMDEs), similar to the historical role of foreign currency deposits, or \"deposit dollarisation\". This has raised concerns about the possible implications for monetary control in EMDEs. Drawing on data on foreign currency deposits and dollar-peg",
-      "whyItMatters": "Relevant for settlement assets, reserve models, payment stablecoin issuance, redemption rights and prudential or supervisory treatment."
-    },
-    {
-      "id": "bank-of-england-pra-ps16-26-pra-rule-changes-to-accommodate-hm-treasury-s-overseas-prudential-requirements-regime-2026-07-14",
-      "title": "PS16/26 – PRA rule changes to accommodate HM Treasury’s Overseas Prudential Requirements Regime",
-      "source": "Bank of England",
-      "sourceType": "Central bank",
-      "url": "https://www.bankofengland.co.uk/prudential-regulation/publication/2026/july/pra-rule-changes-for-hmt-overseas-prudential-requirements-regime",
-      "publishedAt": "2026-07-14T14:00:00.000Z",
-      "jurisdiction": "United Kingdom",
-      "category": "Policy Statement",
-      "topics": [
-        "Prudential Treatment"
-      ],
-      "priority": "High",
-      "status": "Published",
-      "summary": "Bank of England published a new item relevant to digital assets, tokenisation, stablecoins or financial market infrastructure monitoring.",
-      "whyItMatters": "Relevant for bank capital treatment, exposure management, risk classification and internal governance of cryptoasset-related activities."
-    },
-    {
-      "id": "bank-of-england-publications-the-bank-of-england-s-fees-regime-for-financial-market-infrastructure-supervision-for-ccps-and-c-2026-07-08",
-      "title": "The Bank of England’s fees regime for financial market infrastructure supervision for CCPs and CSDs 2026/27",
-      "source": "Bank of England",
-      "sourceType": "Central bank",
-      "url": "https://www.bankofengland.co.uk/paper/2026/ps/the-boes-fees-regime-for-fmi-supervision-for-ccps-and-csds-2026-27",
-      "publishedAt": "2026-07-08T09:00:00.000Z",
-      "jurisdiction": "United Kingdom",
-      "category": "Policy Statement",
-      "topics": [
-        "Settlement"
-      ],
-      "priority": "High",
-      "status": "Published",
-      "summary": "Bank of England published a new item relevant to digital assets, tokenisation, stablecoins or financial market infrastructure monitoring.",
-      "whyItMatters": "Relevant for institutional tokenisation, settlement, custody, DvP, collateral and financial market infrastructure use cases."
-    },
-    {
-      "id": "bis-all-chiara-scotti-from-the-winter-olympics-to-the-digital-euro-a-dialogue-between-academia-and-centr-2026-07-01",
-      "title": "Chiara Scotti: From the Winter Olympics to the digital euro. A dialogue between academia and central banks",
-      "source": "Bank for International Settlements",
-      "sourceType": "Central bank body",
-      "url": "https://www.bis.org/review/r260701a.htm",
-      "publishedAt": "2026-07-01T12:43:00.000Z",
-      "jurisdiction": "Global",
-      "category": "Speech / Remarks",
-      "topics": [
-        "Settlement"
-      ],
-      "priority": "Medium",
-      "status": "Published",
-      "summary": "Speech by Ms Chiara Scotti, Deputy Governor of the Bank of Italy, at the \"6th Dolomiti Macro Meeting\", organised by Free University of Bozen, BI Norwegian Business School, Centre for Applied Macroeconomics and Commodity Prices (CAMP), Bozen, 20 June 2026.",
-      "whyItMatters": "Relevant for institutional tokenisation, settlement, custody, DvP, collateral and financial market infrastructure use cases."
-    },
-    {
-      "id": "bis-all-joachim-nagel-the-digital-euro-promoting-innovation-safeguarding-sovereignty-strengthening-europ-2026-06-30",
-      "title": "Joachim Nagel: The digital euro - promoting innovation, safeguarding sovereignty, strengthening Europe",
-      "source": "Bank for International Settlements",
-      "sourceType": "Central bank body",
-      "url": "https://www.bis.org/review/r260630e.htm",
-      "publishedAt": "2026-06-30T09:09:00.000Z",
-      "jurisdiction": "Global",
-      "category": "Speech / Remarks",
-      "topics": [
-        "Custody",
-        "Settlement"
-      ],
-      "priority": "High",
-      "status": "Published",
-      "summary": "Speech by Dr Joachim Nagel, President of the Deutsche Bundesbank, at the International Bankers Forum, Frankfurt am Main, 24 June 2026.",
-      "whyItMatters": "Relevant for institutional tokenisation, settlement, custody, DvP, collateral and financial market infrastructure use cases."
-    },
-    {
-      "id": "bank-of-england-publications-bank-of-england-and-financial-conduct-authority-s-approach-to-joint-regulation-of-systemic-stabl-2026-06-30",
-      "title": "Bank of England and Financial Conduct Authority’s approach to joint regulation of systemic stablecoin issuers",
-      "source": "Bank of England",
-      "sourceType": "Central bank",
-      "url": "https://www.bankofengland.co.uk/paper/2026/boe-and-fcas-approach-to-joint-regulation-of-systemic-stablecoin-issuers",
-      "publishedAt": "2026-06-30T08:00:00.000Z",
-      "jurisdiction": "United Kingdom",
-      "category": "Regulatory Update",
-      "topics": [
-        "Stablecoins"
-      ],
-      "priority": "High",
-      "status": "Published",
-      "summary": "Bank of England published a new item relevant to digital assets, tokenisation, stablecoins or financial market infrastructure monitoring.",
-      "whyItMatters": "Relevant for settlement assets, reserve models, payment stablecoin issuance, redemption rights and prudential or supervisory treatment."
-    },
-    {
-      "id": "bis-fsi-the-macroeconomics-of-stablecoins-2026-06-23",
-      "title": "The macroeconomics of stablecoins",
-      "source": "Financial Stability Institute / BIS",
-      "sourceType": "Official source",
-      "url": "https://www.bis.org/publ/work1363.htm",
-      "publishedAt": "2026-06-23T07:44:00.000Z",
-      "jurisdiction": "Global",
-      "category": "Source Update",
-      "topics": [
-        "Stablecoins"
-      ],
-      "priority": "High",
-      "status": "Published",
-      "summary": "by Boris Hofmann, Matthias Kaldorf, Matthias Rottner We analyse the macroeconomic impact of stablecoins using a quantitative macroeconomic model. Stablecoins influence the economy through two opposing channels: (i) a bank lending channel, as household demand for stablecoins raises deposit rates, increases bank funding costs, and reduces loan supply; and (ii) a fiscal space channel, as stablecoin issuers' demand for T",
-      "whyItMatters": "Relevant for settlement assets, reserve models, payment stablecoin issuance, redemption rights and prudential or supervisory treatment."
-    },
-    {
-      "id": "bank-of-england-publications-sterling-denominated-systemic-stablecoins-2026-06-22",
-      "title": "Sterling-denominated systemic stablecoins",
-      "source": "Bank of England",
-      "sourceType": "Central bank",
-      "url": "https://www.bankofengland.co.uk/paper/2026/ps/sterling-denominated-systemic-stablecoin",
-      "publishedAt": "2026-06-22T07:30:00.000Z",
-      "jurisdiction": "United Kingdom",
-      "category": "Consultation",
-      "topics": [
-        "Stablecoins"
-      ],
-      "priority": "High",
-      "status": "Consultation",
-      "summary": "Policy statement and consultation on draft Code of Practice",
-      "whyItMatters": "Relevant for settlement assets, reserve models, payment stablecoin issuance, redemption rights and prudential or supervisory treatment."
-    },
-    {
-      "id": "bis-fsi-stablecoin-remuneration-on-centralised-exchanges-2026-06-19",
-      "title": "Stablecoin remuneration on centralised exchanges",
-      "source": "Financial Stability Institute / BIS",
-      "sourceType": "Official source",
-      "url": "https://www.bis.org/publ/bisbull125.htm",
-      "publishedAt": "2026-06-19T08:25:00.000Z",
-      "jurisdiction": "Global",
-      "category": "Source Update",
-      "topics": [
-        "Stablecoins"
-      ],
-      "priority": "High",
-      "status": "Published",
-      "summary": "by Wenqian Huang, Nikola Tarashev, Xinyi Wang Centralised exchanges remunerate stablecoin holders, using the return on the issuer's reserve assets or income from market activity. Under the reserve-based model, yields track policy rates &#8211; akin to yields on cash-management instruments &#8211; whereas under the activity-based model, yields are much more volatile. By turning stablecoins into substitutes for bank de",
-      "whyItMatters": "Relevant for settlement assets, reserve models, payment stablecoin issuance, redemption rights and prudential or supervisory treatment."
-    },
-    {
-      "id": "bank-of-england-pra-cp9-26-basel-3-1-adjustments-to-the-internal-model-approach-ima-for-market-risk-2026-06-19",
-      "title": "CP9/26 – Basel 3.1: Adjustments to the internal model approach (IMA) for market risk",
-      "source": "Bank of England",
-      "sourceType": "Central bank",
-      "url": "https://www.bankofengland.co.uk/prudential-regulation/publication/2026/june/basel-3-1-adjustments-to-the-internal-model-approach-for-market-risk-consultation-paper",
-      "publishedAt": "2026-06-19T06:00:00.000Z",
-      "jurisdiction": "United Kingdom",
-      "category": "Consultation",
-      "topics": [
-        "Prudential Treatment"
-      ],
-      "priority": "High",
-      "status": "Consultation",
-      "summary": "Bank of England published a new item relevant to digital assets, tokenisation, stablecoins or financial market infrastructure monitoring.",
-      "whyItMatters": "Relevant for bank capital treatment, exposure management, risk classification and internal governance of cryptoasset-related activities."
-    },
-    {
-      "id": "bank-of-england-publications-operational-resilience-recognised-payment-system-operators-and-specified-service-providers-2026-06-12",
-      "title": "Operational resilience: recognised payment system operators and specified service providers",
-      "source": "Bank of England",
-      "sourceType": "Central bank",
-      "url": "https://www.bankofengland.co.uk/paper/2026/ss/operational-resilience-rpsos-ssps-ss",
-      "publishedAt": "2026-06-12T09:00:00.000Z",
-      "jurisdiction": "United Kingdom",
-      "category": "Source Update",
-      "topics": [
-        "Settlement"
-      ],
-      "priority": "Medium",
-      "status": "Published",
-      "summary": "Bank of England published a new item relevant to digital assets, tokenisation, stablecoins or financial market infrastructure monitoring.",
-      "whyItMatters": "Relevant for institutional tokenisation, settlement, custody, DvP, collateral and financial market infrastructure use cases."
-    },
-    {
-      "id": "bis-fsi-the-anatomy-of-stablecoin-transactions-2026-06-11",
-      "title": "The anatomy of stablecoin transactions",
-      "source": "Financial Stability Institute / BIS",
-      "sourceType": "Official source",
-      "url": "https://www.bis.org/publ/work1359.htm",
-      "publishedAt": "2026-06-11T12:00:00.000Z",
-      "jurisdiction": "Global",
-      "category": "Institutional Report",
-      "topics": [
-        "MiCA",
-        "Stablecoins",
-        "Settlement"
-      ],
-      "priority": "High",
-      "status": "Published",
-      "summary": "by Fabian Schär, Anneke Kosse, Tara Rice, Takeshi Shirakami, Jirapat Siridhasanakul Stablecoin transfers are often interpreted as payments. On programmable blockchains, however, they are frequently embedded in atomically executed transaction bundles that combine trading, lending, arbitrage, liquidity provision, and settlement. We show that ignoring this structure materially distorts the interpretation of stablecoin a",
-      "whyItMatters": "Relevant for EU regulatory perimeter, CASP authorisation, stablecoin issuance or crypto-asset service implementation analysis."
-    },
-    {
-      "id": "bank-of-england-pra-letter-from-david-bailey-charlotte-gerken-and-rebecca-jackson-on-reaffirming-the-pra-s-position--2026-05-18",
-      "title": "Letter from David Bailey, Charlotte Gerken and Rebecca Jackson on reaffirming the PRA's position and clarifying expectations on innovations in the use of deposits, e-money and stablecoins",
-      "source": "Bank of England",
-      "sourceType": "Central bank",
-      "url": "https://www.bankofengland.co.uk/prudential-regulation/letter/2026/innovations-in-the-use-of-deposits-emoney-and-regulated-stablecoins",
-      "publishedAt": "2026-05-18T08:00:00.000Z",
-      "jurisdiction": "United Kingdom",
-      "category": "Source Update",
-      "topics": [
-        "Stablecoins"
-      ],
-      "priority": "High",
-      "status": "Published",
-      "summary": "Letter to Chief Executive Officers of all banks and designated investment firms.",
-      "whyItMatters": "Relevant for settlement assets, reserve models, payment stablecoin issuance, redemption rights and prudential or supervisory treatment."
-    },
-    {
-      "id": "bank-of-england-pra-letter-from-david-bailey-charlotte-gerken-and-rebecca-jackson-on-the-prudential-treatment-of-tok-2026-05-18",
-      "title": "Letter from David Bailey, Charlotte Gerken and Rebecca Jackson on the prudential treatment of tokenised assets, stablecoins, and other cryptoasset exposures",
-      "source": "Bank of England",
-      "sourceType": "Central bank",
-      "url": "https://www.bankofengland.co.uk/prudential-regulation/letter/2026/tokenised-assets-stablecoins-and-other-cryptoasset-exposures",
-      "publishedAt": "2026-05-18T08:00:00.000Z",
-      "jurisdiction": "United Kingdom",
-      "category": "Source Update",
-      "topics": [
-        "Cryptoasset Regulation",
-        "Stablecoins",
-        "Tokenisation",
-        "Prudential Treatment"
-      ],
-      "priority": "High",
-      "status": "Published",
-      "summary": "Letter to Chief Executive Officers of all banks and designated investment firms.",
-      "whyItMatters": "Relevant for settlement assets, reserve models, payment stablecoin issuance, redemption rights and prudential or supervisory treatment."
-    },
-    {
-      "id": "bank-of-england-pra-sop14-24-the-prudential-regulation-authority-s-approach-to-cost-benefit-analysis-2026-04-29",
-      "title": "SoP14/24 – The Prudential Regulation Authority’s approach to cost benefit analysis",
-      "source": "Bank of England",
-      "sourceType": "Central bank",
-      "url": "https://www.bankofengland.co.uk/prudential-regulation/publication/2026/april/pra-approach-to-cost-benefit-analysis-statement-of-policy",
-      "publishedAt": "2026-04-29T09:37:00.000Z",
-      "jurisdiction": "United Kingdom",
-      "category": "Regulatory Update",
-      "topics": [
-        "Prudential Treatment"
-      ],
-      "priority": "High",
-      "status": "Published",
-      "summary": "Bank of England published a new item relevant to digital assets, tokenisation, stablecoins or financial market infrastructure monitoring.",
-      "whyItMatters": "Relevant for bank capital treatment, exposure management, risk classification and internal governance of cryptoasset-related activities."
-    },
-    {
-      "id": "bank-of-england-pra-sop14-24-the-prudential-regulation-authority-s-approach-to-cost-benefit-analysis-2026-04-29",
-      "title": "SoP14/24 – The Prudential Regulation Authority’s approach to cost benefit analysis",
-      "source": "Bank of England",
-      "sourceType": "Central bank",
-      "url": "https://www.bankofengland.co.uk/prudential-regulation/publication/2026/april/sop1424-pra-approach-to-cost-benefit-analysis-statement-of-policy",
-      "publishedAt": "2026-04-29T08:30:00.000Z",
-      "jurisdiction": "United Kingdom",
-      "category": "Regulatory Update",
-      "topics": [
-        "Prudential Treatment"
-      ],
-      "priority": "High",
-      "status": "Published",
-      "summary": "Bank of England published a new item relevant to digital assets, tokenisation, stablecoins or financial market infrastructure monitoring.",
-      "whyItMatters": "Relevant for bank capital treatment, exposure management, risk classification and internal governance of cryptoasset-related activities."
-    },
-    {
-      "id": "bank-of-england-pra-ps11-26-disclosure-resolvability-resources-capital-distribution-constraints-and-the-basis-for-fi-2026-03-26",
-      "title": "PS11/26 – Disclosure: resolvability resources, capital distribution constraints and the basis for firm Pillar 3 disclosure",
-      "source": "Bank of England",
-      "sourceType": "Central bank",
-      "url": "https://www.bankofengland.co.uk/prudential-regulation/publication/2026/march/disclosure-policy-statement",
-      "publishedAt": "2026-03-26T10:00:00.000Z",
-      "jurisdiction": "United Kingdom",
-      "category": "Policy Statement",
-      "topics": [
-        "Prudential Treatment",
-        "Market Abuse"
-      ],
-      "priority": "High",
-      "status": "Published",
-      "summary": "Bank of England published a new item relevant to digital assets, tokenisation, stablecoins or financial market infrastructure monitoring.",
-      "whyItMatters": "Relevant for bank capital treatment, exposure management, risk classification and internal governance of cryptoasset-related activities."
-    },
-    {
-      "id": "bank-of-england-pra-ss1-26-operational-resilience-incident-reporting-2026-03-18",
-      "title": "SS1/26 – Operational resilience: Incident reporting",
-      "source": "Bank of England",
-      "sourceType": "Central bank",
-      "url": "https://www.bankofengland.co.uk/prudential-regulation/publication/2026/march/operational-resilience-incident-reporting-supervisory-statement",
-      "publishedAt": "2026-03-18T10:00:00.000Z",
-      "jurisdiction": "United Kingdom",
-      "category": "Institutional Report",
-      "topics": [
-        "Digital Assets"
-      ],
-      "priority": "Medium",
-      "status": "Published",
-      "summary": "Bank of England published a new item relevant to digital assets, tokenisation, stablecoins or financial market infrastructure monitoring.",
-      "whyItMatters": "Relevant as a public-source update from Bank of England within the covered regulatory intelligence scope."
-    },
-    {
-      "id": "bank-of-england-pra-ps7-26-operational-resilience-operational-incident-and-third-party-reporting-2026-03-18",
-      "title": "PS7/26 – Operational resilience: Operational incident and third-party reporting",
-      "source": "Bank of England",
-      "sourceType": "Central bank",
-      "url": "https://www.bankofengland.co.uk/prudential-regulation/publication/2026/march/operational-incident-and-third-party-reporting-policy-statement",
-      "publishedAt": "2026-03-18T10:00:00.000Z",
-      "jurisdiction": "United Kingdom",
-      "category": "Policy Statement",
-      "topics": [
-        "MiCA"
-      ],
-      "priority": "High",
-      "status": "Published",
-      "summary": "Bank of England published a new item relevant to digital assets, tokenisation, stablecoins or financial market infrastructure monitoring.",
-      "whyItMatters": "Relevant for EU regulatory perimeter, CASP authorisation, stablecoin issuance or crypto-asset service implementation analysis."
-    },
-    {
-      "id": "bank-of-england-pra-cp3-26-pra-rule-changes-to-accommodate-hm-treasury-s-overseas-prudential-requirements-regime-2026-02-19",
-      "title": "CP3/26 – PRA rule changes to accommodate HM Treasury’s Overseas Prudential Requirements Regime",
-      "source": "Bank of England",
-      "sourceType": "Central bank",
-      "url": "https://www.bankofengland.co.uk/prudential-regulation/publication/2026/february/pra-rule-changes-to-accommodate-hmt-oprr-consultation-paper",
-      "publishedAt": "2026-02-19T10:00:00.000Z",
-      "jurisdiction": "United Kingdom",
-      "category": "Consultation",
-      "topics": [
-        "Prudential Treatment"
-      ],
-      "priority": "High",
-      "status": "Consultation",
-      "summary": "Bank of England published a new item relevant to digital assets, tokenisation, stablecoins or financial market infrastructure monitoring.",
-      "whyItMatters": "Relevant for bank capital treatment, exposure management, risk classification and internal governance of cryptoasset-related activities."
-    },
     {
       "id": "fca-crypto-rules-2026-07",
       "title": "FCA sets landmark cryptoasset regime rules and confirms authorisation gateway timing",
@@ -894,6 +498,26 @@ window.REGWATCH_DATA = {
       "whyItMatters": "Relevant for banks, nonbank stablecoin issuers and service providers assessing U.S. stablecoin issuance, reserve custody, transition and supervisory requirements."
     },
     {
+      "id": "sec-sab122-rescinds-sab121-2025",
+      "title": "SEC Staff Accounting Bulletin 122 rescinds SAB 121 crypto safeguarding guidance",
+      "source": "U.S. Securities and Exchange Commission",
+      "sourceType": "Official regulator",
+      "url": "https://www.sec.gov/rules-regulations/staff-guidance/staff-accounting-bulletins/staff-accounting-bulletin-122",
+      "publishedAt": "2025-01-23",
+      "jurisdiction": "United States",
+      "category": "Historical Milestone",
+      "topics": [
+        "Custody",
+        "Accounting",
+        "Safeguarding",
+        "Cryptoasset Regulation"
+      ],
+      "priority": "High",
+      "status": "Published",
+      "summary": "SEC SAB 122 rescinded the staff interpretive guidance in SAB 121 regarding obligations to safeguard crypto-assets held for platform users.",
+      "whyItMatters": "A key U.S. accounting and custody milestone for entities safeguarding crypto-assets for customers, especially banks and listed companies evaluating custody models."
+    },
+    {
       "id": "occ-il1183-bank-crypto-activities-2025",
       "title": "OCC Interpretive Letter 1183 reaffirms national bank authority for certain crypto-asset activities",
       "source": "Office of the Comptroller of the Currency",
@@ -972,6 +596,26 @@ window.REGWATCH_DATA = {
       "status": "Published",
       "summary": "CFTC staff reissued and updated no-action relief to expand eligible tokenized collateral to include payment stablecoins issued by qualifying institutions.",
       "whyItMatters": "Strengthens the link between payment stablecoin regulation and collateral eligibility in regulated derivatives markets."
+    },
+    {
+      "id": "sec-sab121-crypto-safeguarding-2022",
+      "title": "SEC Staff Accounting Bulletin 121 addresses obligations to safeguard crypto-assets",
+      "source": "U.S. Securities and Exchange Commission",
+      "sourceType": "Official regulator",
+      "url": "https://www.sec.gov/rules-regulations/staff-guidance/staff-accounting-bulletins/staff-accounting-bulletin-121",
+      "publishedAt": "2022-03-24",
+      "jurisdiction": "United States",
+      "category": "Historical Milestone",
+      "topics": [
+        "Custody",
+        "Accounting",
+        "Safeguarding",
+        "Cryptoasset Regulation"
+      ],
+      "priority": "Medium",
+      "status": "Superseded / rescinded by SAB 122",
+      "summary": "SAB 121 expressed SEC staff views on accounting and disclosure obligations for entities safeguarding crypto-assets for platform users.",
+      "whyItMatters": "Historical baseline for understanding the 2022–2025 U.S. custody-accounting debate and the later significance of SAB 122."
     },
     {
       "id": "us-banking-agencies-crypto-risk-statement-2023",
@@ -1072,6 +716,45 @@ window.REGWATCH_DATA = {
       "status": "In force",
       "summary": "MiCA became fully applicable, including the framework for crypto-asset service providers and broader cryptoasset market conduct requirements.",
       "whyItMatters": "Primary EU go-live date for CASP authorisation, service provision, market abuse and disclosure obligations."
+    },
+    {
+      "id": "esma-crypto-assets-as-financial-instruments-guidelines-2024",
+      "title": "ESMA finalises guidance on when crypto-assets qualify as financial instruments",
+      "source": "European Securities and Markets Authority",
+      "sourceType": "Official regulator",
+      "url": "https://www.esma.europa.eu/document/guidelines-conditions-and-criteria-qualification-crypto-assets-financial-instruments",
+      "publishedAt": "2024-12-17",
+      "jurisdiction": "European Union",
+      "category": "Historical Milestone",
+      "topics": [
+        "MiCA",
+        "Tokenised Securities",
+        "Financial Instruments",
+        "Regulatory Perimeter"
+      ],
+      "priority": "High",
+      "status": "Published",
+      "summary": "ESMA released final materials on the conditions and criteria for qualifying crypto-assets as financial instruments under MiCA/MiFID II.",
+      "whyItMatters": "Important for RWA and tokenised securities because the legal classification determines whether MiCA or existing securities law is the relevant regime."
+    },
+    {
+      "id": "uk-crypto-financial-promotions-ps23-6-2023",
+      "title": "FCA finalises UK financial promotion rules for qualifying cryptoassets",
+      "source": "Financial Conduct Authority",
+      "sourceType": "Official regulator",
+      "url": "https://www.fca.org.uk/publications/policy-statements/ps23-6-financial-promotion-rules-cryptoassets",
+      "publishedAt": "2023-06-07",
+      "jurisdiction": "United Kingdom",
+      "category": "Historical Milestone",
+      "topics": [
+        "Financial Promotions",
+        "Cryptoasset Regulation",
+        "Consumer Protection"
+      ],
+      "priority": "High",
+      "status": "Published",
+      "summary": "The FCA published PS23/6 setting out financial promotion rules for cryptoassets marketed to UK consumers.",
+      "whyItMatters": "Major UK milestone because cryptoasset promotions capable of having an effect in the UK were brought into a more formal conduct regime."
     },
     {
       "id": "uk-hmt-final-proposals-crypto-regime-2023",
@@ -1675,6 +1358,174 @@ window.REGWATCH_DATA = {
       "status": "Pilot / guidance workstream",
       "expectedNextStep": "Further CFTC guidance, staff letters or rulebook updates on eligible tokenized collateral and market safeguards.",
       "url": "https://www.cftc.gov/PressRoom/PressReleases/9146-25"
+    }
+  ],
+  "marketIntelligence": [],
+  "eventSources": [
+    {
+      "id": "finextra-events",
+      "name": "Finextra Events",
+      "sourceGroup": "Market intelligence",
+      "collectionMode": "auto",
+      "feedUrl": "https://www.finextra.com/rss/events.aspx",
+      "sourceUrl": "https://www.finextra.com/events/grid/crypto?eventtype=webinar",
+      "defaultFormat": "Webinar",
+      "defaultLocation": "Online",
+      "defaultAccess": "Registration required",
+      "notes": "Auto-monitored via public Finextra Events RSS; filtered for institutional digital assets, tokenisation, stablecoins, FMI and regulation."
+    },
+    {
+      "id": "dtcc-events",
+      "name": "DTCC Events",
+      "sourceGroup": "Market infrastructure",
+      "collectionMode": "semi-auto",
+      "sourceUrl": "https://www.dtcc.com/events",
+      "defaultAccess": "Industry audience",
+      "notes": "Public event listings, external conference appearances and replays. Access may vary."
+    },
+    {
+      "id": "dtcc-learning",
+      "name": "DTCC Learning Live Events",
+      "sourceGroup": "Market infrastructure",
+      "collectionMode": "semi-auto",
+      "sourceUrl": "https://dtcclearning.com/events.html",
+      "defaultAccess": "Industry audience",
+      "notes": "Webinars and training sessions often aimed at DTCC clients, participants or industry users."
+    },
+    {
+      "id": "dtcc-tokenization-hub",
+      "name": "DTCC Tokenization Hub",
+      "sourceGroup": "Market infrastructure",
+      "collectionMode": "manual",
+      "sourceUrl": "https://www.dtcc.com/digital-assets/tokenization/hub",
+      "defaultAccess": "Public / replay",
+      "notes": "Use for curated tokenisation replays, videos and thought leadership rather than live event automation."
+    },
+    {
+      "id": "clearstream-deutsche-boerse",
+      "name": "Clearstream / Deutsche Börse / Eurex",
+      "sourceGroup": "Market infrastructure",
+      "collectionMode": "manual",
+      "sourceUrl": "https://www.clearstream.com/clearstream-en/newsroom",
+      "defaultAccess": "Registration required",
+      "notes": "Watch for D7, D7 DLT, digital securities, tokenised issuance, collateral and market infrastructure briefings."
+    },
+    {
+      "id": "euroclear",
+      "name": "Euroclear",
+      "sourceGroup": "Market infrastructure",
+      "collectionMode": "manual",
+      "sourceUrl": "https://www.euroclear.com/innovation/en/digital-assets.html",
+      "defaultAccess": "Registration required",
+      "notes": "Watch for digital assets, dematerialisation, securities issuance, settlement and asset servicing webinars."
+    },
+    {
+      "id": "sec-crypto-task-force",
+      "name": "SEC Crypto Task Force",
+      "sourceGroup": "Regulators",
+      "collectionMode": "manual",
+      "sourceUrl": "https://www.sec.gov/featured-topics/crypto-task-force/crypto-task-force-roundtables",
+      "defaultAccess": "Public",
+      "notes": "Official SEC crypto asset regulation roundtables and public meetings."
+    },
+    {
+      "id": "fed-stablecoins-tokenization",
+      "name": "Federal Reserve conferences",
+      "sourceGroup": "Public policy",
+      "collectionMode": "manual",
+      "sourceUrl": "https://www.newyorkfed.org/research/conference",
+      "defaultAccess": "Public / registration required",
+      "notes": "Watch New York Fed / Boston Fed conferences on stablecoins, tokenisation and payments."
+    },
+    {
+      "id": "icma",
+      "name": "ICMA FinTech & Digitalisation",
+      "sourceGroup": "Industry associations",
+      "collectionMode": "manual",
+      "sourceUrl": "https://www.icmagroup.org/events/fintech-and-digitalisation-forum-2026/",
+      "defaultAccess": "Registration required",
+      "notes": "Capital markets forum covering tokenisation, digital money and bond market structure."
+    },
+    {
+      "id": "isda",
+      "name": "ISDA Events",
+      "sourceGroup": "Industry associations",
+      "collectionMode": "manual",
+      "sourceUrl": "https://events.isda.org/",
+      "defaultAccess": "Registration required",
+      "notes": "Watch for digital assets, collateral, derivatives, legal and regulatory events."
+    },
+    {
+      "id": "sifma",
+      "name": "SIFMA Digital Assets Week",
+      "sourceGroup": "Industry associations",
+      "collectionMode": "manual",
+      "sourceUrl": "https://events.sifma.org/digital-assets-week",
+      "defaultAccess": "Members / industry audience",
+      "notes": "Useful for US market structure and broker-dealer digital assets topics; access may be member-oriented."
+    },
+    {
+      "id": "omfif-dmi",
+      "name": "OMFIF Digital Monetary Institute",
+      "sourceGroup": "Public policy",
+      "collectionMode": "manual",
+      "sourceUrl": "https://www.omfif.org/events/",
+      "defaultAccess": "Registration required",
+      "notes": "Central bank, stablecoin, tokenised deposits and digital money events."
+    },
+    {
+      "id": "city-financial-global",
+      "name": "City & Financial Global",
+      "sourceGroup": "Industry conferences",
+      "collectionMode": "manual",
+      "sourceUrl": "https://www.cityandfinancialglobal.com/the-tokenisation-summit-2026/agenda",
+      "defaultAccess": "Paid / registration required",
+      "notes": "Tokenisation Summit and related UK regulatory / market infrastructure conferences."
+    },
+    {
+      "id": "global-custodian-events",
+      "name": "Global Custodian Events",
+      "sourceGroup": "Custody and securities services",
+      "collectionMode": "manual",
+      "sourceUrl": "https://www.globalcustodian.com/events/",
+      "defaultAccess": "Registration required",
+      "notes": "Digital custody, asset servicing, post-trade and tokenisation webinars/events."
+    },
+    {
+      "id": "bny-webcasts",
+      "name": "BNY Webcasts",
+      "sourceGroup": "Banks and custodians",
+      "collectionMode": "manual",
+      "sourceUrl": "https://info.bny.com/PaymentswithoutPause.html",
+      "defaultAccess": "Registration required",
+      "notes": "Watch for payments, APIs, digital assets, tokenisation and infrastructure briefings."
+    },
+    {
+      "id": "jpmorgan-kinexys",
+      "name": "J.P. Morgan / Kinexys",
+      "sourceGroup": "Banks and infrastructure",
+      "collectionMode": "manual",
+      "sourceUrl": "https://www.jpmorgan.com/payments/newsroom",
+      "defaultAccess": "Registration required",
+      "notes": "Manual watchlist for tokenised deposits, payments, collateral, Kinexys and institutional blockchain briefings."
+    },
+    {
+      "id": "goldman-sachs",
+      "name": "Goldman Sachs Digital Assets Conference",
+      "sourceGroup": "Banks and institutional events",
+      "collectionMode": "manual",
+      "sourceUrl": "https://www.goldmansachs.com/insights",
+      "defaultAccess": "Client / invite only",
+      "notes": "Manual watchlist for the annual Digital Assets Conference and related institutional digital assets events."
+    },
+    {
+      "id": "six-sdx",
+      "name": "SIX / SDX",
+      "sourceGroup": "Market infrastructure",
+      "collectionMode": "manual",
+      "sourceUrl": "https://www.sdx.com/news",
+      "defaultAccess": "Registration required",
+      "notes": "Watch for regulated digital exchange, CSD, tokenised securities and institutional digital assets events."
     }
   ],
   "marketManualSources": [
