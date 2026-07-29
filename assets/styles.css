@@ -3320,3 +3320,45 @@ td strong { color: var(--strong); }
   flex: 1 1 auto;
 }
 
+
+/* Header 3D transparent icon fix
+   The PNG background is transparent; this prevents the header wrapper from
+   behaving like a clipped rounded tile. */
+.brand-mark {
+  background: transparent !important;
+  border: 0 !important;
+  box-shadow: none !important;
+  border-radius: 0 !important;
+  overflow: visible !important;
+  width: 46px;
+  height: 46px;
+  flex: 0 0 46px;
+}
+
+.brand-mark img {
+  width: 54px;
+  height: 54px;
+  max-width: none;
+  object-fit: contain;
+  object-position: center;
+  transform: translate(-4px, -4px);
+  filter: drop-shadow(0 6px 12px rgba(0, 0, 0, .22));
+}
+
+:root[data-theme="dark"] .brand-mark .brand-mark-dark,
+:root:not([data-theme]) .brand-mark .brand-mark-dark {
+  display: block;
+}
+
+:root[data-theme="dark"] .brand-mark .brand-mark-light,
+:root:not([data-theme]) .brand-mark .brand-mark-light {
+  display: none;
+}
+
+:root[data-theme="light"] .brand-mark .brand-mark-dark {
+  display: none;
+}
+
+:root[data-theme="light"] .brand-mark .brand-mark-light {
+  display: block;
+}
