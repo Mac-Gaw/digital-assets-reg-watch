@@ -1,6 +1,6 @@
 {
   "name": "digital-assets-regulatory-watch",
-  "version": "1.0.21",
+  "version": "1.0.22",
   "private": true,
   "description": "Informational regulatory intelligence workspace for public-source monitoring of digital assets regulation, tokenisation, stablecoins and financial market infrastructure.",
   "type": "module",
