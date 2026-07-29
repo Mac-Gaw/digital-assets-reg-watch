@@ -13,7 +13,7 @@ const MAX_EVENTS = Number(process.env.EVENT_MAX_ITEMS || 80);
 
 const POSITIVE_RULES = [
   { category: "Tokenisation", terms: ["tokenisation", "tokenization", "tokenised", "tokenized", "tokenised assets", "tokenized assets", "digital securities", "digital security", "fund tokenisation", "fund tokenization", "rwa", "real-world assets", "real world assets"] },
-  { category: "Stablecoins & digital money", terms: ["stablecoin", "stablecoins", "digital money", "digital settlement asset", "tokenised deposit", "tokenized deposit", "deposit token", "wholesale cbdc", "cbdc"] },
+  { category: "Digital money & settlement assets", terms: ["stablecoin", "stablecoins", "digital money", "digital cash", "digital settlement asset", "digital settlement assets", "regulated settlement asset", "tokenised deposit", "tokenized deposit", "tokenised deposits", "tokenized deposits", "deposit token", "deposit tokens", "bank-issued token", "bank issued token", "commercial bank money token", "commercial bank money tokens", "wholesale cbdc", "cbdc"] },
   { category: "Custody", terms: ["digital asset custody", "crypto custody", "custodian", "custody", "safekeeping", "safeguarding"] },
   { category: "Market infrastructure", terms: ["financial market infrastructure", "market infrastructure", "fmi", "post-trade", "post trade", "settlement", "clearing", "csd", "ccp", "digital securities depository", "dlt", "distributed ledger"] },
   { category: "Collateral", terms: ["collateral", "margin", "securities finance", "securities financing", "repo", "tokenized collateral", "tokenised collateral"] },

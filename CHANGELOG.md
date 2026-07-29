@@ -1,5 +1,17 @@
+## v1.0.23 final stable
+- Stabilised the service on the MVP v1.0.15 frontend baseline.
+- Added Events & Briefings beside Institutional Market Watch with four-event dashboard preview and full `#events` archive.
+- Seeded `data/events.json` with manually curated institutional digital assets / tokenisation / digital money events.
+- Preserved the balanced dashboard spacing and Market Intelligence / Events column layout.
+- Added 3D transparent-background header icons for light and dark themes.
+- Added the agreed narrow scope for Regulatory Feed, Regulatory Radar and Institutional Market Watch: digital assets, tokenisation, digital money, digital cash, tokenised deposits, stablecoins, CBDC, DLT, custody, tokenised collateral and adjacent settlement/collateral/securities-lending items only when they have a real digital/FMI angle.
+- Added metadata-first scoring for feed filters: RSS keywords/categories first, title second, summary/description as a weaker fallback.
+- Added false-positive exclusions for macro/FX/inflation papers, retail banking/payment outage items, and generic appointment/taskforce updates.
+- Updated Regulatory Monitor workflow to run around 08:xx Europe/London across BST/GMT.
+- Kept event workflow on the auto-commit pattern.
+
 ## v1.0.15-events
-- Restored the MVP v1.0.15 baseline and added the Events & Briefings dashboard panel.
+- Restored the MVP v1.0.23 baseline and added the Events & Briefings dashboard panel.
 - Added an Events & Briefings archive route at `#events`.
 - Added curated upcoming events to `data/events.json`.
 - Added event source registry, event fetch script and Events & Briefings GitHub workflow.

@@ -105,3 +105,12 @@ Default retention is 30 days, capped at 100 retained items unless changed throug
 Events are tracked separately from regulatory updates and market intelligence. The events panel is intended for webinars, conferences, roundtables and briefings relevant to institutional digital assets, tokenisation, stablecoins, custody, collateral and financial market infrastructure.
 
 The initial dataset is manually curated from public event pages. The automated event workflow may append RSS-derived matches where eligible sources publish dated events.
+
+
+## Final stable v1.0.23 filtering model
+
+Regulatory Feed, Regulatory Radar and Institutional Market Watch use a narrow thematic scope. Broad terms such as settlement, collateral, custody, payments, market infrastructure, post-trade, securities lending, FCA, BoE, SEC or BIS are context only. They do not qualify an item unless a hard digital-assets anchor is present.
+
+Hard anchors include digital assets, cryptoassets, tokenisation/tokenization, tokenised assets/securities, stablecoins, digital money, digital cash, tokenised/tokenized deposits, deposit tokens, bank-issued tokens, commercial bank money tokens, CBDC, digital settlement assets, DLT, digital asset custody and tokenised collateral.
+
+The scoring model weights RSS keywords/categories most heavily, then title, then summary/description. General macroeconomic research, FX/inflation papers, retail banking/payment outages and generic appointment/taskforce updates are excluded unless a strong digital-assets anchor is present.

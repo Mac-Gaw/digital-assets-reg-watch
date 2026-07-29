@@ -108,7 +108,7 @@ It is a public-source research and monitoring tool.
 
 ## Market Intelligence lane
 
-MVP v1.0.15 adds a lightweight Institutional Market Watch section. It stores third-party market intelligence as titles and outbound links only. No article summaries, excerpts or copied article text are stored.
+MVP v1.0.23 adds a lightweight Institutional Market Watch section. It stores third-party market intelligence as titles and outbound links only. No article summaries, excerpts or copied article text are stored.
 
 Auto-monitoring is RSS-first and configured in `data/market-sources.registry.json`. Manual curated sources are listed in `data/market-manual-sources.json` and can be added to `data/market-intelligence.json` when a link is worth retaining.
 
@@ -117,7 +117,7 @@ The market intelligence workflow runs hourly via `.github/workflows/market-intel
 
 ## Events & Briefings add-on
 
-This build is based on MVP v1.0.15 and adds the Events & Briefings module only. It does not include the later regulatory-filter rewrites from v1.0.17-v1.0.22.
+This build is based on MVP v1.0.23 and adds the Events & Briefings module only. It does not include the later regulatory-filter rewrites from v1.0.17-v1.0.22.
 
 The dashboard shows Market Intelligence and Events & Briefings side by side. The full events archive is available via `#events`.
 
@@ -128,4 +128,19 @@ data/events.json
 data/events-sources.registry.json
 scripts/fetch-events.mjs
 .github/workflows/events-briefings.yml
+```
+
+
+## Final stable v1.0.23 scope
+
+This package uses the stable v1.0.15 frontend baseline and adds the agreed scoped monitoring model.
+
+The regulatory feed is not a general regulatory feed. It is limited to digital assets, tokenisation/tokenization, tokenised assets/securities, stablecoins, digital money, digital cash, tokenised/tokenized deposits, deposit tokens, bank-issued tokens, commercial bank money tokens, CBDC, digital settlement assets, DLT, digital asset custody, tokenised collateral and adjacent institutional settlement/collateral/securities-lending topics only where there is a real digital-assets / tokenisation / FMI angle.
+
+Dashboard preview limits:
+
+```text
+Market Intelligence: 5 items
+Events & Briefings: 4 items
+Regulatory Radar: 3 radar-eligible regulatory items
 ```

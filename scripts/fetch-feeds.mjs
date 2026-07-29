@@ -28,8 +28,9 @@ function londonTimeParts(date = new Date()) {
 if (scheduled) {
   const parts = londonTimeParts();
   const hour = Number(parts.hour);
-  if (hour !== 7) {
-    console.log(`Scheduled run skipped: Europe/London local time is ${parts.hour}:${parts.minute}, target hour is 07:xx.`);
+  const targetHour = Number(process.env.TARGET_LONDON_HOUR || 8);
+  if (hour !== targetHour) {
+    console.log(`Scheduled run skipped: Europe/London local time is ${parts.hour}:${parts.minute}, target hour is ${String(targetHour).padStart(2, "0")}:xx.`);
     process.exit(0);
   }
 }
@@ -85,6 +86,10 @@ function parseFeed(xml, source) {
     const title = getTag(block, "title");
     const url = getLink(block);
     const summary = getTag(block, ["description", "summary", "content", "content:encoded"]);
+    const categories = [...block.matchAll(/<category(?:\s[^>]*)?>([\s\S]*?)<\/category>/gi)]
+      .map(match => normalizeString(stripHtml(decodeEntities(match[1]))))
+      .filter(Boolean);
+    const keywords = getTag(block, ["keywords", "media:keywords"]);
     const publishedRaw = getTag(block, ["pubDate", "published", "updated", "dc:date"]);
     const date = publishedRaw ? new Date(publishedRaw) : new Date();
     return {
@@ -92,6 +97,8 @@ function parseFeed(xml, source) {
       title,
       url,
       summary,
+      categories: categories.join(" "),
+      keywords,
       publishedAt: Number.isNaN(date.getTime()) ? new Date().toISOString() : date.toISOString()
     };
   }).filter(item => item.title && item.url);
@@ -201,9 +208,32 @@ for (const source of registry.filter(s => s.enabled !== false)) {
   }
 }
 
+function pruneStoredFalsePositives(items) {
+  const before = items.length;
+  const retained = items.filter(item => {
+    // Keep manually curated/source-watchlist items. Only prune live source
+    // updates that now fail the stricter relevance classifier.
+    const sourceType = String(item.sourceType || "").toLowerCase();
+    const category = String(item.category || "").toLowerCase();
+    const isManualWatchlist = category.includes("source watchlist") || sourceType.includes("manual");
+    if (isManualWatchlist) return true;
+    return isRelevant(item, {});
+  });
+  return { retained, removed: before - retained.length };
+}
+
 if (!dryRun) {
+  const prunedUpdates = pruneStoredFalsePositives(updates);
+  if (prunedUpdates.removed) {
+    updates.length = 0;
+    updates.push(...prunedUpdates.retained);
+  }
+
   if (newAuto.length) {
     updates.unshift(...newAuto.sort((a, b) => String(b.publishedAt).localeCompare(String(a.publishedAt))));
+  }
+
+  if (newAuto.length || prunedUpdates.removed) {
     await writeJson("updates.json", updates);
   }
   if (newPending.length) {
@@ -213,7 +243,7 @@ if (!dryRun) {
   updateMonitoring(metadata, registry, newAuto, newPending);
   await writeJson("metadata.json", metadata);
   await fs.mkdir(path.join(root, "logs"), { recursive: true });
-  await fs.writeFile(path.join(root, "logs", "last-scan.json"), `${JSON.stringify({ scannedAt: new Date().toISOString(), newAuto: newAuto.length, newPending: newPending.length, sources: scanLog }, null, 2)}\n`, "utf8");
+  await fs.writeFile(path.join(root, "logs", "last-scan.json"), `${JSON.stringify({ scannedAt: new Date().toISOString(), newAuto: newAuto.length, newPending: newPending.length, prunedFalsePositives: prunedUpdates.removed, sources: scanLog }, null, 2)}\n`, "utf8");
   const build = await import("./build-data.mjs");
 }
 

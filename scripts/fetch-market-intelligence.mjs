@@ -11,31 +11,49 @@ const MAX_ITEMS = Number(process.env.MARKET_MAX_ITEMS || 100);
 const FUTURE_DATE_GRACE_HOURS = Number(process.env.MARKET_FUTURE_DATE_GRACE_HOURS || 12);
 const FUTURE_DATE_GRACE_MS = FUTURE_DATE_GRACE_HOURS * 60 * 60 * 1000;
 
-const POSITIVE_RULES = [
-  { category: "Tokenisation", terms: ["tokenisation", "tokenization", "tokenised", "tokenized", "digital securities", "digital security", "tokenised securities", "tokenized securities", "fund tokenisation", "fund tokenization", "tokenised fund", "tokenized fund"] },
-  { category: "Custody", terms: ["digital asset custody", "crypto custody", "custodian", "custody", "safekeeping", "safeguarding", "zodia", "copper", "fireblocks"] },
-  { category: "Stablecoins & settlement", terms: ["stablecoin", "stablecoins", "digital settlement asset", "tokenised deposit", "tokenized deposit", "bank-issued token", "bank issued token", "deposit token", "wholesale payment", "settlement asset"] },
-  { category: "Market infrastructure", terms: ["financial market infrastructure", "market infrastructure", "fmi", "post-trade", "post trade", "settlement", "clearing", "dvp", "delivery versus payment", "csd", "ccp", "central securities depository", "digital securities depository"] },
-  { category: "Collateral", terms: ["collateral", "margin", "securities finance", "securities financing", "repo", "tokenized collateral", "tokenised collateral"] },
-  { category: "Institutional adoption", terms: ["institutional digital assets", "digital asset servicing", "asset servicing", "securities services", "wholesale cbdc", "cbdc", "sandbox", "dlt", "distributed ledger", "canton network", "swift shared ledger"] }
+const CORE_MARKET_TERMS = [
+  "digital asset", "digital assets", "cryptoasset", "crypto-asset", "crypto asset",
+  "tokenisation", "tokenization", "tokenised", "tokenized", "tokenised assets", "tokenized assets",
+  "tokenised securities", "tokenized securities", "digital securities", "digital security",
+  "stablecoin", "stablecoins", "digital money", "digital cash", "digital settlement asset", "digital settlement assets",
+  "tokenised deposit", "tokenized deposit", "tokenised deposits", "tokenized deposits",
+  "deposit token", "deposit tokens", "bank-issued token", "bank issued token", "bank-issued tokens", "bank issued tokens",
+  "commercial bank money token", "commercial bank money tokens", "tokenised commercial bank money", "tokenized commercial bank money",
+  "regulated settlement asset", "regulated settlement assets", "wholesale cbdc", "cbdc",
+  "distributed ledger", "dlt", "permissioned blockchain", "blockchain settlement",
+  "tokenized collateral", "tokenised collateral", "digital asset custody", "crypto custody",
+  "canton network", "swift shared ledger", "kinexys", "fnality"
 ];
 
 const CONTEXT_TERMS = [
   "bank", "banks", "institutional", "regulated", "regulation", "regulatory", "authorisation", "authorization",
   "custodian", "custody", "settlement", "payments", "clearing", "securities", "asset servicing", "market infrastructure",
-  "fmi", "csd", "ccp", "collateral", "post-trade", "post trade", "wholesale", "fund", "funds", "exchange", "fca", "sec", "esma", "eba", "boe", "central bank"
+  "financial market infrastructure", "fmi", "csd", "ccp", "collateral", "repo", "securities lending", "securities financing", "post-trade", "post trade", "wholesale",
+  "fund", "funds", "exchange", "fca", "sec", "esma", "eba", "boe", "central bank", "securities services"
 ];
 
-const NEGATIVE_RULES = [
+const NEGATIVE_TERMS = [
   "price prediction", "technical analysis", "rally", "plunge", "soars", "tumbles", "all-time high", "all time high",
   "bitcoin price", "btc price", "ether price", "eth price", "memecoin", "meme coin", "airdrop", "nft collection",
   "whale", "trader says", "traders say", "bullish", "bearish", "altcoin", "gaming token", "exchange token",
-  "hack", "exploit", "rug pull", "scam token"
+  "hack", "exploit", "rug pull", "scam token", "retail investor", "retail investors",
+  "retail banking", "mobile banking", "online banking", "bank outage", "outage", "unable to make payments",
+  "personal banking", "consumer banking", "credit card", "debit card", "savings account", "current account",
+  "mortgage", "mortgages", "branch", "atm"
 ];
 
 const EVENT_RULES = [
   "webinar", "web seminar", "event registration", "register now", "register for", "online event",
   "conference", "summit", "awards", "roundtable", "masterclass"
+];
+
+const CATEGORY_RULES = [
+  { category: "Tokenisation", terms: ["tokenisation", "tokenization", "tokenised", "tokenized", "digital securities", "digital security", "tokenised securities", "tokenized securities", "fund tokenisation", "fund tokenization", "tokenised fund", "tokenized fund"] },
+  { category: "Custody", terms: ["digital asset custody", "crypto custody", "zodia", "copper", "fireblocks"] },
+  { category: "Digital money & settlement assets", terms: ["stablecoin", "stablecoins", "digital money", "digital cash", "digital settlement asset", "digital settlement assets", "regulated settlement asset", "tokenised deposit", "tokenized deposit", "tokenised deposits", "tokenized deposits", "bank-issued token", "bank issued token", "commercial bank money token", "deposit token", "deposit tokens", "settlement asset"] },
+  { category: "Market infrastructure", terms: ["financial market infrastructure", "market infrastructure", "fmi", "post-trade", "post trade", "delivery versus payment", "dvp", "csd", "ccp", "central securities depository", "digital securities depository", "dlt"] },
+  { category: "Collateral", terms: ["tokenized collateral", "tokenised collateral", "digital collateral"] },
+  { category: "Institutional adoption", terms: ["institutional digital assets", "digital asset servicing", "wholesale cbdc", "cbdc", "sandbox", "distributed ledger", "canton network", "swift shared ledger", "kinexys", "fnality"] }
 ];
 
 async function readJson(file, fallback) {
@@ -89,11 +107,17 @@ function parseFeed(xml, source) {
     const url = getLink(block);
     const publishedRaw = getTag(block, ["pubDate", "published", "updated", "dc:date"]);
     const description = getTag(block, ["description", "summary", "content", "content:encoded"]);
+    const categories = [...block.matchAll(/<category(?:\s[^>]*)?>([\s\S]*?)<\/category>/gi)]
+      .map(match => normalizeString(stripHtml(decodeEntities(match[1]))))
+      .filter(Boolean);
+    const keywords = getTag(block, ["keywords", "media:keywords"]);
     const date = publishedRaw ? new Date(publishedRaw) : new Date();
     return {
       title,
       url,
       description,
+      categories: categories.join(" "),
+      keywords,
       publishedAt: Number.isNaN(date.getTime()) ? new Date().toISOString() : date.toISOString(),
       source: source.name
     };
@@ -117,29 +141,68 @@ function itemKey(item) {
   return normaliseUrl(item.url) || `${slugify(item.title)}-${String(item.publishedAt || "").slice(0, 10)}`;
 }
 
+function escapeRegex(value) {
+  return String(value).replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
+}
+
+function termPattern(term) {
+  const escaped = escapeRegex(term.trim()).replace(/\s+/g, "\\s+");
+  if (/^[a-z0-9]+$/i.test(term)) return new RegExp(`\\b${escaped}\\b`, "i");
+  return new RegExp(`(^|[^a-z0-9])${escaped}([^a-z0-9]|$)`, "i");
+}
+
+function hasTerm(text, term) {
+  return termPattern(term).test(String(text || ""));
+}
+
+function scoreAgainstTerms(text, terms, weight) {
+  return terms.reduce((score, term) => score + (hasTerm(text, term) ? weight : 0), 0);
+}
+
+function parts(raw) {
+  return {
+    metadata: [raw.keywords, raw.categories].filter(Boolean).join(" ").toLowerCase(),
+    title: String(raw.title || "").toLowerCase(),
+    description: String(raw.description || "").toLowerCase()
+  };
+}
+
 function isFutureDated(raw) {
   const date = new Date(raw.publishedAt);
   return !Number.isNaN(date.getTime()) && date.getTime() > Date.now() + FUTURE_DATE_GRACE_MS;
 }
 
 function looksLikeEventOrWebinar(raw) {
-  const haystack = [raw.title, raw.description, raw.url].filter(Boolean).join(" ").toLowerCase();
-  return EVENT_RULES.some(term => haystack.includes(term));
+  const haystack = [raw.title, raw.description, raw.url, raw.keywords, raw.categories].filter(Boolean).join(" ").toLowerCase();
+  return EVENT_RULES.some(term => hasTerm(haystack, term));
 }
 
 function classifyMarketItem(raw, source) {
-  const haystack = [raw.title, raw.description].filter(Boolean).join(" ").toLowerCase();
-  const matchedCategories = POSITIVE_RULES
-    .filter(rule => rule.terms.some(term => haystack.includes(term)))
+  const p = parts(raw);
+  const all = [p.metadata, p.title, p.description].filter(Boolean).join(" ");
+
+  const metadataPositive = scoreAgainstTerms(p.metadata, CORE_MARKET_TERMS, 4);
+  const titlePositive = scoreAgainstTerms(p.title, CORE_MARKET_TERMS, 3);
+  const descriptionPositive = scoreAgainstTerms(p.description, CORE_MARKET_TERMS, 1.5);
+  const positive = metadataPositive + titlePositive + descriptionPositive;
+
+  const contextScore = positive > 0 ? Math.min(scoreAgainstTerms(all, CONTEXT_TERMS, 0.5), 2) : 0;
+  const negative = scoreAgainstTerms(p.metadata, NEGATIVE_TERMS, 5)
+    + scoreAgainstTerms(p.title, NEGATIVE_TERMS, 4)
+    + scoreAgainstTerms(p.description, NEGATIVE_TERMS, 2);
+
+  const matchedCategories = CATEGORY_RULES
+    .filter(rule => rule.terms.some(term => hasTerm(all, term)))
     .map(rule => rule.category);
-  const contextHits = CONTEXT_TERMS.filter(term => haystack.includes(term)).length;
-  const hasNegative = NEGATIVE_RULES.some(term => haystack.includes(term));
+
   const isFutureEvent = isFutureDated(raw) && (looksLikeEventOrWebinar(raw) || source.excludeFutureDatedItems !== false);
-  const isRelevant = matchedCategories.length > 0 && contextHits > 0 && !hasNegative && !isFutureEvent;
+  const score = positive + contextScore - negative;
+
   return {
-    isRelevant,
+    isRelevant: positive > 0 && score >= 3 && !isFutureEvent,
     category: matchedCategories[0] || source.category || "Institutional digital assets",
-    topics: [...new Set(matchedCategories)].slice(0, 3)
+    topics: [...new Set(matchedCategories)].slice(0, 3),
+    score
   };
 }
 
@@ -163,7 +226,10 @@ function applyRetention(items) {
   return items
     .filter(item => {
       const date = new Date(item.publishedAt);
-      return !Number.isNaN(date.getTime()) && date.getTime() >= cutoff && date.getTime() <= futureCutoff;
+      if (Number.isNaN(date.getTime()) || date.getTime() < cutoff || date.getTime() > futureCutoff) return false;
+      // Existing stored items are pruned by the same stricter title/category logic.
+      const classification = classifyMarketItem(item, {});
+      return classification.isRelevant;
     })
     .sort((a, b) => String(b.publishedAt).localeCompare(String(a.publishedAt)))
     .slice(0, MAX_ITEMS);
@@ -207,7 +273,9 @@ for (const source of registry.filter(s => s.enabled !== false && s.feedUrl)) {
 }
 
 if (!dryRun) {
+  const before = existing.length;
   const merged = applyRetention([...newItems, ...existing]);
+  const prunedStoredItems = Math.max(0, before + newItems.length - merged.length - Math.max(0, before + newItems.length - MAX_ITEMS));
   await writeJson("market-intelligence.json", merged);
   const metadata = await readJson("metadata.json", {});
   metadata.marketIntelligence = metadata.marketIntelligence || {};
@@ -217,11 +285,12 @@ if (!dryRun) {
   metadata.marketIntelligence.lastScanResult = {
     newItems: newItems.length,
     storedItems: merged.length,
+    prunedStoredItems,
     checkedSources: registry.filter(s => s.enabled !== false && s.feedUrl).length
   };
   await writeJson("metadata.json", metadata);
   await fs.mkdir(path.join(root, "logs"), { recursive: true });
-  await fs.writeFile(path.join(root, "logs", "last-market-scan.json"), `${JSON.stringify({ scannedAt: new Date().toISOString(), newItems: newItems.length, sources: scanLog }, null, 2)}\n`, "utf8");
+  await fs.writeFile(path.join(root, "logs", "last-market-scan.json"), `${JSON.stringify({ scannedAt: new Date().toISOString(), newItems: newItems.length, prunedStoredItems, sources: scanLog }, null, 2)}\n`, "utf8");
   await import("./build-data.mjs");
 }
 

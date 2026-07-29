@@ -533,12 +533,45 @@ function renderEvents() {
   if (archiveContainer) archiveContainer.innerHTML = items.map(renderEventItem).join("");
 }
 
+function isRadarEligible(item) {
+  const category = String(item.category || "").toLowerCase();
+  const sourceType = String(item.sourceType || "").toLowerCase();
+  if (item.radarEligible === false) return false;
+  if (category.includes("source watchlist")) return false;
+  if (category.includes("market infrastructure analysis")) return false;
+  if (sourceType.includes("institutional news") || sourceType.includes("analysis")) return false;
+  return ["High", "Medium"].includes(item.priority || "");
+}
+
 function renderDashboard() {
-  const latest = data.updates
+  const container = $("#latestCards");
+  if (!container) return;
+
+  const radarItems = (data.updates || [])
+    .filter(isRadarEligible)
     .slice()
-    .sort((a, b) => b.publishedAt.localeCompare(a.publishedAt))
+    .sort((a, b) => String(b.publishedAt || "").localeCompare(String(a.publishedAt || "")))
     .slice(0, 3);
-  $("#latestCards").innerHTML = latest.map(renderUpdateCard).join("");
+
+  const fallbackItems = (data.updates || [])
+    .slice()
+    .sort((a, b) => String(b.publishedAt || "").localeCompare(String(a.publishedAt || "")))
+    .slice(0, 3);
+
+  const latest = radarItems.length ? radarItems : fallbackItems;
+
+  if (!latest.length) {
+    container.innerHTML = `
+      <article class="card">
+        <p class="eyebrow">No regulatory items</p>
+        <h3>No retained regulatory updates yet</h3>
+        <p>The regulatory monitor has not retained any items after the current digital-assets scope filters.</p>
+      </article>
+    `;
+    return;
+  }
+
+  container.innerHTML = latest.map(renderUpdateCard).join("");
 }
 
 function setFeedFilterPanel(open) {
