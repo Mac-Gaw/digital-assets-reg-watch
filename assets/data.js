@@ -1,43 +1,46 @@
 window.REGWATCH_DATA = {
   "siteName": "Digital Assets Regulatory Watch",
   "release": "MVP v1.0.22",
-  "lastUpdated": "2026-07-21",
+  "lastUpdated": "2026-07-29",
   "monitoring": {
     "status": "Active",
-    "lastScan": "2026-07-21T20:22:00+01:00",
+    "lastScan": "2026-07-29T19:21:21.544Z",
     "quietPeriodDays": 14,
     "regions": [
       {
         "name": "United Kingdom",
         "shortName": "UK",
-        "lastChecked": "2026-07-21",
+        "lastChecked": "2026-07-29",
         "status": "Active"
       },
       {
         "name": "European Union",
         "shortName": "EU",
-        "lastChecked": "2026-07-21",
+        "lastChecked": "2026-07-29",
+        "status": "Active"
+      },
+      {
+        "name": "Global",
+        "shortName": "Global",
+        "lastChecked": "2026-07-29",
         "status": "Active"
       },
       {
         "name": "United States",
         "shortName": "US",
-        "lastChecked": "2026-07-21",
-        "status": "Active"
-      },
-      {
-        "name": "Global standard setters",
-        "shortName": "Global",
-        "lastChecked": "2026-07-21",
-        "status": "Active"
-      },
-      {
-        "name": "Asia-Pacific",
-        "shortName": "APAC",
-        "lastChecked": "2026-07-21",
+        "lastChecked": "2026-07-29",
         "status": "Active"
       }
-    ]
+    ],
+    "lastScanResult": {
+      "newPublishedItems": 0,
+      "newHighPriorityItems": 0,
+      "newMediumPriorityItems": 0,
+      "newLowPriorityItems": 0,
+      "materialItems": 0,
+      "newPendingItems": 0,
+      "checkedSources": 25
+    }
   },
   "description": "Informational regulatory intelligence workspace for public-source monitoring of digital assets, tokenisation, stablecoins and financial market infrastructure developments.",
   "nonPurpose": [
