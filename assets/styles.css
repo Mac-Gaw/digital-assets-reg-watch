@@ -3197,3 +3197,87 @@ td strong { color: var(--strong); }
     min-width: 64px;
   }
 }
+
+
+/* Dashboard Events & Briefings visual fix
+   Keeps the dashboard preview compact; the full event list remains available on #events. */
+.route-dashboard.market-events-grid {
+  align-items: stretch;
+}
+
+.route-dashboard .dashboard-list-card {
+  display: flex;
+  flex-direction: column;
+  min-height: 0;
+}
+
+.route-dashboard .dashboard-list-card .compact-heading {
+  margin-top: 0;
+}
+
+.route-dashboard #eventsList.compact-list {
+  display: grid;
+  gap: .62rem;
+}
+
+/* Dashboard is a preview, not the full calendar. Show first two events only. */
+.route-dashboard #eventsList .event-item:nth-child(n+3) {
+  display: none;
+}
+
+.route-dashboard #eventsList .event-item {
+  grid-template-columns: 50px minmax(0, 1fr);
+  gap: .72rem;
+  padding: .72rem .78rem;
+}
+
+.route-dashboard #eventsList .event-date-pill {
+  min-height: 50px;
+  padding: .38rem .32rem;
+  border-radius: 11px;
+}
+
+.route-dashboard #eventsList .event-date-pill span {
+  font-size: .98rem;
+}
+
+.route-dashboard #eventsList .event-date-pill small {
+  font-size: .58rem;
+}
+
+.route-dashboard #eventsList .event-main > a {
+  margin-top: .32rem;
+  font-size: .95rem;
+  line-height: 1.28;
+}
+
+.route-dashboard #eventsList .meta-row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: .34rem;
+}
+
+.route-dashboard #eventsList .badge {
+  max-width: 100%;
+}
+
+.route-dashboard #eventsList .market-intelligence-meta {
+  gap: .34rem .46rem;
+  font-size: .76rem;
+  line-height: 1.3;
+}
+
+/* Prevent accidental section-level focus/debug outlines from appearing on dashboard wrappers. */
+.route-dashboard:focus,
+.route-dashboard:focus-visible,
+.market-events-grid:focus,
+.market-events-grid:focus-visible,
+.dashboard-list-card:focus,
+.dashboard-list-card:focus-visible {
+  outline: none;
+}
+
+/* Full Events archive still shows all events normally. */
+.route-events .events-list {
+  gap: .72rem;
+}
