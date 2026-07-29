@@ -3,10 +3,10 @@ name: Regulatory monitor
 on:
   workflow_dispatch:
   schedule:
-    # GitHub Actions uses UTC. Running at both 07:17 and 08:17 UTC lets the
-    # script keep the intended 08:xx Europe/London run across BST/GMT changes.
-    - cron: "17 7 * * *"
-    - cron: "17 8 * * *"
+    # GitHub Actions uses UTC. Running at both 06:30 and 07:30 UTC lets the
+    # script keep the intended 07:30 Europe/London run across BST/GMT changes.
+    - cron: "30 6 * * *"
+    - cron: "30 7 * * *"
 
 permissions:
   contents: write
@@ -25,8 +25,6 @@ jobs:
 
       - name: Run scheduled RSS-first regulatory monitor
         if: github.event_name == 'schedule'
-        env:
-          TARGET_LONDON_HOUR: 8
         run: npm run fetch:scheduled
 
       - name: Run manual RSS-first regulatory monitor
