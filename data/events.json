@@ -1,64 +1,185 @@
 [
   {
-    "id": "finextra-events-tackling-fraud-as-an-ecosystem-exploring-the-shift-needed-in-regulation-and-the-industry-2026-09-08",
-    "title": "Tackling fraud as an ecosystem: Exploring the shift needed in regulation and the industry",
-    "source": "Finextra Events",
-    "url": "https://www.finextra.com/event-info/623/tackling-fraud-as-an-ecosystem-exploring-the-shift-needed-in-regulation-and-the-industry",
-    "eventDate": "2026-09-08T15:00:00.000Z",
-    "format": "Webinar",
-    "location": "Online",
-    "access": "Registration required",
-    "category": "Regulation",
-    "topics": [
-      "Regulation"
-    ],
-    "collectionMode": "auto"
-  },
-  {
-    "id": "finextra-events-what-profitable-roles-can-banks-play-in-the-digital-currency-race-2026-09-10",
-    "title": "What profitable roles can banks play in the digital currency race?",
-    "source": "Finextra Events",
-    "url": "https://www.finextra.com/event-info/621/what-profitable-roles-can-banks-play-in-the-digital-currency-race",
-    "eventDate": "2026-09-10T15:00:00.000Z",
-    "format": "Webinar",
-    "location": "Online",
-    "access": "Registration required",
-    "category": "Stablecoins & digital money",
-    "topics": [
-      "Stablecoins & digital money",
-      "Market infrastructure"
-    ],
-    "collectionMode": "auto"
-  },
-  {
-    "id": "finextra-events-are-banks-actually-ready-for-digital-money-2026-09-15",
-    "title": "Are banks actually ready for digital money?",
-    "source": "Finextra Events",
-    "url": "https://www.finextra.com/event-info/625/are-banks-actually-ready-for-digital-money",
-    "eventDate": "2026-09-15T15:00:00.000Z",
-    "format": "Webinar",
-    "location": "Online",
-    "access": "Registration required",
+    "id": "rwa-summit-brooklyn-2026",
+    "title": "Real-World Asset Summit Brooklyn 2026",
+    "source": "Real-World Asset Summit",
+    "url": "https://www.rwasummit.io/",
+    "eventDate": "2026-09-01T09:00:00-04:00",
+    "endDate": "2026-09-02",
+    "format": "Summit",
+    "location": "Brooklyn, New York",
+    "access": "Invite-only / application required",
     "category": "Tokenisation",
     "topics": [
       "Tokenisation",
-      "Stablecoins & digital money"
+      "Real-world assets",
+      "Institutional digital assets"
     ],
-    "collectionMode": "auto"
+    "collectionMode": "manual"
   },
   {
-    "id": "finextra-events-ai-without-the-hype-what-aml-transformation-means-2026-10-06",
-    "title": "AI without the hype: What AML transformation means",
-    "source": "Finextra Events",
-    "url": "https://www.finextra.com/event-info/627/ai-without-the-hype-what-aml-transformation-means",
-    "eventDate": "2026-10-06T15:00:00.000Z",
-    "format": "Webinar",
-    "location": "Online",
-    "access": "Registration required",
-    "category": "Regulation",
+    "id": "dtcc-real-world-asset-summit-2026",
+    "title": "DTCC to speak: Real-World Asset Summit",
+    "source": "DTCC Events",
+    "url": "https://www.dtcc.com/events?pgs=1",
+    "eventDate": "2026-09-01T09:00:00-04:00",
+    "endDate": "2026-09-02",
+    "format": "Conference appearance",
+    "location": "Brooklyn, New York",
+    "access": "External event / DTCC speaker",
+    "category": "Tokenisation",
     "topics": [
-      "Regulation"
+      "Tokenisation",
+      "Digital assets",
+      "Market infrastructure"
     ],
-    "collectionMode": "auto"
+    "collectionMode": "manual"
+  },
+  {
+    "id": "icma-bwf-capital-markets-conference-2026",
+    "title": "14th bwf and ICMA Capital Markets Conference",
+    "source": "ICMA",
+    "url": "https://www.icmagroup.org/events/14th-bwf-and-icma-capital-markets-conference/",
+    "eventDate": "2026-09-09T09:30:00+02:00",
+    "endDate": "2026-09-09",
+    "format": "Conference",
+    "location": "Frankfurt",
+    "access": "Open to all / free",
+    "category": "Tokenisation",
+    "topics": [
+      "Tokenisation",
+      "Bond markets",
+      "Market infrastructure"
+    ],
+    "collectionMode": "manual"
+  },
+  {
+    "id": "omfif-european-blockchain-convention-2026",
+    "title": "European Blockchain Convention",
+    "source": "OMFIF Digital Monetary Institute",
+    "url": "https://www.omfif.org/meetings/?pi_theme=Digital+Monetary+Institute",
+    "eventDate": "2026-09-16T09:00:00+02:00",
+    "endDate": "2026-09-17",
+    "format": "Partner event",
+    "location": "Barcelona",
+    "access": "Registration required",
+    "category": "Institutional digital assets",
+    "topics": [
+      "Digital assets",
+      "Tokenisation",
+      "Stablecoins"
+    ],
+    "collectionMode": "manual"
+  },
+  {
+    "id": "dtcc-fintech-conference-2026",
+    "title": "DTCC to speak: The 10th Annual Fintech Conference",
+    "source": "DTCC Events",
+    "url": "https://www.dtcc.com/events?pgs=-1135",
+    "eventDate": "2026-09-24T09:00:00-04:00",
+    "endDate": "2026-09-25",
+    "format": "Conference appearance",
+    "location": "Philadelphia",
+    "access": "External event / DTCC speaker",
+    "category": "Market infrastructure",
+    "topics": [
+      "Digital assets",
+      "Market infrastructure",
+      "Fintech"
+    ],
+    "collectionMode": "manual"
+  },
+  {
+    "id": "dtcc-sibos-miami-2026",
+    "title": "DTCC at Sibos Miami 2026",
+    "source": "DTCC Events",
+    "url": "https://www.dtcc.com/events?pgs=-1135",
+    "eventDate": "2026-09-28T09:00:00-04:00",
+    "endDate": "2026-10-01",
+    "format": "Conference appearance",
+    "location": "Miami",
+    "access": "External event / DTCC sponsor & speaker",
+    "category": "Market infrastructure",
+    "topics": [
+      "Digital assets",
+      "Market infrastructure",
+      "Asset services"
+    ],
+    "collectionMode": "manual"
+  },
+  {
+    "id": "icma-fintech-digitalisation-forum-2026",
+    "title": "ICMA FinTech & Digitalisation Forum 2026",
+    "source": "ICMA",
+    "url": "https://www.icmagroup.org/events/fintech-and-digitalisation-forum-2026/",
+    "eventDate": "2026-09-29T09:00:00+01:00",
+    "endDate": "2026-09-29",
+    "format": "Forum",
+    "location": "London",
+    "access": "Free for eligible ICMA/regulator attendees; paid for others",
+    "category": "Tokenisation",
+    "topics": [
+      "DLT bonds",
+      "Stablecoins",
+      "Digital money",
+      "Capital markets"
+    ],
+    "collectionMode": "manual"
+  },
+  {
+    "id": "uk-public-private-capital-markets-summit-2026",
+    "title": "Reform of the UK Public and Private Capital Markets Summit 2026",
+    "source": "City & Financial Global / ICMA",
+    "url": "https://www.icmagroup.org/events/reform-of-the-uk-public-and-private-capital-markets-summit-2026/",
+    "eventDate": "2026-10-05T09:00:00+01:00",
+    "endDate": "2026-10-05",
+    "format": "Summit",
+    "location": "London",
+    "access": "Paid / registration required",
+    "category": "Tokenisation",
+    "topics": [
+      "UK capital markets",
+      "DLT",
+      "Tokenisation",
+      "Market infrastructure"
+    ],
+    "collectionMode": "manual"
+  },
+  {
+    "id": "digital-asset-conference-iv-2026",
+    "title": "The Digital Asset Conference IV",
+    "source": "The Digital Asset Conference",
+    "url": "https://www.thedigitalassetconference.com/event-details/the-digital-asset-conference-iv",
+    "eventDate": "2026-10-20T09:00:00+01:00",
+    "endDate": "2026-10-20",
+    "format": "Conference",
+    "location": "London",
+    "access": "Paid tickets",
+    "category": "Institutional digital assets",
+    "topics": [
+      "Digital assets",
+      "Tokenisation",
+      "Institutional adoption"
+    ],
+    "collectionMode": "manual"
+  },
+  {
+    "id": "omfif-digital-money-summit-2027",
+    "title": "Digital Money Summit 2027",
+    "source": "OMFIF Digital Monetary Institute",
+    "url": "https://www.omfif.org/dms2027/",
+    "eventDate": "2027-05-18T09:00:00+01:00",
+    "endDate": "2027-05-19",
+    "format": "Summit",
+    "location": "London",
+    "access": "Register interest",
+    "category": "Stablecoins & digital money",
+    "topics": [
+      "Stablecoins",
+      "Tokenised deposits",
+      "Digital money",
+      "Cryptoasset regulation"
+    ],
+    "collectionMode": "manual"
   }
 ]
