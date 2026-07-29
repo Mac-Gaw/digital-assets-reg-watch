@@ -3208,3 +3208,16 @@ td strong { color: var(--strong); }
     min-width: 64px;
   }
 }
+
+/* v1.0.21: resilient empty states for dashboard cards */
+.dashboard-list-card .market-intelligence-empty {
+  min-height: 112px;
+  display: grid;
+  align-content: center;
+}
+
+.cards-grid .card code,
+.market-intelligence-empty code {
+  font-size: .85em;
+  color: var(--accent);
+}

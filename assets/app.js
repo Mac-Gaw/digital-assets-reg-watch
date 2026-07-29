@@ -500,10 +500,11 @@ function renderEvents() {
   }
   if (archiveStatus) archiveStatus.textContent = statusText;
 
+  const configuredSources = (data.eventSources || []).length;
   const emptyMarkup = `
     <article class="market-intelligence-empty">
       <strong>No upcoming events retained yet.</strong>
-      <p>Event monitoring will add matching webinars, conferences and briefings when eligible sources publish event dates. Manual curated events can be added to <code>data/events.json</code>.</p>
+      <p>The event source watchlist is configured${configuredSources ? ` with ${configuredSources} sources` : ""}, but no dated future events are currently stored in <code>data/events.json</code>. This is expected until a matching source publishes a dated event or a curated event is added manually.</p>
     </article>
   `;
 
@@ -518,11 +519,25 @@ function renderEvents() {
 }
 
 function renderDashboard() {
-  const latest = data.updates
+  const container = $("#latestCards");
+  if (!container) return;
+  const latest = (data.updates || [])
     .slice()
-    .sort((a, b) => b.publishedAt.localeCompare(a.publishedAt))
+    .sort((a, b) => String(b.publishedAt || "").localeCompare(String(a.publishedAt || "")))
     .slice(0, 3);
-  $("#latestCards").innerHTML = latest.map(renderUpdateCard).join("");
+
+  if (!latest.length) {
+    container.innerHTML = `
+      <article class="card">
+        <p class="eyebrow">No regulatory items</p>
+        <h3>No retained regulatory updates yet</h3>
+        <p>The regulatory monitor has not retained any items after the current filters. Run the monitor or review <code>data/updates.json</code>.</p>
+      </article>
+    `;
+    return;
+  }
+
+  container.innerHTML = latest.map(renderUpdateCard).join("");
 }
 
 function setFeedFilterPanel(open) {
@@ -840,19 +855,27 @@ function initRouting() {
   navigate();
 }
 
+function safeRun(label, fn) {
+  try {
+    fn();
+  } catch (error) {
+    console.error(`[RegWatch] ${label} failed`, error);
+  }
+}
+
 initTheme();
 initMobileMenu();
-initMetrics();
-renderMonitoring();
-renderMonthlyReview();
-renderMarketIntelligence();
-renderEvents();
-renderDashboard();
-initFeedFilters();
-renderFeed();
-renderConsultations();
-initAccessMatrixFilters();
-renderAccessMatrix();
-initSourceFilters();
-renderSources();
-initRouting();
+safeRun("metrics", initMetrics);
+safeRun("monitoring overview", renderMonitoring);
+safeRun("regulatory radar", renderDashboard);
+safeRun("monthly review", renderMonthlyReview);
+safeRun("market intelligence", renderMarketIntelligence);
+safeRun("events and briefings", renderEvents);
+safeRun("feed filters", initFeedFilters);
+safeRun("regulatory feed", renderFeed);
+safeRun("consultations", renderConsultations);
+safeRun("access matrix filters", initAccessMatrixFilters);
+safeRun("access matrix", renderAccessMatrix);
+safeRun("source filters", initSourceFilters);
+safeRun("sources", renderSources);
+safeRun("routing", initRouting);
