@@ -1,1 +1,45 @@
-[]
+[
+  {
+    "id": "ledger-insights-cecabank-cr-dit-mutuel-join-regulated-layer-one-tokenization-platform-as-it-launches-2026-07-28",
+    "title": "Cecabank, Crédit Mutuel join Regulated Layer One tokenization platform as it launches",
+    "source": "Ledger Insights",
+    "sourceType": "Institutional news / analysis",
+    "url": "https://www.ledgerinsights.com/cecabank-credit-mutuel-join-regulated-layer-one-tokenization-platform-as-it-launches/",
+    "publishedAt": "2026-07-28T10:01:28.000Z",
+    "jurisdiction": "Global",
+    "category": "Source Update",
+    "topics": [
+      "Cryptoasset Regulation",
+      "Tokenisation"
+    ],
+    "priority": "Low",
+    "status": "Published",
+    "scope": "core-digital",
+    "radarEligible": false,
+    "summary": "Today SWIAT announced the official launch of the Regulated Layer One (RL1) blockchain cooperative, with SWIAT transferring its DLT platform to the Luxembourg organization. SWIAT continues to be the technical partner. Additionally, the group announced two new founding members, Spanish wholesale bank Cecabank, and the French umbrella cooperative Crédit Mutuel. RL1 is positioning itself as [&#8230;] The post Cecabank, C",
+    "whyItMatters": "Relevant for institutional tokenisation, settlement, custody, DvP, collateral and financial market infrastructure use cases.",
+    "reviewStatus": "draft",
+    "collectedAt": "2026-07-29T21:47:38.547Z"
+  },
+  {
+    "id": "nrf-regulation-tomorrow-fmlc-response-2026-07-27",
+    "title": "FMLC response",
+    "source": "Norton Rose Fulbright Regulation Tomorrow",
+    "sourceType": "Legal analysis",
+    "url": "https://www.regulationtomorrow.com/2026/07/fmlc-response/",
+    "publishedAt": "2026-07-27T16:20:47.000Z",
+    "jurisdiction": "Global",
+    "category": "Consultation",
+    "topics": [
+      "Tokenisation"
+    ],
+    "priority": "High",
+    "status": "Consultation",
+    "scope": "core-digital",
+    "radarEligible": false,
+    "summary": "On 27 July 2026, the Financial Markets Law Committee published: Correspondence on the Call for Input on the Future of Tokenisation in UK Wholesale Financial Markets . Correspondence on the draft Financial Services and Markets Act 2000 (Cryptoassets) (Amendment) Regulations 2026 . Response to FCA Consultation Paper CP26/13 .",
+    "whyItMatters": "Relevant for institutional tokenisation, settlement, custody, DvP, collateral and financial market infrastructure use cases.",
+    "reviewStatus": "draft",
+    "collectedAt": "2026-07-29T21:47:38.915Z"
+  }
+]

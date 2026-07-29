@@ -1,43 +1,46 @@
 window.REGWATCH_DATA = {
   "siteName": "Digital Assets Regulatory Watch",
   "release": "MVP v1.0.23 final stable",
-  "lastUpdated": "2026-07-21",
+  "lastUpdated": "2026-07-29",
   "monitoring": {
     "status": "Active",
-    "lastScan": "2026-07-21T20:22:00+01:00",
+    "lastScan": "2026-07-29T21:47:38.930Z",
     "quietPeriodDays": 14,
     "regions": [
       {
         "name": "United Kingdom",
         "shortName": "UK",
-        "lastChecked": "2026-07-21",
+        "lastChecked": "2026-07-29",
         "status": "Active"
       },
       {
         "name": "European Union",
         "shortName": "EU",
-        "lastChecked": "2026-07-21",
+        "lastChecked": "2026-07-29",
+        "status": "Active"
+      },
+      {
+        "name": "Global",
+        "shortName": "Global",
+        "lastChecked": "2026-07-29",
         "status": "Active"
       },
       {
         "name": "United States",
         "shortName": "US",
-        "lastChecked": "2026-07-21",
-        "status": "Active"
-      },
-      {
-        "name": "Global standard setters",
-        "shortName": "Global",
-        "lastChecked": "2026-07-21",
-        "status": "Active"
-      },
-      {
-        "name": "Asia-Pacific",
-        "shortName": "APAC",
-        "lastChecked": "2026-07-21",
+        "lastChecked": "2026-07-29",
         "status": "Active"
       }
-    ]
+    ],
+    "lastScanResult": {
+      "newPublishedItems": 10,
+      "newHighPriorityItems": 8,
+      "newMediumPriorityItems": 2,
+      "newLowPriorityItems": 0,
+      "materialItems": 8,
+      "newPendingItems": 2,
+      "checkedSources": 25
+    }
   },
   "description": "Informational regulatory intelligence workspace for public-source monitoring of digital assets, tokenisation, stablecoins and financial market infrastructure developments.",
   "nonPurpose": [
@@ -456,6 +459,198 @@ window.REGWATCH_DATA = {
   ],
   "updates": [
     {
+      "id": "bis-all-dollarisation-and-monetary-control-what-lessons-for-the-rise-of-stablecoins-2026-07-21",
+      "title": "Dollarisation and monetary control: what lessons for the rise of stablecoins?",
+      "source": "Bank for International Settlements",
+      "sourceType": "Central bank body",
+      "url": "https://www.bis.org/publ/work1370.htm",
+      "publishedAt": "2026-07-21T06:24:00.000Z",
+      "jurisdiction": "Global",
+      "category": "Source Update",
+      "topics": [
+        "Stablecoins"
+      ],
+      "priority": "High",
+      "status": "Published",
+      "scope": "core-digital",
+      "radarEligible": true,
+      "summary": "by Boris Hofmann, Aaron Mehrotra, Jan Paulick The emergence of stablecoins has created a new channel to access US dollar liquidity in emerging market and developing economies (EMDEs), similar to the historical role of foreign currency deposits, or \"deposit dollarisation\". This has raised concerns about the possible implications for monetary control in EMDEs. Drawing on data on foreign currency deposits and dollar-peg",
+      "whyItMatters": "Relevant for settlement assets, reserve models, payment stablecoin issuance, redemption rights and prudential or supervisory treatment."
+    },
+    {
+      "id": "bis-all-chiara-scotti-from-the-winter-olympics-to-the-digital-euro-a-dialogue-between-academia-and-centr-2026-07-01",
+      "title": "Chiara Scotti: From the Winter Olympics to the digital euro. A dialogue between academia and central banks",
+      "source": "Bank for International Settlements",
+      "sourceType": "Central bank body",
+      "url": "https://www.bis.org/review/r260701a.htm",
+      "publishedAt": "2026-07-01T12:43:00.000Z",
+      "jurisdiction": "Global",
+      "category": "Speech / Remarks",
+      "topics": [
+        "CBDC"
+      ],
+      "priority": "Medium",
+      "status": "Published",
+      "scope": "core-digital",
+      "radarEligible": false,
+      "summary": "Speech by Ms Chiara Scotti, Deputy Governor of the Bank of Italy, at the \"6th Dolomiti Macro Meeting\", organised by Free University of Bozen, BI Norwegian Business School, Centre for Applied Macroeconomics and Commodity Prices (CAMP), Bozen, 20 June 2026.",
+      "whyItMatters": "Relevant as a public-source update from Bank for International Settlements within the covered digital assets regulatory intelligence scope."
+    },
+    {
+      "id": "bis-all-joachim-nagel-the-digital-euro-promoting-innovation-safeguarding-sovereignty-strengthening-europ-2026-06-30",
+      "title": "Joachim Nagel: The digital euro - promoting innovation, safeguarding sovereignty, strengthening Europe",
+      "source": "Bank for International Settlements",
+      "sourceType": "Central bank body",
+      "url": "https://www.bis.org/review/r260630e.htm",
+      "publishedAt": "2026-06-30T09:09:00.000Z",
+      "jurisdiction": "Global",
+      "category": "Speech / Remarks",
+      "topics": [
+        "CBDC"
+      ],
+      "priority": "High",
+      "status": "Published",
+      "scope": "core-digital",
+      "radarEligible": false,
+      "summary": "Speech by Dr Joachim Nagel, President of the Deutsche Bundesbank, at the International Bankers Forum, Frankfurt am Main, 24 June 2026.",
+      "whyItMatters": "Relevant as a public-source update from Bank for International Settlements within the covered digital assets regulatory intelligence scope."
+    },
+    {
+      "id": "bank-of-england-publications-bank-of-england-and-financial-conduct-authority-s-approach-to-joint-regulation-of-systemic-stabl-2026-06-30",
+      "title": "Bank of England and Financial Conduct Authority’s approach to joint regulation of systemic stablecoin issuers",
+      "source": "Bank of England",
+      "sourceType": "Central bank",
+      "url": "https://www.bankofengland.co.uk/paper/2026/boe-and-fcas-approach-to-joint-regulation-of-systemic-stablecoin-issuers",
+      "publishedAt": "2026-06-30T08:00:00.000Z",
+      "jurisdiction": "United Kingdom",
+      "category": "Regulatory Update",
+      "topics": [
+        "Stablecoins"
+      ],
+      "priority": "High",
+      "status": "Published",
+      "scope": "core-digital",
+      "radarEligible": true,
+      "summary": "Bank of England published a new item relevant to digital assets, tokenisation, digital money, stablecoins or financial market infrastructure monitoring.",
+      "whyItMatters": "Relevant for settlement assets, reserve models, payment stablecoin issuance, redemption rights and prudential or supervisory treatment."
+    },
+    {
+      "id": "bis-fsi-the-macroeconomics-of-stablecoins-2026-06-23",
+      "title": "The macroeconomics of stablecoins",
+      "source": "Financial Stability Institute / BIS",
+      "sourceType": "Official source",
+      "url": "https://www.bis.org/publ/work1363.htm",
+      "publishedAt": "2026-06-23T07:44:00.000Z",
+      "jurisdiction": "Global",
+      "category": "Source Update",
+      "topics": [
+        "Stablecoins"
+      ],
+      "priority": "High",
+      "status": "Published",
+      "scope": "core-digital",
+      "radarEligible": true,
+      "summary": "by Boris Hofmann, Matthias Kaldorf, Matthias Rottner We analyse the macroeconomic impact of stablecoins using a quantitative macroeconomic model. Stablecoins influence the economy through two opposing channels: (i) a bank lending channel, as household demand for stablecoins raises deposit rates, increases bank funding costs, and reduces loan supply; and (ii) a fiscal space channel, as stablecoin issuers' demand for T",
+      "whyItMatters": "Relevant for settlement assets, reserve models, payment stablecoin issuance, redemption rights and prudential or supervisory treatment."
+    },
+    {
+      "id": "bank-of-england-publications-sterling-denominated-systemic-stablecoins-2026-06-22",
+      "title": "Sterling-denominated systemic stablecoins",
+      "source": "Bank of England",
+      "sourceType": "Central bank",
+      "url": "https://www.bankofengland.co.uk/paper/2026/ps/sterling-denominated-systemic-stablecoin",
+      "publishedAt": "2026-06-22T07:30:00.000Z",
+      "jurisdiction": "United Kingdom",
+      "category": "Consultation",
+      "topics": [
+        "Stablecoins"
+      ],
+      "priority": "High",
+      "status": "Consultation",
+      "scope": "core-digital",
+      "radarEligible": false,
+      "summary": "Policy statement and consultation on draft Code of Practice",
+      "whyItMatters": "Relevant for settlement assets, reserve models, payment stablecoin issuance, redemption rights and prudential or supervisory treatment."
+    },
+    {
+      "id": "bis-fsi-stablecoin-remuneration-on-centralised-exchanges-2026-06-19",
+      "title": "Stablecoin remuneration on centralised exchanges",
+      "source": "Financial Stability Institute / BIS",
+      "sourceType": "Official source",
+      "url": "https://www.bis.org/publ/bisbull125.htm",
+      "publishedAt": "2026-06-19T08:25:00.000Z",
+      "jurisdiction": "Global",
+      "category": "Source Update",
+      "topics": [
+        "Stablecoins"
+      ],
+      "priority": "High",
+      "status": "Published",
+      "scope": "core-digital",
+      "radarEligible": true,
+      "summary": "by Wenqian Huang, Nikola Tarashev, Xinyi Wang Centralised exchanges remunerate stablecoin holders, using the return on the issuer's reserve assets or income from market activity. Under the reserve-based model, yields track policy rates &#8211; akin to yields on cash-management instruments &#8211; whereas under the activity-based model, yields are much more volatile. By turning stablecoins into substitutes for bank de",
+      "whyItMatters": "Relevant for settlement assets, reserve models, payment stablecoin issuance, redemption rights and prudential or supervisory treatment."
+    },
+    {
+      "id": "bis-fsi-the-anatomy-of-stablecoin-transactions-2026-06-11",
+      "title": "The anatomy of stablecoin transactions",
+      "source": "Financial Stability Institute / BIS",
+      "sourceType": "Official source",
+      "url": "https://www.bis.org/publ/work1359.htm",
+      "publishedAt": "2026-06-11T12:00:00.000Z",
+      "jurisdiction": "Global",
+      "category": "Institutional Report",
+      "topics": [
+        "Stablecoins"
+      ],
+      "priority": "High",
+      "status": "Published",
+      "scope": "core-digital",
+      "radarEligible": true,
+      "summary": "by Fabian Schär, Anneke Kosse, Tara Rice, Takeshi Shirakami, Jirapat Siridhasanakul Stablecoin transfers are often interpreted as payments. On programmable blockchains, however, they are frequently embedded in atomically executed transaction bundles that combine trading, lending, arbitrage, liquidity provision, and settlement. We show that ignoring this structure materially distorts the interpretation of stablecoin a",
+      "whyItMatters": "Relevant for settlement assets, reserve models, payment stablecoin issuance, redemption rights and prudential or supervisory treatment."
+    },
+    {
+      "id": "bank-of-england-pra-letter-from-david-bailey-charlotte-gerken-and-rebecca-jackson-on-reaffirming-the-pra-s-position--2026-05-18",
+      "title": "Letter from David Bailey, Charlotte Gerken and Rebecca Jackson on reaffirming the PRA's position and clarifying expectations on innovations in the use of deposits, e-money and stablecoins",
+      "source": "Bank of England",
+      "sourceType": "Central bank",
+      "url": "https://www.bankofengland.co.uk/prudential-regulation/letter/2026/innovations-in-the-use-of-deposits-emoney-and-regulated-stablecoins",
+      "publishedAt": "2026-05-18T08:00:00.000Z",
+      "jurisdiction": "United Kingdom",
+      "category": "Source Update",
+      "topics": [
+        "Stablecoins"
+      ],
+      "priority": "Medium",
+      "status": "Published",
+      "scope": "core-digital",
+      "radarEligible": false,
+      "summary": "Letter to Chief Executive Officers of all banks and designated investment firms.",
+      "whyItMatters": "Relevant for settlement assets, reserve models, payment stablecoin issuance, redemption rights and prudential or supervisory treatment."
+    },
+    {
+      "id": "bank-of-england-pra-letter-from-david-bailey-charlotte-gerken-and-rebecca-jackson-on-the-prudential-treatment-of-tok-2026-05-18",
+      "title": "Letter from David Bailey, Charlotte Gerken and Rebecca Jackson on the prudential treatment of tokenised assets, stablecoins, and other cryptoasset exposures",
+      "source": "Bank of England",
+      "sourceType": "Central bank",
+      "url": "https://www.bankofengland.co.uk/prudential-regulation/letter/2026/tokenised-assets-stablecoins-and-other-cryptoasset-exposures",
+      "publishedAt": "2026-05-18T08:00:00.000Z",
+      "jurisdiction": "United Kingdom",
+      "category": "Source Update",
+      "topics": [
+        "Cryptoasset Regulation",
+        "Tokenisation",
+        "Stablecoins"
+      ],
+      "priority": "High",
+      "status": "Published",
+      "scope": "core-digital",
+      "radarEligible": true,
+      "summary": "Letter to Chief Executive Officers of all banks and designated investment firms.",
+      "whyItMatters": "Relevant for settlement assets, reserve models, payment stablecoin issuance, redemption rights and prudential or supervisory treatment."
+    },
+    {
       "id": "fca-crypto-rules-2026-07",
       "title": "FCA sets landmark cryptoasset regime rules and confirms authorisation gateway timing",
       "source": "Financial Conduct Authority",
@@ -693,26 +888,6 @@ window.REGWATCH_DATA = {
       "status": "Proposed rule",
       "summary": "The OCC proposed a rule to implement the GENIUS Act for entities subject to OCC jurisdiction, including pathways for permitted payment stablecoin issuers.",
       "whyItMatters": "Relevant for banks, nonbank stablecoin issuers and service providers assessing U.S. stablecoin issuance, reserve custody, transition and supervisory requirements."
-    },
-    {
-      "id": "sec-sab122-rescinds-sab121-2025",
-      "title": "SEC Staff Accounting Bulletin 122 rescinds SAB 121 crypto safeguarding guidance",
-      "source": "U.S. Securities and Exchange Commission",
-      "sourceType": "Official regulator",
-      "url": "https://www.sec.gov/rules-regulations/staff-guidance/staff-accounting-bulletins/staff-accounting-bulletin-122",
-      "publishedAt": "2025-01-23",
-      "jurisdiction": "United States",
-      "category": "Historical Milestone",
-      "topics": [
-        "Custody",
-        "Accounting",
-        "Safeguarding",
-        "Cryptoasset Regulation"
-      ],
-      "priority": "High",
-      "status": "Published",
-      "summary": "SEC SAB 122 rescinded the staff interpretive guidance in SAB 121 regarding obligations to safeguard crypto-assets held for platform users.",
-      "whyItMatters": "A key U.S. accounting and custody milestone for entities safeguarding crypto-assets for customers, especially banks and listed companies evaluating custody models."
     },
     {
       "id": "occ-il1183-bank-crypto-activities-2025",

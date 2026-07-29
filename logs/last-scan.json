@@ -1,7 +1,8 @@
 {
-  "scannedAt": "2026-07-29T20:54:09.146Z",
-  "newAuto": 72,
-  "newPending": 9,
+  "scannedAt": "2026-07-29T21:47:38.935Z",
+  "newAuto": 10,
+  "newPending": 2,
+  "prunedFalsePositives": 1,
   "sources": [
     {
       "source": "fca-publications",
@@ -17,13 +18,13 @@
       "source": "bank-of-england-publications",
       "status": "ok",
       "feedItems": 50,
-      "relevantItems": 17
+      "relevantItems": 2
     },
     {
       "source": "bank-of-england-pra",
       "status": "ok",
       "feedItems": 50,
-      "relevantItems": 18
+      "relevantItems": 2
     },
     {
       "source": "hm-treasury-news",
@@ -84,13 +85,13 @@
       "source": "bis-all",
       "status": "ok",
       "feedItems": 25,
-      "relevantItems": 25
+      "relevantItems": 3
     },
     {
       "source": "bis-fsi",
       "status": "ok",
       "feedItems": 25,
-      "relevantItems": 25
+      "relevantItems": 5
     },
     {
       "source": "fsb-publications",
@@ -134,7 +135,7 @@
       "source": "nrf-regulation-tomorrow",
       "status": "ok",
       "feedItems": 10,
-      "relevantItems": 8
+      "relevantItems": 1
     }
   ]
 }
