@@ -7,7 +7,7 @@ const dataDir = path.join(root, "data");
 const args = new Set(process.argv.slice(2));
 const dryRun = args.has("--dry-run");
 
-const LOOKAHEAD_DAYS = Number(process.env.EVENT_LOOKAHEAD_DAYS || 180);
+const LOOKAHEAD_DAYS = Number(process.env.EVENT_LOOKAHEAD_DAYS || 365);
 const KEEP_PAST_DAYS = Number(process.env.EVENT_KEEP_PAST_DAYS || 7);
 const MAX_EVENTS = Number(process.env.EVENT_MAX_ITEMS || 80);
 
