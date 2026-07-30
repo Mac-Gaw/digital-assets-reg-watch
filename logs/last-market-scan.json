@@ -1,7 +1,7 @@
 {
-  "scannedAt": "2026-07-30T06:39:54.361Z",
-  "newItems": 13,
-  "prunedStoredItems": 13,
+  "scannedAt": "2026-07-30T09:40:37.521Z",
+  "newItems": 16,
+  "prunedStoredItems": 14,
   "sources": [
     {
       "source": "finextra-crypto",
@@ -19,7 +19,7 @@
       "source": "finextra-payments",
       "status": "ok",
       "feedItems": 48,
-      "relevantItems": 4
+      "relevantItems": 3
     },
     {
       "source": "finextra-regulation",
@@ -49,13 +49,13 @@
       "source": "securities-finance-times",
       "status": "ok",
       "feedItems": 10,
-      "relevantItems": 0
+      "relevantItems": 1
     },
     {
       "source": "markets-media-feed",
       "status": "ok",
       "feedItems": 10,
-      "relevantItems": 0
+      "relevantItems": 2
     }
   ]
 }
