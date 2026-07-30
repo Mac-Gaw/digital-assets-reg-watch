@@ -1,7 +1,7 @@
 {
-  "scannedAt": "2026-07-30T14:29:48.763Z",
-  "newItems": 16,
-  "prunedStoredItems": 15,
+  "scannedAt": "2026-07-30T16:47:29.048Z",
+  "newItems": 14,
+  "prunedStoredItems": 14,
   "sources": [
     {
       "source": "finextra-crypto",
@@ -43,7 +43,7 @@
       "source": "asset-servicing-times",
       "status": "ok",
       "feedItems": 10,
-      "relevantItems": 1
+      "relevantItems": 0
     },
     {
       "source": "securities-finance-times",
