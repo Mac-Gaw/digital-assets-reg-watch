@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-07-31T03:50:14.103Z",
+  "scannedAt": "2026-07-31T07:12:51.885Z",
   "newItems": 14,
   "prunedStoredItems": 14,
   "sources": [
@@ -47,9 +47,8 @@
     },
     {
       "source": "securities-finance-times",
-      "status": "ok",
-      "feedItems": 10,
-      "relevantItems": 1
+      "status": "error",
+      "message": "HTTP 429"
     },
     {
       "source": "markets-media-feed",
