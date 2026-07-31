@@ -1,8 +1,8 @@
 {
-  "scannedAt": "2026-07-29T21:47:38.935Z",
-  "newAuto": 10,
-  "newPending": 2,
-  "prunedFalsePositives": 1,
+  "scannedAt": "2026-07-31T09:22:15.569Z",
+  "newAuto": 0,
+  "newPending": 0,
+  "prunedFalsePositives": 0,
   "sources": [
     {
       "source": "fca-publications",
@@ -85,7 +85,7 @@
       "source": "bis-all",
       "status": "ok",
       "feedItems": 25,
-      "relevantItems": 3
+      "relevantItems": 1
     },
     {
       "source": "bis-fsi",
@@ -135,7 +135,7 @@
       "source": "nrf-regulation-tomorrow",
       "status": "ok",
       "feedItems": 10,
-      "relevantItems": 1
+      "relevantItems": 0
     }
   ]
 }
