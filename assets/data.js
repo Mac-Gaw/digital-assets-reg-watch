@@ -307,6 +307,31 @@ window.REGWATCH_DATA = {
   ],
   "marketIntelligence": [
     {
+      "id": "markets-media-feed-blackrock-adds-to-tokenized-cash-platform-2026-08-03",
+      "title": "BlackRock Adds to Tokenized Cash Platform",
+      "source": "Markets Media",
+      "url": "https://www.marketsmedia.com/blackrock-adds-to-tokenized-cash-platform",
+      "publishedAt": "2026-08-03T14:33:46.000Z",
+      "category": "Tokenisation",
+      "topics": [
+        "Tokenisation",
+        "Digital money & settlement assets"
+      ],
+      "collectionMode": "auto"
+    },
+    {
+      "id": "finextra-crypto-infinios-goes-live-with-mastercard-on-stablecoin-settlement-2026-08-03",
+      "title": "Infinios goes live with Mastercard on stablecoin settlement",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/pressarticle/110553/infinios-goes-live-with-mastercard-on-stablecoin-settlement",
+      "publishedAt": "2026-08-03T14:26:00.000Z",
+      "category": "Digital money & settlement assets",
+      "topics": [
+        "Digital money & settlement assets"
+      ],
+      "collectionMode": "auto"
+    },
+    {
       "id": "finextra-crypto-ripple-invests-in-uk-digital-assets-platform-licuido-2026-08-03",
       "title": "Ripple invests in UK digital assets platform Licuido",
       "source": "Finextra",
