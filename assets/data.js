@@ -322,6 +322,18 @@ window.REGWATCH_DATA = {
   ],
   "marketIntelligence": [
     {
+      "id": "finextra-crypto-clarity-act-u-s-what-it-means-for-digital-assets-and-rwa-tokenization-2026-08-04",
+      "title": "CLARITY Act (U.S.): What It Means for Digital Assets and RWA Tokenization",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/blogposting/32446/clarity-act-us-what-it-means-for-digital-assets-and-rwa-tokenization",
+      "publishedAt": "2026-08-04T13:08:21.000Z",
+      "category": "Tokenisation",
+      "topics": [
+        "Tokenisation"
+      ],
+      "collectionMode": "auto"
+    },
+    {
       "id": "finextra-payments-diesta-brings-kinexys-by-jpmorgan-s-payee-verification-to-insurance-payments-2026-08-04",
       "title": "Diesta brings Kinexys by JPMorgan’s Payee Verification to insurance payments",
       "source": "Finextra",
