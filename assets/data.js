@@ -283,6 +283,21 @@ window.REGWATCH_DATA = {
       "collectionMode": "auto"
     },
     {
+      "id": "finextra-events-how-ai-agents-help-fis-tackle-regulatory-change-2026-10-14",
+      "title": "How AI agents help FIs tackle regulatory change",
+      "source": "Finextra Events",
+      "url": "https://www.finextra.com/event-info/632/how-ai-agents-help-fis-tackle-regulatory-change",
+      "eventDate": "2026-10-14T15:00:00.000Z",
+      "format": "Webinar",
+      "location": "Online",
+      "access": "Registration required",
+      "category": "Regulation",
+      "topics": [
+        "Regulation"
+      ],
+      "collectionMode": "auto"
+    },
+    {
       "id": "digital-asset-conference-iv-2026",
       "title": "The Digital Asset Conference IV",
       "source": "The Digital Asset Conference",
