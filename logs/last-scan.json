@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-07-31T09:22:15.569Z",
+  "scannedAt": "2026-08-04T08:44:38.548Z",
   "newAuto": 0,
   "newPending": 0,
   "prunedFalsePositives": 0,
@@ -85,7 +85,7 @@
       "source": "bis-all",
       "status": "ok",
       "feedItems": 25,
-      "relevantItems": 1
+      "relevantItems": 0
     },
     {
       "source": "bis-fsi",
