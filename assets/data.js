@@ -337,6 +337,19 @@ window.REGWATCH_DATA = {
   ],
   "marketIntelligence": [
     {
+      "id": "markets-media-feed-blackrock-launches-its-first-tokenised-funds-in-europe-2026-08-04",
+      "title": "BlackRock Launches its First Tokenised Funds in Europe",
+      "source": "Markets Media",
+      "url": "https://www.marketsmedia.com/blackrock-launches-its-first-tokenised-funds-in-europe",
+      "publishedAt": "2026-08-04T16:57:13.000Z",
+      "category": "Tokenisation",
+      "topics": [
+        "Tokenisation",
+        "Institutional adoption"
+      ],
+      "collectionMode": "auto"
+    },
+    {
       "id": "finextra-crypto-clarity-act-u-s-what-it-means-for-digital-assets-and-rwa-tokenization-2026-08-04",
       "title": "CLARITY Act (U.S.): What It Means for Digital Assets and RWA Tokenization",
       "source": "Finextra",
@@ -357,6 +370,18 @@ window.REGWATCH_DATA = {
       "category": "Institutional adoption",
       "topics": [
         "Institutional adoption"
+      ],
+      "collectionMode": "auto"
+    },
+    {
+      "id": "finextra-payments-sponsor-s-message-webinar-are-banks-actually-ready-for-digital-money-2026-08-04",
+      "title": "Sponsor's message: Webinar – Are Banks Actually Ready for Digital Money?",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/banners/banner.aspx?opt=ad&baid=8168",
+      "publishedAt": "2026-08-04T00:00:00.000Z",
+      "category": "Digital money & settlement assets",
+      "topics": [
+        "Digital money & settlement assets"
       ],
       "collectionMode": "auto"
     },
