@@ -268,6 +268,21 @@ window.REGWATCH_DATA = {
       "collectionMode": "auto"
     },
     {
+      "id": "finextra-events-how-leading-global-banks-are-driving-the-next-generation-of-consumer-scam-controls-2026-10-07",
+      "title": "How leading global banks are driving the next generation of consumer scam controls",
+      "source": "Finextra Events",
+      "url": "https://www.finextra.com/event-info/631/how-leading-global-banks-are-driving-the-next-generation-of-consumer-scam-controls",
+      "eventDate": "2026-10-07T15:00:00.000Z",
+      "format": "Webinar",
+      "location": "Online",
+      "access": "Registration required",
+      "category": "Regulation",
+      "topics": [
+        "Regulation"
+      ],
+      "collectionMode": "auto"
+    },
+    {
       "id": "digital-asset-conference-iv-2026",
       "title": "The Digital Asset Conference IV",
       "source": "The Digital Asset Conference",
