@@ -96,6 +96,21 @@ window.REGWATCH_DATA = {
       "collectionMode": "manual"
     },
     {
+      "id": "finextra-events-countdown-to-sibos-who-controls-value-in-an-ai-driven-economy-2026-09-03",
+      "title": "Countdown to Sibos: Who controls value in an AI-driven economy?",
+      "source": "Finextra Events",
+      "url": "https://www.finextra.com/event-info/633/countdown-to-sibos-who-controls-value-in-an-ai-driven-economy",
+      "eventDate": "2026-09-03T15:00:00.000Z",
+      "format": "Webinar",
+      "location": "Online",
+      "access": "Registration required",
+      "category": "Tokenisation",
+      "topics": [
+        "Tokenisation"
+      ],
+      "collectionMode": "auto"
+    },
+    {
       "id": "finextra-events-tackling-fraud-as-an-ecosystem-exploring-the-shift-needed-in-regulation-and-the-industry-2026-09-08",
       "title": "Tackling fraud as an ecosystem: Exploring the shift needed in regulation and the industry",
       "source": "Finextra Events",
@@ -278,6 +293,22 @@ window.REGWATCH_DATA = {
       "access": "Registration required",
       "category": "Regulation",
       "topics": [
+        "Regulation"
+      ],
+      "collectionMode": "auto"
+    },
+    {
+      "id": "finextra-events-deposits-and-stablecoins-the-complete-digital-money-proposition-for-banks-2026-10-08",
+      "title": "Deposits and stablecoins: The complete digital money proposition for banks",
+      "source": "Finextra Events",
+      "url": "https://www.finextra.com/event-info/634/deposits-and-stablecoins-the-complete-digital-money-proposition-for-banks",
+      "eventDate": "2026-10-08T15:00:00.000Z",
+      "format": "Webinar",
+      "location": "Online",
+      "access": "Registration required",
+      "category": "Digital money & settlement assets",
+      "topics": [
+        "Digital money & settlement assets",
         "Regulation"
       ],
       "collectionMode": "auto"
