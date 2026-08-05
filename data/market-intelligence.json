@@ -1,5 +1,54 @@
 [
   {
+    "id": "markets-media-feed-wells-fargo-to-launch-tokenized-deposits-2026-08-05",
+    "title": "Wells Fargo to Launch Tokenized Deposits",
+    "source": "Markets Media",
+    "url": "https://www.marketsmedia.com/wells-fargo-to-launch-tokenized-deposits",
+    "publishedAt": "2026-08-05T08:32:47.000Z",
+    "category": "Tokenisation",
+    "topics": [
+      "Tokenisation",
+      "Digital money & settlement assets"
+    ],
+    "collectionMode": "auto"
+  },
+  {
+    "id": "markets-media-feed-bny-galaxy-advance-digital-asset-infrastructure-2026-08-05",
+    "title": "BNY, Galaxy Advance Digital Asset Infrastructure",
+    "source": "Markets Media",
+    "url": "https://www.marketsmedia.com/bny-galaxy-advance-digital-asset-infrastructure",
+    "publishedAt": "2026-08-05T08:03:00.000Z",
+    "category": "Custody",
+    "topics": [
+      "Custody"
+    ],
+    "collectionMode": "auto"
+  },
+  {
+    "id": "markets-media-feed-dinari-offers-first-u-s-tokenized-stocks-available-in-u-s-2026-08-05",
+    "title": "Dinari Offers First U.S Tokenized Stocks Available in U.S.",
+    "source": "Markets Media",
+    "url": "https://www.marketsmedia.com/dinari-offers-first-u-s-tokenized-stocks-available-in-u-s",
+    "publishedAt": "2026-08-05T07:56:32.000Z",
+    "category": "Tokenisation",
+    "topics": [
+      "Tokenisation"
+    ],
+    "collectionMode": "auto"
+  },
+  {
+    "id": "finextra-crypto-asia-s-crypto-rulebook-mas-singapore-vs-hong-kong-s-digital-asset-regime-2026-08-05",
+    "title": "Asia's Crypto Rulebook: MAS Singapore vs. Hong Kong's Digital Asset Regime",
+    "source": "Finextra",
+    "url": "https://www.finextra.com/blogposting/32460/asias-crypto-rulebook-mas-singapore-vs-hong-kongs-digital-asset-regime",
+    "publishedAt": "2026-08-05T05:37:11.000Z",
+    "category": "Digital assets",
+    "topics": [
+      "Digital assets"
+    ],
+    "collectionMode": "auto"
+  },
+  {
     "id": "markets-media-feed-blackrock-launches-its-first-tokenised-funds-in-europe-2026-08-04",
     "title": "BlackRock Launches its First Tokenised Funds in Europe",
     "source": "Markets Media",
