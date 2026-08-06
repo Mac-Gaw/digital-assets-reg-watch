@@ -368,6 +368,19 @@ window.REGWATCH_DATA = {
   ],
   "marketIntelligence": [
     {
+      "id": "finextra-payments-wells-fargo-to-roll-out-tokenised-deposits-for-corporate-clients-2026-08-06",
+      "title": "Wells Fargo to roll out tokenised deposits for corporate clients",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/newsarticle/48198/wells-fargo-to-roll-out-tokenised-deposits-for-corporate-clients",
+      "publishedAt": "2026-08-06T00:01:00.000Z",
+      "category": "Tokenisation",
+      "topics": [
+        "Tokenisation",
+        "Digital money & settlement assets"
+      ],
+      "collectionMode": "auto"
+    },
+    {
       "id": "finextra-crypto-borderless-xyz-and-mastercard-partner-on-cross-border-stablecoin-payments-2026-08-05",
       "title": "Borderless.xyz and Mastercard partner on cross-border stablecoin payments",
       "source": "Finextra",
