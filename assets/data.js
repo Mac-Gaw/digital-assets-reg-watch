@@ -368,6 +368,18 @@ window.REGWATCH_DATA = {
   ],
   "marketIntelligence": [
     {
+      "id": "finextra-crypto-moonpay-launches-stablecoin-platform-for-businesses-2026-08-07",
+      "title": "MoonPay launches stablecoin platform for businesses",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/newsarticle/48208/moonpay-launches-stablecoin-platform-for-businesses",
+      "publishedAt": "2026-08-07T00:01:00.000Z",
+      "category": "Digital money & settlement assets",
+      "topics": [
+        "Digital money & settlement assets"
+      ],
+      "collectionMode": "auto"
+    },
+    {
       "id": "markets-media-feed-schroders-secures-approval-for-first-tokenised-share-class-2026-08-06",
       "title": "Schroders Secures Approval for First Tokenised Share Class",
       "source": "Markets Media",
@@ -890,18 +902,6 @@ window.REGWATCH_DATA = {
       "category": "Digital money & settlement assets",
       "topics": [
         "Digital money & settlement assets"
-      ],
-      "collectionMode": "auto"
-    },
-    {
-      "id": "finextra-wholesale-the-yield-illusion-how-unpriced-technical-debt-is-crashing-rwa-tokenization-2026-07-07",
-      "title": "The Yield Illusion: How Unpriced Technical Debt is Crashing RWA Tokenization",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/blogposting/32214/the-yield-illusion-how-unpriced-technical-debt-is-crashing-rwa-tokenization",
-      "publishedAt": "2026-07-07T15:28:16.000Z",
-      "category": "Tokenisation",
-      "topics": [
-        "Tokenisation"
       ],
       "collectionMode": "auto"
     }
