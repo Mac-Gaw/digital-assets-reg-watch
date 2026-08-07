@@ -368,6 +368,18 @@ window.REGWATCH_DATA = {
   ],
   "marketIntelligence": [
     {
+      "id": "markets-media-feed-tokenised-real-world-assets-tripled-over-past-year-2026-08-07",
+      "title": "Tokenised Real-World Assets Tripled Over Past Year",
+      "source": "Markets Media",
+      "url": "https://www.marketsmedia.com/tokenised-real-world-assets-tripled-over-past-year",
+      "publishedAt": "2026-08-07T08:17:42.000Z",
+      "category": "Tokenisation",
+      "topics": [
+        "Tokenisation"
+      ],
+      "collectionMode": "auto"
+    },
+    {
       "id": "finextra-crypto-moonpay-launches-stablecoin-platform-for-businesses-2026-08-07",
       "title": "MoonPay launches stablecoin platform for businesses",
       "source": "Finextra",
