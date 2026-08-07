@@ -380,6 +380,18 @@ window.REGWATCH_DATA = {
       "collectionMode": "auto"
     },
     {
+      "id": "finextra-crypto-how-the-genius-act-is-accelerating-institutional-tokenization-infrastructure-2026-08-07",
+      "title": "How the GENIUS Act Is Accelerating Institutional Tokenization Infrastructure",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/blogposting/32486/how-the-genius-act-is-accelerating-institutional-tokenization-infrastructure",
+      "publishedAt": "2026-08-07T05:10:16.000Z",
+      "category": "Tokenisation",
+      "topics": [
+        "Tokenisation"
+      ],
+      "collectionMode": "auto"
+    },
+    {
       "id": "finextra-crypto-moonpay-launches-stablecoin-platform-for-businesses-2026-08-07",
       "title": "MoonPay launches stablecoin platform for businesses",
       "source": "Finextra",
