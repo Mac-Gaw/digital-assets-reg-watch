@@ -903,19 +903,6 @@ window.REGWATCH_DATA = {
         "Tokenisation"
       ],
       "collectionMode": "auto"
-    },
-    {
-      "id": "finextra-crypto-what-are-the-best-use-cases-for-tokenisation-and-programmability-2026-07-10",
-      "title": "What Are the Best Use Cases for Tokenisation and Programmability?",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/videoarticle/3563/what-are-the-best-use-cases-for-tokenisation-and-programmability",
-      "publishedAt": "2026-07-10T15:00:00.000Z",
-      "category": "Tokenisation",
-      "topics": [
-        "Tokenisation",
-        "Digital money & settlement assets"
-      ],
-      "collectionMode": "auto"
     }
   ],
   "monthlyReviews": [
