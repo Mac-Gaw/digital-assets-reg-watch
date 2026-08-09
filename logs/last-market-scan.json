@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-08-09T02:27:22.362Z",
+  "scannedAt": "2026-08-09T04:35:31.822Z",
   "newItems": 13,
   "prunedStoredItems": 13,
   "sources": [
@@ -13,7 +13,7 @@
       "source": "finextra-markets",
       "status": "ok",
       "feedItems": 43,
-      "relevantItems": 2
+      "relevantItems": 3
     },
     {
       "source": "finextra-payments",
