@@ -368,6 +368,18 @@ window.REGWATCH_DATA = {
   ],
   "marketIntelligence": [
     {
+      "id": "finextra-crypto-tokenized-cash-transforming-traditional-money-for-the-digital-economy-2026-08-10",
+      "title": "Tokenized Cash: Transforming Traditional Money for the Digital Economy",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/blogposting/32506/tokenized-cash-transforming-traditional-money-for-the-digital-economy",
+      "publishedAt": "2026-08-10T11:07:48.000Z",
+      "category": "Tokenisation",
+      "topics": [
+        "Tokenisation"
+      ],
+      "collectionMode": "auto"
+    },
+    {
       "id": "markets-media-feed-21x-launches-exchange-for-tokenized-cash-and-securities-2026-08-10",
       "title": "21X Launches Exchange for Tokenized Cash and Securities",
       "source": "Markets Media",
