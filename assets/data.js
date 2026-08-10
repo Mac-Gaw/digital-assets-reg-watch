@@ -368,6 +368,19 @@ window.REGWATCH_DATA = {
   ],
   "marketIntelligence": [
     {
+      "id": "markets-media-feed-fis-launches-digital-money-network-for-banks-2026-08-10",
+      "title": "FIS Launches Digital Money Network for Banks",
+      "source": "Markets Media",
+      "url": "https://www.marketsmedia.com/fis-launches-digital-money-network-for-banks",
+      "publishedAt": "2026-08-10T15:44:07.000Z",
+      "category": "Tokenisation",
+      "topics": [
+        "Tokenisation",
+        "Digital money & settlement assets"
+      ],
+      "collectionMode": "auto"
+    },
+    {
       "id": "finextra-crypto-tokenized-cash-transforming-traditional-money-for-the-digital-economy-2026-08-10",
       "title": "Tokenized Cash: Transforming Traditional Money for the Digital Economy",
       "source": "Finextra",
