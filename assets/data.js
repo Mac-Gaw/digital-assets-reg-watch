@@ -368,6 +368,18 @@ window.REGWATCH_DATA = {
   ],
   "marketIntelligence": [
     {
+      "id": "finextra-crypto-cashi-picks-thredd-to-power-stablecoin-spending-card-2026-08-11",
+      "title": "Cashi picks Thredd to power stablecoin spending card",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/pressarticle/110618/cashi-picks-thredd-to-power-stablecoin-spending-card",
+      "publishedAt": "2026-08-11T14:03:00.000Z",
+      "category": "Digital money & settlement assets",
+      "topics": [
+        "Digital money & settlement assets"
+      ],
+      "collectionMode": "auto"
+    },
+    {
       "id": "markets-media-feed-northern-trust-and-038-lukka-enhance-digital-asset-reporting-2026-08-11",
       "title": "Northern Trust &#038; Lukka Enhance Digital Asset Reporting",
       "source": "Markets Media",
@@ -388,6 +400,18 @@ window.REGWATCH_DATA = {
       "category": "Market structure",
       "topics": [
         "Market structure"
+      ],
+      "collectionMode": "auto"
+    },
+    {
+      "id": "finextra-crypto-stablecoins-have-left-the-crypto-niche-now-they-are-entering-everyday-finance-2026-08-11",
+      "title": "Stablecoins Have Left the Crypto Niche. Now They Are Entering Everyday Finance.",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/blogposting/32512/stablecoins-have-left-the-crypto-niche-now-they-are-entering-everyday-finance",
+      "publishedAt": "2026-08-11T07:32:24.000Z",
+      "category": "Digital money & settlement assets",
+      "topics": [
+        "Digital money & settlement assets"
       ],
       "collectionMode": "auto"
     },
