@@ -368,6 +368,30 @@ window.REGWATCH_DATA = {
   ],
   "marketIntelligence": [
     {
+      "id": "markets-media-feed-northern-trust-and-038-lukka-enhance-digital-asset-reporting-2026-08-11",
+      "title": "Northern Trust &#038; Lukka Enhance Digital Asset Reporting",
+      "source": "Markets Media",
+      "url": "https://www.marketsmedia.com/northern-trust-engages-lukka-to-enhance-digital-asset-reporting",
+      "publishedAt": "2026-08-11T08:33:30.000Z",
+      "category": "Market structure",
+      "topics": [
+        "Market structure"
+      ],
+      "collectionMode": "auto"
+    },
+    {
+      "id": "markets-media-feed-first-digital-asset-tracking-u-s-home-price-index-launches-2026-08-11",
+      "title": "First Digital Asset Tracking U.S. Home Price Index Launches",
+      "source": "Markets Media",
+      "url": "https://www.marketsmedia.com/galaxy-commits-50m-to-first-digital-asset-referencing-u-s-home-price-index",
+      "publishedAt": "2026-08-11T08:23:53.000Z",
+      "category": "Market structure",
+      "topics": [
+        "Market structure"
+      ],
+      "collectionMode": "auto"
+    },
+    {
       "id": "markets-media-feed-fis-launches-digital-money-network-for-banks-2026-08-10",
       "title": "FIS Launches Digital Money Network for Banks",
       "source": "Markets Media",
