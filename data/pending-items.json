@@ -1,5 +1,69 @@
 [
   {
+    "id": "ledger-insights-south-africa-plans-exchange-controls-for-offshore-crypto-stablecoin-flows-2026-08-11",
+    "title": "South Africa plans exchange controls for offshore crypto, stablecoin flows",
+    "source": "Ledger Insights",
+    "sourceType": "Institutional news / analysis",
+    "url": "https://www.ledgerinsights.com/south-africa-plans-to-exchange-controls-for-offshore-crypto-stablecoin-flows/",
+    "publishedAt": "2026-08-11T15:48:43.000Z",
+    "jurisdiction": "Global",
+    "category": "Consultation",
+    "topics": [
+      "Cryptoasset Regulation",
+      "Stablecoins"
+    ],
+    "priority": "High",
+    "status": "Consultation",
+    "scope": "core-digital",
+    "radarEligible": false,
+    "summary": "South Africa has proposed new rules that would limit certain offshore transfers of cryptocurrencies and stablecoins. The draft crypto asset manual for offshore transactions was published by the South African Reserve Bank&#8217;s (SARB&#8217;s) Financial Surveillance (FinSurv) division, and contains a mix of outright bans and reporting requirements. The consultation period runs until the end of [&#8230;] The post Sout",
+    "whyItMatters": "Relevant for settlement assets, reserve models, payment stablecoin issuance, redemption rights and prudential or supervisory treatment.",
+    "reviewStatus": "draft",
+    "collectedAt": "2026-08-12T09:39:05.718Z"
+  },
+  {
+    "id": "nrf-regulation-tomorrow-decoding-the-fca-and-8217-s-crypto-regime-a-podcast-deep-dive-2026-08-11",
+    "title": "Decoding the FCA&#8217;s Crypto Regime: A Podcast Deep Dive",
+    "source": "Norton Rose Fulbright Regulation Tomorrow",
+    "sourceType": "Legal analysis",
+    "url": "https://www.regulationtomorrow.com/2026/08/decoding-the-fcas-crypto-regime-a-podcast-deep-dive/",
+    "publishedAt": "2026-08-11T13:52:06.000Z",
+    "jurisdiction": "Global",
+    "category": "Policy Statement",
+    "topics": [
+      "Tokenisation"
+    ],
+    "priority": "High",
+    "status": "Published",
+    "scope": "core-digital",
+    "radarEligible": false,
+    "summary": "On 30 June 2026, the FCA published its highly anticipated policy statements, laying the foundations for a comprehensive new regulatory regime for cryptoassets in the United Kingdom. In our &lsquo;Crypto under the FCA&rsquo; podcast mini-series, we unpack what these changes mean in practice &mdash; breaking down the key themes and the strategic implications for firms operating in or looking to enter the UK market. Div",
+    "whyItMatters": "Relevant for institutional tokenisation, settlement, custody, DvP, collateral and financial market infrastructure use cases.",
+    "reviewStatus": "draft",
+    "collectedAt": "2026-08-12T09:39:06.038Z"
+  },
+  {
+    "id": "nrf-regulation-tomorrow-ai-and-the-board-closing-the-governance-gap-2026-08-11",
+    "title": "AI and the Board: Closing the Governance Gap",
+    "source": "Norton Rose Fulbright Regulation Tomorrow",
+    "sourceType": "Legal analysis",
+    "url": "https://www.regulationtomorrow.com/2026/08/ai-and-the-board-closing-the-governance-gap/",
+    "publishedAt": "2026-08-11T13:50:03.000Z",
+    "jurisdiction": "Global",
+    "category": "Source Update",
+    "topics": [
+      "Tokenisation"
+    ],
+    "priority": "Low",
+    "status": "Published",
+    "scope": "core-digital",
+    "radarEligible": false,
+    "summary": "As AI moves from experimentation to embedded use across financial services, boards are under growing pressure to demonstrate they understand its risks and can provide effective oversight. We support boards through an accelerated training course with two complimentary phases: Off-the-shelf training materials to orientate the board &ndash; a combination of written briefings, podcasts and videos which can be viewed at d",
+    "whyItMatters": "Relevant for institutional tokenisation, settlement, custody, DvP, collateral and financial market infrastructure use cases.",
+    "reviewStatus": "draft",
+    "collectedAt": "2026-08-12T09:39:06.041Z"
+  },
+  {
     "id": "ledger-insights-cecabank-cr-dit-mutuel-join-regulated-layer-one-tokenization-platform-as-it-launches-2026-07-28",
     "title": "Cecabank, Crédit Mutuel join Regulated Layer One tokenization platform as it launches",
     "source": "Ledger Insights",

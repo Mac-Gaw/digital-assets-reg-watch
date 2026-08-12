@@ -1,7 +1,7 @@
 {
-  "scannedAt": "2026-08-04T08:44:38.548Z",
+  "scannedAt": "2026-08-12T09:39:06.079Z",
   "newAuto": 0,
-  "newPending": 0,
+  "newPending": 3,
   "prunedFalsePositives": 0,
   "sources": [
     {
@@ -91,7 +91,7 @@
       "source": "bis-fsi",
       "status": "ok",
       "feedItems": 25,
-      "relevantItems": 5
+      "relevantItems": 4
     },
     {
       "source": "fsb-publications",
@@ -135,7 +135,7 @@
       "source": "nrf-regulation-tomorrow",
       "status": "ok",
       "feedItems": 10,
-      "relevantItems": 0
+      "relevantItems": 2
     }
   ]
 }
