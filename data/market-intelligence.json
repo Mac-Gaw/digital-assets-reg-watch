@@ -1,5 +1,29 @@
 [
   {
+    "id": "finextra-crypto-itau-unibanco-joins-brazilian-tokenisation-pilot-2026-08-12",
+    "title": "Itau Unibanco joins Brazilian tokenisation pilot",
+    "source": "Finextra",
+    "url": "https://www.finextra.com/newsarticle/48234/itau-unibanco-joins-brazilian-tokenisation-pilot",
+    "publishedAt": "2026-08-12T10:10:00.000Z",
+    "category": "Tokenisation",
+    "topics": [
+      "Tokenisation"
+    ],
+    "collectionMode": "auto"
+  },
+  {
+    "id": "finextra-crypto-coinbase-to-launch-tokenisation-hub-in-abu-dhabi-2026-08-12",
+    "title": "Coinbase to launch tokenisation hub in Abu Dhabi",
+    "source": "Finextra",
+    "url": "https://www.finextra.com/newsarticle/48233/coinbase-to-launch-tokenisation-hub-in-abu-dhabi",
+    "publishedAt": "2026-08-12T09:28:00.000Z",
+    "category": "Tokenisation",
+    "topics": [
+      "Tokenisation"
+    ],
+    "collectionMode": "auto"
+  },
+  {
     "id": "finextra-payments-cashi-launches-stablecoin-app-2026-08-12",
     "title": "Cashi launches stablecoin app",
     "source": "Finextra",
@@ -618,18 +642,6 @@
     "category": "Digital money & settlement assets",
     "topics": [
       "Digital money & settlement assets"
-    ],
-    "collectionMode": "auto"
-  },
-  {
-    "id": "finextra-crypto-sbi-holdings-leads-125-million-investment-round-in-digital-asset-firm-gauntlet-2026-07-13",
-    "title": "SBI Holdings leads $125 million investment round in digital asset firm Gauntlet",
-    "source": "Finextra",
-    "url": "https://www.finextra.com/pressarticle/110399/sbi-holdings-leads-125-million-investment-round-in-digital-asset-firm-gauntlet",
-    "publishedAt": "2026-07-13T09:38:00.000Z",
-    "category": "Digital assets",
-    "topics": [
-      "Digital assets"
     ],
     "collectionMode": "auto"
   }
