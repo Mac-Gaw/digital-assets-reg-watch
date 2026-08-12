@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-08-11T23:57:59.151Z",
+  "scannedAt": "2026-08-12T02:42:18.058Z",
   "newItems": 14,
   "prunedStoredItems": 14,
   "sources": [
@@ -31,7 +31,7 @@
       "source": "finextra-wholesale",
       "status": "ok",
       "feedItems": 45,
-      "relevantItems": 5
+      "relevantItems": 4
     },
     {
       "source": "global-custodian-feed",
