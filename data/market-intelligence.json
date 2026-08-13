@@ -1,5 +1,17 @@
 [
   {
+    "id": "securities-finance-times-mufg-launches-poc-for-onchain-jgb-repo-transactions-on-canton-network-2026-08-13",
+    "title": "MUFG launches PoC for onchain JGB repo transactions on Canton Network",
+    "source": "Securities Finance Times",
+    "url": "https://www.securitiesfinancetimes.com/securitieslendingnews/repoarticle.php?article_id=228901",
+    "publishedAt": "2026-08-13T11:41:10.000Z",
+    "category": "Institutional adoption",
+    "topics": [
+      "Institutional adoption"
+    ],
+    "collectionMode": "auto"
+  },
+  {
     "id": "finextra-crypto-crypto-com-launches-tokenised-us-equities-and-etfs-in-europe-2026-08-12",
     "title": "Crypto.com launches tokenised US equities and ETFs in Europe",
     "source": "Finextra",
@@ -642,18 +654,6 @@
     "category": "Digital assets",
     "topics": [
       "Digital assets"
-    ],
-    "collectionMode": "auto"
-  },
-  {
-    "id": "finextra-crypto-jcb-signs-stablecoin-mou-with-circle-2026-07-14",
-    "title": "JCB signs stablecoin MoU with Circle",
-    "source": "Finextra",
-    "url": "https://www.finextra.com/pressarticle/110410/jcb-signs-stablecoin-mou-with-circle",
-    "publishedAt": "2026-07-14T11:56:00.000Z",
-    "category": "Digital money & settlement assets",
-    "topics": [
-      "Digital money & settlement assets"
     ],
     "collectionMode": "auto"
   }
