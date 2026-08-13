@@ -368,6 +368,18 @@ window.REGWATCH_DATA = {
   ],
   "marketIntelligence": [
     {
+      "id": "finextra-markets-mufg-trials-blockchain-settlement-for-japanese-government-bond-repo-trades-2026-08-14",
+      "title": "MUFG trials blockchain settlement for Japanese Government Bond repo trades",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/newsarticle/48246/mufg-trials-blockchain-settlement-for-japanese-government-bond-repo-trades",
+      "publishedAt": "2026-08-14T00:01:00.000Z",
+      "category": "Institutional adoption",
+      "topics": [
+        "Institutional adoption"
+      ],
+      "collectionMode": "auto"
+    },
+    {
       "id": "securities-finance-times-mufg-launches-poc-for-onchain-jgb-repo-transactions-on-canton-network-2026-08-13",
       "title": "MUFG launches PoC for onchain JGB repo transactions on Canton Network",
       "source": "Securities Finance Times",
