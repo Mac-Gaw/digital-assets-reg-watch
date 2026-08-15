@@ -999,18 +999,6 @@ window.REGWATCH_DATA = {
         "Tokenisation"
       ],
       "collectionMode": "auto"
-    },
-    {
-      "id": "finextra-crypto-visa-launches-stablecoin-platform-2026-07-16",
-      "title": "Visa launches stablecoin platform",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/newsarticle/48110/visa-launches-stablecoin-platform",
-      "publishedAt": "2026-07-16T18:21:00.000Z",
-      "category": "Digital money & settlement assets",
-      "topics": [
-        "Digital money & settlement assets"
-      ],
-      "collectionMode": "auto"
     }
   ],
   "monthlyReviews": [
