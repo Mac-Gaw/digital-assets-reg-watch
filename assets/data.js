@@ -1,34 +1,34 @@
 window.REGWATCH_DATA = {
   "siteName": "Digital Assets Regulatory Watch",
   "release": "MVP v1.0.23 final stable",
-  "lastUpdated": "2026-08-12",
+  "lastUpdated": "2026-08-15",
   "monitoring": {
     "status": "Active",
-    "lastScan": "2026-08-12T09:39:06.071Z",
+    "lastScan": "2026-08-15T07:45:40.567Z",
     "quietPeriodDays": 14,
     "regions": [
       {
         "name": "United Kingdom",
         "shortName": "UK",
-        "lastChecked": "2026-08-12",
+        "lastChecked": "2026-08-15",
         "status": "Active"
       },
       {
         "name": "European Union",
         "shortName": "EU",
-        "lastChecked": "2026-08-12",
+        "lastChecked": "2026-08-15",
         "status": "Active"
       },
       {
         "name": "Global",
         "shortName": "Global",
-        "lastChecked": "2026-08-12",
+        "lastChecked": "2026-08-15",
         "status": "Active"
       },
       {
         "name": "United States",
         "shortName": "US",
-        "lastChecked": "2026-08-12",
+        "lastChecked": "2026-08-15",
         "status": "Active"
       }
     ],
@@ -38,7 +38,7 @@ window.REGWATCH_DATA = {
       "newMediumPriorityItems": 0,
       "newLowPriorityItems": 0,
       "materialItems": 0,
-      "newPendingItems": 3,
+      "newPendingItems": 2,
       "checkedSources": 25
     }
   },

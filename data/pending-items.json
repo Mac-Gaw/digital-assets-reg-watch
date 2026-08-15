@@ -1,5 +1,49 @@
 [
   {
+    "id": "nrf-regulation-tomorrow-global-regulation-tomorrow-plus-ai-mini-series-recent-regulatory-developments-in-australia-2026-08-13",
+    "title": "Global Regulation Tomorrow Plus: AI mini-series – Recent regulatory developments in Australia",
+    "source": "Norton Rose Fulbright Regulation Tomorrow",
+    "sourceType": "Legal analysis",
+    "url": "https://www.regulationtomorrow.com/2026/08/global-regulation-tomorrow-plus-ai-mini-series-recent-regulatory-developments-in-australia/",
+    "publishedAt": "2026-08-13T11:58:28.000Z",
+    "jurisdiction": "Global",
+    "category": "Regulatory Update",
+    "topics": [
+      "Tokenisation"
+    ],
+    "priority": "Low",
+    "status": "Published",
+    "scope": "core-digital",
+    "radarEligible": false,
+    "summary": "In the latest episode of our mini-series on artificial intelligence, we consider recent regulatory developments in Australia. In particular, we draw on a series of recent significant regulatory developments &ndash; including APRA&rsquo;s letter to industry on AI, published on 30 April 2026, ASIC&rsquo;s own work on AI governance and cyber resilience, and the Federal Court&rsquo;s liability judgment in ASIC v Bekier, ",
+    "whyItMatters": "Relevant for institutional tokenisation, settlement, custody, DvP, collateral and financial market infrastructure use cases.",
+    "reviewStatus": "draft",
+    "collectedAt": "2026-08-15T07:45:40.430Z"
+  },
+  {
+    "id": "ledger-insights-standard-chartered-and-8217-s-anchorpoint-launches-beta-version-of-hkdap-stablecoin-2026-08-12",
+    "title": "Standard Chartered&#8217;s Anchorpoint launches beta version of HKDAP stablecoin",
+    "source": "Ledger Insights",
+    "sourceType": "Institutional news / analysis",
+    "url": "https://www.ledgerinsights.com/standard-chartereds-anchorpoint-launches-beta-version-of-hkdap-stablecoin/",
+    "publishedAt": "2026-08-12T17:20:04.000Z",
+    "jurisdiction": "Global",
+    "category": "Regulatory Update",
+    "topics": [
+      "Cryptoasset Regulation",
+      "Tokenisation",
+      "Stablecoins"
+    ],
+    "priority": "High",
+    "status": "Published",
+    "scope": "core-digital",
+    "radarEligible": false,
+    "summary": "Standard Chartered&#8217;s Anchorpoint unveiled the beta phase of its HKDAP stablecoin issuance with licensed Hong Kong digital asset exchanges HashKey and OSL. It follows the Hong Kong Monetary Authority (HKMA) awarding the first two stablecoin issuer licenses in April to Anchorpoint and HSBC and marks the first issuance of a Hong Kong regulated stablecoin. Anchorpoint [&#8230;] The post Standard Chartered&#8217;s A",
+    "whyItMatters": "Relevant for settlement assets, reserve models, payment stablecoin issuance, redemption rights and prudential or supervisory treatment.",
+    "reviewStatus": "draft",
+    "collectedAt": "2026-08-15T07:45:40.200Z"
+  },
+  {
     "id": "ledger-insights-south-africa-plans-exchange-controls-for-offshore-crypto-stablecoin-flows-2026-08-11",
     "title": "South Africa plans exchange controls for offshore crypto, stablecoin flows",
     "source": "Ledger Insights",
