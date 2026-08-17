@@ -368,6 +368,18 @@ window.REGWATCH_DATA = {
   ],
   "marketIntelligence": [
     {
+      "id": "markets-media-feed-superstate-hopes-tokenized-equities-trading-is-unlocked-2026-08-17",
+      "title": "Superstate Hopes Tokenized Equities Trading is Unlocked",
+      "source": "Markets Media",
+      "url": "https://www.marketsmedia.com/superstate-hopes-tokenized-equities-trading-is-unlocked",
+      "publishedAt": "2026-08-17T19:16:10.000Z",
+      "category": "Tokenisation",
+      "topics": [
+        "Tokenisation"
+      ],
+      "collectionMode": "auto"
+    },
+    {
       "id": "finextra-crypto-tokenized-money-the-future-of-financial-infrastructure-2026-08-14",
       "title": "Tokenized Money: The Future of Financial Infrastructure",
       "source": "Finextra",
