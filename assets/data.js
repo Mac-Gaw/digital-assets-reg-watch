@@ -368,6 +368,18 @@ window.REGWATCH_DATA = {
   ],
   "marketIntelligence": [
     {
+      "id": "finextra-payments-tokenized-money-changes-the-bank-s-operating-clock-2026-08-18",
+      "title": "Tokenized Money Changes the Bank's Operating Clock",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/blogposting/32567/tokenized-money-changes-the-banks-operating-clock",
+      "publishedAt": "2026-08-18T15:50:41.000Z",
+      "category": "Tokenisation",
+      "topics": [
+        "Tokenisation"
+      ],
+      "collectionMode": "auto"
+    },
+    {
       "id": "finextra-crypto-unlimit-granted-crypto-asset-service-provider-licence-2026-08-18",
       "title": "Unlimit granted crypto asset service provider licence",
       "source": "Finextra",
