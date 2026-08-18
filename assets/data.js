@@ -368,6 +368,18 @@ window.REGWATCH_DATA = {
   ],
   "marketIntelligence": [
     {
+      "id": "finextra-crypto-stablecoins-offer-little-cost-or-speed-advantage-for-remittances-banca-d-italia-2026-08-19",
+      "title": "Stablecoins offer little cost or speed advantage for remittances - Banca d'Italia",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/newsarticle/48266/stablecoins-offer-little-cost-or-speed-advantage-for-remittances---banca-ditalia",
+      "publishedAt": "2026-08-19T00:01:00.000Z",
+      "category": "Digital money & settlement assets",
+      "topics": [
+        "Digital money & settlement assets"
+      ],
+      "collectionMode": "auto"
+    },
+    {
       "id": "finextra-payments-tokenized-money-changes-the-bank-s-operating-clock-2026-08-18",
       "title": "Tokenized Money Changes the Bank's Operating Clock",
       "source": "Finextra",
