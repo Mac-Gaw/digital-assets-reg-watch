@@ -368,6 +368,18 @@ window.REGWATCH_DATA = {
   ],
   "marketIntelligence": [
     {
+      "id": "finextra-crypto-unlimit-granted-crypto-asset-service-provider-licence-2026-08-18",
+      "title": "Unlimit granted crypto asset service provider licence",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/pressarticle/110662/unlimit-granted-crypto-asset-service-provider-licence",
+      "publishedAt": "2026-08-18T09:19:00.000Z",
+      "category": "Digital assets",
+      "topics": [
+        "Digital assets"
+      ],
+      "collectionMode": "auto"
+    },
+    {
       "id": "markets-media-feed-superstate-hopes-tokenized-equities-trading-is-unlocked-2026-08-17",
       "title": "Superstate Hopes Tokenized Equities Trading is Unlocked",
       "source": "Markets Media",
