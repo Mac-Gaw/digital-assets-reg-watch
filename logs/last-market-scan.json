@@ -1,7 +1,7 @@
 {
-  "scannedAt": "2026-08-18T16:46:51.937Z",
-  "newItems": 16,
-  "prunedStoredItems": 16,
+  "scannedAt": "2026-08-18T17:41:07.707Z",
+  "newItems": 17,
+  "prunedStoredItems": 17,
   "sources": [
     {
       "source": "finextra-crypto",
@@ -55,7 +55,7 @@
       "source": "markets-media-feed",
       "status": "ok",
       "feedItems": 10,
-      "relevantItems": 4
+      "relevantItems": 5
     }
   ]
 }
