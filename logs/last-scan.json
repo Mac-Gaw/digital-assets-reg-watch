@@ -1,6 +1,6 @@
 {
-  "scannedAt": "2026-08-16T07:46:52.226Z",
-  "newAuto": 0,
+  "scannedAt": "2026-08-18T07:55:45.151Z",
+  "newAuto": 1,
   "newPending": 0,
   "prunedFalsePositives": 0,
   "sources": [
@@ -85,7 +85,7 @@
       "source": "bis-all",
       "status": "ok",
       "feedItems": 25,
-      "relevantItems": 0
+      "relevantItems": 1
     },
     {
       "source": "bis-fsi",

@@ -1,5 +1,24 @@
 [
   {
+    "id": "bis-all-piero-cipollone-the-cooperative-spirit-at-the-heart-of-the-digital-euro-2026-08-17",
+    "title": "Piero Cipollone: The cooperative spirit at the heart of the digital euro",
+    "source": "Bank for International Settlements",
+    "sourceType": "Central bank body",
+    "url": "https://www.bis.org/review/r260813d.htm",
+    "publishedAt": "2026-08-17T07:02:00.000Z",
+    "jurisdiction": "Global",
+    "category": "Source Update",
+    "topics": [
+      "CBDC"
+    ],
+    "priority": "Medium",
+    "status": "Published",
+    "scope": "core-digital",
+    "radarEligible": false,
+    "summary": "Lecture by Mr Piero Cipollone, Member of the Executive Board of the European Central Bank, at the annual meeting of the Federation of Italian Cooperative Credit Banks (Federcasse), Rome, 17 July 2026.",
+    "whyItMatters": "Relevant as a public-source update from Bank for International Settlements within the covered digital assets regulatory intelligence scope."
+  },
+  {
     "id": "bis-all-dollarisation-and-monetary-control-what-lessons-for-the-rise-of-stablecoins-2026-07-21",
     "title": "Dollarisation and monetary control: what lessons for the rise of stablecoins?",
     "source": "Bank for International Settlements",

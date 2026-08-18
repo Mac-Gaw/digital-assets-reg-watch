@@ -1,41 +1,41 @@
 window.REGWATCH_DATA = {
   "siteName": "Digital Assets Regulatory Watch",
   "release": "MVP v1.0.23 final stable",
-  "lastUpdated": "2026-08-16",
+  "lastUpdated": "2026-08-18",
   "monitoring": {
     "status": "Active",
-    "lastScan": "2026-08-16T07:46:52.225Z",
+    "lastScan": "2026-08-18T07:55:45.150Z",
     "quietPeriodDays": 14,
     "regions": [
       {
         "name": "United Kingdom",
         "shortName": "UK",
-        "lastChecked": "2026-08-16",
+        "lastChecked": "2026-08-18",
         "status": "Active"
       },
       {
         "name": "European Union",
         "shortName": "EU",
-        "lastChecked": "2026-08-16",
+        "lastChecked": "2026-08-18",
         "status": "Active"
       },
       {
         "name": "Global",
         "shortName": "Global",
-        "lastChecked": "2026-08-16",
+        "lastChecked": "2026-08-18",
         "status": "Active"
       },
       {
         "name": "United States",
         "shortName": "US",
-        "lastChecked": "2026-08-16",
+        "lastChecked": "2026-08-18",
         "status": "Active"
       }
     ],
     "lastScanResult": {
-      "newPublishedItems": 0,
+      "newPublishedItems": 1,
       "newHighPriorityItems": 0,
-      "newMediumPriorityItems": 0,
+      "newMediumPriorityItems": 1,
       "newLowPriorityItems": 0,
       "materialItems": 0,
       "newPendingItems": 0,
@@ -1031,6 +1031,25 @@ window.REGWATCH_DATA = {
     }
   ],
   "updates": [
+    {
+      "id": "bis-all-piero-cipollone-the-cooperative-spirit-at-the-heart-of-the-digital-euro-2026-08-17",
+      "title": "Piero Cipollone: The cooperative spirit at the heart of the digital euro",
+      "source": "Bank for International Settlements",
+      "sourceType": "Central bank body",
+      "url": "https://www.bis.org/review/r260813d.htm",
+      "publishedAt": "2026-08-17T07:02:00.000Z",
+      "jurisdiction": "Global",
+      "category": "Source Update",
+      "topics": [
+        "CBDC"
+      ],
+      "priority": "Medium",
+      "status": "Published",
+      "scope": "core-digital",
+      "radarEligible": false,
+      "summary": "Lecture by Mr Piero Cipollone, Member of the Executive Board of the European Central Bank, at the annual meeting of the Federation of Italian Cooperative Credit Banks (Federcasse), Rome, 17 July 2026.",
+      "whyItMatters": "Relevant as a public-source update from Bank for International Settlements within the covered digital assets regulatory intelligence scope."
+    },
     {
       "id": "bis-all-dollarisation-and-monetary-control-what-lessons-for-the-rise-of-stablecoins-2026-07-21",
       "title": "Dollarisation and monetary control: what lessons for the rise of stablecoins?",
