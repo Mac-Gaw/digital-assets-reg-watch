@@ -1011,18 +1011,6 @@ window.REGWATCH_DATA = {
         "Digital money & settlement assets"
       ],
       "collectionMode": "auto"
-    },
-    {
-      "id": "finextra-crypto-tokenized-real-estate-needs-machine-readable-physical-data-2026-07-19",
-      "title": "Tokenized Real Estate Needs Machine-Readable Physical Data",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/blogposting/32317/tokenized-real-estate-needs-machine-readable-physical-data",
-      "publishedAt": "2026-07-19T10:55:53.000Z",
-      "category": "Tokenisation",
-      "topics": [
-        "Tokenisation"
-      ],
-      "collectionMode": "auto"
     }
   ],
   "monthlyReviews": [
