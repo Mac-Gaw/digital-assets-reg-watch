@@ -368,6 +368,19 @@ window.REGWATCH_DATA = {
   ],
   "marketIntelligence": [
     {
+      "id": "finextra-markets-tokenovate-appoints-dr-alec-burns-to-scale-legal-first-infrastructure-for-tokenised-capital-mark-2026-08-19",
+      "title": "Tokenovate appoints Dr Alec Burns to scale legal-first infrastructure for tokenised capital markets",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/pressarticle/110682/tokenovate-appoints-dr-alec-burns-to-scale-legal-first-infrastructure-for-tokenised-capital-markets",
+      "publishedAt": "2026-08-19T11:53:00.000Z",
+      "category": "Tokenisation",
+      "topics": [
+        "Tokenisation",
+        "Market infrastructure"
+      ],
+      "collectionMode": "auto"
+    },
+    {
       "id": "finextra-crypto-jcb-and-digital-garage-to-run-a-proof-of-concept-poc-for-in-store-payments-using-stablecoins-2026-08-19",
       "title": "JCB and Digital Garage to run a proof of concept (PoC) for in-store payments using stablecoins.",
       "source": "Finextra",
