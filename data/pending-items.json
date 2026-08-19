@@ -1,5 +1,47 @@
 [
   {
+    "id": "ledger-insights-genius-act-does-exempting-synthetic-stablecoins-open-a-back-door-2026-08-18",
+    "title": "GENIUS Act: does exempting synthetic stablecoins open a back door?",
+    "source": "Ledger Insights",
+    "sourceType": "Institutional news / analysis",
+    "url": "https://www.ledgerinsights.com/genius-act-does-exempting-synthetic-stablecoins-open-a-back-door/",
+    "publishedAt": "2026-08-18T19:13:06.000Z",
+    "jurisdiction": "Global",
+    "category": "Regulatory Update",
+    "topics": [
+      "Stablecoins"
+    ],
+    "priority": "High",
+    "status": "Published",
+    "scope": "core-digital",
+    "radarEligible": false,
+    "summary": "The GENIUS Act was drafted to cover permitted payment stablecoins, with some of the wording clearly aiming to exclude synthetic coins like Sky&#8217;s USDS and Ethena&#8217;s USDe that are not primarily backed by cash or Treasuries. The question is whether the same wording opens a wider path around regulation than intended, such as letting an [&#8230;] The post GENIUS Act: does exempting synthetic stablecoins open a ",
+    "whyItMatters": "Relevant for settlement assets, reserve models, payment stablecoin issuance, redemption rights and prudential or supervisory treatment.",
+    "reviewStatus": "draft",
+    "collectedAt": "2026-08-19T07:55:25.432Z"
+  },
+  {
+    "id": "nrf-regulation-tomorrow-markets-and-038-brokerage-seminar-2026-08-18",
+    "title": "Markets &#038; Brokerage Seminar",
+    "source": "Norton Rose Fulbright Regulation Tomorrow",
+    "sourceType": "Legal analysis",
+    "url": "https://www.regulationtomorrow.com/2026/08/markets-brokerage-seminar/",
+    "publishedAt": "2026-08-18T09:13:19.000Z",
+    "jurisdiction": "Global",
+    "category": "Source Update",
+    "topics": [
+      "Tokenisation"
+    ],
+    "priority": "Low",
+    "status": "Published",
+    "scope": "core-digital",
+    "radarEligible": false,
+    "summary": "You&rsquo;re invited to our Markets & Brokerage Seminar in London on Thursday, September 24, 2026 Join us for an afternoon of insights and discussion on key legal and regulatory topics affecting those involved in trading different asset classes. Our dedicated markets infrastructure team from around the world will be joined by a range of voices from across the industry to discuss: A deep dive into some global market t",
+    "whyItMatters": "Relevant for institutional tokenisation, settlement, custody, DvP, collateral and financial market infrastructure use cases.",
+    "reviewStatus": "draft",
+    "collectedAt": "2026-08-19T07:55:25.656Z"
+  },
+  {
     "id": "nrf-regulation-tomorrow-global-regulation-tomorrow-plus-ai-mini-series-recent-regulatory-developments-in-australia-2026-08-13",
     "title": "Global Regulation Tomorrow Plus: AI mini-series – Recent regulatory developments in Australia",
     "source": "Norton Rose Fulbright Regulation Tomorrow",
