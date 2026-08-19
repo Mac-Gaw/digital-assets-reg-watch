@@ -1,5 +1,41 @@
 [
   {
+    "id": "finextra-crypto-jcb-and-digital-garage-to-run-a-proof-of-concept-poc-for-in-store-payments-using-stablecoins-2026-08-19",
+    "title": "JCB and Digital Garage to run a proof of concept (PoC) for in-store payments using stablecoins.",
+    "source": "Finextra",
+    "url": "https://www.finextra.com/pressarticle/110678/jcb-and-digital-garage-to-run-a-proof-of-concept-poc-for-in-store-payments-using-stablecoins",
+    "publishedAt": "2026-08-19T09:21:00.000Z",
+    "category": "Digital money & settlement assets",
+    "topics": [
+      "Digital money & settlement assets"
+    ],
+    "collectionMode": "auto"
+  },
+  {
+    "id": "finextra-crypto-eskimo-adds-stablecoin-payments-through-triple-a-2026-08-19",
+    "title": "Eskimo adds stablecoin payments through Triple-A",
+    "source": "Finextra",
+    "url": "https://www.finextra.com/pressarticle/110677/eskimo-adds-stablecoin-payments-through-triple-a",
+    "publishedAt": "2026-08-19T09:18:00.000Z",
+    "category": "Digital money & settlement assets",
+    "topics": [
+      "Digital money & settlement assets"
+    ],
+    "collectionMode": "auto"
+  },
+  {
+    "id": "markets-media-feed-securitize-neuberger-launch-tokenized-fixed-income-fund-2026-08-19",
+    "title": "Securitize, Neuberger Launch Tokenized Fixed Income Fund",
+    "source": "Markets Media",
+    "url": "https://www.marketsmedia.com/securitize-neuberger-launch-tokenized-fixed-income-fund",
+    "publishedAt": "2026-08-19T08:20:19.000Z",
+    "category": "Tokenisation",
+    "topics": [
+      "Tokenisation"
+    ],
+    "collectionMode": "auto"
+  },
+  {
     "id": "markets-media-feed-clearstream-to-test-ecb-s-pontes-dlt-solution-2026-08-19",
     "title": "Clearstream to Test ECB’s Pontes DLT Solution",
     "source": "Markets Media",
@@ -8,6 +44,18 @@
     "category": "Market infrastructure",
     "topics": [
       "Market infrastructure"
+    ],
+    "collectionMode": "auto"
+  },
+  {
+    "id": "finextra-crypto-the-state-of-rwa-tokenization-2026-adoption-investment-trends-and-enterprise-expectations-2026-08-19",
+    "title": "The State of RWA Tokenization 2026: Adoption, Investment Trends and Enterprise Expectations",
+    "source": "Finextra",
+    "url": "https://www.finextra.com/blogposting/32575/the-state-of-rwa-tokenization-2026-adoption-investment-trends-and-enterprise-expectations",
+    "publishedAt": "2026-08-19T07:20:44.000Z",
+    "category": "Tokenisation",
+    "topics": [
+      "Tokenisation"
     ],
     "collectionMode": "auto"
   },
