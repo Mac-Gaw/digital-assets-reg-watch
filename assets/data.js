@@ -392,6 +392,19 @@ window.REGWATCH_DATA = {
       "collectionMode": "auto"
     },
     {
+      "id": "asset-servicing-times-hsbc-and-standard-chartered-execute-first-live-tokenised-deposit-transaction-on-swift-s-ledger-2026-08-19",
+      "title": "HSBC and Standard Chartered execute first live tokenised deposit transaction on Swift’s ledger",
+      "source": "Asset Servicing Times",
+      "url": "https://www.assetservicingtimes.com/assetservicesnews/paymentsarticle.php?article_id=18247",
+      "publishedAt": "2026-08-19T08:51:14.000Z",
+      "category": "Tokenisation",
+      "topics": [
+        "Tokenisation",
+        "Digital money & settlement assets"
+      ],
+      "collectionMode": "auto"
+    },
+    {
       "id": "markets-media-feed-securitize-neuberger-launch-tokenized-fixed-income-fund-2026-08-19",
       "title": "Securitize, Neuberger Launch Tokenized Fixed Income Fund",
       "source": "Markets Media",
@@ -1078,18 +1091,6 @@ window.REGWATCH_DATA = {
       "source": "Finextra",
       "url": "https://www.finextra.com/pressarticle/110480/boerse-stuttgart-adopts-socgen-stablecoin",
       "publishedAt": "2026-07-23T10:08:00.000Z",
-      "category": "Digital money & settlement assets",
-      "topics": [
-        "Digital money & settlement assets"
-      ],
-      "collectionMode": "auto"
-    },
-    {
-      "id": "finextra-crypto-stablecoin-infrastructure-startup-cyclops-raises-20-million-2026-07-20",
-      "title": "Stablecoin infrastructure startup Cyclops raises $20 million",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/pressarticle/110452/stablecoin-infrastructure-startup-cyclops-raises-20-million",
-      "publishedAt": "2026-07-20T09:31:00.000Z",
       "category": "Digital money & settlement assets",
       "topics": [
         "Digital money & settlement assets"
