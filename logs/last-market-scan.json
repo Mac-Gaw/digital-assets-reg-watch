@@ -1,7 +1,7 @@
 {
-  "scannedAt": "2026-08-20T10:45:31.822Z",
-  "newItems": 16,
-  "prunedStoredItems": 16,
+  "scannedAt": "2026-08-20T11:40:19.516Z",
+  "newItems": 18,
+  "prunedStoredItems": 18,
   "sources": [
     {
       "source": "finextra-crypto",
@@ -43,13 +43,13 @@
       "source": "asset-servicing-times",
       "status": "ok",
       "feedItems": 10,
-      "relevantItems": 1
+      "relevantItems": 2
     },
     {
       "source": "securities-finance-times",
       "status": "ok",
       "feedItems": 10,
-      "relevantItems": 0
+      "relevantItems": 1
     },
     {
       "source": "markets-media-feed",
