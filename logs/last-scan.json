@@ -1,7 +1,7 @@
 {
-  "scannedAt": "2026-08-19T07:55:25.696Z",
+  "scannedAt": "2026-08-20T07:58:06.091Z",
   "newAuto": 0,
-  "newPending": 2,
+  "newPending": 1,
   "prunedFalsePositives": 0,
   "sources": [
     {
@@ -135,7 +135,7 @@
       "source": "nrf-regulation-tomorrow",
       "status": "ok",
       "feedItems": 10,
-      "relevantItems": 2
+      "relevantItems": 1
     }
   ]
 }

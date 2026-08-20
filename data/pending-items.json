@@ -1,5 +1,28 @@
 [
   {
+    "id": "ledger-insights-hsbc-standard-chartered-make-first-live-tokenized-deposit-tranfer-via-swift-blockchain-2026-08-19",
+    "title": "HSBC, Standard Chartered make first live tokenized deposit tranfer via Swift blockchain",
+    "source": "Ledger Insights",
+    "sourceType": "Institutional news / analysis",
+    "url": "https://www.ledgerinsights.com/hsbc-standard-chartered-make-first-live-tokenized-deposit-tranfer-via-swift-blockchain/",
+    "publishedAt": "2026-08-19T09:33:16.000Z",
+    "jurisdiction": "Global",
+    "category": "Source Update",
+    "topics": [
+      "Tokenisation",
+      "Digital Money & Settlement Assets",
+      "Stablecoins"
+    ],
+    "priority": "High",
+    "status": "Published",
+    "scope": "core-digital",
+    "radarEligible": false,
+    "summary": "HSBC and Standard Chartered have announced the inaugural live tokenized deposit transaction using Swift&#8217;s blockchain-based ledger. Currently the vast majority of tokenized deposits are executed on single bank blockchains and hence only support transactions between customers of the same bank. Swift is enabling interoperability between these silos, using its blockchain to support 24/7 DLT-based cross [&#8230;] Th",
+    "whyItMatters": "Relevant for digital cash, tokenised deposits, deposit tokens, bank-issued tokens and digital settlement asset analysis.",
+    "reviewStatus": "draft",
+    "collectedAt": "2026-08-20T07:58:05.815Z"
+  },
+  {
     "id": "ledger-insights-genius-act-does-exempting-synthetic-stablecoins-open-a-back-door-2026-08-18",
     "title": "GENIUS Act: does exempting synthetic stablecoins open a back door?",
     "source": "Ledger Insights",
