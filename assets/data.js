@@ -368,6 +368,18 @@ window.REGWATCH_DATA = {
   ],
   "marketIntelligence": [
     {
+      "id": "finextra-crypto-the-future-of-rwa-tokenization-is-ai-native-what-enterprises-need-to-know-2026-08-20",
+      "title": "The Future of RWA Tokenization Is AI-Native: What Enterprises Need to Know",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/blogposting/32593/the-future-of-rwa-tokenization-is-ai-native-what-enterprises-need-to-know",
+      "publishedAt": "2026-08-20T12:16:11.000Z",
+      "category": "Tokenisation",
+      "topics": [
+        "Tokenisation"
+      ],
+      "collectionMode": "auto"
+    },
+    {
       "id": "markets-media-feed-majority-of-bank-charter-applications-involve-digital-assets-2026-08-20",
       "title": "Majority of Bank Charter Applications Involve Digital Assets",
       "source": "Markets Media",
