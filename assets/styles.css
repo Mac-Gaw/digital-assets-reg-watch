@@ -3363,3 +3363,445 @@ td strong { color: var(--strong); }
   display: block;
 }
 
+
+/* ==========================================================================
+   v1.0.24 — Flat Institutional Theme
+   Conservative visual refresh for regulatory intelligence use:
+   flat surfaces, subtle borders, reduced radius, no glass/3D dashboard effects.
+   ========================================================================== */
+
+:root {
+  --bg: #f6f8fb;
+  --bg-top: #f6f8fb;
+  --surface: #ffffff;
+  --surface-soft: #f2f5f9;
+  --surface-raised: #ffffff;
+  --ink: #182235;
+  --muted: #65758b;
+  --line: #d7dee8;
+  --strong: #0f1f33;
+  --accent: #174ea6;
+  --accent-strong: #123f86;
+  --accent-soft: #e8f0fe;
+  --green-soft: #eef8f1;
+  --green-ink: #146c3e;
+  --amber-soft: #fff7e6;
+  --amber-ink: #8a5a00;
+  --red-soft: #fff0f0;
+  --red-ink: #9f1f1f;
+  --shadow: none;
+  --shadow-soft: none;
+  --topbar-bg: #ffffff;
+  --topbar-line: #d7dee8;
+  --field-bg: #ffffff;
+  --button-secondary-bg: #ffffff;
+  --metric-gradient: #ffffff;
+  --radius: 10px;
+  --radius-sm: 8px;
+}
+
+:root[data-theme="dark"] {
+  --bg: #0b111c;
+  --bg-top: #0b111c;
+  --surface: #101827;
+  --surface-soft: #141f31;
+  --surface-raised: #101827;
+  --ink: #e7edf7;
+  --muted: #9aa8bb;
+  --line: #273345;
+  --strong: #f5f7fb;
+  --accent: #8db3ff;
+  --accent-strong: #b9ccff;
+  --accent-soft: rgba(141, 179, 255, .13);
+  --green-soft: rgba(38, 166, 91, .13);
+  --green-ink: #8addaa;
+  --amber-soft: rgba(232, 164, 46, .14);
+  --amber-ink: #f0c66f;
+  --red-soft: rgba(218, 73, 73, .14);
+  --red-ink: #ffaaa7;
+  --shadow: none;
+  --shadow-soft: none;
+  --topbar-bg: #0d1422;
+  --topbar-line: #273345;
+  --field-bg: #0d1422;
+  --button-secondary-bg: #101827;
+  --metric-gradient: #101827;
+}
+
+/* Overall surface */
+body {
+  background: var(--bg) !important;
+}
+
+.shell {
+  padding-top: 2rem;
+}
+
+/* Top navigation: flat, editorial, no glass pill styling */
+.topbar {
+  background: var(--topbar-bg) !important;
+  border-bottom: 1px solid var(--topbar-line);
+  backdrop-filter: none !important;
+  box-shadow: none !important;
+}
+
+.brand h1 {
+  letter-spacing: -.025em;
+}
+
+.topnav {
+  gap: .2rem;
+}
+
+.topnav a {
+  border-radius: 6px;
+  padding: .55rem .72rem;
+  font-weight: 760;
+}
+
+.topnav a:hover,
+.topnav a.active {
+  background: var(--surface-soft);
+  color: var(--strong);
+}
+
+.theme-toggle {
+  border-radius: 6px;
+  box-shadow: none !important;
+  font-weight: 760;
+}
+
+.theme-toggle:hover {
+  transform: none;
+}
+
+/* Preserve transparent 3D header icon while removing legacy tile behaviour. */
+.brand-mark {
+  background: transparent !important;
+  border: 0 !important;
+  box-shadow: none !important;
+  border-radius: 0 !important;
+  overflow: visible !important;
+}
+
+.brand-mark img {
+  filter: none !important;
+}
+
+/* Remove soft-3D feel from all main panels */
+.hero-copy,
+.hero-panel,
+.about-card,
+.card,
+.focus-card,
+.feed-item,
+.source-card,
+.filters,
+.table-wrap,
+.metric,
+.disclaimer,
+.dashboard-list-card,
+.market-intelligence-item,
+.event-item,
+.monthly-review-card,
+.consultation-card {
+  background: var(--surface) !important;
+  border: 1px solid var(--line) !important;
+  border-radius: var(--radius-sm) !important;
+  box-shadow: none !important;
+}
+
+/* Hero becomes a structured regulatory landing block */
+.hero {
+  gap: 1rem;
+  margin-bottom: 2.25rem;
+}
+
+.hero-copy,
+.hero-panel,
+.about-card {
+  padding: 1.35rem;
+}
+
+.hero-copy::before,
+.hero-copy::after,
+.hero-panel::before,
+.hero-panel::after {
+  display: none !important;
+}
+
+.hero h2 {
+  letter-spacing: -.045em;
+}
+
+.hero p {
+  color: var(--muted);
+}
+
+.hero-actions {
+  gap: .55rem;
+}
+
+/* Buttons and controls: square-ish, no raised effect */
+.button,
+button,
+input,
+select {
+  border-radius: 6px !important;
+  box-shadow: none !important;
+}
+
+.button:hover,
+button:hover {
+  transform: none !important;
+}
+
+.button.primary {
+  background: var(--strong);
+  border-color: var(--strong);
+  color: var(--surface);
+}
+
+.button.secondary {
+  background: var(--button-secondary-bg);
+  border-color: var(--line);
+  color: var(--strong);
+}
+
+/* Metrics: tabular, flat, less decorative */
+.metric {
+  min-height: 104px;
+  background: var(--surface) !important;
+}
+
+.metric span {
+  font-size: clamp(1.9rem, 3vw, 2.35rem);
+  letter-spacing: -.055em;
+}
+
+.metric small {
+  color: var(--muted);
+  text-transform: none;
+}
+
+/* Section rhythm and headings */
+.section-heading {
+  margin-top: 2.6rem;
+  padding-bottom: .72rem;
+  border-bottom: 1px solid var(--line);
+  align-items: end;
+}
+
+.section-heading h2 {
+  font-size: clamp(1.35rem, 2.6vw, 1.85rem);
+  letter-spacing: -.035em;
+}
+
+.dashboard-list-card .section-heading,
+.compact-heading {
+  margin-top: 0;
+  border-bottom: 1px solid var(--line);
+  padding-bottom: .8rem;
+}
+
+.eyebrow,
+.kicker {
+  color: var(--accent);
+  letter-spacing: .13em;
+  font-size: .68rem;
+}
+
+/* Cards and lists: record-like rather than tile-like */
+.cards-grid,
+.focus-grid {
+  gap: .85rem;
+}
+
+.card,
+.feed-item,
+.source-card {
+  padding: 1rem;
+}
+
+.card:hover,
+.focus-card:hover,
+.feed-item:hover,
+.source-card:hover,
+.market-intelligence-item:hover,
+.event-item:hover {
+  transform: none !important;
+  border-color: color-mix(in srgb, var(--accent) 24%, var(--line)) !important;
+}
+
+.feed-item {
+  display: block;
+}
+
+.feed-item h3,
+.card h3,
+.source-card h3,
+.focus-card h3 {
+  letter-spacing: -.025em;
+}
+
+.card-date-row {
+  border-top: 1px solid var(--line);
+}
+
+/* Badges: minimal status labels */
+.badge,
+.priority,
+.status,
+.category-pill,
+.topic-pill {
+  border-radius: 999px !important;
+  box-shadow: none !important;
+  border: 1px solid var(--line);
+  background: var(--surface-soft);
+  color: var(--muted);
+}
+
+.badge.high,
+.priority.high,
+[data-priority="High"] {
+  background: var(--red-soft) !important;
+  color: var(--red-ink) !important;
+  border-color: color-mix(in srgb, var(--red-ink) 22%, var(--line)) !important;
+}
+
+.badge.medium,
+.priority.medium,
+[data-priority="Medium"] {
+  background: var(--amber-soft) !important;
+  color: var(--amber-ink) !important;
+  border-color: color-mix(in srgb, var(--amber-ink) 22%, var(--line)) !important;
+}
+
+.badge.low,
+.priority.low,
+[data-priority="Low"] {
+  background: var(--green-soft) !important;
+  color: var(--green-ink) !important;
+  border-color: color-mix(in srgb, var(--green-ink) 20%, var(--line)) !important;
+}
+
+/* Dashboard two-column block */
+.market-events-grid {
+  gap: 1rem;
+  margin-top: 2.6rem;
+  align-items: stretch;
+}
+
+.dashboard-list-card {
+  padding: 1rem;
+}
+
+.compact-list {
+  gap: .55rem;
+}
+
+.market-intelligence-item,
+.event-item {
+  padding: .78rem .82rem;
+}
+
+/* Events: more institutional list, less calendar-widget feel */
+.event-item {
+  grid-template-columns: 54px minmax(0, 1fr);
+  gap: .78rem;
+}
+
+.event-date-pill {
+  min-height: 54px;
+  border-radius: 6px !important;
+  background: var(--surface-soft) !important;
+  border: 1px solid var(--line) !important;
+  color: var(--strong);
+}
+
+.event-date-pill span {
+  font-size: 1rem;
+  letter-spacing: -.035em;
+}
+
+.event-date-pill small {
+  color: var(--muted);
+}
+
+/* Tables and filters */
+.filters {
+  padding: 1rem;
+}
+
+.table-wrap table,
+table {
+  border-collapse: collapse;
+}
+
+th,
+td {
+  border-bottom: 1px solid var(--line);
+}
+
+th {
+  color: var(--muted);
+  font-weight: 780;
+  background: var(--surface-soft);
+}
+
+/* Links: clear, restrained regulatory portal style */
+.text-link,
+.external,
+.archive-link {
+  color: var(--accent);
+  text-decoration: none;
+  text-underline-offset: 3px;
+}
+
+.text-link:hover,
+.external:hover,
+.archive-link:hover {
+  text-decoration: underline;
+}
+
+/* Editorial summary imagery should remain background-like, but flatter. */
+.monthly-review-card,
+.editorial-summary {
+  background-color: var(--surface) !important;
+  box-shadow: none !important;
+}
+
+/* Global decorative reset for legacy shadows/gradients */
+.hero-copy,
+.hero-panel,
+.metric,
+.card,
+.feed-item,
+.source-card,
+.dashboard-list-card,
+.event-item,
+.market-intelligence-item {
+  background-image: none !important;
+}
+
+@media (max-width: 760px) {
+  .shell {
+    width: min(100% - 1rem, 1180px);
+    padding-top: 1rem;
+  }
+
+  .topbar {
+    padding: .85rem 1rem;
+  }
+
+  .hero-copy,
+  .hero-panel,
+  .about-card,
+  .card,
+  .feed-item,
+  .source-card,
+  .dashboard-list-card {
+    border-radius: 8px !important;
+  }
+}
+
