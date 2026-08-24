@@ -368,6 +368,18 @@ window.REGWATCH_DATA = {
   ],
   "marketIntelligence": [
     {
+      "id": "finextra-crypto-stablecoin-platform-fasset-hits-1bn-valuation-2026-08-24",
+      "title": "Stablecoin platform Fasset hits $1bn valuation",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/newsarticle/48288/stablecoin-platform-fasset-hits-1bn-valuation",
+      "publishedAt": "2026-08-24T10:24:00.000Z",
+      "category": "Digital money & settlement assets",
+      "topics": [
+        "Digital money & settlement assets"
+      ],
+      "collectionMode": "auto"
+    },
+    {
       "id": "finextra-crypto-enterprise-tokenization-platforms-in-2026-key-infrastructure-and-technology-trends-2026-08-21",
       "title": "Enterprise Tokenization Platforms in 2026: Key Infrastructure and Technology Trends",
       "source": "Finextra",
