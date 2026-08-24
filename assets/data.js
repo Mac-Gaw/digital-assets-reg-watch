@@ -368,6 +368,18 @@ window.REGWATCH_DATA = {
   ],
   "marketIntelligence": [
     {
+      "id": "finextra-crypto-tap-global-adopts-digital-assets-income-strategy-2026-08-24",
+      "title": "Tap Global adopts digital assets income strategy",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/pressarticle/110708/tap-global-adopts-digital-assets-income-strategy",
+      "publishedAt": "2026-08-24T12:20:00.000Z",
+      "category": "Digital assets",
+      "topics": [
+        "Digital assets"
+      ],
+      "collectionMode": "auto"
+    },
+    {
       "id": "finextra-crypto-stablecoin-platform-fasset-hits-1bn-valuation-2026-08-24",
       "title": "Stablecoin platform Fasset hits $1bn valuation",
       "source": "Finextra",
