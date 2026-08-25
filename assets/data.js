@@ -383,6 +383,18 @@ window.REGWATCH_DATA = {
   ],
   "marketIntelligence": [
     {
+      "id": "finextra-crypto-visa-joins-mas-led-project-to-pilot-stablecoin-settlement-2026-08-26",
+      "title": "Visa joins MAS-led project to pilot stablecoin settlement",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/newsarticle/48300/visa-joins-mas-led-project-to-pilot-stablecoin-settlement",
+      "publishedAt": "2026-08-26T00:01:00.000Z",
+      "category": "Digital money & settlement assets",
+      "topics": [
+        "Digital money & settlement assets"
+      ],
+      "collectionMode": "auto"
+    },
+    {
       "id": "markets-media-feed-asset-managers-unlock-tokenized-collateral-2026-08-25",
       "title": "Asset Managers Unlock Tokenized Collateral",
       "source": "Markets Media",
