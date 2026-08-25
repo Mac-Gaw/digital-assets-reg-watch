@@ -368,6 +368,18 @@ window.REGWATCH_DATA = {
   ],
   "marketIntelligence": [
     {
+      "id": "asset-servicing-times-zand-expands-stablecoin-infrastructure-through-usdc-support-2026-08-25",
+      "title": "Zand expands stablecoin infrastructure through USDC support",
+      "source": "Asset Servicing Times",
+      "url": "https://www.assetservicingtimes.com/assetservicesnews/digitalassetsarticle.php?article_id=18264",
+      "publishedAt": "2026-08-25T13:26:13.000Z",
+      "category": "Digital money & settlement assets",
+      "topics": [
+        "Digital money & settlement assets"
+      ],
+      "collectionMode": "auto"
+    },
+    {
       "id": "markets-media-feed-tokenized-stocks-issued-by-coinbase-are-live-on-base-2026-08-25",
       "title": "Tokenized Stocks Issued by Coinbase are Live on Base",
       "source": "Markets Media",
