@@ -364,6 +364,21 @@ window.REGWATCH_DATA = {
         "Cryptoasset regulation"
       ],
       "collectionMode": "manual"
+    },
+    {
+      "id": "finextra-events-ebaday-2027-2027-06-15",
+      "title": "EBAday 2027",
+      "source": "Finextra Events",
+      "url": "https://www.ebaday.com",
+      "eventDate": "2027-06-15T09:00:00.000Z",
+      "format": "Webinar",
+      "location": "Online",
+      "access": "Registration required",
+      "category": "Regulation",
+      "topics": [
+        "Regulation"
+      ],
+      "collectionMode": "auto"
     }
   ],
   "marketIntelligence": [
