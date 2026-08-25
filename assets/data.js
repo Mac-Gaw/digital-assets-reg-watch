@@ -368,6 +368,18 @@ window.REGWATCH_DATA = {
   ],
   "marketIntelligence": [
     {
+      "id": "markets-media-feed-tokenized-stocks-issued-by-coinbase-are-live-on-base-2026-08-25",
+      "title": "Tokenized Stocks Issued by Coinbase are Live on Base",
+      "source": "Markets Media",
+      "url": "https://www.marketsmedia.com/tokenized-stocks-issued-by-coinbaseare-now-live-natively-on-base",
+      "publishedAt": "2026-08-25T09:04:18.000Z",
+      "category": "Tokenisation",
+      "topics": [
+        "Tokenisation"
+      ],
+      "collectionMode": "auto"
+    },
+    {
       "id": "finextra-crypto-tap-global-adopts-digital-assets-income-strategy-2026-08-24",
       "title": "Tap Global adopts digital assets income strategy",
       "source": "Finextra",
