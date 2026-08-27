@@ -1,6 +1,6 @@
 {
-  "scannedAt": "2026-08-27T03:17:17.880Z",
-  "newItems": 17,
+  "scannedAt": "2026-08-27T15:13:41.423Z",
+  "newItems": 19,
   "prunedStoredItems": 17,
   "sources": [
     {
@@ -43,7 +43,7 @@
       "source": "asset-servicing-times",
       "status": "ok",
       "feedItems": 10,
-      "relevantItems": 2
+      "relevantItems": 3
     },
     {
       "source": "securities-finance-times",
@@ -55,7 +55,7 @@
       "source": "markets-media-feed",
       "status": "ok",
       "feedItems": 10,
-      "relevantItems": 2
+      "relevantItems": 1
     }
   ]
 }

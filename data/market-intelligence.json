@@ -1,5 +1,41 @@
 [
   {
+    "id": "asset-servicing-times-nickel-increased-digital-asset-allocations-hinge-on-improved-security-2026-08-27",
+    "title": "Nickel: Increased digital asset allocations hinge on improved security",
+    "source": "Asset Servicing Times",
+    "url": "https://www.assetservicingtimes.com/assetservicesnews/digitalassetsarticle.php?article_id=18271",
+    "publishedAt": "2026-08-27T10:48:15.000Z",
+    "category": "Asset servicing",
+    "topics": [
+      "Asset servicing"
+    ],
+    "collectionMode": "auto"
+  },
+  {
+    "id": "finextra-crypto-blockchain-tokenization-development-what-institutions-should-demand-in-2026-2026-08-27",
+    "title": "Blockchain Tokenization Development: What Institutions Should Demand in 2026",
+    "source": "Finextra",
+    "url": "https://www.finextra.com/blogposting/32650/blockchain-tokenization-development-what-institutions-should-demand-in-2026",
+    "publishedAt": "2026-08-27T08:59:11.000Z",
+    "category": "Tokenisation",
+    "topics": [
+      "Tokenisation"
+    ],
+    "collectionMode": "auto"
+  },
+  {
+    "id": "markets-media-feed-northern-trust-csc-deepen-digital-asset-collaboration-2026-08-27",
+    "title": "Northern Trust, CSC Deepen Digital Asset Collaboration",
+    "source": "Markets Media",
+    "url": "https://www.marketsmedia.com/northern-trust-csc-deepen-digital-asset-collaboration",
+    "publishedAt": "2026-08-27T08:38:31.000Z",
+    "category": "Digital money & settlement assets",
+    "topics": [
+      "Digital money & settlement assets"
+    ],
+    "collectionMode": "auto"
+  },
+  {
     "id": "finextra-crypto-revolut-rolls-out-euro-stablecoin-2026-08-26",
     "title": "Revolut rolls out euro stablecoin",
     "source": "Finextra",
@@ -862,18 +898,6 @@
     "category": "Tokenisation",
     "topics": [
       "Tokenisation"
-    ],
-    "collectionMode": "auto"
-  },
-  {
-    "id": "finextra-crypto-imf-issues-crypto-asset-warning-to-brazil-2026-07-28",
-    "title": "IMF issues crypto asset warning to Brazil",
-    "source": "Finextra",
-    "url": "https://www.finextra.com/newsarticle/48156/imf-issues-crypto-asset-warning-to-brazil",
-    "publishedAt": "2026-07-28T12:38:00.000Z",
-    "category": "Digital assets",
-    "topics": [
-      "Digital assets"
     ],
     "collectionMode": "auto"
   }
