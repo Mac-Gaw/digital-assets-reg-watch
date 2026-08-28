@@ -383,6 +383,30 @@ window.REGWATCH_DATA = {
   ],
   "marketIntelligence": [
     {
+      "id": "finextra-crypto-how-revolut-s-eurr-stablecoin-works-the-mechanics-explained-2026-08-27",
+      "title": "How Revolut's EURR Stablecoin Works: The Mechanics Explained",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/blogposting/32654/how-revoluts-eurr-stablecoin-works-the-mechanics-explained",
+      "publishedAt": "2026-08-27T15:20:59.000Z",
+      "category": "Digital money & settlement assets",
+      "topics": [
+        "Digital money & settlement assets"
+      ],
+      "collectionMode": "auto"
+    },
+    {
+      "id": "finextra-payments-stablecoin-banking-service-providers-will-welcome-bank-of-england-s-pivot-2026-08-27",
+      "title": "Stablecoin Banking Service Providers Will Welcome Bank of England's Pivot",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/blogposting/32652/stablecoin-banking-service-providers-will-welcome-bank-of-englands-pivot",
+      "publishedAt": "2026-08-27T13:58:25.000Z",
+      "category": "Digital money & settlement assets",
+      "topics": [
+        "Digital money & settlement assets"
+      ],
+      "collectionMode": "auto"
+    },
+    {
       "id": "asset-servicing-times-nickel-increased-digital-asset-allocations-hinge-on-improved-security-2026-08-27",
       "title": "Nickel: Increased digital asset allocations hinge on improved security",
       "source": "Asset Servicing Times",
