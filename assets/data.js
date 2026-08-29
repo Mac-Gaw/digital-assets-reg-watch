@@ -1296,18 +1296,6 @@ window.REGWATCH_DATA = {
         "Digital money & settlement assets"
       ],
       "collectionMode": "auto"
-    },
-    {
-      "id": "finextra-crypto-the-rulebook-for-stablecoins-is-racing-to-catch-up-2026-07-30",
-      "title": "The Rulebook for Stablecoins Is Racing to Catch Up",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/blogposting/32412/the-rulebook-for-stablecoins-is-racing-to-catch-up",
-      "publishedAt": "2026-07-30T18:16:16.000Z",
-      "category": "Digital money & settlement assets",
-      "topics": [
-        "Digital money & settlement assets"
-      ],
-      "collectionMode": "auto"
     }
   ],
   "monthlyReviews": [
