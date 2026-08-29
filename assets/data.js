@@ -1308,18 +1308,6 @@ window.REGWATCH_DATA = {
         "Digital money & settlement assets"
       ],
       "collectionMode": "auto"
-    },
-    {
-      "id": "finextra-crypto-mifinity-taps-bvnk-for-global-stablecoin-payouts-2026-07-30",
-      "title": "MiFinity taps BVNK for global stablecoin payouts",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/newsarticle/48171/mifinity-taps-bvnk-for-global-stablecoin-payouts",
-      "publishedAt": "2026-07-30T13:10:00.000Z",
-      "category": "Digital money & settlement assets",
-      "topics": [
-        "Digital money & settlement assets"
-      ],
-      "collectionMode": "auto"
     }
   ],
   "monthlyReviews": [
