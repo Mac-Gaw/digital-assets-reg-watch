@@ -1258,44 +1258,6 @@ window.REGWATCH_DATA = {
         "Digital money & settlement assets"
       ],
       "collectionMode": "auto"
-    },
-    {
-      "id": "finextra-crypto-lloyds-banking-group-and-caixabank-complete-tokenised-deposit-transactions-through-project-agor--2026-07-31",
-      "title": "Lloyds Banking Group and Caixabank complete tokenised deposit transactions through Project Agor&#225;",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/newsarticle/48176/lloyds-banking-group-and-caixabank-complete-tokenised-deposit-transactions-through-project-agor",
-      "publishedAt": "2026-07-31T10:35:00.000Z",
-      "category": "Tokenisation",
-      "topics": [
-        "Tokenisation",
-        "Digital money & settlement assets"
-      ],
-      "collectionMode": "auto"
-    },
-    {
-      "id": "finextra-crypto-finrege-publishes-framework-in-preparation-for-fca-s-2026-cryptoasset-regime-2026-07-31",
-      "title": "FinregE publishes framework in preparation for FCA's 2026 Cryptoasset Regime",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/pressarticle/110541/finrege-publishes-framework-in-preparation-for-fcas-2026-cryptoasset-regime",
-      "publishedAt": "2026-07-31T10:19:00.000Z",
-      "category": "Digital assets",
-      "topics": [
-        "Digital assets"
-      ],
-      "collectionMode": "auto"
-    },
-    {
-      "id": "markets-media-feed-lloyds-bank-completes-live-tokenised-deposit-transactions-2026-07-31",
-      "title": "Lloyds Bank Completes Live Tokenised Deposit Transactions",
-      "source": "Markets Media",
-      "url": "https://www.marketsmedia.com/lloyds-bank-completes-live-tokenised-deposit-transactions",
-      "publishedAt": "2026-07-31T07:49:33.000Z",
-      "category": "Tokenisation",
-      "topics": [
-        "Tokenisation",
-        "Digital money & settlement assets"
-      ],
-      "collectionMode": "auto"
     }
   ],
   "monthlyReviews": [
