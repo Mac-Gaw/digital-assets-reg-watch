@@ -1354,19 +1354,6 @@ window.REGWATCH_DATA = {
         "Tokenisation"
       ],
       "collectionMode": "auto"
-    },
-    {
-      "id": "finextra-crypto-partior-and-openassets-poc-proves-stablecoins-and-tokenised-deposits-can-settle-atomically-2026-08-03",
-      "title": "Partior and OpenAssets PoC proves stablecoins and tokenised deposits can settle atomically",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/newsarticle/48180/partior-and-openassets-poc-proves-stablecoins-and-tokenised-deposits-can-settle-atomically",
-      "publishedAt": "2026-08-03T00:01:00.000Z",
-      "category": "Tokenisation",
-      "topics": [
-        "Tokenisation",
-        "Digital money & settlement assets"
-      ],
-      "collectionMode": "auto"
     }
   ],
   "monthlyReviews": [
