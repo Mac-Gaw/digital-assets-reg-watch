@@ -1,44 +1,44 @@
 window.REGWATCH_DATA = {
   "siteName": "Digital Assets Regulatory Watch",
   "release": "MVP v1.0.23 final stable",
-  "lastUpdated": "2026-08-25",
+  "lastUpdated": "2026-09-02",
   "monitoring": {
     "status": "Active",
-    "lastScan": "2026-08-25T07:59:58.133Z",
+    "lastScan": "2026-09-02T08:23:39.245Z",
     "quietPeriodDays": 14,
     "regions": [
       {
         "name": "United Kingdom",
         "shortName": "UK",
-        "lastChecked": "2026-08-25",
+        "lastChecked": "2026-09-02",
         "status": "Active"
       },
       {
         "name": "European Union",
         "shortName": "EU",
-        "lastChecked": "2026-08-25",
+        "lastChecked": "2026-09-02",
         "status": "Active"
       },
       {
         "name": "Global",
         "shortName": "Global",
-        "lastChecked": "2026-08-25",
+        "lastChecked": "2026-09-02",
         "status": "Active"
       },
       {
         "name": "United States",
         "shortName": "US",
-        "lastChecked": "2026-08-25",
+        "lastChecked": "2026-09-02",
         "status": "Active"
       }
     ],
     "lastScanResult": {
-      "newPublishedItems": 0,
-      "newHighPriorityItems": 0,
-      "newMediumPriorityItems": 0,
+      "newPublishedItems": 3,
+      "newHighPriorityItems": 2,
+      "newMediumPriorityItems": 1,
       "newLowPriorityItems": 0,
-      "materialItems": 0,
-      "newPendingItems": 0,
+      "materialItems": 2,
+      "newPendingItems": 2,
       "checkedSources": 25
     }
   },
@@ -1374,6 +1374,63 @@ window.REGWATCH_DATA = {
     }
   ],
   "updates": [
+    {
+      "id": "bis-fsi-regulating-stablecoin-issuance-permissible-entities-and-activities-2026-08-27",
+      "title": "Regulating stablecoin issuance: permissible entities and activities",
+      "source": "Financial Stability Institute / BIS",
+      "sourceType": "Official source",
+      "url": "https://www.bis.org/publications/fsi-brief-33-regulating-stablecoin-issuance--permissible-entities-and-activities",
+      "publishedAt": "2026-08-27T00:00:00.000Z",
+      "jurisdiction": "Global",
+      "category": "Source Update",
+      "topics": [
+        "Stablecoins"
+      ],
+      "priority": "High",
+      "status": "Published",
+      "scope": "core-digital",
+      "radarEligible": true,
+      "summary": "Regulatory approaches for stablecoin issuance differ significantly, particularly in terms of the types of entities allowed to issue them and the scope of activities permitted beyond core issuance. These differences are important since additional activities such as lending, staking or providing custody services can alter an entity&#039;s risk profile and influence the safeguards needed for its core issuance operations",
+      "whyItMatters": "Relevant for settlement assets, reserve models, payment stablecoin issuance, redemption rights and prudential or supervisory treatment."
+    },
+    {
+      "id": "bis-fsi-the-macroeconomics-of-stablecoins-2026-06-23",
+      "title": "The macroeconomics of stablecoins",
+      "source": "Financial Stability Institute / BIS",
+      "sourceType": "Official source",
+      "url": "https://www.bis.org/publications/working-paper-1363-macroeconomics-stablecoins",
+      "publishedAt": "2026-06-23T00:00:00.000Z",
+      "jurisdiction": "Global",
+      "category": "Source Update",
+      "topics": [
+        "Stablecoins"
+      ],
+      "priority": "Medium",
+      "status": "Published",
+      "scope": "core-digital",
+      "radarEligible": true,
+      "summary": "We analyse the macroeconomic impact of stablecoins using a quantitative macroeconomic model.",
+      "whyItMatters": "Relevant for settlement assets, reserve models, payment stablecoin issuance, redemption rights and prudential or supervisory treatment."
+    },
+    {
+      "id": "bis-fsi-stablecoin-remuneration-on-centralised-exchanges-2026-06-19",
+      "title": "Stablecoin remuneration on centralised exchanges",
+      "source": "Financial Stability Institute / BIS",
+      "sourceType": "Official source",
+      "url": "https://www.bis.org/publications/bulletin-125-stablecoin-remuneration-centralised-exchanges",
+      "publishedAt": "2026-06-19T00:00:00.000Z",
+      "jurisdiction": "Global",
+      "category": "Source Update",
+      "topics": [
+        "Stablecoins"
+      ],
+      "priority": "High",
+      "status": "Published",
+      "scope": "core-digital",
+      "radarEligible": true,
+      "summary": "Centralised exchanges remunerate stablecoin holders, using the return on the issuer&#039;s reserve assets or income from market activity.",
+      "whyItMatters": "Relevant for settlement assets, reserve models, payment stablecoin issuance, redemption rights and prudential or supervisory treatment."
+    },
     {
       "id": "bis-all-piero-cipollone-the-cooperative-spirit-at-the-heart-of-the-digital-euro-2026-08-17",
       "title": "Piero Cipollone: The cooperative spirit at the heart of the digital euro",

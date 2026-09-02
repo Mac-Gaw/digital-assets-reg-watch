@@ -1,7 +1,7 @@
 {
-  "scannedAt": "2026-08-25T07:59:58.135Z",
-  "newAuto": 0,
-  "newPending": 0,
+  "scannedAt": "2026-09-02T08:23:39.264Z",
+  "newAuto": 3,
+  "newPending": 2,
   "prunedFalsePositives": 0,
   "sources": [
     {
@@ -83,15 +83,14 @@
     },
     {
       "source": "bis-all",
-      "status": "ok",
-      "feedItems": 25,
-      "relevantItems": 1
+      "status": "error",
+      "message": "HTTP 404"
     },
     {
       "source": "bis-fsi",
       "status": "ok",
-      "feedItems": 25,
-      "relevantItems": 4
+      "feedItems": 30,
+      "relevantItems": 3
     },
     {
       "source": "fsb-publications",

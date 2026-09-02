@@ -1,5 +1,49 @@
 [
   {
+    "id": "ledger-insights-london-stock-exchange-to-support-xstocks-tokenized-stock-trading-in-payward-deal-2026-09-01",
+    "title": "London Stock Exchange to support xStocks tokenized stock trading in Payward deal",
+    "source": "Ledger Insights",
+    "sourceType": "Institutional news / analysis",
+    "url": "https://www.ledgerinsights.com/london-stock-exchange-to-support-xstocks-tokenized-stock-trading-in-payward-deal/",
+    "publishedAt": "2026-09-01T08:45:15.000Z",
+    "jurisdiction": "Global",
+    "category": "Institutional Report",
+    "topics": [
+      "Cryptoasset Regulation",
+      "Tokenisation"
+    ],
+    "priority": "Medium",
+    "status": "Published",
+    "scope": "core-digital",
+    "radarEligible": false,
+    "summary": "Payward, the parent of crypto exchange Kraken, is partnering with the London Stock Exchange to bring UK equities onchain. In the coming weeks Payward will issue the 100 largest London listed companies as xStocks, its tokenized equity framework. Subject to regulatory approval, the LSE then plans to list xStocks for trading on LSE 24, the [&#8230;] The post London Stock Exchange to support xStocks tokenized stock tradi",
+    "whyItMatters": "Relevant for institutional tokenisation, settlement, custody, DvP, collateral and financial market infrastructure use cases.",
+    "reviewStatus": "draft",
+    "collectedAt": "2026-09-02T08:23:38.912Z"
+  },
+  {
+    "id": "nrf-regulation-tomorrow-hmt-announces-proposal-for-a-new-objective-for-the-boe-2026-08-28",
+    "title": "HMT announces proposal for a new objective for the BoE",
+    "source": "Norton Rose Fulbright Regulation Tomorrow",
+    "sourceType": "Legal analysis",
+    "url": "https://www.regulationtomorrow.com/2026/08/hmt-announces-proposal-for-a-new-objective-for-the-boe/",
+    "publishedAt": "2026-08-28T09:09:34.000Z",
+    "jurisdiction": "Global",
+    "category": "Institutional Report",
+    "topics": [
+      "Digital Money & Settlement Assets",
+      "Settlement"
+    ],
+    "priority": "Medium",
+    "status": "Published",
+    "scope": "core-digital",
+    "radarEligible": false,
+    "summary": "On 27 August 2026, HM Treasury ( HMT ) announced that it intends to give the Bank of England ( BoE ) a new responsibility to support innovation in payment systems and emerging forms of digital money, whilst continuing to prioritise financial stability. Summary HMT sets out in its announcement that, at present, the BoE has a primary objective to protect and enhance UK financial stability and that the proposed new seco",
+    "whyItMatters": "Relevant for digital cash, tokenised deposits, deposit tokens, bank-issued tokens and digital settlement asset analysis.",
+    "reviewStatus": "draft",
+    "collectedAt": "2026-09-02T08:23:39.205Z"
+  },
+  {
     "id": "ledger-insights-hsbc-standard-chartered-make-first-live-tokenized-deposit-tranfer-via-swift-blockchain-2026-08-19",
     "title": "HSBC, Standard Chartered make first live tokenized deposit tranfer via Swift blockchain",
     "source": "Ledger Insights",
