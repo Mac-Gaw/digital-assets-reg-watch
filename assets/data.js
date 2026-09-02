@@ -383,6 +383,18 @@ window.REGWATCH_DATA = {
   ],
   "marketIntelligence": [
     {
+      "id": "finextra-payments-stablecoins-are-moving-from-trading-to-payment-infrastructure-2026-09-02",
+      "title": "Stablecoins Are Moving From Trading to Payment Infrastructure",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/blogposting/32698/stablecoins-are-moving-from-trading-to-payment-infrastructure",
+      "publishedAt": "2026-09-02T11:57:49.000Z",
+      "category": "Digital money & settlement assets",
+      "topics": [
+        "Digital money & settlement assets"
+      ],
+      "collectionMode": "auto"
+    },
+    {
       "id": "finextra-crypto-asic-issues-final-call-for-firms-to-act-before-digital-assets-licensing-comes-into-force-2026-09-02",
       "title": "Asic issues final call for firms to act before digital assets licensing comes into force",
       "source": "Finextra",
@@ -404,6 +416,18 @@ window.REGWATCH_DATA = {
       "topics": [
         "Tokenisation",
         "Institutional adoption"
+      ],
+      "collectionMode": "auto"
+    },
+    {
+      "id": "finextra-crypto-why-scaling-tokenized-real-estate-becomes-a-data-architecture-problem-2026-09-02",
+      "title": "Why Scaling Tokenized Real Estate Becomes a Data Architecture Problem",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/blogposting/32693/why-scaling-tokenized-real-estate-becomes-a-data-architecture-problem",
+      "publishedAt": "2026-09-02T09:24:51.000Z",
+      "category": "Tokenisation",
+      "topics": [
+        "Tokenisation"
       ],
       "collectionMode": "auto"
     },
@@ -1364,18 +1388,6 @@ window.REGWATCH_DATA = {
       "category": "Tokenisation",
       "topics": [
         "Tokenisation",
-        "Digital money & settlement assets"
-      ],
-      "collectionMode": "auto"
-    },
-    {
-      "id": "finextra-crypto-infinios-goes-live-with-mastercard-on-stablecoin-settlement-2026-08-03",
-      "title": "Infinios goes live with Mastercard on stablecoin settlement",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/pressarticle/110553/infinios-goes-live-with-mastercard-on-stablecoin-settlement",
-      "publishedAt": "2026-08-03T14:26:00.000Z",
-      "category": "Digital money & settlement assets",
-      "topics": [
         "Digital money & settlement assets"
       ],
       "collectionMode": "auto"
