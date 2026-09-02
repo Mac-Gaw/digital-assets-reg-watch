@@ -1391,18 +1391,6 @@ window.REGWATCH_DATA = {
         "Digital money & settlement assets"
       ],
       "collectionMode": "auto"
-    },
-    {
-      "id": "markets-media-feed-dtcc-tokenization-service-will-improve-balance-sheet-efficiency-2026-08-03",
-      "title": "DTCC Tokenization Service Will Improve Balance Sheet Efficiency",
-      "source": "Markets Media",
-      "url": "https://www.marketsmedia.com/dtcc-tokenization-service-will-improve-balance-sheet-efficiency",
-      "publishedAt": "2026-08-03T20:52:07.000Z",
-      "category": "Tokenisation",
-      "topics": [
-        "Tokenisation"
-      ],
-      "collectionMode": "auto"
     }
   ],
   "monthlyReviews": [
