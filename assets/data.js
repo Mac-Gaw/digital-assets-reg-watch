@@ -383,6 +383,31 @@ window.REGWATCH_DATA = {
   ],
   "marketIntelligence": [
     {
+      "id": "finextra-regulation-aegis-trust-builds-tokenised-money-market-fund-focused-on-social-impact-2026-09-02",
+      "title": "Aegis Trust builds tokenised money market fund focused on social impact",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/pressarticle/110792/aegis-trust-builds-tokenised-money-market-fund-focused-on-social-impact",
+      "publishedAt": "2026-09-02T19:08:00.000Z",
+      "category": "Tokenisation",
+      "topics": [
+        "Tokenisation"
+      ],
+      "collectionMode": "auto"
+    },
+    {
+      "id": "finextra-crypto-bcp-completes-first-digital-bond-transaction-using-gbp-stablecoin-2026-09-02",
+      "title": "BCP completes first digital bond transaction using GBP stablecoin",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/pressarticle/110788/bcp-completes-first-digital-bond-transaction-using-gbp-stablecoin",
+      "publishedAt": "2026-09-02T16:29:00.000Z",
+      "category": "Tokenisation",
+      "topics": [
+        "Tokenisation",
+        "Digital money & settlement assets"
+      ],
+      "collectionMode": "auto"
+    },
+    {
       "id": "finextra-payments-stablecoins-are-moving-from-trading-to-payment-infrastructure-2026-09-02",
       "title": "Stablecoins Are Moving From Trading to Payment Infrastructure",
       "source": "Finextra",
@@ -1376,19 +1401,6 @@ window.REGWATCH_DATA = {
       "category": "Tokenisation",
       "topics": [
         "Tokenisation"
-      ],
-      "collectionMode": "auto"
-    },
-    {
-      "id": "markets-media-feed-blackrock-adds-to-tokenized-cash-platform-2026-08-03",
-      "title": "BlackRock Adds to Tokenized Cash Platform",
-      "source": "Markets Media",
-      "url": "https://www.marketsmedia.com/blackrock-adds-to-tokenized-cash-platform",
-      "publishedAt": "2026-08-03T14:33:46.000Z",
-      "category": "Tokenisation",
-      "topics": [
-        "Tokenisation",
-        "Digital money & settlement assets"
       ],
       "collectionMode": "auto"
     }
