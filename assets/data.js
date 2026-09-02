@@ -383,6 +383,43 @@ window.REGWATCH_DATA = {
   ],
   "marketIntelligence": [
     {
+      "id": "finextra-crypto-asic-issues-final-call-for-firms-to-act-before-digital-assets-licensing-comes-into-force-2026-09-02",
+      "title": "Asic issues final call for firms to act before digital assets licensing comes into force",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/pressarticle/110780/asic-issues-final-call-for-firms-to-act-before-digital-assets-licensing-comes-into-force",
+      "publishedAt": "2026-09-02T09:43:00.000Z",
+      "category": "Digital assets",
+      "topics": [
+        "Digital assets"
+      ],
+      "collectionMode": "auto"
+    },
+    {
+      "id": "finextra-markets-g7-securities-signs-up-for-broadridge-tokenized-repo-platform-2026-09-02",
+      "title": "G7 Securities signs up for Broadridge tokenized repo platform",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/pressarticle/110779/g7-securities-signs-up-for-broadridge-tokenized-repo-platform",
+      "publishedAt": "2026-09-02T09:39:00.000Z",
+      "category": "Tokenisation",
+      "topics": [
+        "Tokenisation",
+        "Institutional adoption"
+      ],
+      "collectionMode": "auto"
+    },
+    {
+      "id": "markets-media-feed-s-and-038-p-dji-kaiko-combine-digital-asset-index-offerings-2026-09-02",
+      "title": "S&#038;P DJI, Kaiko Combine Digital Asset Index Offerings",
+      "source": "Markets Media",
+      "url": "https://www.marketsmedia.com/sp-dji-kaiko-combine-digital-asset-index-offerings",
+      "publishedAt": "2026-09-02T07:51:06.000Z",
+      "category": "Market structure",
+      "topics": [
+        "Market structure"
+      ],
+      "collectionMode": "auto"
+    },
+    {
       "id": "finextra-crypto-global-banking-giants-prep-stablecoin-jv-2026-09-01",
       "title": "Global banking giants prep stablecoin JV",
       "source": "Finextra",
@@ -1340,18 +1377,6 @@ window.REGWATCH_DATA = {
       "category": "Digital money & settlement assets",
       "topics": [
         "Digital money & settlement assets"
-      ],
-      "collectionMode": "auto"
-    },
-    {
-      "id": "finextra-crypto-ripple-invests-in-uk-digital-assets-platform-licuido-2026-08-03",
-      "title": "Ripple invests in UK digital assets platform Licuido",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/newsarticle/48181/ripple-invests-in-uk-digital-assets-platform-licuido",
-      "publishedAt": "2026-08-03T09:21:00.000Z",
-      "category": "Tokenisation",
-      "topics": [
-        "Tokenisation"
       ],
       "collectionMode": "auto"
     }
