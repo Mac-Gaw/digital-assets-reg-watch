@@ -383,6 +383,30 @@ window.REGWATCH_DATA = {
   ],
   "marketIntelligence": [
     {
+      "id": "finextra-payments-the-4-trillion-disconnect-why-digital-assets-still-can-t-reach-everyday-commerce-2026-09-03",
+      "title": "The $4 trillion disconnect: Why digital assets still can’t reach everyday commerce",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/blogposting/32711/the-4-trillion-disconnect-why-digital-assets-still-cant-reach-everyday-commerce",
+      "publishedAt": "2026-09-03T11:11:28.000Z",
+      "category": "Payments",
+      "topics": [
+        "Payments"
+      ],
+      "collectionMode": "auto"
+    },
+    {
+      "id": "finextra-payments-rba-concludes-no-case-for-retail-cbdc-in-australia-2026-09-03",
+      "title": "RBA concludes no case for retail CBDC in Australia",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/newsarticle/48343/rba-concludes-no-case-for-retail-cbdc-in-australia",
+      "publishedAt": "2026-09-03T11:01:00.000Z",
+      "category": "Institutional adoption",
+      "topics": [
+        "Institutional adoption"
+      ],
+      "collectionMode": "auto"
+    },
+    {
       "id": "markets-media-feed-broadridge-brings-g7-securities-to-tokenized-repo-2026-09-03",
       "title": "Broadridge Brings G7 Securities to Tokenized Repo",
       "source": "Markets Media",
@@ -1378,18 +1402,6 @@ window.REGWATCH_DATA = {
       "topics": [
         "Tokenisation",
         "Institutional adoption"
-      ],
-      "collectionMode": "auto"
-    },
-    {
-      "id": "finextra-crypto-clarity-act-u-s-what-it-means-for-digital-assets-and-rwa-tokenization-2026-08-04",
-      "title": "CLARITY Act (U.S.): What It Means for Digital Assets and RWA Tokenization",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/blogposting/32446/clarity-act-us-what-it-means-for-digital-assets-and-rwa-tokenization",
-      "publishedAt": "2026-08-04T13:08:21.000Z",
-      "category": "Tokenisation",
-      "topics": [
-        "Tokenisation"
       ],
       "collectionMode": "auto"
     }
