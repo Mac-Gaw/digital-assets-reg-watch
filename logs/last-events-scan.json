@@ -1,11 +1,12 @@
 {
-  "scannedAt": "2026-09-02T17:10:06.876Z",
+  "scannedAt": "2026-09-03T11:38:34.617Z",
   "newItems": 0,
   "sources": [
     {
       "source": "finextra-events",
-      "status": "error",
-      "message": "This operation was aborted"
+      "status": "ok",
+      "feedItems": 17,
+      "relevantItems": 9
     }
   ]
 }
