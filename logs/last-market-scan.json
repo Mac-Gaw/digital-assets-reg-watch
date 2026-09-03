@@ -1,13 +1,13 @@
 {
-  "scannedAt": "2026-09-03T14:32:46.138Z",
-  "newItems": 19,
-  "prunedStoredItems": 16,
+  "scannedAt": "2026-09-03T18:36:40.612Z",
+  "newItems": 20,
+  "prunedStoredItems": 14,
   "sources": [
     {
       "source": "finextra-crypto",
       "status": "ok",
       "feedItems": 49,
-      "relevantItems": 22
+      "relevantItems": 23
     },
     {
       "source": "finextra-markets",
@@ -19,13 +19,13 @@
       "source": "finextra-payments",
       "status": "ok",
       "feedItems": 54,
-      "relevantItems": 5
+      "relevantItems": 7
     },
     {
       "source": "finextra-regulation",
       "status": "ok",
       "feedItems": 56,
-      "relevantItems": 2
+      "relevantItems": 4
     },
     {
       "source": "finextra-wholesale",

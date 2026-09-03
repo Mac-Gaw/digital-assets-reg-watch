@@ -1,5 +1,41 @@
 [
   {
+    "id": "finextra-payments-kb-kookmin-bank-leverages-kinexys-by-jpmorgan-for-import-export-payments-2026-09-03",
+    "title": "KB Kookmin Bank leverages Kinexys by JPMorgan for import/export payments",
+    "source": "Finextra",
+    "url": "https://www.finextra.com/pressarticle/110808/kb-kookmin-bank-leverages-kinexys-by-jpmorgan-for-importexport-payments",
+    "publishedAt": "2026-09-03T15:37:00.000Z",
+    "category": "Institutional adoption",
+    "topics": [
+      "Institutional adoption"
+    ],
+    "collectionMode": "auto"
+  },
+  {
+    "id": "finextra-crypto-tokenized-funds-in-2030-how-blockchain-will-redefine-the-future-of-asset-management-2026-09-03",
+    "title": "Tokenized Funds in 2030: How Blockchain Will Redefine the Future of Asset Management",
+    "source": "Finextra",
+    "url": "https://www.finextra.com/blogposting/32714/tokenized-funds-in-2030-how-blockchain-will-redefine-the-future-of-asset-management",
+    "publishedAt": "2026-09-03T13:31:07.000Z",
+    "category": "Tokenisation",
+    "topics": [
+      "Tokenisation"
+    ],
+    "collectionMode": "auto"
+  },
+  {
+    "id": "finextra-markets-why-stablecoins-are-becoming-a-practical-tool-for-treasury-teams-2026-09-03",
+    "title": "Why stablecoins are becoming a practical tool for treasury teams",
+    "source": "Finextra",
+    "url": "https://www.finextra.com/blogposting/32713/why-stablecoins-are-becoming-a-practical-tool-for-treasury-teams",
+    "publishedAt": "2026-09-03T12:35:47.000Z",
+    "category": "Digital money & settlement assets",
+    "topics": [
+      "Digital money & settlement assets"
+    ],
+    "collectionMode": "auto"
+  },
+  {
     "id": "finextra-payments-the-4-trillion-disconnect-why-digital-assets-still-can-t-reach-everyday-commerce-2026-09-03",
     "title": "The $4 trillion disconnect: Why digital assets still can’t reach everyday commerce",
     "source": "Finextra",
@@ -1006,19 +1042,6 @@
     "category": "Digital assets",
     "topics": [
       "Digital assets"
-    ],
-    "collectionMode": "auto"
-  },
-  {
-    "id": "markets-media-feed-blackrock-launches-its-first-tokenised-funds-in-europe-2026-08-04",
-    "title": "BlackRock Launches its First Tokenised Funds in Europe",
-    "source": "Markets Media",
-    "url": "https://www.marketsmedia.com/blackrock-launches-its-first-tokenised-funds-in-europe",
-    "publishedAt": "2026-08-04T16:57:13.000Z",
-    "category": "Tokenisation",
-    "topics": [
-      "Tokenisation",
-      "Institutional adoption"
     ],
     "collectionMode": "auto"
   }
