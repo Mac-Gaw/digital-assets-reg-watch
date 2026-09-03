@@ -1,5 +1,17 @@
 [
   {
+    "id": "markets-media-feed-broadridge-brings-g7-securities-to-tokenized-repo-2026-09-03",
+    "title": "Broadridge Brings G7 Securities to Tokenized Repo",
+    "source": "Markets Media",
+    "url": "https://www.marketsmedia.com/broadridge-brings-g7-securities-to-tokenized-repo",
+    "publishedAt": "2026-09-03T06:58:15.000Z",
+    "category": "Tokenisation",
+    "topics": [
+      "Tokenisation"
+    ],
+    "collectionMode": "auto"
+  },
+  {
     "id": "finextra-regulation-aegis-trust-builds-tokenised-money-market-fund-focused-on-social-impact-2026-09-02",
     "title": "Aegis Trust builds tokenised money market fund focused on social impact",
     "source": "Finextra",
@@ -45,6 +57,19 @@
     "category": "Digital assets",
     "topics": [
       "Digital assets"
+    ],
+    "collectionMode": "auto"
+  },
+  {
+    "id": "finextra-markets-broadridge-expands-tokenized-repo-platform-to-g7-securities-2026-09-02",
+    "title": "Broadridge expands tokenized repo platform to G7 securities",
+    "source": "Finextra",
+    "url": "https://www.finextra.com/pressarticle/110779/broadridge-expands-tokenized-repo-platform-to-g7-securities",
+    "publishedAt": "2026-09-02T09:39:00.000Z",
+    "category": "Tokenisation",
+    "topics": [
+      "Tokenisation",
+      "Institutional adoption"
     ],
     "collectionMode": "auto"
   },
@@ -982,18 +1007,6 @@
     "category": "Tokenisation",
     "topics": [
       "Tokenisation"
-    ],
-    "collectionMode": "auto"
-  },
-  {
-    "id": "finextra-payments-diesta-brings-kinexys-by-jpmorgan-s-payee-verification-to-insurance-payments-2026-08-04",
-    "title": "Diesta brings Kinexys by JPMorgan’s Payee Verification to insurance payments",
-    "source": "Finextra",
-    "url": "https://www.finextra.com/pressarticle/110557/diesta-brings-kinexys-by-jpmorgans-payee-verification-to-insurance-payments",
-    "publishedAt": "2026-08-04T09:21:00.000Z",
-    "category": "Institutional adoption",
-    "topics": [
-      "Institutional adoption"
     ],
     "collectionMode": "auto"
   }
