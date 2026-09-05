@@ -1305,18 +1305,6 @@ window.REGWATCH_DATA = {
         "Digital money & settlement assets"
       ],
       "collectionMode": "auto"
-    },
-    {
-      "id": "finextra-crypto-tokenized-money-market-funds-tmmfs-a-complete-guide-to-blockchain-powered-cash-management-2026-08-06",
-      "title": "Tokenized Money Market Funds (tMMFs): A Complete Guide to Blockchain-Powered Cash Management",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/blogposting/32473/tokenized-money-market-funds-tmmfs-a-complete-guide-to-blockchain-powered-cash-management",
-      "publishedAt": "2026-08-06T05:36:12.000Z",
-      "category": "Tokenisation",
-      "topics": [
-        "Tokenisation"
-      ],
-      "collectionMode": "auto"
     }
   ],
   "monthlyReviews": [
