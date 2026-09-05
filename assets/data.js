@@ -1317,19 +1317,6 @@ window.REGWATCH_DATA = {
         "Tokenisation"
       ],
       "collectionMode": "auto"
-    },
-    {
-      "id": "finextra-payments-wells-fargo-to-roll-out-tokenised-deposits-for-corporate-clients-2026-08-06",
-      "title": "Wells Fargo to roll out tokenised deposits for corporate clients",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/newsarticle/48198/wells-fargo-to-roll-out-tokenised-deposits-for-corporate-clients",
-      "publishedAt": "2026-08-06T00:01:00.000Z",
-      "category": "Tokenisation",
-      "topics": [
-        "Tokenisation",
-        "Digital money & settlement assets"
-      ],
-      "collectionMode": "auto"
     }
   ],
   "monthlyReviews": [
