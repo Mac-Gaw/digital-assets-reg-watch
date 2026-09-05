@@ -1281,18 +1281,6 @@ window.REGWATCH_DATA = {
         "Digital money & settlement assets"
       ],
       "collectionMode": "auto"
-    },
-    {
-      "id": "markets-media-feed-schroders-secures-approval-for-first-tokenised-share-class-2026-08-06",
-      "title": "Schroders Secures Approval for First Tokenised Share Class",
-      "source": "Markets Media",
-      "url": "https://www.marketsmedia.com/schroders-secures-approval-for-first-tokenised-share-class",
-      "publishedAt": "2026-08-06T12:47:16.000Z",
-      "category": "Tokenisation",
-      "topics": [
-        "Tokenisation"
-      ],
-      "collectionMode": "auto"
     }
   ],
   "monthlyReviews": [
