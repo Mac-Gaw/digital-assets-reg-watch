@@ -1,41 +1,5 @@
 [
   {
-    "id": "rwa-summit-brooklyn-2026",
-    "title": "Real-World Asset Summit Brooklyn 2026",
-    "source": "Real-World Asset Summit",
-    "url": "https://www.rwasummit.io/",
-    "eventDate": "2026-09-01T09:00:00-04:00",
-    "endDate": "2026-09-02",
-    "format": "Summit",
-    "location": "Brooklyn, New York",
-    "access": "Invite-only / application required",
-    "category": "Tokenisation",
-    "topics": [
-      "Tokenisation",
-      "Real-world assets",
-      "Institutional digital assets"
-    ],
-    "collectionMode": "manual"
-  },
-  {
-    "id": "dtcc-real-world-asset-summit-2026",
-    "title": "DTCC to speak: Real-World Asset Summit",
-    "source": "DTCC Events",
-    "url": "https://www.dtcc.com/events?pgs=1",
-    "eventDate": "2026-09-01T09:00:00-04:00",
-    "endDate": "2026-09-02",
-    "format": "Conference appearance",
-    "location": "Brooklyn, New York",
-    "access": "External event / DTCC speaker",
-    "category": "Tokenisation",
-    "topics": [
-      "Tokenisation",
-      "Digital assets",
-      "Market infrastructure"
-    ],
-    "collectionMode": "manual"
-  },
-  {
     "id": "finextra-events-countdown-to-sibos-who-controls-value-in-an-ai-driven-economy-2026-09-03",
     "title": "Countdown to Sibos: Who controls value in an AI-driven economy?",
     "source": "Finextra Events",
