@@ -347,6 +347,18 @@ window.REGWATCH_DATA = {
   ],
   "marketIntelligence": [
     {
+      "id": "markets-media-feed-amc-robinhood-fight-over-third-party-tokenized-stock-2026-09-08",
+      "title": "AMC, Robinhood Fight Over Third-Party Tokenized Stock",
+      "source": "Markets Media",
+      "url": "https://www.marketsmedia.com/amc-and-robinhood-fight-over-tokenized-stocks",
+      "publishedAt": "2026-09-08T14:58:25.000Z",
+      "category": "Tokenisation",
+      "topics": [
+        "Tokenisation"
+      ],
+      "collectionMode": "auto"
+    },
+    {
       "id": "finextra-crypto-six-and-twint-join-swiss-bank-stablecoin-project-2026-09-08",
       "title": "SIX and Twint join Swiss bank stablecoin project",
       "source": "Finextra",
