@@ -383,6 +383,31 @@ window.REGWATCH_DATA = {
   ],
   "marketIntelligence": [
     {
+      "id": "finextra-crypto-six-and-twint-join-swiss-bank-stablecoin-project-2026-09-08",
+      "title": "SIX and Twint join Swiss bank stablecoin project",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/newsarticle/48360/six-and-twint-join-swiss-bank-stablecoin-project",
+      "publishedAt": "2026-09-08T11:28:00.000Z",
+      "category": "Digital money & settlement assets",
+      "topics": [
+        "Digital money & settlement assets"
+      ],
+      "collectionMode": "auto"
+    },
+    {
+      "id": "markets-media-feed-chf-stablecoin-sandbox-enters-test-phase-2026-09-08",
+      "title": "CHF Stablecoin Sandbox Enters Test Phase",
+      "source": "Markets Media",
+      "url": "https://www.marketsmedia.com/chf-stablecoin-sandbox-enters-test-phase",
+      "publishedAt": "2026-09-08T09:40:16.000Z",
+      "category": "Digital money & settlement assets",
+      "topics": [
+        "Digital money & settlement assets",
+        "Institutional adoption"
+      ],
+      "collectionMode": "auto"
+    },
+    {
       "id": "finextra-crypto-how-to-build-enterprise-grade-infrastructure-for-real-world-asset-tokenization-2026-09-07",
       "title": "How to Build Enterprise-Grade Infrastructure for Real-World Asset Tokenization",
       "source": "Finextra",
