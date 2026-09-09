@@ -347,6 +347,18 @@ window.REGWATCH_DATA = {
   ],
   "marketIntelligence": [
     {
+      "id": "finextra-crypto-nasdaq-b-and-246-rse-stuttgart-and-others-urge-eu-to-rethink-100bn-dlt-cap-2026-09-09",
+      "title": "Nasdaq, B&#246;rse Stuttgart and others urge EU to rethink €100bn DLT cap",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/newsarticle/48365/nasdaq-brse-stuttgart-and-others-urge-eu-to-rethink-100bn-dlt-cap",
+      "publishedAt": "2026-09-09T00:01:00.000Z",
+      "category": "Market infrastructure",
+      "topics": [
+        "Market infrastructure"
+      ],
+      "collectionMode": "auto"
+    },
+    {
       "id": "finextra-crypto-what-banks-should-evaluate-before-using-stablecoins-for-cross-border-settlement-2026-09-08",
       "title": "What Banks Should Evaluate Before Using Stablecoins for Cross-Border Settlement",
       "source": "Finextra",
