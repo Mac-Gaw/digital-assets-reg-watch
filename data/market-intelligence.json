@@ -1,5 +1,43 @@
 [
   {
+    "id": "finextra-markets-investre-and-21x-partner-to-bring-natively-tokenized-funds-to-a-regulated-exchange-2026-09-09",
+    "title": "Investre and 21X partner to bring natively tokenized funds to a regulated exchange",
+    "source": "Finextra",
+    "url": "https://www.finextra.com/pressarticle/110842/investre-and-21x-partner-to-bring-natively-tokenized-funds-to-a-regulated-exchange",
+    "publishedAt": "2026-09-09T09:21:00.000Z",
+    "category": "Tokenisation",
+    "topics": [
+      "Tokenisation",
+      "Market infrastructure"
+    ],
+    "collectionMode": "auto"
+  },
+  {
+    "id": "finextra-crypto-broadridge-launches-dlx-an-always-on-digital-asset-tokenisation-platform-2026-09-09",
+    "title": "Broadridge launches DLX, an always-on digital asset tokenisation platform",
+    "source": "Finextra",
+    "url": "https://www.finextra.com/pressarticle/110841/broadridge-launches-dlx-an-always-on-digital-asset-tokenisation-platform",
+    "publishedAt": "2026-09-09T09:19:00.000Z",
+    "category": "Tokenisation",
+    "topics": [
+      "Tokenisation"
+    ],
+    "collectionMode": "auto"
+  },
+  {
+    "id": "markets-media-feed-broadridge-launches-tokenized-markets-infrastructure-2026-09-09",
+    "title": "Broadridge Launches Tokenized Markets Infrastructure",
+    "source": "Markets Media",
+    "url": "https://www.marketsmedia.com/broadridge-launches-digital-asset-infrastructure-for-tokenized-markets",
+    "publishedAt": "2026-09-09T08:29:03.000Z",
+    "category": "Tokenisation",
+    "topics": [
+      "Tokenisation",
+      "Institutional adoption"
+    ],
+    "collectionMode": "auto"
+  },
+  {
     "id": "finextra-crypto-nasdaq-b-and-246-rse-stuttgart-and-others-urge-eu-to-rethink-100bn-dlt-cap-2026-09-09",
     "title": "Nasdaq, B&#246;rse Stuttgart and others urge EU to rethink €100bn DLT cap",
     "source": "Finextra",
@@ -930,18 +968,6 @@
     "source": "Finextra",
     "url": "https://www.finextra.com/blogposting/32506/tokenized-cash-transforming-traditional-money-for-the-digital-economy",
     "publishedAt": "2026-08-10T11:07:48.000Z",
-    "category": "Tokenisation",
-    "topics": [
-      "Tokenisation"
-    ],
-    "collectionMode": "auto"
-  },
-  {
-    "id": "markets-media-feed-21x-launches-exchange-for-tokenized-cash-and-securities-2026-08-10",
-    "title": "21X Launches Exchange for Tokenized Cash and Securities",
-    "source": "Markets Media",
-    "url": "https://www.marketsmedia.com/21x-launches-exchange-for-tokenized-cash-and-securities",
-    "publishedAt": "2026-08-10T08:04:28.000Z",
     "category": "Tokenisation",
     "topics": [
       "Tokenisation"
