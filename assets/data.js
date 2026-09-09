@@ -347,6 +347,66 @@ window.REGWATCH_DATA = {
   ],
   "marketIntelligence": [
     {
+      "id": "finextra-crypto-edx-integrates-fireblocks-network-link-for-digital-asset-transfers-2026-09-09",
+      "title": "EDX Integrates Fireblocks Network Link for digital asset transfers",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/pressarticle/110854/edx-integrates-fireblocks-network-link-for-digital-asset-transfers",
+      "publishedAt": "2026-09-09T15:18:00.000Z",
+      "category": "Custody",
+      "topics": [
+        "Custody"
+      ],
+      "collectionMode": "auto"
+    },
+    {
+      "id": "asset-servicing-times-u-s-bank-completes-stablecoin-pilot-transaction-2026-09-09",
+      "title": "U.S. Bank completes stablecoin pilot transaction",
+      "source": "Asset Servicing Times",
+      "url": "https://www.assetservicingtimes.com/assetservicesnews/digitalassetsarticle.php?article_id=18310",
+      "publishedAt": "2026-09-09T13:32:57.000Z",
+      "category": "Digital money & settlement assets",
+      "topics": [
+        "Digital money & settlement assets"
+      ],
+      "collectionMode": "auto"
+    },
+    {
+      "id": "finextra-crypto-the-7-5-trillion-stablecoin-illusion-2026-09-09",
+      "title": "The $7.5 Trillion Stablecoin Illusion",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/blogposting/32779/the-75-trillion-stablecoin-illusion",
+      "publishedAt": "2026-09-09T12:17:52.000Z",
+      "category": "Digital money & settlement assets",
+      "topics": [
+        "Digital money & settlement assets"
+      ],
+      "collectionMode": "auto"
+    },
+    {
+      "id": "finextra-crypto-india-s-first-tokenized-bond-what-happened-2026-09-09",
+      "title": "India’s First Tokenized Bond: What Happened?",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/blogposting/32777/indias-first-tokenized-bond-what-happened",
+      "publishedAt": "2026-09-09T11:35:37.000Z",
+      "category": "Tokenisation",
+      "topics": [
+        "Tokenisation"
+      ],
+      "collectionMode": "auto"
+    },
+    {
+      "id": "finextra-crypto-sage-capital-management-selects-openpayd-for-digital-assets-2026-09-09",
+      "title": "Sage Capital Management selects OpenPayd for digital assets",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/pressarticle/110851/sage-capital-management-selects-openpayd-for-digital-assets",
+      "publishedAt": "2026-09-09T11:32:00.000Z",
+      "category": "Digital assets",
+      "topics": [
+        "Digital assets"
+      ],
+      "collectionMode": "auto"
+    },
+    {
       "id": "finextra-markets-investre-and-21x-partner-to-bring-natively-tokenized-funds-to-a-regulated-exchange-2026-09-09",
       "title": "Investre and 21X partner to bring natively tokenized funds to a regulated exchange",
       "source": "Finextra",
@@ -1306,18 +1366,6 @@ window.REGWATCH_DATA = {
       "topics": [
         "Tokenisation",
         "Digital money & settlement assets"
-      ],
-      "collectionMode": "auto"
-    },
-    {
-      "id": "finextra-crypto-tokenized-cash-transforming-traditional-money-for-the-digital-economy-2026-08-10",
-      "title": "Tokenized Cash: Transforming Traditional Money for the Digital Economy",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/blogposting/32506/tokenized-cash-transforming-traditional-money-for-the-digital-economy",
-      "publishedAt": "2026-08-10T11:07:48.000Z",
-      "category": "Tokenisation",
-      "topics": [
-        "Tokenisation"
       ],
       "collectionMode": "auto"
     }
