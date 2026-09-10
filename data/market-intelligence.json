@@ -1,5 +1,42 @@
 [
   {
+    "id": "finextra-crypto-wirex-goes-live-on-tempo-for-enterprise-stablecoin-card-programmes-2026-09-10",
+    "title": "Wirex goes live on Tempo for enterprise stablecoin card programmes",
+    "source": "Finextra",
+    "url": "https://www.finextra.com/pressarticle/110877/wirex-goes-live-on-tempo-for-enterprise-stablecoin-card-programmes",
+    "publishedAt": "2026-09-10T15:22:00.000Z",
+    "category": "Digital money & settlement assets",
+    "topics": [
+      "Digital money & settlement assets"
+    ],
+    "collectionMode": "auto"
+  },
+  {
+    "id": "finextra-crypto-nacha-forms-next-gen-currency-project-team-focused-on-stablecoins-and-tokenized-deposits-2026-09-10",
+    "title": "Nacha forms Next-Gen Currency Project Team focused on stablecoins and tokenized deposits",
+    "source": "Finextra",
+    "url": "https://www.finextra.com/pressarticle/110875/nacha-forms-next-gen-currency-project-team-focused-on-stablecoins-and-tokenized-deposits",
+    "publishedAt": "2026-09-10T12:28:00.000Z",
+    "category": "Tokenisation",
+    "topics": [
+      "Tokenisation",
+      "Digital money & settlement assets"
+    ],
+    "collectionMode": "auto"
+  },
+  {
+    "id": "finextra-crypto-caplin-debuts-white-label-digital-asset-product-2026-09-10",
+    "title": "Caplin debuts white-label digital asset product",
+    "source": "Finextra",
+    "url": "https://www.finextra.com/pressarticle/110867/caplin-debuts-white-label-digital-asset-product",
+    "publishedAt": "2026-09-10T10:55:00.000Z",
+    "category": "Digital assets",
+    "topics": [
+      "Digital assets"
+    ],
+    "collectionMode": "auto"
+  },
+  {
     "id": "finextra-crypto-modern-treasury-rolls-out-non-custodial-stablecoin-wallets-2026-09-10",
     "title": "Modern Treasury rolls out non-custodial stablecoin wallets",
     "source": "Finextra",
@@ -8,6 +45,18 @@
     "category": "Digital money & settlement assets",
     "topics": [
       "Digital money & settlement assets"
+    ],
+    "collectionMode": "auto"
+  },
+  {
+    "id": "asset-servicing-times-fnality-appoints-cunliffe-metzger-and-berndsen-2026-09-10",
+    "title": "Fnality appoints Cunliffe, Metzger, and Berndsen",
+    "source": "Asset Servicing Times",
+    "url": "https://www.assetservicingtimes.com/assetservicesnews/peoplemovesarticle.php?article_id=18314",
+    "publishedAt": "2026-09-10T10:26:44.000Z",
+    "category": "Institutional adoption",
+    "topics": [
+      "Institutional adoption"
     ],
     "collectionMode": "auto"
   },
@@ -1006,18 +1055,6 @@
     "category": "Tokenisation",
     "topics": [
       "Tokenisation"
-    ],
-    "collectionMode": "auto"
-  },
-  {
-    "id": "finextra-crypto-cashi-picks-thredd-to-power-stablecoin-spending-card-2026-08-11",
-    "title": "Cashi picks Thredd to power stablecoin spending card",
-    "source": "Finextra",
-    "url": "https://www.finextra.com/pressarticle/110618/cashi-picks-thredd-to-power-stablecoin-spending-card",
-    "publishedAt": "2026-08-11T14:03:00.000Z",
-    "category": "Digital money & settlement assets",
-    "topics": [
-      "Digital money & settlement assets"
     ],
     "collectionMode": "auto"
   }
