@@ -347,6 +347,18 @@ window.REGWATCH_DATA = {
   ],
   "marketIntelligence": [
     {
+      "id": "finextra-crypto-us-bank-pilots-custom-built-stablecoin-2026-09-10",
+      "title": "US Bank pilots custom-built stablecoin",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/newsarticle/48372/us-bank-pilots-custom-built-stablecoin",
+      "publishedAt": "2026-09-10T00:01:00.000Z",
+      "category": "Digital money & settlement assets",
+      "topics": [
+        "Digital money & settlement assets"
+      ],
+      "collectionMode": "auto"
+    },
+    {
       "id": "finextra-crypto-bvnk-and-marqeta-partner-on-stablecoin-card-infrastructure-2026-09-09",
       "title": "BVNK and Marqeta partner on stablecoin card infrastructure",
       "source": "Finextra",
