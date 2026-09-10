@@ -347,6 +347,18 @@ window.REGWATCH_DATA = {
   ],
   "marketIntelligence": [
     {
+      "id": "finextra-crypto-modern-treasury-rolls-out-non-custodial-stablecoin-wallets-2026-09-10",
+      "title": "Modern Treasury rolls out non-custodial stablecoin wallets",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/pressarticle/110865/modern-treasury-rolls-out-non-custodial-stablecoin-wallets",
+      "publishedAt": "2026-09-10T10:31:00.000Z",
+      "category": "Digital money & settlement assets",
+      "topics": [
+        "Digital money & settlement assets"
+      ],
+      "collectionMode": "auto"
+    },
+    {
       "id": "finextra-crypto-us-bank-pilots-custom-built-stablecoin-2026-09-10",
       "title": "US Bank pilots custom-built stablecoin",
       "source": "Finextra",
@@ -1350,42 +1362,6 @@ window.REGWATCH_DATA = {
       "source": "Finextra",
       "url": "https://www.finextra.com/pressarticle/110618/cashi-picks-thredd-to-power-stablecoin-spending-card",
       "publishedAt": "2026-08-11T14:03:00.000Z",
-      "category": "Digital money & settlement assets",
-      "topics": [
-        "Digital money & settlement assets"
-      ],
-      "collectionMode": "auto"
-    },
-    {
-      "id": "markets-media-feed-northern-trust-and-038-lukka-enhance-digital-asset-reporting-2026-08-11",
-      "title": "Northern Trust &#038; Lukka Enhance Digital Asset Reporting",
-      "source": "Markets Media",
-      "url": "https://www.marketsmedia.com/northern-trust-engages-lukka-to-enhance-digital-asset-reporting",
-      "publishedAt": "2026-08-11T08:33:30.000Z",
-      "category": "Market structure",
-      "topics": [
-        "Market structure"
-      ],
-      "collectionMode": "auto"
-    },
-    {
-      "id": "markets-media-feed-first-digital-asset-tracking-u-s-home-price-index-launches-2026-08-11",
-      "title": "First Digital Asset Tracking U.S. Home Price Index Launches",
-      "source": "Markets Media",
-      "url": "https://www.marketsmedia.com/galaxy-commits-50m-to-first-digital-asset-referencing-u-s-home-price-index",
-      "publishedAt": "2026-08-11T08:23:53.000Z",
-      "category": "Market structure",
-      "topics": [
-        "Market structure"
-      ],
-      "collectionMode": "auto"
-    },
-    {
-      "id": "finextra-crypto-stablecoins-have-left-the-crypto-niche-now-they-are-entering-everyday-finance-2026-08-11",
-      "title": "Stablecoins Have Left the Crypto Niche. Now They Are Entering Everyday Finance.",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/blogposting/32512/stablecoins-have-left-the-crypto-niche-now-they-are-entering-everyday-finance",
-      "publishedAt": "2026-08-11T07:32:24.000Z",
       "category": "Digital money & settlement assets",
       "topics": [
         "Digital money & settlement assets"
