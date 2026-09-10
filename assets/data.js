@@ -332,6 +332,19 @@ window.REGWATCH_DATA = {
   ],
   "marketIntelligence": [
     {
+      "id": "finextra-markets-nasdaq-invests-100m-in-payward-as-part-of-tokenised-equities-partnership-2026-09-10",
+      "title": "Nasdaq invests $100m in Payward as part of tokenised equities partnership",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/newsarticle/48382/nasdaq-invests-100m-in-payward-as-part-of-tokenised-equities-partnership",
+      "publishedAt": "2026-09-10T15:31:00.000Z",
+      "category": "Tokenisation",
+      "topics": [
+        "Tokenisation",
+        "Market infrastructure"
+      ],
+      "collectionMode": "auto"
+    },
+    {
       "id": "finextra-crypto-wirex-goes-live-on-tempo-for-enterprise-stablecoin-card-programmes-2026-09-10",
       "title": "Wirex goes live on Tempo for enterprise stablecoin card programmes",
       "source": "Finextra",
@@ -340,6 +353,19 @@ window.REGWATCH_DATA = {
       "category": "Digital money & settlement assets",
       "topics": [
         "Digital money & settlement assets"
+      ],
+      "collectionMode": "auto"
+    },
+    {
+      "id": "securities-finance-times-vermeg-and-cbuae-select-delta-capita-dlt-for-digital-securities-depository-2026-09-10",
+      "title": "Vermeg and CBUAE select Delta Capita DLT for digital securities depository",
+      "source": "Securities Finance Times",
+      "url": "https://www.securitiesfinancetimes.com/securitieslendingnews/industryarticle.php?article_id=228961",
+      "publishedAt": "2026-09-10T14:28:39.000Z",
+      "category": "Tokenisation",
+      "topics": [
+        "Tokenisation",
+        "Market infrastructure"
       ],
       "collectionMode": "auto"
     },
@@ -1375,18 +1401,6 @@ window.REGWATCH_DATA = {
       "category": "Digital money & settlement assets",
       "topics": [
         "Digital money & settlement assets"
-      ],
-      "collectionMode": "auto"
-    },
-    {
-      "id": "markets-media-feed-u-k-asset-managers-progress-fund-tokenization-2026-08-11",
-      "title": "U.K. Asset Managers Progress Fund Tokenization",
-      "source": "Markets Media",
-      "url": "https://www.marketsmedia.com/u-k-asset-managers-progress-fund-tokenization",
-      "publishedAt": "2026-08-11T16:12:57.000Z",
-      "category": "Tokenisation",
-      "topics": [
-        "Tokenisation"
       ],
       "collectionMode": "auto"
     }
