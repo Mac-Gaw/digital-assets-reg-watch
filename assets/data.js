@@ -1391,18 +1391,6 @@ window.REGWATCH_DATA = {
         "Institutional adoption"
       ],
       "collectionMode": "auto"
-    },
-    {
-      "id": "finextra-crypto-crypto-com-launches-tokenised-us-equities-and-etfs-in-europe-2026-08-12",
-      "title": "Crypto.com launches tokenised US equities and ETFs in Europe",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/pressarticle/110634/cryptocom-launches-tokenised-us-equities-and-etfs-in-europe",
-      "publishedAt": "2026-08-12T18:09:00.000Z",
-      "category": "Tokenisation",
-      "topics": [
-        "Tokenisation"
-      ],
-      "collectionMode": "auto"
     }
   ],
   "monthlyReviews": [
