@@ -1,33 +1,37 @@
 {
-  "scannedAt": "2026-09-11T09:38:50.645Z",
-  "newItems": 16,
-  "prunedStoredItems": 13,
+  "scannedAt": "2026-09-11T14:24:27.582Z",
+  "newItems": 17,
+  "prunedStoredItems": 12,
   "sources": [
     {
       "source": "finextra-crypto",
       "status": "ok",
       "feedItems": 47,
-      "relevantItems": 31
+      "relevantItems": 32
     },
     {
       "source": "finextra-markets",
-      "status": "error",
-      "message": "HTTP 429"
+      "status": "ok",
+      "feedItems": 43,
+      "relevantItems": 7
     },
     {
       "source": "finextra-payments",
-      "status": "error",
-      "message": "HTTP 429"
+      "status": "ok",
+      "feedItems": 51,
+      "relevantItems": 6
     },
     {
       "source": "finextra-regulation",
-      "status": "error",
-      "message": "HTTP 429"
+      "status": "ok",
+      "feedItems": 54,
+      "relevantItems": 4
     },
     {
       "source": "finextra-wholesale",
-      "status": "error",
-      "message": "HTTP 429"
+      "status": "ok",
+      "feedItems": 47,
+      "relevantItems": 7
     },
     {
       "source": "global-custodian-feed",
@@ -39,7 +43,7 @@
       "source": "asset-servicing-times",
       "status": "ok",
       "feedItems": 10,
-      "relevantItems": 2
+      "relevantItems": 1
     },
     {
       "source": "securities-finance-times",

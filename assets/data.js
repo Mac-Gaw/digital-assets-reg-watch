@@ -332,6 +332,30 @@ window.REGWATCH_DATA = {
   ],
   "marketIntelligence": [
     {
+      "id": "asset-servicing-times-polymath-and-high-ridge-to-broaden-tokenised-markets-participation-2026-09-11",
+      "title": "Polymath and High Ridge to broaden tokenised markets participation",
+      "source": "Asset Servicing Times",
+      "url": "https://www.assetservicingtimes.com/assetservicesnews/digitalassetsarticle.php?article_id=18324",
+      "publishedAt": "2026-09-11T13:51:57.000Z",
+      "category": "Tokenisation",
+      "topics": [
+        "Tokenisation"
+      ],
+      "collectionMode": "auto"
+    },
+    {
+      "id": "finextra-crypto-coinbase-and-moov-partner-to-boost-stablecoin-payments-for-community-banks-ahead-of-clarity-vote-2026-09-11",
+      "title": "Coinbase and Moov partner to boost stablecoin payments for community banks ahead of CLARITY vote",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/newsarticle/48384/coinbase-and-moov-partner-to-boost-stablecoin-payments-for-community-banks-ahead-of-clarity-vote",
+      "publishedAt": "2026-09-11T10:34:00.000Z",
+      "category": "Digital money & settlement assets",
+      "topics": [
+        "Digital money & settlement assets"
+      ],
+      "collectionMode": "auto"
+    },
+    {
       "id": "markets-media-feed-lummis-releases-updated-digital-asset-market-clarity-act-2026-09-11",
       "title": "Lummis Releases Updated Digital Asset Market Clarity Act",
       "source": "Markets Media",
@@ -1374,18 +1398,6 @@ window.REGWATCH_DATA = {
       "source": "Finextra",
       "url": "https://www.finextra.com/pressarticle/110634/cryptocom-launches-tokenised-us-equities-and-etfs-in-europe",
       "publishedAt": "2026-08-12T18:09:00.000Z",
-      "category": "Tokenisation",
-      "topics": [
-        "Tokenisation"
-      ],
-      "collectionMode": "auto"
-    },
-    {
-      "id": "finextra-crypto-itau-unibanco-joins-brazilian-tokenisation-pilot-2026-08-12",
-      "title": "Itau Unibanco joins Brazilian tokenisation pilot",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/newsarticle/48234/itau-unibanco-joins-brazilian-tokenisation-pilot",
-      "publishedAt": "2026-08-12T10:10:00.000Z",
       "category": "Tokenisation",
       "topics": [
         "Tokenisation"
