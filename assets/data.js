@@ -332,6 +332,18 @@ window.REGWATCH_DATA = {
   ],
   "marketIntelligence": [
     {
+      "id": "markets-media-feed-lummis-releases-updated-digital-asset-market-clarity-act-2026-09-11",
+      "title": "Lummis Releases Updated Digital Asset Market Clarity Act",
+      "source": "Markets Media",
+      "url": "https://www.marketsmedia.com/lummis-releases-updated-digital-asset-market-clarity-act",
+      "publishedAt": "2026-09-11T08:13:50.000Z",
+      "category": "Market structure",
+      "topics": [
+        "Market structure"
+      ],
+      "collectionMode": "auto"
+    },
+    {
       "id": "finextra-markets-nasdaq-invests-100m-in-payward-as-part-of-tokenised-equities-partnership-2026-09-10",
       "title": "Nasdaq invests $100m in Payward as part of tokenised equities partnership",
       "source": "Finextra",
@@ -1377,30 +1389,6 @@ window.REGWATCH_DATA = {
       "category": "Tokenisation",
       "topics": [
         "Tokenisation"
-      ],
-      "collectionMode": "auto"
-    },
-    {
-      "id": "finextra-crypto-coinbase-to-launch-tokenisation-hub-in-abu-dhabi-2026-08-12",
-      "title": "Coinbase to launch tokenisation hub in Abu Dhabi",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/newsarticle/48233/coinbase-to-launch-tokenisation-hub-in-abu-dhabi",
-      "publishedAt": "2026-08-12T09:28:00.000Z",
-      "category": "Tokenisation",
-      "topics": [
-        "Tokenisation"
-      ],
-      "collectionMode": "auto"
-    },
-    {
-      "id": "finextra-payments-cashi-launches-stablecoin-app-2026-08-12",
-      "title": "Cashi launches stablecoin app",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/pressarticle/110624/cashi-launches-stablecoin-app",
-      "publishedAt": "2026-08-12T09:06:00.000Z",
-      "category": "Digital money & settlement assets",
-      "topics": [
-        "Digital money & settlement assets"
       ],
       "collectionMode": "auto"
     }
