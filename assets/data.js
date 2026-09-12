@@ -1379,18 +1379,6 @@ window.REGWATCH_DATA = {
         "Institutional adoption"
       ],
       "collectionMode": "auto"
-    },
-    {
-      "id": "securities-finance-times-mufg-launches-poc-for-onchain-jgb-repo-transactions-on-canton-network-2026-08-13",
-      "title": "MUFG launches PoC for onchain JGB repo transactions on Canton Network",
-      "source": "Securities Finance Times",
-      "url": "https://www.securitiesfinancetimes.com/securitieslendingnews/repoarticle.php?article_id=228901",
-      "publishedAt": "2026-08-13T11:41:10.000Z",
-      "category": "Institutional adoption",
-      "topics": [
-        "Institutional adoption"
-      ],
-      "collectionMode": "auto"
     }
   ],
   "monthlyReviews": [
