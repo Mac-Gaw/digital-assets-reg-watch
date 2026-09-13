@@ -1355,18 +1355,6 @@ window.REGWATCH_DATA = {
         "Tokenisation"
       ],
       "collectionMode": "auto"
-    },
-    {
-      "id": "finextra-crypto-tokenized-money-the-future-of-financial-infrastructure-2026-08-14",
-      "title": "Tokenized Money: The Future of Financial Infrastructure",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/blogposting/32541/tokenized-money-the-future-of-financial-infrastructure",
-      "publishedAt": "2026-08-14T10:39:10.000Z",
-      "category": "Tokenisation",
-      "topics": [
-        "Tokenisation"
-      ],
-      "collectionMode": "auto"
     }
   ],
   "monthlyReviews": [
