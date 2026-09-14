@@ -1,25 +1,22 @@
 {
-  "scannedAt": "2026-09-14T18:36:48.081Z",
-  "newItems": 20,
-  "prunedStoredItems": 12,
+  "scannedAt": "2026-09-14T22:29:38.815Z",
+  "newItems": 6,
+  "prunedStoredItems": 6,
   "sources": [
     {
       "source": "finextra-crypto",
-      "status": "ok",
-      "feedItems": 47,
-      "relevantItems": 28
+      "status": "error",
+      "message": "HTTP 500"
     },
     {
       "source": "finextra-markets",
-      "status": "ok",
-      "feedItems": 43,
-      "relevantItems": 6
+      "status": "error",
+      "message": "HTTP 500"
     },
     {
       "source": "finextra-payments",
-      "status": "ok",
-      "feedItems": 51,
-      "relevantItems": 3
+      "status": "error",
+      "message": "HTTP 500"
     },
     {
       "source": "finextra-regulation",
@@ -29,9 +26,8 @@
     },
     {
       "source": "finextra-wholesale",
-      "status": "ok",
-      "feedItems": 47,
-      "relevantItems": 5
+      "status": "error",
+      "message": "This operation was aborted"
     },
     {
       "source": "global-custodian-feed",
@@ -55,7 +51,7 @@
       "source": "markets-media-feed",
       "status": "ok",
       "feedItems": 10,
-      "relevantItems": 5
+      "relevantItems": 4
     }
   ]
 }
