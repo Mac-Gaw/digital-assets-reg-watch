@@ -332,6 +332,18 @@ window.REGWATCH_DATA = {
   ],
   "marketIntelligence": [
     {
+      "id": "markets-media-feed-final-draft-of-digital-asset-market-clarity-act-released-2026-09-14",
+      "title": "Final Draft of Digital Asset Market Clarity Act Released",
+      "source": "Markets Media",
+      "url": "https://www.marketsmedia.com/final-draft-of-digital-asset-market-clarity-act-released",
+      "publishedAt": "2026-09-14T08:39:27.000Z",
+      "category": "Market structure",
+      "topics": [
+        "Market structure"
+      ],
+      "collectionMode": "auto"
+    },
+    {
       "id": "asset-servicing-times-polymath-and-high-ridge-to-broaden-tokenised-markets-participation-2026-09-11",
       "title": "Polymath and High Ridge to broaden tokenised markets participation",
       "source": "Asset Servicing Times",
