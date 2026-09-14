@@ -1,5 +1,48 @@
 [
   {
+    "id": "nrf-regulation-tomorrow-regulation-crypto-assets-what-issuers-need-to-know-2026-09-11",
+    "title": "Regulation crypto assets: What issuers need to know",
+    "source": "Norton Rose Fulbright Regulation Tomorrow",
+    "sourceType": "Legal analysis",
+    "url": "https://www.regulationtomorrow.com/2026/09/regulation-crypto-assets-what-issuers-need-to-know/",
+    "publishedAt": "2026-09-11T14:27:15.000Z",
+    "jurisdiction": "Global",
+    "category": "Institutional Report",
+    "topics": [
+      "Cryptoasset Regulation",
+      "Tokenisation"
+    ],
+    "priority": "Medium",
+    "status": "Published",
+    "scope": "core-digital",
+    "radarEligible": false,
+    "summary": "The SEC&rsquo;s proposed Regulation Crypto Assets (Reg CA) would create new exemptions for crypto-asset fundraising and a safe harbor for certain investment contracts. While the framework may expand capital-raising opportunities, issuers, platforms and investors should remain mindful of ongoing SEC, state and criminal enforcement risks. Read the full update here .",
+    "whyItMatters": "Relevant for institutional tokenisation, settlement, custody, DvP, collateral and financial market infrastructure use cases.",
+    "reviewStatus": "draft",
+    "collectedAt": "2026-09-14T12:02:49.770Z"
+  },
+  {
+    "id": "ledger-insights-matter-labs-open-sources-prividium-core-as-bundesbank-tests-it-interoperability-next-2026-09-09",
+    "title": "Matter Labs open sources Prividium core as Bundesbank tests it. Interoperability next",
+    "source": "Ledger Insights",
+    "sourceType": "Institutional news / analysis",
+    "url": "https://www.ledgerinsights.com/matter-labs-open-sources-prividium-core-as-bundesbank-tests-it-interoperability-next/",
+    "publishedAt": "2026-09-09T19:27:27.000Z",
+    "jurisdiction": "Global",
+    "category": "Source Update",
+    "topics": [
+      "Tokenisation"
+    ],
+    "priority": "Low",
+    "status": "Published",
+    "scope": "core-digital",
+    "radarEligible": false,
+    "summary": "ZKsync developer Matter Labs has open sourced the core of Prividium, its privacy focused blockchain platform for financial institutions. It says the Deutsche Bundesbank is the first institution to deploy the platform in its own infrastructure. CEO Alex Gluchowski described the release as &#8220;the foundation, not the finish line,&#8221; pointing to the harder question of [&#8230;] The post Matter Labs open sources P",
+    "whyItMatters": "Relevant for institutional tokenisation, settlement, custody, DvP, collateral and financial market infrastructure use cases.",
+    "reviewStatus": "draft",
+    "collectedAt": "2026-09-14T12:02:49.573Z"
+  },
+  {
     "id": "ledger-insights-london-stock-exchange-to-support-xstocks-tokenized-stock-trading-in-payward-deal-2026-09-01",
     "title": "London Stock Exchange to support xStocks tokenized stock trading in Payward deal",
     "source": "Ledger Insights",

@@ -1,6 +1,6 @@
 {
-  "scannedAt": "2026-09-02T08:23:39.264Z",
-  "newAuto": 3,
+  "scannedAt": "2026-09-14T12:02:50.321Z",
+  "newAuto": 0,
   "newPending": 2,
   "prunedFalsePositives": 0,
   "sources": [
@@ -18,7 +18,7 @@
       "source": "bank-of-england-publications",
       "status": "ok",
       "feedItems": 50,
-      "relevantItems": 2
+      "relevantItems": 1
     },
     {
       "source": "bank-of-england-pra",
@@ -89,8 +89,8 @@
     {
       "source": "bis-fsi",
       "status": "ok",
-      "feedItems": 30,
-      "relevantItems": 3
+      "feedItems": 20,
+      "relevantItems": 1
     },
     {
       "source": "fsb-publications",
