@@ -60,21 +60,6 @@ window.REGWATCH_DATA = {
   },
   "events": [
     {
-      "id": "finextra-events-tackling-fraud-as-an-ecosystem-exploring-the-shift-needed-in-regulation-and-the-industry-2026-09-08",
-      "title": "Tackling fraud as an ecosystem: Exploring the shift needed in regulation and the industry",
-      "source": "Finextra Events",
-      "url": "https://www.finextra.com/event-info/623/tackling-fraud-as-an-ecosystem-exploring-the-shift-needed-in-regulation-and-the-industry",
-      "eventDate": "2026-09-08T15:00:00.000Z",
-      "format": "Webinar",
-      "location": "Online",
-      "access": "Registration required",
-      "category": "Regulation",
-      "topics": [
-        "Regulation"
-      ],
-      "collectionMode": "auto"
-    },
-    {
       "id": "icma-bwf-capital-markets-conference-2026",
       "title": "14th bwf and ICMA Capital Markets Conference",
       "source": "ICMA",
