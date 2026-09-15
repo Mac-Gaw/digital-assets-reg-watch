@@ -345,6 +345,42 @@ window.REGWATCH_DATA = {
       "collectionMode": "auto"
     },
     {
+      "id": "asset-servicing-times-banking-circle-to-power-osl-s-stablecoin-to-fiat-payment-2026-09-15",
+      "title": "Banking Circle to power OSL’s stablecoin-to-fiat payment",
+      "source": "Asset Servicing Times",
+      "url": "https://www.assetservicingtimes.com/assetservicesnews/clearingandsettlementarticle.php?article_id=18330",
+      "publishedAt": "2026-09-15T10:19:18.000Z",
+      "category": "Digital money & settlement assets",
+      "topics": [
+        "Digital money & settlement assets"
+      ],
+      "collectionMode": "auto"
+    },
+    {
+      "id": "markets-media-feed-first-intra-day-repo-implemented-with-cdm-on-canton-network-2026-09-15",
+      "title": "First Intra-Day Repo Implemented with CDM on Canton Network",
+      "source": "Markets Media",
+      "url": "https://www.marketsmedia.com/first-intra-day-repo-implemented-with-cdm-on-canton-network",
+      "publishedAt": "2026-09-15T09:03:03.000Z",
+      "category": "Institutional adoption",
+      "topics": [
+        "Institutional adoption"
+      ],
+      "collectionMode": "auto"
+    },
+    {
+      "id": "markets-media-feed-bnpp-securities-services-reorganises-digital-assets-business-2026-09-15",
+      "title": "BNPP Securities Services Reorganises Digital Assets Business",
+      "source": "Markets Media",
+      "url": "https://www.marketsmedia.com/bnp-paribas-securities-services-reorganises-digital-assets-business",
+      "publishedAt": "2026-09-15T08:31:15.000Z",
+      "category": "Market structure",
+      "topics": [
+        "Market structure"
+      ],
+      "collectionMode": "auto"
+    },
+    {
       "id": "finextra-crypto-digital-asset-infrastructure-now-lives-or-dies-on-operational-integration-2026-09-14",
       "title": "Digital Asset Infrastructure Now Lives or Dies on Operational Integration",
       "source": "Finextra",
