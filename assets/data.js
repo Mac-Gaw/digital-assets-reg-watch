@@ -299,6 +299,30 @@ window.REGWATCH_DATA = {
   ],
   "marketIntelligence": [
     {
+      "id": "asset-servicing-times-dtcc-s-fund-serv-adds-ondo-finance-as-first-tokenisation-member-2026-09-16",
+      "title": "DTCC’s Fund/SERV adds Ondo Finance as first tokenisation member",
+      "source": "Asset Servicing Times",
+      "url": "https://www.assetservicingtimes.com/assetservicesnews/digitalassetsarticle.php?article_id=18338",
+      "publishedAt": "2026-09-16T14:36:13.000Z",
+      "category": "Tokenisation",
+      "topics": [
+        "Tokenisation"
+      ],
+      "collectionMode": "auto"
+    },
+    {
+      "id": "markets-media-feed-deutsche-bank-to-offer-digital-asset-custody-2026-09-16",
+      "title": "Deutsche Bank to Offer Digital Asset Custody",
+      "source": "Markets Media",
+      "url": "https://www.marketsmedia.com/deutsche-bank-to-offer-digital-asset-custody",
+      "publishedAt": "2026-09-16T12:56:08.000Z",
+      "category": "Custody",
+      "topics": [
+        "Custody"
+      ],
+      "collectionMode": "auto"
+    },
+    {
       "id": "finextra-crypto-fca-issues-guidance-on-the-laws-governing-the-uk-s-future-crypto-asset-regime-2026-09-16",
       "title": "FCA issues guidance on the laws governing the UK's future crypto asset regime",
       "source": "Finextra",
@@ -1490,18 +1514,6 @@ window.REGWATCH_DATA = {
       "category": "Digital assets",
       "topics": [
         "Digital assets"
-      ],
-      "collectionMode": "auto"
-    },
-    {
-      "id": "markets-media-feed-superstate-hopes-tokenized-equities-trading-is-unlocked-2026-08-17",
-      "title": "Superstate Hopes Tokenized Equities Trading is Unlocked",
-      "source": "Markets Media",
-      "url": "https://www.marketsmedia.com/superstate-hopes-tokenized-equities-trading-is-unlocked",
-      "publishedAt": "2026-08-17T19:16:10.000Z",
-      "category": "Tokenisation",
-      "topics": [
-        "Tokenisation"
       ],
       "collectionMode": "auto"
     }
