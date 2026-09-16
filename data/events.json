@@ -1,23 +1,5 @@
 [
   {
-    "id": "icma-bwf-capital-markets-conference-2026",
-    "title": "14th bwf and ICMA Capital Markets Conference",
-    "source": "ICMA",
-    "url": "https://www.icmagroup.org/events/14th-bwf-and-icma-capital-markets-conference/",
-    "eventDate": "2026-09-09T09:30:00+02:00",
-    "endDate": "2026-09-09",
-    "format": "Conference",
-    "location": "Frankfurt",
-    "access": "Open to all / free",
-    "category": "Tokenisation",
-    "topics": [
-      "Tokenisation",
-      "Bond markets",
-      "Market infrastructure"
-    ],
-    "collectionMode": "manual"
-  },
-  {
     "id": "finextra-events-what-profitable-roles-can-banks-play-in-the-digital-currency-race-2026-09-10",
     "title": "What profitable roles can banks play in the digital currency race?",
     "source": "Finextra Events",
