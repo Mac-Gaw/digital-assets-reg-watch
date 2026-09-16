@@ -1,5 +1,77 @@
 [
   {
+    "id": "finextra-crypto-fca-issues-guidance-on-the-laws-governing-the-uk-s-future-crypto-asset-regime-2026-09-16",
+    "title": "FCA issues guidance on the laws governing the UK's future crypto asset regime",
+    "source": "Finextra",
+    "url": "https://www.finextra.com/pressarticle/110923/fca-issues-guidance-on-the-laws-governing-the-uks-future-crypto-asset-regime",
+    "publishedAt": "2026-09-16T11:41:00.000Z",
+    "category": "Digital assets",
+    "topics": [
+      "Digital assets"
+    ],
+    "collectionMode": "auto"
+  },
+  {
+    "id": "finextra-crypto-deutsche-bank-prepares-for-go-live-of-digital-asset-custody-2026-09-16",
+    "title": "Deutsche Bank prepares for go-live of digital asset custody",
+    "source": "Finextra",
+    "url": "https://www.finextra.com/newsarticle/48417/deutsche-bank-prepares-for-go-live-of-digital-asset-custody",
+    "publishedAt": "2026-09-16T11:29:00.000Z",
+    "category": "Custody",
+    "topics": [
+      "Custody"
+    ],
+    "collectionMode": "auto"
+  },
+  {
+    "id": "asset-servicing-times-standard-chartered-appointed-lmax-group-s-digital-asset-custodian-2026-09-16",
+    "title": "Standard Chartered appointed LMAX Group’s digital asset custodian",
+    "source": "Asset Servicing Times",
+    "url": "https://www.assetservicingtimes.com/assetservicesnews/custodyarticle.php?article_id=18336",
+    "publishedAt": "2026-09-16T10:22:51.000Z",
+    "category": "Custody",
+    "topics": [
+      "Custody"
+    ],
+    "collectionMode": "auto"
+  },
+  {
+    "id": "finextra-crypto-from-asset-to-security-the-institutional-infrastructure-required-for-real-world-asset-tokenizati-2026-09-16",
+    "title": "From Asset to Security: The Institutional Infrastructure Required for Real-World Asset Tokenization",
+    "source": "Finextra",
+    "url": "https://www.finextra.com/blogposting/32876/from-asset-to-security-the-institutional-infrastructure-required-for-real-world-asset-tokenization",
+    "publishedAt": "2026-09-16T08:26:19.000Z",
+    "category": "Tokenisation",
+    "topics": [
+      "Tokenisation"
+    ],
+    "collectionMode": "auto"
+  },
+  {
+    "id": "finextra-crypto-why-institutions-are-saying-yes-to-stablecoins-2026-09-16",
+    "title": "Why institutions are saying ‘yes’ to stablecoins",
+    "source": "Finextra",
+    "url": "https://www.finextra.com/blogposting/32873/why-institutions-are-saying-yes-to-stablecoins",
+    "publishedAt": "2026-09-16T00:25:22.000Z",
+    "category": "Digital money & settlement assets",
+    "topics": [
+      "Digital money & settlement assets"
+    ],
+    "collectionMode": "auto"
+  },
+  {
+    "id": "finextra-crypto-circle-ripple-and-visa-join-10-million-funding-round-for-stablecoin-platform-velocity-2026-09-16",
+    "title": "Circle, Ripple and Visa join $10 million funding round for stablecoin platform Velocity",
+    "source": "Finextra",
+    "url": "https://www.finextra.com/newsarticle/48406/circle-ripple-and-visa-join-10-million-funding-round-for-stablecoin-platform-velocity",
+    "publishedAt": "2026-09-16T00:01:00.000Z",
+    "category": "Digital money & settlement assets",
+    "topics": [
+      "Digital money & settlement assets"
+    ],
+    "collectionMode": "auto"
+  },
+  {
     "id": "finextra-crypto-circle-ripple-and-visa-join-10-funding-round-for-stablecoin-platform-velocity-2026-09-16",
     "title": "Circle, Ripple and Visa join $10 funding round for stablecoin platform Velocity",
     "source": "Finextra",
