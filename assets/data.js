@@ -317,6 +317,18 @@ window.REGWATCH_DATA = {
   ],
   "marketIntelligence": [
     {
+      "id": "finextra-crypto-circle-ripple-and-visa-join-10-funding-round-for-stablecoin-platform-velocity-2026-09-16",
+      "title": "Circle, Ripple and Visa join $10 funding round for stablecoin platform Velocity",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/newsarticle/48406/circle-ripple-and-visa-join-10-funding-round-for-stablecoin-platform-velocity",
+      "publishedAt": "2026-09-16T00:01:00.000Z",
+      "category": "Digital money & settlement assets",
+      "topics": [
+        "Digital money & settlement assets"
+      ],
+      "collectionMode": "auto"
+    },
+    {
       "id": "finextra-crypto-are-banks-actually-ready-for-digital-money-2026-09-15",
       "title": "Are banks actually ready for digital money?",
       "source": "Finextra",
