@@ -314,6 +314,30 @@ window.REGWATCH_DATA = {
   ],
   "marketIntelligence": [
     {
+      "id": "markets-media-feed-dtcc-and-8217-s-fund-serv-adds-ondo-as-first-tokenization-member-2026-09-17",
+      "title": "DTCC&#8217;s Fund/SERV Adds Ondo as First Tokenization Member",
+      "source": "Markets Media",
+      "url": "https://www.marketsmedia.com/dtccs-fund-serv-adds-ondo-finance-as-first-tokenization-member",
+      "publishedAt": "2026-09-17T09:39:27.000Z",
+      "category": "Tokenisation",
+      "topics": [
+        "Tokenisation"
+      ],
+      "collectionMode": "auto"
+    },
+    {
+      "id": "finextra-markets-the-hidden-overhead-of-open-banking-apis-architecture-for-scaling-tokenized-ledger-networks-2026-09-16",
+      "title": "The Hidden Overhead of Open Banking APIs: Architecture for Scaling Tokenized Ledger Networks",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/blogposting/32891/the-hidden-overhead-of-open-banking-apis-architecture-for-scaling-tokenized-ledger-networks",
+      "publishedAt": "2026-09-16T20:45:38.000Z",
+      "category": "Tokenisation",
+      "topics": [
+        "Tokenisation"
+      ],
+      "collectionMode": "auto"
+    },
+    {
       "id": "asset-servicing-times-dtcc-s-fund-serv-adds-ondo-finance-as-first-tokenisation-member-2026-09-16",
       "title": "DTCC’s Fund/SERV adds Ondo Finance as first tokenisation member",
       "source": "Asset Servicing Times",
@@ -1505,30 +1529,6 @@ window.REGWATCH_DATA = {
       "category": "Digital money & settlement assets",
       "topics": [
         "Digital money & settlement assets"
-      ],
-      "collectionMode": "auto"
-    },
-    {
-      "id": "finextra-payments-tokenized-money-changes-the-bank-s-operating-clock-2026-08-18",
-      "title": "Tokenized Money Changes the Bank's Operating Clock",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/blogposting/32567/tokenized-money-changes-the-banks-operating-clock",
-      "publishedAt": "2026-08-18T15:50:41.000Z",
-      "category": "Tokenisation",
-      "topics": [
-        "Tokenisation"
-      ],
-      "collectionMode": "auto"
-    },
-    {
-      "id": "finextra-crypto-unlimit-granted-crypto-asset-service-provider-licence-2026-08-18",
-      "title": "Unlimit granted crypto asset service provider licence",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/pressarticle/110662/unlimit-granted-crypto-asset-service-provider-licence",
-      "publishedAt": "2026-08-18T09:19:00.000Z",
-      "category": "Digital assets",
-      "topics": [
-        "Digital assets"
       ],
       "collectionMode": "auto"
     }
