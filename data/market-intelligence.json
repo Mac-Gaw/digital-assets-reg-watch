@@ -1169,54 +1169,5 @@
       "Market infrastructure"
     ],
     "collectionMode": "auto"
-  },
-  {
-    "id": "finextra-crypto-jcb-and-digital-garage-to-run-a-proof-of-concept-poc-for-in-store-payments-using-stablecoins-2026-08-19",
-    "title": "JCB and Digital Garage to run a proof of concept (PoC) for in-store payments using stablecoins.",
-    "source": "Finextra",
-    "url": "https://www.finextra.com/pressarticle/110678/jcb-and-digital-garage-to-run-a-proof-of-concept-poc-for-in-store-payments-using-stablecoins",
-    "publishedAt": "2026-08-19T09:21:00.000Z",
-    "category": "Digital money & settlement assets",
-    "topics": [
-      "Digital money & settlement assets"
-    ],
-    "collectionMode": "auto"
-  },
-  {
-    "id": "finextra-crypto-eskimo-adds-stablecoin-payments-through-triple-a-2026-08-19",
-    "title": "Eskimo adds stablecoin payments through Triple-A",
-    "source": "Finextra",
-    "url": "https://www.finextra.com/pressarticle/110677/eskimo-adds-stablecoin-payments-through-triple-a",
-    "publishedAt": "2026-08-19T09:18:00.000Z",
-    "category": "Digital money & settlement assets",
-    "topics": [
-      "Digital money & settlement assets"
-    ],
-    "collectionMode": "auto"
-  },
-  {
-    "id": "asset-servicing-times-hsbc-and-standard-chartered-execute-first-live-tokenised-deposit-transaction-on-swift-s-ledger-2026-08-19",
-    "title": "HSBC and Standard Chartered execute first live tokenised deposit transaction on Swift’s ledger",
-    "source": "Asset Servicing Times",
-    "url": "https://www.assetservicingtimes.com/assetservicesnews/paymentsarticle.php?article_id=18247",
-    "publishedAt": "2026-08-19T08:51:14.000Z",
-    "category": "Tokenisation",
-    "topics": [
-      "Tokenisation",
-      "Digital money & settlement assets"
-    ],
-    "collectionMode": "auto"
-  },
-  {
-    "id": "markets-media-feed-securitize-neuberger-launch-tokenized-fixed-income-fund-2026-08-19",
-    "title": "Securitize, Neuberger Launch Tokenized Fixed Income Fund",
-    "source": "Markets Media",
-    "url": "https://www.marketsmedia.com/securitize-neuberger-launch-tokenized-fixed-income-fund",
-    "publishedAt": "2026-08-19T08:20:19.000Z",
-    "category": "Tokenisation",
-    "topics": [
-      "Tokenisation"
-    ],
-    "collectionMode": "auto"
   }
 ]
