@@ -298,6 +298,42 @@ window.REGWATCH_DATA = {
   ],
   "marketIntelligence": [
     {
+      "id": "finextra-crypto-sec-clears-way-for-tokenised-stock-trading-2026-09-18",
+      "title": "SEC clears way for tokenised stock trading",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/newsarticle/48432/sec-clears-way-for-tokenised-stock-trading",
+      "publishedAt": "2026-09-18T14:57:00.000Z",
+      "category": "Tokenisation",
+      "topics": [
+        "Tokenisation"
+      ],
+      "collectionMode": "auto"
+    },
+    {
+      "id": "securities-finance-times-treasuryspring-becomes-super-validator-on-canton-network-2026-09-18",
+      "title": "TreasurySpring becomes super validator on Canton Network",
+      "source": "Securities Finance Times",
+      "url": "https://www.securitiesfinancetimes.com/securitieslendingnews/industryarticle.php?article_id=228982",
+      "publishedAt": "2026-09-18T09:40:21.000Z",
+      "category": "Institutional adoption",
+      "topics": [
+        "Institutional adoption"
+      ],
+      "collectionMode": "auto"
+    },
+    {
+      "id": "finextra-crypto-when-software-starts-spending-how-ai-and-stablecoins-are-reshaping-the-payment-stack-2026-09-18",
+      "title": "When Software Starts Spending: How AI and Stablecoins Are Reshaping the Payment Stack",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/blogposting/32905/when-software-starts-spending-how-ai-and-stablecoins-are-reshaping-the-payment-stack",
+      "publishedAt": "2026-09-18T04:35:33.000Z",
+      "category": "Digital money & settlement assets",
+      "topics": [
+        "Digital money & settlement assets"
+      ],
+      "collectionMode": "auto"
+    },
+    {
       "id": "finextra-crypto-wisdomtree-and-moonpay-expand-us-access-to-tokenised-funds-2026-09-17",
       "title": "WisdomTree and MoonPAy expand US access to tokenised funds",
       "source": "Finextra",
@@ -1440,31 +1476,6 @@ window.REGWATCH_DATA = {
       "category": "Digital money & settlement assets",
       "topics": [
         "Digital money & settlement assets"
-      ],
-      "collectionMode": "auto"
-    },
-    {
-      "id": "finextra-crypto-how-mcbdcs-and-dlt-transform-global-settlement-2026-08-19",
-      "title": "How mCBDCs and DLT Transform Global Settlement",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/blogposting/32581/how-mcbdcs-and-dlt-transform-global-settlement",
-      "publishedAt": "2026-08-19T13:27:57.000Z",
-      "category": "Market infrastructure",
-      "topics": [
-        "Market infrastructure"
-      ],
-      "collectionMode": "auto"
-    },
-    {
-      "id": "finextra-markets-tokenovate-appoints-dr-alec-burns-to-scale-legal-first-infrastructure-for-tokenised-capital-mark-2026-08-19",
-      "title": "Tokenovate appoints Dr Alec Burns to scale legal-first infrastructure for tokenised capital markets",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/pressarticle/110682/tokenovate-appoints-dr-alec-burns-to-scale-legal-first-infrastructure-for-tokenised-capital-markets",
-      "publishedAt": "2026-08-19T11:53:00.000Z",
-      "category": "Tokenisation",
-      "topics": [
-        "Tokenisation",
-        "Market infrastructure"
       ],
       "collectionMode": "auto"
     }
