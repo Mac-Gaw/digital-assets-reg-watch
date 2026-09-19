@@ -1466,18 +1466,6 @@ window.REGWATCH_DATA = {
         "Tokenisation"
       ],
       "collectionMode": "auto"
-    },
-    {
-      "id": "markets-media-feed-majority-of-bank-charter-applications-involve-digital-assets-2026-08-20",
-      "title": "Majority of Bank Charter Applications Involve Digital Assets",
-      "source": "Markets Media",
-      "url": "https://www.marketsmedia.com/over-half-of-new-bank-charter-applications-involve-digital-assets",
-      "publishedAt": "2026-08-20T08:59:51.000Z",
-      "category": "Digital money & settlement assets",
-      "topics": [
-        "Digital money & settlement assets"
-      ],
-      "collectionMode": "auto"
     }
   ],
   "monthlyReviews": [
