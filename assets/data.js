@@ -298,6 +298,54 @@ window.REGWATCH_DATA = {
   ],
   "marketIntelligence": [
     {
+      "id": "securities-finance-times-ecb-begins-preparatory-work-for-investments-in-tokenised-securities-2026-09-21",
+      "title": "ECB begins preparatory work for investments in tokenised securities",
+      "source": "Securities Finance Times",
+      "url": "https://www.securitiesfinancetimes.com/securitieslendingnews/technologyarticle.php?article_id=228988",
+      "publishedAt": "2026-09-21T15:46:15.000Z",
+      "category": "Tokenisation",
+      "topics": [
+        "Tokenisation"
+      ],
+      "collectionMode": "auto"
+    },
+    {
+      "id": "markets-media-feed-trade-tech-fx-digital-assets-data-intelligence-and-038-smarter-execution-2026-09-21",
+      "title": "Trade Tech FX: Digital Assets, Data Intelligence &#038; Smarter Execution",
+      "source": "Markets Media",
+      "url": "https://www.marketsmedia.com/trade-tech-fx-digital-assets-data-intelligence-smarter-execution",
+      "publishedAt": "2026-09-21T14:12:01.000Z",
+      "category": "Market structure",
+      "topics": [
+        "Market structure"
+      ],
+      "collectionMode": "auto"
+    },
+    {
+      "id": "finextra-markets-eurosystem-brings-central-bank-money-to-tokenised-finance-2026-09-21",
+      "title": "Eurosystem brings central bank money to tokenised finance",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/newsarticle/48439/eurosystem-brings-central-bank-money-to-tokenised-finance",
+      "publishedAt": "2026-09-21T11:42:00.000Z",
+      "category": "Tokenisation",
+      "topics": [
+        "Tokenisation"
+      ],
+      "collectionMode": "auto"
+    },
+    {
+      "id": "markets-media-feed-eurosystem-brings-central-bank-money-to-tokenised-finance-2026-09-21",
+      "title": "Eurosystem Brings Central Bank Money to Tokenised Finance",
+      "source": "Markets Media",
+      "url": "https://www.marketsmedia.com/eurosystem-brings-central-bank-money-to-tokenised-finance",
+      "publishedAt": "2026-09-21T10:57:01.000Z",
+      "category": "Tokenisation",
+      "topics": [
+        "Tokenisation"
+      ],
+      "collectionMode": "auto"
+    },
+    {
       "id": "finextra-crypto-tee-hsm-and-mpc-a-practical-security-model-for-institutional-digital-assets-2026-09-19",
       "title": "TEE, HSM and MPC: A Practical Security Model for Institutional Digital Assets",
       "source": "Finextra",
