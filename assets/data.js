@@ -298,6 +298,20 @@ window.REGWATCH_DATA = {
   ],
   "marketIntelligence": [
     {
+      "id": "finextra-markets-cleartoken-wins-bank-of-england-approval-to-clear-tokenised-assets-2026-09-22",
+      "title": "ClearToken wins Bank of England approval to clear tokenised assets",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/newsarticle/48447/cleartoken-wins-bank-of-england-approval-to-clear-tokenised-assets",
+      "publishedAt": "2026-09-22T09:43:00.000Z",
+      "category": "Tokenisation",
+      "topics": [
+        "Tokenisation",
+        "Market infrastructure",
+        "Institutional adoption"
+      ],
+      "collectionMode": "auto"
+    },
+    {
       "id": "securities-finance-times-ecb-begins-preparatory-work-for-investments-in-tokenised-securities-2026-09-21",
       "title": "ECB begins preparatory work for investments in tokenised securities",
       "source": "Securities Finance Times",
