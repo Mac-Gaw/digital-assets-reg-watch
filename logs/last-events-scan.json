@@ -1,11 +1,11 @@
 {
-  "scannedAt": "2026-09-22T11:59:56.025Z",
+  "scannedAt": "2026-09-22T17:38:09.267Z",
   "newItems": 0,
   "sources": [
     {
       "source": "finextra-events",
       "status": "ok",
-      "feedItems": 14,
+      "feedItems": 15,
       "relevantItems": 4
     }
   ]

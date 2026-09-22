@@ -60,22 +60,6 @@ window.REGWATCH_DATA = {
   },
   "events": [
     {
-      "id": "finextra-events-are-banks-actually-ready-for-digital-money-2026-09-15",
-      "title": "Are banks actually ready for digital money?",
-      "source": "Finextra Events",
-      "url": "https://www.finextra.com/event-info/625/are-banks-actually-ready-for-digital-money",
-      "eventDate": "2026-09-15T15:00:00.000Z",
-      "format": "Webinar",
-      "location": "Online",
-      "access": "Registration required",
-      "category": "Tokenisation",
-      "topics": [
-        "Tokenisation",
-        "Digital money & settlement assets"
-      ],
-      "collectionMode": "auto"
-    },
-    {
       "id": "omfif-european-blockchain-convention-2026",
       "title": "European Blockchain Convention",
       "source": "OMFIF Digital Monetary Institute",
