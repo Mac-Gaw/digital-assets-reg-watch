@@ -298,6 +298,46 @@ window.REGWATCH_DATA = {
   ],
   "marketIntelligence": [
     {
+      "id": "finextra-crypto-tokenized-venture-capital-how-vc-can-digitize-fund-interests-and-private-investments-in-2026-2026-09-22",
+      "title": "Tokenized Venture Capital: How VC Can Digitize Fund Interests and Private Investments in 2026",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/blogposting/32941/tokenized-venture-capital-how-vc-can-digitize-fund-interests-and-private-investments-in-2026",
+      "publishedAt": "2026-09-22T10:44:49.000Z",
+      "category": "Tokenisation",
+      "topics": [
+        "Tokenisation"
+      ],
+      "collectionMode": "auto"
+    },
+    {
+      "id": "securities-finance-times-cleartoken-receives-boe-approval-for-digital-securities-depository-2026-09-22",
+      "title": "ClearToken receives BoE approval for digital securities depository",
+      "source": "Securities Finance Times",
+      "url": "https://www.securitiesfinancetimes.com/securitieslendingnews/repoarticle.php?article_id=228989",
+      "publishedAt": "2026-09-22T10:39:29.000Z",
+      "category": "Tokenisation",
+      "topics": [
+        "Tokenisation",
+        "Market infrastructure",
+        "Institutional adoption"
+      ],
+      "collectionMode": "auto"
+    },
+    {
+      "id": "asset-servicing-times-cleartoken-receives-boe-approval-for-digital-securities-depository-2026-09-22",
+      "title": "ClearToken receives BoE approval for digital securities depository",
+      "source": "Asset Servicing Times",
+      "url": "https://www.assetservicingtimes.com/assetservicesnews/clearingandsettlementarticle.php?article_id=18352",
+      "publishedAt": "2026-09-22T10:39:24.000Z",
+      "category": "Tokenisation",
+      "topics": [
+        "Tokenisation",
+        "Market infrastructure",
+        "Institutional adoption"
+      ],
+      "collectionMode": "auto"
+    },
+    {
       "id": "finextra-markets-cleartoken-wins-bank-of-england-approval-to-clear-tokenised-assets-2026-09-22",
       "title": "ClearToken wins Bank of England approval to clear tokenised assets",
       "source": "Finextra",
@@ -1477,43 +1517,6 @@ window.REGWATCH_DATA = {
       "category": "Tokenisation",
       "topics": [
         "Tokenisation"
-      ],
-      "collectionMode": "auto"
-    },
-    {
-      "id": "finextra-crypto-tap-global-adopts-digital-assets-income-strategy-2026-08-24",
-      "title": "Tap Global adopts digital assets income strategy",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/pressarticle/110708/tap-global-adopts-digital-assets-income-strategy",
-      "publishedAt": "2026-08-24T12:20:00.000Z",
-      "category": "Digital assets",
-      "topics": [
-        "Digital assets"
-      ],
-      "collectionMode": "auto"
-    },
-    {
-      "id": "finextra-crypto-stablecoin-platform-fasset-hits-1bn-valuation-2026-08-24",
-      "title": "Stablecoin platform Fasset hits $1bn valuation",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/newsarticle/48288/stablecoin-platform-fasset-hits-1bn-valuation",
-      "publishedAt": "2026-08-24T10:24:00.000Z",
-      "category": "Digital money & settlement assets",
-      "topics": [
-        "Digital money & settlement assets"
-      ],
-      "collectionMode": "auto"
-    },
-    {
-      "id": "finextra-crypto-the-other-side-of-tokenization-mena-and-asia-pacific-lead-the-regulatory-shift-2026-08-24",
-      "title": "The Other Side of Tokenization: MENA and Asia-Pacific Lead the Regulatory Shift",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/blogposting/32609/the-other-side-of-tokenization-mena-and-asia-pacific-lead-the-regulatory-shift",
-      "publishedAt": "2026-08-24T04:48:00.000Z",
-      "category": "Tokenisation",
-      "topics": [
-        "Tokenisation",
-        "Digital money & settlement assets"
       ],
       "collectionMode": "auto"
     }
