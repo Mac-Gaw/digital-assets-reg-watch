@@ -1,23 +1,5 @@
 [
   {
-    "id": "omfif-european-blockchain-convention-2026",
-    "title": "European Blockchain Convention",
-    "source": "OMFIF Digital Monetary Institute",
-    "url": "https://www.omfif.org/meetings/?pi_theme=Digital+Monetary+Institute",
-    "eventDate": "2026-09-16T09:00:00+02:00",
-    "endDate": "2026-09-17",
-    "format": "Partner event",
-    "location": "Barcelona",
-    "access": "Registration required",
-    "category": "Institutional digital assets",
-    "topics": [
-      "Digital assets",
-      "Tokenisation",
-      "Stablecoins"
-    ],
-    "collectionMode": "manual"
-  },
-  {
     "id": "dtcc-fintech-conference-2026",
     "title": "DTCC to speak: The 10th Annual Fintech Conference",
     "source": "DTCC Events",
