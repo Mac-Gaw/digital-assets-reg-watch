@@ -264,6 +264,42 @@ window.REGWATCH_DATA = {
   ],
   "marketIntelligence": [
     {
+      "id": "markets-media-feed-nyse-blockchain-com-explore-trading-of-tokenized-securities-2026-09-23",
+      "title": "NYSE, Blockchain.com Explore Trading of Tokenized Securities",
+      "source": "Markets Media",
+      "url": "https://www.marketsmedia.com/nyse-blockchain-com-explore-24-7-365-trading-of-tokenized-securities",
+      "publishedAt": "2026-09-23T14:48:43.000Z",
+      "category": "Tokenisation",
+      "topics": [
+        "Tokenisation"
+      ],
+      "collectionMode": "auto"
+    },
+    {
+      "id": "finextra-crypto-rbi-to-provide-digital-asset-services-across-europe-with-bitpanda-support-2026-09-23",
+      "title": "RBI to provide digital asset services across Europe with Bitpanda support",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/pressarticle/110992/rbi-to-provide-digital-asset-services-across-europe-with-bitpanda-support",
+      "publishedAt": "2026-09-23T14:26:00.000Z",
+      "category": "Digital assets",
+      "topics": [
+        "Digital assets"
+      ],
+      "collectionMode": "auto"
+    },
+    {
+      "id": "finextra-crypto-tokenized-stocks-in-2026-building-the-infrastructure-for-24-7-on-chain-equity-markets-2026-09-23",
+      "title": "Tokenized Stocks in 2026: Building the Infrastructure for 24/7 On-Chain Equity Markets",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/blogposting/32952/tokenized-stocks-in-2026-building-the-infrastructure-for-247-on-chain-equity-markets",
+      "publishedAt": "2026-09-23T13:03:19.000Z",
+      "category": "Tokenisation",
+      "topics": [
+        "Tokenisation"
+      ],
+      "collectionMode": "auto"
+    },
+    {
       "id": "finextra-markets-bluewhale-delivers-always-on-ai-agents-for-tokenised-stock-and-asset-trading-2026-09-23",
       "title": "Bluewhale delivers always-on AI agents for tokenised stock and asset trading",
       "source": "Finextra",
@@ -1447,42 +1483,6 @@ window.REGWATCH_DATA = {
       "category": "Digital money & settlement assets",
       "topics": [
         "Digital money & settlement assets"
-      ],
-      "collectionMode": "auto"
-    },
-    {
-      "id": "finextra-crypto-sponsor-s-message-webinar-deposits-and-stablecoins-the-complete-digital-money-proposition-for-ba-2026-08-27",
-      "title": "Sponsor's message: [Webinar] Deposits and Stablecoins: The Complete Digital Money Proposition for Banks",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/banners/banner.aspx?opt=ad&baid=8200",
-      "publishedAt": "2026-08-27T00:00:00.000Z",
-      "category": "Digital money & settlement assets",
-      "topics": [
-        "Digital money & settlement assets"
-      ],
-      "collectionMode": "auto"
-    },
-    {
-      "id": "finextra-crypto-revolut-rolls-out-euro-stablecoin-2026-08-26",
-      "title": "Revolut rolls out euro stablecoin",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/newsarticle/48301/revolut-rolls-out-euro-stablecoin",
-      "publishedAt": "2026-08-26T08:58:00.000Z",
-      "category": "Digital money & settlement assets",
-      "topics": [
-        "Digital money & settlement assets"
-      ],
-      "collectionMode": "auto"
-    },
-    {
-      "id": "finextra-crypto-institutional-rwa-settlement-exploring-hkdap-for-tokenized-money-market-funds-2026-08-26",
-      "title": "Institutional RWA Settlement: Exploring HKDAP for Tokenized Money Market Funds",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/blogposting/32636/institutional-rwa-settlement-exploring-hkdap-for-tokenized-money-market-funds",
-      "publishedAt": "2026-08-26T06:22:08.000Z",
-      "category": "Tokenisation",
-      "topics": [
-        "Tokenisation"
       ],
       "collectionMode": "auto"
     }
