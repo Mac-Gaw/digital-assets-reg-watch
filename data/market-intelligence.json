@@ -1,5 +1,30 @@
 [
   {
+    "id": "finextra-crypto-sofi-bank-goes-live-with-stablecoin-settlement-across-mastercard-network-2026-09-23",
+    "title": "SoFi Bank goes live with stablecoin settlement across Mastercard network",
+    "source": "Finextra",
+    "url": "https://www.finextra.com/newsarticle/48453/sofi-bank-goes-live-with-stablecoin-settlement-across-mastercard-network",
+    "publishedAt": "2026-09-23T00:01:00.000Z",
+    "category": "Digital money & settlement assets",
+    "topics": [
+      "Digital money & settlement assets"
+    ],
+    "collectionMode": "auto"
+  },
+  {
+    "id": "finextra-payments-canadian-banks-join-forces-on-tokenised-deposits-2026-09-23",
+    "title": "Canadian banks join forces on tokenised deposits",
+    "source": "Finextra",
+    "url": "https://www.finextra.com/newsarticle/48456/canadian-banks-join-forces-on-tokenised-deposits",
+    "publishedAt": "2026-09-23T00:01:00.000Z",
+    "category": "Tokenisation",
+    "topics": [
+      "Tokenisation",
+      "Digital money & settlement assets"
+    ],
+    "collectionMode": "auto"
+  },
+  {
     "id": "finextra-crypto-tokenized-venture-capital-how-vc-can-digitize-fund-interests-and-private-investments-in-2026-2026-09-22",
     "title": "Tokenized Venture Capital: How VC Can Digitize Fund Interests and Private Investments in 2026",
     "source": "Finextra",
@@ -1195,30 +1220,6 @@
       "Tokenisation",
       "Digital money & settlement assets",
       "Institutional adoption"
-    ],
-    "collectionMode": "auto"
-  },
-  {
-    "id": "asset-servicing-times-zand-expands-stablecoin-infrastructure-through-usdc-support-2026-08-25",
-    "title": "Zand expands stablecoin infrastructure through USDC support",
-    "source": "Asset Servicing Times",
-    "url": "https://www.assetservicingtimes.com/assetservicesnews/digitalassetsarticle.php?article_id=18264",
-    "publishedAt": "2026-08-25T13:26:13.000Z",
-    "category": "Digital money & settlement assets",
-    "topics": [
-      "Digital money & settlement assets"
-    ],
-    "collectionMode": "auto"
-  },
-  {
-    "id": "markets-media-feed-tokenized-stocks-issued-by-coinbase-are-live-on-base-2026-08-25",
-    "title": "Tokenized Stocks Issued by Coinbase are Live on Base",
-    "source": "Markets Media",
-    "url": "https://www.marketsmedia.com/tokenized-stocks-issued-by-coinbaseare-now-live-natively-on-base",
-    "publishedAt": "2026-08-25T09:04:18.000Z",
-    "category": "Tokenisation",
-    "topics": [
-      "Tokenisation"
     ],
     "collectionMode": "auto"
   }
