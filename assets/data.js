@@ -264,6 +264,55 @@ window.REGWATCH_DATA = {
   ],
   "marketIntelligence": [
     {
+      "id": "finextra-crypto-ibm-integrates-digital-asset-platform-with-swift-shared-ledger-2026-09-24",
+      "title": "IBM integrates digital asset platform with Swift shared ledger",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/newsarticle/48469/ibm-integrates-digital-asset-platform-with-swift-shared-ledger",
+      "publishedAt": "2026-09-24T14:28:00.000Z",
+      "category": "Institutional adoption",
+      "topics": [
+        "Institutional adoption"
+      ],
+      "collectionMode": "auto"
+    },
+    {
+      "id": "finextra-payments-the-clearing-house-taps-quant-for-tokenised-deposit-network-2026-09-24",
+      "title": "The Clearing House taps Quant for tokenised deposit network",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/newsarticle/48465/the-clearing-house-taps-quant-for-tokenised-deposit-network",
+      "publishedAt": "2026-09-24T14:00:00.000Z",
+      "category": "Tokenisation",
+      "topics": [
+        "Tokenisation",
+        "Digital money & settlement assets"
+      ],
+      "collectionMode": "auto"
+    },
+    {
+      "id": "finextra-crypto-tokenized-renewable-energy-projects-building-the-infrastructure-for-on-chain-ownership-2026-09-24",
+      "title": "Tokenized Renewable Energy Projects: Building the Infrastructure for On-Chain Ownership",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/blogposting/32970/tokenized-renewable-energy-projects-building-the-infrastructure-for-on-chain-ownership",
+      "publishedAt": "2026-09-24T12:30:56.000Z",
+      "category": "Tokenisation",
+      "topics": [
+        "Tokenisation"
+      ],
+      "collectionMode": "auto"
+    },
+    {
+      "id": "finextra-payments-kredete-acquires-gravv-to-build-stablecoin-infrastructure-2026-09-24",
+      "title": "Kredete acquires Gravv to build stablecoin infrastructure",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/pressarticle/111018/kredete-acquires-gravv-to-build-stablecoin-infrastructure",
+      "publishedAt": "2026-09-24T12:12:00.000Z",
+      "category": "Digital money & settlement assets",
+      "topics": [
+        "Digital money & settlement assets"
+      ],
+      "collectionMode": "auto"
+    },
+    {
       "id": "finextra-payments-uk-banks-pilot-tokenised-deposit-transactions-2026-09-24",
       "title": "UK banks pilot tokenised deposit transactions",
       "source": "Finextra",
@@ -1436,54 +1485,6 @@ window.REGWATCH_DATA = {
       "topics": [
         "Tokenisation",
         "Market infrastructure"
-      ],
-      "collectionMode": "auto"
-    },
-    {
-      "id": "finextra-crypto-how-revolut-s-eurr-stablecoin-works-the-mechanics-explained-2026-08-27",
-      "title": "How Revolut's EURR Stablecoin Works: The Mechanics Explained",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/blogposting/32654/how-revoluts-eurr-stablecoin-works-the-mechanics-explained",
-      "publishedAt": "2026-08-27T15:20:59.000Z",
-      "category": "Digital money & settlement assets",
-      "topics": [
-        "Digital money & settlement assets"
-      ],
-      "collectionMode": "auto"
-    },
-    {
-      "id": "finextra-payments-stablecoin-banking-service-providers-will-welcome-bank-of-england-s-pivot-2026-08-27",
-      "title": "Stablecoin Banking Service Providers Will Welcome Bank of England's Pivot",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/blogposting/32652/stablecoin-banking-service-providers-will-welcome-bank-of-englands-pivot",
-      "publishedAt": "2026-08-27T13:58:25.000Z",
-      "category": "Digital money & settlement assets",
-      "topics": [
-        "Digital money & settlement assets"
-      ],
-      "collectionMode": "auto"
-    },
-    {
-      "id": "asset-servicing-times-nickel-increased-digital-asset-allocations-hinge-on-improved-security-2026-08-27",
-      "title": "Nickel: Increased digital asset allocations hinge on improved security",
-      "source": "Asset Servicing Times",
-      "url": "https://www.assetservicingtimes.com/assetservicesnews/digitalassetsarticle.php?article_id=18271",
-      "publishedAt": "2026-08-27T10:48:15.000Z",
-      "category": "Asset servicing",
-      "topics": [
-        "Asset servicing"
-      ],
-      "collectionMode": "auto"
-    },
-    {
-      "id": "finextra-crypto-blockchain-tokenization-development-what-institutions-should-demand-in-2026-2026-08-27",
-      "title": "Blockchain Tokenization Development: What Institutions Should Demand in 2026",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/blogposting/32650/blockchain-tokenization-development-what-institutions-should-demand-in-2026",
-      "publishedAt": "2026-08-27T08:59:11.000Z",
-      "category": "Tokenisation",
-      "topics": [
-        "Tokenisation"
       ],
       "collectionMode": "auto"
     }
