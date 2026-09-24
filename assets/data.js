@@ -264,6 +264,18 @@ window.REGWATCH_DATA = {
   ],
   "marketIntelligence": [
     {
+      "id": "markets-media-feed-tokenization-moves-from-powerpoint-to-production-2026-09-24",
+      "title": "Tokenization Moves from ‘PowerPoint to Production’",
+      "source": "Markets Media",
+      "url": "https://www.marketsmedia.com/tokenization-moves-from-powerpoint-to-production",
+      "publishedAt": "2026-09-24T17:57:04.000Z",
+      "category": "Tokenisation",
+      "topics": [
+        "Tokenisation"
+      ],
+      "collectionMode": "auto"
+    },
+    {
       "id": "finextra-crypto-ibm-integrates-digital-asset-platform-with-swift-shared-ledger-2026-09-24",
       "title": "IBM integrates digital asset platform with Swift shared ledger",
       "source": "Finextra",
@@ -1472,19 +1484,6 @@ window.REGWATCH_DATA = {
       "category": "Digital money & settlement assets",
       "topics": [
         "Digital money & settlement assets"
-      ],
-      "collectionMode": "auto"
-    },
-    {
-      "id": "markets-media-feed-ecb-building-europe-s-tokenised-financial-market-2026-08-28",
-      "title": "ECB: Building Europe’s Tokenised Financial Market",
-      "source": "Markets Media",
-      "url": "https://www.marketsmedia.com/ecb-building-europes-tokenised-financial-market",
-      "publishedAt": "2026-08-28T08:02:55.000Z",
-      "category": "Tokenisation",
-      "topics": [
-        "Tokenisation",
-        "Market infrastructure"
       ],
       "collectionMode": "auto"
     }
