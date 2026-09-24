@@ -264,6 +264,19 @@ window.REGWATCH_DATA = {
   ],
   "marketIntelligence": [
     {
+      "id": "finextra-payments-uk-banks-pilot-tokenised-deposit-transactions-2026-09-24",
+      "title": "UK banks pilot tokenised deposit transactions",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/newsarticle/48467/uk-banks-pilot-tokenised-deposit-transactions",
+      "publishedAt": "2026-09-24T09:33:00.000Z",
+      "category": "Tokenisation",
+      "topics": [
+        "Tokenisation",
+        "Digital money & settlement assets"
+      ],
+      "collectionMode": "auto"
+    },
+    {
       "id": "markets-media-feed-nyse-blockchain-com-explore-trading-of-tokenized-securities-2026-09-23",
       "title": "NYSE, Blockchain.com Explore Trading of Tokenized Securities",
       "source": "Markets Media",
@@ -1471,18 +1484,6 @@ window.REGWATCH_DATA = {
       "category": "Tokenisation",
       "topics": [
         "Tokenisation"
-      ],
-      "collectionMode": "auto"
-    },
-    {
-      "id": "markets-media-feed-northern-trust-csc-deepen-digital-asset-collaboration-2026-08-27",
-      "title": "Northern Trust, CSC Deepen Digital Asset Collaboration",
-      "source": "Markets Media",
-      "url": "https://www.marketsmedia.com/northern-trust-csc-deepen-digital-asset-collaboration",
-      "publishedAt": "2026-08-27T08:38:31.000Z",
-      "category": "Digital money & settlement assets",
-      "topics": [
-        "Digital money & settlement assets"
       ],
       "collectionMode": "auto"
     }
