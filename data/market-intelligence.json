@@ -1,5 +1,53 @@
 [
   {
+    "id": "markets-media-feed-coinbase-citi-collaborate-on-fiat-and-038-stablecoin-payments-2026-09-28",
+    "title": "Coinbase, Citi Collaborate on Fiat &#038; Stablecoin Payments",
+    "source": "Markets Media",
+    "url": "https://www.marketsmedia.com/coinbase-citi-collaborate-on-fiat-stablecoin-payments",
+    "publishedAt": "2026-09-28T14:29:44.000Z",
+    "category": "Digital money & settlement assets",
+    "topics": [
+      "Digital money & settlement assets"
+    ],
+    "collectionMode": "auto"
+  },
+  {
+    "id": "finextra-markets-lseg-appointed-as-super-validator-on-canton-network-2026-09-28",
+    "title": "LSEG appointed as super validator on Canton Network",
+    "source": "Finextra",
+    "url": "https://www.finextra.com/pressarticle/111041/lseg-appointed-as-super-validator-on-canton-network",
+    "publishedAt": "2026-09-28T14:18:00.000Z",
+    "category": "Institutional adoption",
+    "topics": [
+      "Institutional adoption"
+    ],
+    "collectionMode": "auto"
+  },
+  {
+    "id": "securities-finance-times-canton-network-appoints-lseg-as-super-validator-2026-09-28",
+    "title": "Canton Network appoints LSEG as Super Validator",
+    "source": "Securities Finance Times",
+    "url": "https://www.securitiesfinancetimes.com/securitieslendingnews/industryarticle.php?article_id=229005",
+    "publishedAt": "2026-09-28T13:33:39.000Z",
+    "category": "Institutional adoption",
+    "topics": [
+      "Institutional adoption"
+    ],
+    "collectionMode": "auto"
+  },
+  {
+    "id": "asset-servicing-times-lseg-appointed-as-super-validator-on-canton-network-2026-09-28",
+    "title": "LSEG appointed as Super Validator on Canton Network",
+    "source": "Asset Servicing Times",
+    "url": "https://www.assetservicingtimes.com/assetservicesnews/industryarticle.php?article_id=18375",
+    "publishedAt": "2026-09-28T13:29:32.000Z",
+    "category": "Institutional adoption",
+    "topics": [
+      "Institutional adoption"
+    ],
+    "collectionMode": "auto"
+  },
+  {
     "id": "finextra-crypto-bluwhale-announces-trading-agents-for-tokenised-stocks-and-real-world-assets-2026-09-25",
     "title": "Bluwhale announces trading agents for tokenised stocks and real-world assets",
     "source": "Finextra",
@@ -1172,55 +1220,6 @@
     "category": "Digital money & settlement assets",
     "topics": [
       "Digital money & settlement assets"
-    ],
-    "collectionMode": "auto"
-  },
-  {
-    "id": "markets-media-feed-financial-institutions-establish-stablecoin-enterprise-2026-09-01",
-    "title": "Financial Institutions Establish Stablecoin Enterprise",
-    "source": "Markets Media",
-    "url": "https://www.marketsmedia.com/financial-institutions-establish-stablecoin-enterprise",
-    "publishedAt": "2026-09-01T14:54:28.000Z",
-    "category": "Digital money & settlement assets",
-    "topics": [
-      "Digital money & settlement assets"
-    ],
-    "collectionMode": "auto"
-  },
-  {
-    "id": "asset-servicing-times-london-stock-exchange-to-launch-uk-tokenised-equity-structures-2026-09-01",
-    "title": "London Stock Exchange to launch UK tokenised equity structures",
-    "source": "Asset Servicing Times",
-    "url": "https://www.assetservicingtimes.com/assetservicesnews/industryarticle.php?article_id=18276",
-    "publishedAt": "2026-09-01T09:48:49.000Z",
-    "category": "Tokenisation",
-    "topics": [
-      "Tokenisation",
-      "Market infrastructure"
-    ],
-    "collectionMode": "auto"
-  },
-  {
-    "id": "finextra-crypto-singapore-central-bank-proposes-legislative-framework-for-stablecoins-2026-09-01",
-    "title": "Singapore central bank proposes legislative framework for stablecoins",
-    "source": "Finextra",
-    "url": "https://www.finextra.com/pressarticle/110762/singapore-central-bank-proposes-legislative-framework-for-stablecoins",
-    "publishedAt": "2026-09-01T09:42:00.000Z",
-    "category": "Digital money & settlement assets",
-    "topics": [
-      "Digital money & settlement assets"
-    ],
-    "collectionMode": "auto"
-  },
-  {
-    "id": "finextra-markets-lseg-collaborates-with-payward-on-tokenised-stocks-project-2026-09-01",
-    "title": "LSEG collaborates with Payward on tokenised stocks project",
-    "source": "Finextra",
-    "url": "https://www.finextra.com/newsarticle/48328/lseg-collaborates-with-payward-on-tokenised-stocks-project",
-    "publishedAt": "2026-09-01T09:27:00.000Z",
-    "category": "Tokenisation",
-    "topics": [
-      "Tokenisation"
     ],
     "collectionMode": "auto"
   }
