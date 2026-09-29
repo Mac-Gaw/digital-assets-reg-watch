@@ -264,6 +264,43 @@ window.REGWATCH_DATA = {
   ],
   "marketIntelligence": [
     {
+      "id": "markets-media-feed-tokenized-settlement-available-for-goldman-sachs-100bn-treasury-fund-2026-09-29",
+      "title": "Tokenized Settlement Available for Goldman Sachs $100bn Treasury Fund",
+      "source": "Markets Media",
+      "url": "https://www.marketsmedia.com/goldman-sachs-100bn-treasury-fund-joins-tokenized-settlement-platform",
+      "publishedAt": "2026-09-29T08:24:35.000Z",
+      "category": "Tokenisation",
+      "topics": [
+        "Tokenisation",
+        "Market infrastructure"
+      ],
+      "collectionMode": "auto"
+    },
+    {
+      "id": "markets-media-feed-franklin-templeton-bybit-expand-access-to-tokenized-funds-2026-09-29",
+      "title": "Franklin Templeton, Bybit Expand Access to Tokenized Funds",
+      "source": "Markets Media",
+      "url": "https://www.marketsmedia.com/franklin-templeton-bybit-expand-access-to-tokenized-investing",
+      "publishedAt": "2026-09-29T08:10:43.000Z",
+      "category": "Tokenisation",
+      "topics": [
+        "Tokenisation"
+      ],
+      "collectionMode": "auto"
+    },
+    {
+      "id": "markets-media-feed-lseg-appointed-as-super-validator-on-canton-network-2026-09-29",
+      "title": "LSEG Appointed as Super Validator on Canton Network",
+      "source": "Markets Media",
+      "url": "https://www.marketsmedia.com/lseg-appointed-as-super-validator-on-canton-network",
+      "publishedAt": "2026-09-29T07:46:46.000Z",
+      "category": "Institutional adoption",
+      "topics": [
+        "Institutional adoption"
+      ],
+      "collectionMode": "auto"
+    },
+    {
       "id": "finextra-payments-sibos-2026-keynote-speakers-explore-interoperability-digital-assets-and-ai-2026-09-29",
       "title": "Sibos 2026: Keynote speakers explore interoperability, digital assets, and AI",
       "source": "Finextra",
@@ -1447,43 +1484,6 @@ window.REGWATCH_DATA = {
       "topics": [
         "Tokenisation",
         "Institutional adoption"
-      ],
-      "collectionMode": "auto"
-    },
-    {
-      "id": "finextra-markets-g7-securities-signs-up-for-broadridge-tokenized-repo-platform-2026-09-02",
-      "title": "G7 Securities signs up for Broadridge tokenized repo platform",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/pressarticle/110779/g7-securities-signs-up-for-broadridge-tokenized-repo-platform",
-      "publishedAt": "2026-09-02T09:39:00.000Z",
-      "category": "Tokenisation",
-      "topics": [
-        "Tokenisation",
-        "Institutional adoption"
-      ],
-      "collectionMode": "auto"
-    },
-    {
-      "id": "finextra-crypto-why-scaling-tokenized-real-estate-becomes-a-data-architecture-problem-2026-09-02",
-      "title": "Why Scaling Tokenized Real Estate Becomes a Data Architecture Problem",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/blogposting/32693/why-scaling-tokenized-real-estate-becomes-a-data-architecture-problem",
-      "publishedAt": "2026-09-02T09:24:51.000Z",
-      "category": "Tokenisation",
-      "topics": [
-        "Tokenisation"
-      ],
-      "collectionMode": "auto"
-    },
-    {
-      "id": "markets-media-feed-s-and-038-p-dji-kaiko-combine-digital-asset-index-offerings-2026-09-02",
-      "title": "S&#038;P DJI, Kaiko Combine Digital Asset Index Offerings",
-      "source": "Markets Media",
-      "url": "https://www.marketsmedia.com/sp-dji-kaiko-combine-digital-asset-index-offerings",
-      "publishedAt": "2026-09-02T07:51:06.000Z",
-      "category": "Market structure",
-      "topics": [
-        "Market structure"
       ],
       "collectionMode": "auto"
     }
