@@ -1,5 +1,29 @@
 [
   {
+    "id": "finextra-crypto-jeeves-raises-110m-for-stablecoin-banking-platform-2026-09-29",
+    "title": "Jeeves raises $110m for stablecoin banking platform",
+    "source": "Finextra",
+    "url": "https://www.finextra.com/newsarticle/48498/jeeves-raises-110m-for-stablecoin-banking-platform",
+    "publishedAt": "2026-09-29T18:26:00.000Z",
+    "category": "Digital money & settlement assets",
+    "topics": [
+      "Digital money & settlement assets"
+    ],
+    "collectionMode": "auto"
+  },
+  {
+    "id": "markets-media-feed-tokenized-securities-venues-will-not-challenge-traditional-exchanges-2026-09-29",
+    "title": "Tokenized Securities Venues Will Not Challenge Traditional Exchanges",
+    "source": "Markets Media",
+    "url": "https://www.marketsmedia.com/tokenized-securities-venues-will-not-challenge-traditional-exchanges",
+    "publishedAt": "2026-09-29T18:22:39.000Z",
+    "category": "Tokenisation",
+    "topics": [
+      "Tokenisation"
+    ],
+    "collectionMode": "auto"
+  },
+  {
     "id": "asset-servicing-times-broadridge-appoints-golden-as-head-of-tokenized-product-2026-09-29",
     "title": "Broadridge appoints Golden as Head of Tokenized Product",
     "source": "Asset Servicing Times",
@@ -1195,31 +1219,6 @@
     "category": "Tokenisation",
     "topics": [
       "Tokenisation"
-    ],
-    "collectionMode": "auto"
-  },
-  {
-    "id": "finextra-regulation-aegis-trust-builds-tokenised-money-market-fund-focused-on-social-impact-2026-09-02",
-    "title": "Aegis Trust builds tokenised money market fund focused on social impact",
-    "source": "Finextra",
-    "url": "https://www.finextra.com/pressarticle/110792/aegis-trust-builds-tokenised-money-market-fund-focused-on-social-impact",
-    "publishedAt": "2026-09-02T19:08:00.000Z",
-    "category": "Tokenisation",
-    "topics": [
-      "Tokenisation"
-    ],
-    "collectionMode": "auto"
-  },
-  {
-    "id": "finextra-crypto-bcp-completes-first-digital-bond-transaction-using-gbp-stablecoin-2026-09-02",
-    "title": "BCP completes first digital bond transaction using GBP stablecoin",
-    "source": "Finextra",
-    "url": "https://www.finextra.com/pressarticle/110788/bcp-completes-first-digital-bond-transaction-using-gbp-stablecoin",
-    "publishedAt": "2026-09-02T16:29:00.000Z",
-    "category": "Tokenisation",
-    "topics": [
-      "Tokenisation",
-      "Digital money & settlement assets"
     ],
     "collectionMode": "auto"
   }
