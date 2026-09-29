@@ -264,6 +264,43 @@ window.REGWATCH_DATA = {
   ],
   "marketIntelligence": [
     {
+      "id": "asset-servicing-times-broadridge-appoints-golden-as-head-of-tokenized-product-2026-09-29",
+      "title": "Broadridge appoints Golden as Head of Tokenized Product",
+      "source": "Asset Servicing Times",
+      "url": "https://www.assetservicingtimes.com/assetservicesnews/peoplemovesarticle.php?article_id=18384",
+      "publishedAt": "2026-09-29T13:06:06.000Z",
+      "category": "Tokenisation",
+      "topics": [
+        "Tokenisation"
+      ],
+      "collectionMode": "auto"
+    },
+    {
+      "id": "finextra-crypto-broadridge-appoints-theo-golden-as-head-of-tokenized-products-international-2026-09-29",
+      "title": "Broadridge appoints Theo Golden as head of tokenized products, international",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/pressarticle/111057/broadridge-appoints-theo-golden-as-head-of-tokenized-products-international",
+      "publishedAt": "2026-09-29T09:41:00.000Z",
+      "category": "Tokenisation",
+      "topics": [
+        "Tokenisation"
+      ],
+      "collectionMode": "auto"
+    },
+    {
+      "id": "finextra-markets-icma-examines-the-role-of-smart-contracts-in-distributed-ledger-technology-in-fixed-income-marke-2026-09-29",
+      "title": "Icma examines the role of smart contracts in distributed ledger technology in fixed income markets",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/pressarticle/111054/icma-examines-the-role-of-smart-contracts-in-distributed-ledger-technology-in-fixed-income-markets",
+      "publishedAt": "2026-09-29T09:35:00.000Z",
+      "category": "Market infrastructure",
+      "topics": [
+        "Market infrastructure",
+        "Institutional adoption"
+      ],
+      "collectionMode": "auto"
+    },
+    {
       "id": "markets-media-feed-tokenized-settlement-available-for-goldman-sachs-100bn-treasury-fund-2026-09-29",
       "title": "Tokenized Settlement Available for Goldman Sachs $100bn Treasury Fund",
       "source": "Markets Media",
@@ -1447,43 +1484,6 @@ window.REGWATCH_DATA = {
       "topics": [
         "Tokenisation",
         "Digital money & settlement assets"
-      ],
-      "collectionMode": "auto"
-    },
-    {
-      "id": "finextra-payments-stablecoins-are-moving-from-trading-to-payment-infrastructure-2026-09-02",
-      "title": "Stablecoins Are Moving From Trading to Payment Infrastructure",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/blogposting/32698/stablecoins-are-moving-from-trading-to-payment-infrastructure",
-      "publishedAt": "2026-09-02T11:57:49.000Z",
-      "category": "Digital money & settlement assets",
-      "topics": [
-        "Digital money & settlement assets"
-      ],
-      "collectionMode": "auto"
-    },
-    {
-      "id": "finextra-crypto-asic-issues-final-call-for-firms-to-act-before-digital-assets-licensing-comes-into-force-2026-09-02",
-      "title": "Asic issues final call for firms to act before digital assets licensing comes into force",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/pressarticle/110780/asic-issues-final-call-for-firms-to-act-before-digital-assets-licensing-comes-into-force",
-      "publishedAt": "2026-09-02T09:43:00.000Z",
-      "category": "Digital assets",
-      "topics": [
-        "Digital assets"
-      ],
-      "collectionMode": "auto"
-    },
-    {
-      "id": "finextra-markets-broadridge-expands-tokenized-repo-platform-to-g7-securities-2026-09-02",
-      "title": "Broadridge expands tokenized repo platform to G7 securities",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/pressarticle/110779/broadridge-expands-tokenized-repo-platform-to-g7-securities",
-      "publishedAt": "2026-09-02T09:39:00.000Z",
-      "category": "Tokenisation",
-      "topics": [
-        "Tokenisation",
-        "Institutional adoption"
       ],
       "collectionMode": "auto"
     }
