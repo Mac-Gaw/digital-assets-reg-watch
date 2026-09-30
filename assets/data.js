@@ -264,6 +264,18 @@ window.REGWATCH_DATA = {
   ],
   "marketIntelligence": [
     {
+      "id": "finextra-regulation-integrity-in-digital-asset-architecture-evaluating-crypto-trading-applications-2026-09-30",
+      "title": "Integrity in Digital Asset Architecture: Evaluating Crypto Trading Applications",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/blogposting/33039/integrity-in-digital-asset-architecture-evaluating-crypto-trading-applications",
+      "publishedAt": "2026-09-30T19:41:36.000Z",
+      "category": "Regulation",
+      "topics": [
+        "Regulation"
+      ],
+      "collectionMode": "auto"
+    },
+    {
       "id": "finextra-payments-hsbc-prepares-for-the-launch-of-hk-backed-stablecoin-redcoin-2026-09-30",
       "title": "HSBC prepares for the launch of HK$-backed stablecoin, RedCoin",
       "source": "Finextra",
@@ -1471,18 +1483,6 @@ window.REGWATCH_DATA = {
       "category": "Digital money & settlement assets",
       "topics": [
         "Digital money & settlement assets"
-      ],
-      "collectionMode": "auto"
-    },
-    {
-      "id": "finextra-payments-kb-kookmin-bank-leverages-kinexys-by-jpmorgan-for-import-export-payments-2026-09-03",
-      "title": "KB Kookmin Bank leverages Kinexys by JPMorgan for import/export payments",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/pressarticle/110808/kb-kookmin-bank-leverages-kinexys-by-jpmorgan-for-importexport-payments",
-      "publishedAt": "2026-09-03T15:37:00.000Z",
-      "category": "Institutional adoption",
-      "topics": [
-        "Institutional adoption"
       ],
       "collectionMode": "auto"
     }
