@@ -264,6 +264,18 @@ window.REGWATCH_DATA = {
   ],
   "marketIntelligence": [
     {
+      "id": "finextra-crypto-circle-and-volante-partner-to-help-banks-integrate-stablecoins-into-payment-operations-2026-09-30",
+      "title": "Circle and Volante partner to help banks integrate stablecoins into payment operations",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/newsarticle/48496/circle-and-volante-partner-to-help-banks-integrate-stablecoins-into-payment-operations",
+      "publishedAt": "2026-09-30T00:01:00.000Z",
+      "category": "Digital money & settlement assets",
+      "topics": [
+        "Digital money & settlement assets"
+      ],
+      "collectionMode": "auto"
+    },
+    {
       "id": "finextra-crypto-jeeves-raises-110m-for-stablecoin-banking-platform-2026-09-29",
       "title": "Jeeves raises $110m for stablecoin banking platform",
       "source": "Finextra",
@@ -1471,18 +1483,6 @@ window.REGWATCH_DATA = {
       "category": "Institutional adoption",
       "topics": [
         "Institutional adoption"
-      ],
-      "collectionMode": "auto"
-    },
-    {
-      "id": "markets-media-feed-broadridge-brings-g7-securities-to-tokenized-repo-2026-09-03",
-      "title": "Broadridge Brings G7 Securities to Tokenized Repo",
-      "source": "Markets Media",
-      "url": "https://www.marketsmedia.com/broadridge-brings-g7-securities-to-tokenized-repo",
-      "publishedAt": "2026-09-03T06:58:15.000Z",
-      "category": "Tokenisation",
-      "topics": [
-        "Tokenisation"
       ],
       "collectionMode": "auto"
     }
