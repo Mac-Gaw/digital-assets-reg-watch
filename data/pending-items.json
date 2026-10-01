@@ -1,5 +1,135 @@
 [
   {
+    "id": "nrf-regulation-tomorrow-esma-responds-to-commission-s-consultation-on-the-review-of-mica-2026-09-30",
+    "title": "ESMA responds to Commission’s consultation on the review of MiCA",
+    "source": "Norton Rose Fulbright Regulation Tomorrow",
+    "sourceType": "Legal analysis",
+    "url": "https://www.regulationtomorrow.com/2026/09/esma-responds-to-commissions-consultation-on-the-review-of-mica/",
+    "publishedAt": "2026-09-30T16:43:11.000Z",
+    "jurisdiction": "Global",
+    "category": "Consultation",
+    "topics": [
+      "MiCA",
+      "Cryptoasset Regulation",
+      "Tokenisation",
+      "Stablecoins"
+    ],
+    "priority": "High",
+    "status": "Consultation",
+    "scope": "core-digital",
+    "radarEligible": false,
+    "summary": "On 30 September 2026, the European Securities and Markets Authority ( ESMA ) issued its response to the European Commission&rsquo;s public consultation on the review of Markets in Crypto-Assets Regulation ( MiCA ). ESMA argues that the revisited MiCA framework should bring clearer token classification, more effective supervision of cross-border risks including stronger convergence tools for ESMA, and better alignment",
+    "whyItMatters": "Relevant for EU regulatory perimeter, CASP authorisation, stablecoin issuance or crypto-asset service implementation analysis.",
+    "reviewStatus": "draft",
+    "collectedAt": "2026-10-01T08:53:06.251Z"
+  },
+  {
+    "id": "nrf-regulation-tomorrow-eba-2027-work-programme-2026-09-30",
+    "title": "EBA 2027 Work Programme",
+    "source": "Norton Rose Fulbright Regulation Tomorrow",
+    "sourceType": "Legal analysis",
+    "url": "https://www.regulationtomorrow.com/2026/09/eba-2027-work-programme/",
+    "publishedAt": "2026-09-30T16:41:33.000Z",
+    "jurisdiction": "Global",
+    "category": "Institutional Report",
+    "topics": [
+      "MiCA"
+    ],
+    "priority": "High",
+    "status": "Published",
+    "scope": "core-digital",
+    "radarEligible": false,
+    "summary": "On 30 September 2026, the European Banking Authority ( EBA ) published its Work Programme outlining the key areas of focus and deliverables for 2027 . The EBA&rsquo;s areas of focus for 2027 include finalising the implementation of the 2024 &ldquo;banking package&rdquo;, implementing the new payment services framework, supporting crisis management and &nbsp;deposit insurance reforms, contributing to the Savings and I",
+    "whyItMatters": "Relevant for EU regulatory perimeter, CASP authorisation, stablecoin issuance or crypto-asset service implementation analysis.",
+    "reviewStatus": "draft",
+    "collectedAt": "2026-10-01T08:53:06.252Z"
+  },
+  {
+    "id": "nrf-regulation-tomorrow-frontier-ai-and-the-question-of-governance-2026-09-30",
+    "title": "Frontier AI and the question of governance",
+    "source": "Norton Rose Fulbright Regulation Tomorrow",
+    "sourceType": "Legal analysis",
+    "url": "https://www.regulationtomorrow.com/2026/09/frontier-ai-and-the-question-of-governance/",
+    "publishedAt": "2026-09-30T16:37:50.000Z",
+    "jurisdiction": "Global",
+    "category": "Regulatory Update",
+    "topics": [
+      "Tokenisation"
+    ],
+    "priority": "Low",
+    "status": "Published",
+    "scope": "core-digital",
+    "radarEligible": false,
+    "summary": "On 30 September 2026, the Bank of England ( BoE ) published a new &lsquo;Insights&rsquo; webpage from David Bailey covering frontier AI and the question of governance. Mr Bailey explains that frontier AI matters to the BoE as it has important implications for financial stability. Most immediately, it materially increases the scale and sophistication of cyber threats facing the financial system. A key question that th",
+    "whyItMatters": "Relevant for institutional tokenisation, settlement, custody, DvP, collateral and financial market infrastructure use cases.",
+    "reviewStatus": "draft",
+    "collectedAt": "2026-10-01T08:53:06.254Z"
+  },
+  {
+    "id": "nrf-regulation-tomorrow-fca-fg26-10-non-handbook-guidance-on-cryptpru-7-overall-risk-assessment-for-cryptopru-firms-2026-09-30",
+    "title": "FCA FG26/10: Non-Handbook Guidance on CRYPTPRU 7: Overall risk assessment for CRYPTOPRU firms",
+    "source": "Norton Rose Fulbright Regulation Tomorrow",
+    "sourceType": "Legal analysis",
+    "url": "https://www.regulationtomorrow.com/2026/09/fca-fg26-10-non-handbook-guidance-on-cryptpru-7-overall-risk-assessment-for-cryptopru-firms/",
+    "publishedAt": "2026-09-30T16:28:53.000Z",
+    "jurisdiction": "Global",
+    "category": "Consultation",
+    "topics": [
+      "Cryptoasset Regulation",
+      "Tokenisation"
+    ],
+    "priority": "High",
+    "status": "Consultation",
+    "scope": "core-digital",
+    "radarEligible": false,
+    "summary": "On 30 September 2026, the Financial Conduct Authority ( FCA ) published Finalised Guidance 26/10: Non-Handbook guidance on CRYPTPRU 7: Overall risk assessment for CRYPTOPRU firms ( FG26/10 ). Background In June 2026, the FCA consulted on the proposed Non-Handbook Guidance ( NHG ) to help cryptoasset firms complete the overall risk assessment required under chapter 7 of the Prudential sourcebook for CRYPTOPRU firms ( ",
+    "whyItMatters": "Relevant for institutional tokenisation, settlement, custody, DvP, collateral and financial market infrastructure use cases.",
+    "reviewStatus": "draft",
+    "collectedAt": "2026-10-01T08:53:06.257Z"
+  },
+  {
+    "id": "nrf-regulation-tomorrow-fca-fg26-9-non-handbook-guidance-on-corepru-7-overall-risk-assessment-2026-09-30",
+    "title": "FCA FG26/9: Non-Handbook Guidance on COREPRU 7: Overall risk assessment",
+    "source": "Norton Rose Fulbright Regulation Tomorrow",
+    "sourceType": "Legal analysis",
+    "url": "https://www.regulationtomorrow.com/2026/09/fca-fg26-9-non-handbook-guidance-on-corepru-7-overall-risk-assessment/",
+    "publishedAt": "2026-09-30T16:25:08.000Z",
+    "jurisdiction": "Global",
+    "category": "Institutional Report",
+    "topics": [
+      "Cryptoasset Regulation"
+    ],
+    "priority": "High",
+    "status": "Published",
+    "scope": "digital-market-infrastructure",
+    "radarEligible": false,
+    "summary": "On 30 September 2026, the Financial Conduct Authority ( FCA ) published Finalised Guidance 26/9: Non-Handbook guidance on COREPRU 7: Overall risk assessment ( FG26/9 ). Background In June 2026, the FCA consulted on the proposed Non-Handbook Guidance ( NHG ) on COREPRU 7: Overall risk assessment which sets out how firms may complete the overall risk assessment required under COREPRU 7. The FCA received 8 responses fro",
+    "whyItMatters": "Relevant as a public-source update from Norton Rose Fulbright Regulation Tomorrow within the covered digital assets regulatory intelligence scope.",
+    "reviewStatus": "draft",
+    "collectedAt": "2026-10-01T08:53:06.259Z"
+  },
+  {
+    "id": "ledger-insights-brazilian-csd-mirrors-tokenized-btg-fund-shares-on-xrp-ledger-2026-09-30",
+    "title": "Brazilian CSD mirrors tokenized BTG fund shares on XRP Ledger",
+    "source": "Ledger Insights",
+    "sourceType": "Institutional news / analysis",
+    "url": "https://www.ledgerinsights.com/brazilian-csd-mirrors-tokenized-btg-fund-shares-on-xrp-ledger/",
+    "publishedAt": "2026-09-30T14:12:52.000Z",
+    "jurisdiction": "Global",
+    "category": "Source Update",
+    "topics": [
+      "Tokenisation"
+    ],
+    "priority": "Low",
+    "status": "Published",
+    "scope": "core-digital",
+    "radarEligible": false,
+    "summary": "CSD BR, a Brazilian central securities depository, is tokenizing BTG Pactual investment fund share records on the public XRP Ledger in a partnership with Ripple. Each tokenized fund share mirrors CSD BR&#8217;s official records, which remain the legal source of ownership. Both companies describe it as a move from testing to live operation, although fund [&#8230;] The post Brazilian CSD mirrors tokenized BTG fund shar",
+    "whyItMatters": "Relevant for institutional tokenisation, settlement, custody, DvP, collateral and financial market infrastructure use cases.",
+    "reviewStatus": "draft",
+    "collectedAt": "2026-10-01T08:53:06.130Z"
+  },
+  {
     "id": "nrf-regulation-tomorrow-regulation-crypto-assets-what-issuers-need-to-know-2026-09-11",
     "title": "Regulation crypto assets: What issuers need to know",
     "source": "Norton Rose Fulbright Regulation Tomorrow",

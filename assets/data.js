@@ -1,44 +1,44 @@
 window.REGWATCH_DATA = {
   "siteName": "Digital Assets Regulatory Watch",
   "release": "MVP v1.0.23 final stable",
-  "lastUpdated": "2026-09-14",
+  "lastUpdated": "2026-10-01",
   "monitoring": {
     "status": "Active",
-    "lastScan": "2026-09-14T12:02:49.935Z",
+    "lastScan": "2026-10-01T08:53:06.299Z",
     "quietPeriodDays": 14,
     "regions": [
       {
         "name": "United Kingdom",
         "shortName": "UK",
-        "lastChecked": "2026-09-14",
+        "lastChecked": "2026-10-01",
         "status": "Active"
       },
       {
         "name": "European Union",
         "shortName": "EU",
-        "lastChecked": "2026-09-14",
+        "lastChecked": "2026-10-01",
         "status": "Active"
       },
       {
         "name": "Global",
         "shortName": "Global",
-        "lastChecked": "2026-09-14",
+        "lastChecked": "2026-10-01",
         "status": "Active"
       },
       {
         "name": "United States",
         "shortName": "US",
-        "lastChecked": "2026-09-14",
+        "lastChecked": "2026-10-01",
         "status": "Active"
       }
     ],
     "lastScanResult": {
-      "newPublishedItems": 0,
-      "newHighPriorityItems": 0,
+      "newPublishedItems": 1,
+      "newHighPriorityItems": 1,
       "newMediumPriorityItems": 0,
       "newLowPriorityItems": 0,
-      "materialItems": 0,
-      "newPendingItems": 2,
+      "materialItems": 1,
+      "newPendingItems": 6,
       "checkedSources": 25
     }
   },
@@ -1505,6 +1505,25 @@ window.REGWATCH_DATA = {
     }
   ],
   "updates": [
+    {
+      "id": "bis-fsi-hidden-by-complexity-measuring-stablecoin-crypto-and-decentralised-finance-ecosystems-2026-09-15",
+      "title": "Hidden by complexity? Measuring stablecoin, crypto and decentralised finance ecosystems",
+      "source": "Financial Stability Institute / BIS",
+      "sourceType": "Official source",
+      "url": "https://www.bis.org/publications/working-paper-1377-hidden-complexity-measuring-stablecoin-crypto-and-decentralised-finance-ecosystems",
+      "publishedAt": "2026-09-15T00:00:00.000Z",
+      "jurisdiction": "Global",
+      "category": "Source Update",
+      "topics": [
+        "Stablecoins"
+      ],
+      "priority": "High",
+      "status": "Published",
+      "scope": "core-digital",
+      "radarEligible": true,
+      "summary": "Decentralised finance data presents a distinctive paradox: while every data point is publicly recorded and accessible, deriving meaningful insights is obscured by the scale, fragmentation and complexity of the ecosystem. Key metrics illustrate that the rapidly evolving DeFi ecosystem introduces unique challenges for economic and financial research in accurately capturing financial activity in DeFi.",
+      "whyItMatters": "Relevant for settlement assets, reserve models, payment stablecoin issuance, redemption rights and prudential or supervisory treatment."
+    },
     {
       "id": "bis-fsi-regulating-stablecoin-issuance-permissible-entities-and-activities-2026-08-27",
       "title": "Regulating stablecoin issuance: permissible entities and activities",
