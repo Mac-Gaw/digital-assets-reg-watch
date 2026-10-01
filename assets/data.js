@@ -246,6 +246,55 @@ window.REGWATCH_DATA = {
   ],
   "marketIntelligence": [
     {
+      "id": "finextra-crypto-marex-expands-digital-assets-offering-with-rolling-spot-crypto-2026-10-01",
+      "title": "Marex expands digital assets offering with rolling spot crypto",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/pressarticle/111098/marex-expands-digital-assets-offering-with-rolling-spot-crypto",
+      "publishedAt": "2026-10-01T13:45:00.000Z",
+      "category": "Digital assets",
+      "topics": [
+        "Digital assets"
+      ],
+      "collectionMode": "auto"
+    },
+    {
+      "id": "finextra-crypto-straitsx-to-bring-first-sgd-denominated-stablecoin-to-monad-2026-10-01",
+      "title": "StraitsX to bring first SGD-denominated stablecoin to Monad",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/pressarticle/111097/straitsx-to-bring-first-sgd-denominated-stablecoin-to-monad",
+      "publishedAt": "2026-10-01T13:23:00.000Z",
+      "category": "Digital money & settlement assets",
+      "topics": [
+        "Digital money & settlement assets"
+      ],
+      "collectionMode": "auto"
+    },
+    {
+      "id": "finextra-markets-the-transatlantic-fintech-pivot-infrastructure-overhaul-tokenised-deposits-and-agentic-risks-2026-10-01",
+      "title": "The Transatlantic Fintech Pivot: Infrastructure Overhaul, Tokenised Deposits, and Agentic Risks",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/blogposting/33044/the-transatlantic-fintech-pivot-infrastructure-overhaul-tokenised-deposits-and-agentic-risks",
+      "publishedAt": "2026-10-01T10:14:44.000Z",
+      "category": "Tokenisation",
+      "topics": [
+        "Tokenisation",
+        "Digital money & settlement assets"
+      ],
+      "collectionMode": "auto"
+    },
+    {
+      "id": "markets-media-feed-hsbc-names-stablecoin-hsbc-redcoin-2026-10-01",
+      "title": "HSBC Names Stablecoin ‘HSBC Redcoin’",
+      "source": "Markets Media",
+      "url": "https://www.marketsmedia.com/hsbc-names-stablecoin-hsbc-redcoin",
+      "publishedAt": "2026-10-01T05:55:00.000Z",
+      "category": "Digital money & settlement assets",
+      "topics": [
+        "Digital money & settlement assets"
+      ],
+      "collectionMode": "auto"
+    },
+    {
       "id": "finextra-regulation-integrity-in-digital-asset-architecture-evaluating-crypto-trading-applications-2026-09-30",
       "title": "Integrity in Digital Asset Architecture: Evaluating Crypto Trading Applications",
       "source": "Finextra",
@@ -1416,55 +1465,6 @@ window.REGWATCH_DATA = {
       "category": "Tokenisation",
       "topics": [
         "Tokenisation"
-      ],
-      "collectionMode": "auto"
-    },
-    {
-      "id": "finextra-crypto-six-and-twint-join-swiss-bank-stablecoin-project-2026-09-08",
-      "title": "SIX and Twint join Swiss bank stablecoin project",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/newsarticle/48360/six-and-twint-join-swiss-bank-stablecoin-project",
-      "publishedAt": "2026-09-08T11:28:00.000Z",
-      "category": "Digital money & settlement assets",
-      "topics": [
-        "Digital money & settlement assets"
-      ],
-      "collectionMode": "auto"
-    },
-    {
-      "id": "markets-media-feed-chf-stablecoin-sandbox-enters-test-phase-2026-09-08",
-      "title": "CHF Stablecoin Sandbox Enters Test Phase",
-      "source": "Markets Media",
-      "url": "https://www.marketsmedia.com/chf-stablecoin-sandbox-enters-test-phase",
-      "publishedAt": "2026-09-08T09:40:16.000Z",
-      "category": "Digital money & settlement assets",
-      "topics": [
-        "Digital money & settlement assets",
-        "Institutional adoption"
-      ],
-      "collectionMode": "auto"
-    },
-    {
-      "id": "finextra-crypto-how-to-build-enterprise-grade-infrastructure-for-real-world-asset-tokenization-2026-09-07",
-      "title": "How to Build Enterprise-Grade Infrastructure for Real-World Asset Tokenization",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/blogposting/32756/how-to-build-enterprise-grade-infrastructure-for-real-world-asset-tokenization",
-      "publishedAt": "2026-09-07T10:27:53.000Z",
-      "category": "Tokenisation",
-      "topics": [
-        "Tokenisation"
-      ],
-      "collectionMode": "auto"
-    },
-    {
-      "id": "finextra-payments-why-stablecoin-settlement-breaks-after-the-first-successful-transfer-2026-09-07",
-      "title": "Why Stablecoin Settlement Breaks After the First Successful Transfer",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/blogposting/32751/why-stablecoin-settlement-breaks-after-the-first-successful-transfer",
-      "publishedAt": "2026-09-07T06:39:19.000Z",
-      "category": "Digital money & settlement assets",
-      "topics": [
-        "Digital money & settlement assets"
       ],
       "collectionMode": "auto"
     }
