@@ -1,23 +1,5 @@
 [
   {
-    "id": "dtcc-fintech-conference-2026",
-    "title": "DTCC to speak: The 10th Annual Fintech Conference",
-    "source": "DTCC Events",
-    "url": "https://www.dtcc.com/events?pgs=-1135",
-    "eventDate": "2026-09-24T09:00:00-04:00",
-    "endDate": "2026-09-25",
-    "format": "Conference appearance",
-    "location": "Philadelphia",
-    "access": "External event / DTCC speaker",
-    "category": "Market infrastructure",
-    "topics": [
-      "Digital assets",
-      "Market infrastructure",
-      "Fintech"
-    ],
-    "collectionMode": "manual"
-  },
-  {
     "id": "dtcc-sibos-miami-2026",
     "title": "DTCC at Sibos Miami 2026",
     "source": "DTCC Events",
