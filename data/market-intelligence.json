@@ -1,5 +1,29 @@
 [
   {
+    "id": "finextra-payments-how-can-digital-assets-bridge-the-bank-modernisation-gap-2026-10-02",
+    "title": "How Can Digital Assets Bridge the Bank Modernisation Gap?",
+    "source": "Finextra",
+    "url": "https://www.finextra.com/videoarticle/3603/how-can-digital-assets-bridge-the-bank-modernisation-gap",
+    "publishedAt": "2026-10-02T15:00:00.000Z",
+    "category": "Payments",
+    "topics": [
+      "Payments"
+    ],
+    "collectionMode": "auto"
+  },
+  {
+    "id": "finextra-crypto-lloyds-survey-reveals-71-of-uk-fis-believe-tokenisation-will-reshape-financial-services-2026-10-02",
+    "title": "Lloyds survey reveals 71% of UK FIs believe tokenisation will reshape financial services",
+    "source": "Finextra",
+    "url": "https://www.finextra.com/newsarticle/48526/lloyds-survey-reveals-71-of-uk-fis-believe-tokenisation-will-reshape-financial-services",
+    "publishedAt": "2026-10-02T11:07:00.000Z",
+    "category": "Tokenisation",
+    "topics": [
+      "Tokenisation"
+    ],
+    "collectionMode": "auto"
+  },
+  {
     "id": "finextra-crypto-marex-expands-digital-assets-offering-with-rolling-spot-crypto-2026-10-01",
     "title": "Marex expands digital assets offering with rolling spot crypto",
     "source": "Finextra",
@@ -1195,30 +1219,6 @@
     "category": "Market infrastructure",
     "topics": [
       "Market infrastructure"
-    ],
-    "collectionMode": "auto"
-  },
-  {
-    "id": "finextra-crypto-what-banks-should-evaluate-before-using-stablecoins-for-cross-border-settlement-2026-09-08",
-    "title": "What Banks Should Evaluate Before Using Stablecoins for Cross-Border Settlement",
-    "source": "Finextra",
-    "url": "https://www.finextra.com/blogposting/32770/what-banks-should-evaluate-before-using-stablecoins-for-cross-border-settlement",
-    "publishedAt": "2026-09-08T18:33:41.000Z",
-    "category": "Digital money & settlement assets",
-    "topics": [
-      "Digital money & settlement assets"
-    ],
-    "collectionMode": "auto"
-  },
-  {
-    "id": "markets-media-feed-amc-robinhood-fight-over-third-party-tokenized-stock-2026-09-08",
-    "title": "AMC, Robinhood Fight Over Third-Party Tokenized Stock",
-    "source": "Markets Media",
-    "url": "https://www.marketsmedia.com/amc-and-robinhood-fight-over-tokenized-stocks",
-    "publishedAt": "2026-09-08T14:58:25.000Z",
-    "category": "Tokenisation",
-    "topics": [
-      "Tokenisation"
     ],
     "collectionMode": "auto"
   }
