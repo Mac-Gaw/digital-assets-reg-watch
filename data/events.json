@@ -1,23 +1,5 @@
 [
   {
-    "id": "dtcc-sibos-miami-2026",
-    "title": "DTCC at Sibos Miami 2026",
-    "source": "DTCC Events",
-    "url": "https://www.dtcc.com/events?pgs=-1135",
-    "eventDate": "2026-09-28T09:00:00-04:00",
-    "endDate": "2026-10-01",
-    "format": "Conference appearance",
-    "location": "Miami",
-    "access": "External event / DTCC sponsor & speaker",
-    "category": "Market infrastructure",
-    "topics": [
-      "Digital assets",
-      "Market infrastructure",
-      "Asset services"
-    ],
-    "collectionMode": "manual"
-  },
-  {
     "id": "icma-fintech-digitalisation-forum-2026",
     "title": "ICMA FinTech & Digitalisation Forum 2026",
     "source": "ICMA",
