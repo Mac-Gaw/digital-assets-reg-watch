@@ -1,5 +1,17 @@
 [
   {
+    "id": "markets-media-feed-okxice-files-to-launch-tokenized-securities-venue-2026-10-05",
+    "title": "OKXICE Files to Launch Tokenized Securities Venue",
+    "source": "Markets Media",
+    "url": "https://www.marketsmedia.com/okxice-files-to-launch-tokenized-securities-venue",
+    "publishedAt": "2026-10-05T08:11:17.000Z",
+    "category": "Tokenisation",
+    "topics": [
+      "Tokenisation"
+    ],
+    "collectionMode": "auto"
+  },
+  {
     "id": "finextra-payments-how-can-digital-assets-bridge-the-bank-modernisation-gap-2026-10-02",
     "title": "How Can Digital Assets Bridge the Bank Modernisation Gap?",
     "source": "Finextra",
@@ -1207,18 +1219,6 @@
     "topics": [
       "Tokenisation",
       "Institutional adoption"
-    ],
-    "collectionMode": "auto"
-  },
-  {
-    "id": "finextra-crypto-nasdaq-b-and-246-rse-stuttgart-and-others-urge-eu-to-rethink-100bn-dlt-cap-2026-09-09",
-    "title": "Nasdaq, B&#246;rse Stuttgart and others urge EU to rethink €100bn DLT cap",
-    "source": "Finextra",
-    "url": "https://www.finextra.com/newsarticle/48365/nasdaq-brse-stuttgart-and-others-urge-eu-to-rethink-100bn-dlt-cap",
-    "publishedAt": "2026-09-09T00:01:00.000Z",
-    "category": "Market infrastructure",
-    "topics": [
-      "Market infrastructure"
     ],
     "collectionMode": "auto"
   }
