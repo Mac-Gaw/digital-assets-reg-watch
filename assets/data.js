@@ -246,6 +246,18 @@ window.REGWATCH_DATA = {
       "collectionMode": "auto"
     },
     {
+      "id": "finextra-wholesale-sponsor-s-message-webinar-is-europe-ready-to-embrace-stablecoins-2026-10-06",
+      "title": "Sponsor's message: [Webinar] Is Europe ready to embrace stablecoins?",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/banners/banner.aspx?opt=ad&baid=8233",
+      "publishedAt": "2026-10-06T00:00:00.000Z",
+      "category": "Digital money & settlement assets",
+      "topics": [
+        "Digital money & settlement assets"
+      ],
+      "collectionMode": "auto"
+    },
+    {
       "id": "finextra-crypto-morgan-stanley-sets-up-digital-asset-lab-2026-10-05",
       "title": "Morgan Stanley sets up digital asset lab",
       "source": "Finextra",
@@ -1416,18 +1428,6 @@ window.REGWATCH_DATA = {
       "category": "Digital money & settlement assets",
       "topics": [
         "Digital money & settlement assets"
-      ],
-      "collectionMode": "auto"
-    },
-    {
-      "id": "asset-servicing-times-fnality-appoints-cunliffe-metzger-and-berndsen-2026-09-10",
-      "title": "Fnality appoints Cunliffe, Metzger, and Berndsen",
-      "source": "Asset Servicing Times",
-      "url": "https://www.assetservicingtimes.com/assetservicesnews/peoplemovesarticle.php?article_id=18314",
-      "publishedAt": "2026-09-10T10:26:44.000Z",
-      "category": "Institutional adoption",
-      "topics": [
-        "Institutional adoption"
       ],
       "collectionMode": "auto"
     }
