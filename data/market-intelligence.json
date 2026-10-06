@@ -1,5 +1,17 @@
 [
   {
+    "id": "markets-media-feed-collateral-mobility-is-holy-grail-of-tokenization-2026-10-06",
+    "title": "Collateral Mobility is “Holy Grail” of Tokenization",
+    "source": "Markets Media",
+    "url": "https://www.marketsmedia.com/collateral-mobility-is-holy-grail-of-tokenization",
+    "publishedAt": "2026-10-06T20:10:05.000Z",
+    "category": "Tokenisation",
+    "topics": [
+      "Tokenisation"
+    ],
+    "collectionMode": "auto"
+  },
+  {
     "id": "finextra-payments-tokenization-and-digital-assets-what-is-the-real-end-goal-2026-10-06",
     "title": "Tokenization and Digital Assets: What is the Real End Goal?",
     "source": "Finextra",
@@ -1207,18 +1219,6 @@
     "category": "Institutional adoption",
     "topics": [
       "Institutional adoption"
-    ],
-    "collectionMode": "auto"
-  },
-  {
-    "id": "finextra-crypto-us-bank-pilots-custom-built-stablecoin-2026-09-10",
-    "title": "US Bank pilots custom-built stablecoin",
-    "source": "Finextra",
-    "url": "https://www.finextra.com/newsarticle/48372/us-bank-pilots-custom-built-stablecoin",
-    "publishedAt": "2026-09-10T00:01:00.000Z",
-    "category": "Digital money & settlement assets",
-    "topics": [
-      "Digital money & settlement assets"
     ],
     "collectionMode": "auto"
   }
