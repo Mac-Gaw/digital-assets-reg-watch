@@ -60,25 +60,6 @@ window.REGWATCH_DATA = {
   },
   "events": [
     {
-      "id": "icma-fintech-digitalisation-forum-2026",
-      "title": "ICMA FinTech & Digitalisation Forum 2026",
-      "source": "ICMA",
-      "url": "https://www.icmagroup.org/events/fintech-and-digitalisation-forum-2026/",
-      "eventDate": "2026-09-29T09:00:00+01:00",
-      "endDate": "2026-09-29",
-      "format": "Forum",
-      "location": "London",
-      "access": "Free for eligible ICMA/regulator attendees; paid for others",
-      "category": "Tokenisation",
-      "topics": [
-        "DLT bonds",
-        "Stablecoins",
-        "Digital money",
-        "Capital markets"
-      ],
-      "collectionMode": "manual"
-    },
-    {
       "id": "uk-public-private-capital-markets-summit-2026",
       "title": "Reform of the UK Public and Private Capital Markets Summit 2026",
       "source": "City & Financial Global / ICMA",
