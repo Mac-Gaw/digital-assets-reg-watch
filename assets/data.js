@@ -228,6 +228,19 @@ window.REGWATCH_DATA = {
   ],
   "marketIntelligence": [
     {
+      "id": "finextra-payments-anz-completes-cross-border-tokenised-deposit-payment-with-swift-ledger-2026-10-06",
+      "title": "ANZ completes cross-border tokenised deposit payment with Swift ledger",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/newsarticle/48534/anz-completes-cross-border-tokenised-deposit-payment-with-swift-ledger",
+      "publishedAt": "2026-10-06T00:01:00.000Z",
+      "category": "Tokenisation",
+      "topics": [
+        "Tokenisation",
+        "Digital money & settlement assets"
+      ],
+      "collectionMode": "auto"
+    },
+    {
       "id": "finextra-crypto-morgan-stanley-sets-up-digital-asset-lab-2026-10-05",
       "title": "Morgan Stanley sets up digital asset lab",
       "source": "Finextra",
@@ -1431,18 +1444,6 @@ window.REGWATCH_DATA = {
       "source": "Finextra",
       "url": "https://www.finextra.com/pressarticle/110857/bvnk-and-marqeta-partner-on-stablecoin-card-infrastructure",
       "publishedAt": "2026-09-09T18:24:00.000Z",
-      "category": "Digital money & settlement assets",
-      "topics": [
-        "Digital money & settlement assets"
-      ],
-      "collectionMode": "auto"
-    },
-    {
-      "id": "finextra-crypto-paypal-helps-developers-build-application-specific-pyusd-backed-stablecoins-2026-09-09",
-      "title": "PayPal helps developers build application-specific PYUSD-backed stablecoins",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/newsarticle/48375/paypal-helps-developers-build-application-specific-pyusd-backed-stablecoins",
-      "publishedAt": "2026-09-09T18:07:00.000Z",
       "category": "Digital money & settlement assets",
       "topics": [
         "Digital money & settlement assets"
