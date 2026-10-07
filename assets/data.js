@@ -209,6 +209,55 @@ window.REGWATCH_DATA = {
   ],
   "marketIntelligence": [
     {
+      "id": "finextra-crypto-integral-selected-for-digital-asset-trading-in-turkey-2026-10-07",
+      "title": "Integral selected for digital asset trading in Turkey",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/pressarticle/111175/integral-selected-for-digital-asset-trading-in-turkey",
+      "publishedAt": "2026-10-07T12:57:00.000Z",
+      "category": "Digital assets",
+      "topics": [
+        "Digital assets"
+      ],
+      "collectionMode": "auto"
+    },
+    {
+      "id": "finextra-crypto-noah-raises-38m-for-stablecoin-payments-platform-2026-10-07",
+      "title": "Noah raises $38m for stablecoin payments platform",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/newsarticle/48548/noah-raises-38m-for-stablecoin-payments-platform",
+      "publishedAt": "2026-10-07T12:07:00.000Z",
+      "category": "Digital money & settlement assets",
+      "topics": [
+        "Digital money & settlement assets"
+      ],
+      "collectionMode": "auto"
+    },
+    {
+      "id": "finextra-crypto-block-street-expands-tokenised-stock-infrastructure-2026-10-07",
+      "title": "Block Street expands tokenised stock infrastructure",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/pressarticle/111169/block-street-expands-tokenised-stock-infrastructure",
+      "publishedAt": "2026-10-07T10:05:00.000Z",
+      "category": "Tokenisation",
+      "topics": [
+        "Tokenisation"
+      ],
+      "collectionMode": "auto"
+    },
+    {
+      "id": "markets-media-feed-isda-reviews-tokenized-money-market-funds-as-collateral-2026-10-07",
+      "title": "ISDA Reviews Tokenized Money Market Funds as Collateral",
+      "source": "Markets Media",
+      "url": "https://www.marketsmedia.com/isda-assesses-tokenized-money-market-funds-as-eligible-collateral",
+      "publishedAt": "2026-10-07T07:57:09.000Z",
+      "category": "Tokenisation",
+      "topics": [
+        "Tokenisation",
+        "Market infrastructure"
+      ],
+      "collectionMode": "auto"
+    },
+    {
       "id": "markets-media-feed-collateral-mobility-is-holy-grail-of-tokenization-2026-10-06",
       "title": "Collateral Mobility is “Holy Grail” of Tokenization",
       "source": "Markets Media",
@@ -1375,56 +1424,6 @@ window.REGWATCH_DATA = {
       "source": "Finextra",
       "url": "https://www.finextra.com/pressarticle/110877/wirex-goes-live-on-tempo-for-enterprise-stablecoin-card-programmes",
       "publishedAt": "2026-09-10T15:22:00.000Z",
-      "category": "Digital money & settlement assets",
-      "topics": [
-        "Digital money & settlement assets"
-      ],
-      "collectionMode": "auto"
-    },
-    {
-      "id": "securities-finance-times-vermeg-and-cbuae-select-delta-capita-dlt-for-digital-securities-depository-2026-09-10",
-      "title": "Vermeg and CBUAE select Delta Capita DLT for digital securities depository",
-      "source": "Securities Finance Times",
-      "url": "https://www.securitiesfinancetimes.com/securitieslendingnews/industryarticle.php?article_id=228961",
-      "publishedAt": "2026-09-10T14:28:39.000Z",
-      "category": "Tokenisation",
-      "topics": [
-        "Tokenisation",
-        "Market infrastructure"
-      ],
-      "collectionMode": "auto"
-    },
-    {
-      "id": "finextra-crypto-nacha-forms-next-gen-currency-project-team-focused-on-stablecoins-and-tokenized-deposits-2026-09-10",
-      "title": "Nacha forms Next-Gen Currency Project Team focused on stablecoins and tokenized deposits",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/pressarticle/110875/nacha-forms-next-gen-currency-project-team-focused-on-stablecoins-and-tokenized-deposits",
-      "publishedAt": "2026-09-10T12:28:00.000Z",
-      "category": "Tokenisation",
-      "topics": [
-        "Tokenisation",
-        "Digital money & settlement assets"
-      ],
-      "collectionMode": "auto"
-    },
-    {
-      "id": "finextra-crypto-caplin-debuts-white-label-digital-asset-product-2026-09-10",
-      "title": "Caplin debuts white-label digital asset product",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/pressarticle/110867/caplin-debuts-white-label-digital-asset-product",
-      "publishedAt": "2026-09-10T10:55:00.000Z",
-      "category": "Digital assets",
-      "topics": [
-        "Digital assets"
-      ],
-      "collectionMode": "auto"
-    },
-    {
-      "id": "finextra-crypto-modern-treasury-rolls-out-non-custodial-stablecoin-wallets-2026-09-10",
-      "title": "Modern Treasury rolls out non-custodial stablecoin wallets",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/pressarticle/110865/modern-treasury-rolls-out-non-custodial-stablecoin-wallets",
-      "publishedAt": "2026-09-10T10:31:00.000Z",
       "category": "Digital money & settlement assets",
       "topics": [
         "Digital money & settlement assets"
