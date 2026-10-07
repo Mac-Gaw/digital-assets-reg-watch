@@ -209,6 +209,30 @@ window.REGWATCH_DATA = {
   ],
   "marketIntelligence": [
     {
+      "id": "finextra-crypto-digital-asset-controls-have-two-boundaries-who-can-act-and-who-can-see-2026-10-07",
+      "title": "Digital Asset Controls Have Two Boundaries: Who Can Act and Who Can See",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/blogposting/33099/digital-asset-controls-have-two-boundaries-who-can-act-and-who-can-see",
+      "publishedAt": "2026-10-07T16:41:24.000Z",
+      "category": "Digital assets",
+      "topics": [
+        "Digital assets"
+      ],
+      "collectionMode": "auto"
+    },
+    {
+      "id": "finextra-crypto-edx-markets-and-raven-partner-on-institutional-digital-asset-liquidity-2026-10-07",
+      "title": "EDX Markets and Raven partner on institutional digital asset liquidity",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/pressarticle/111186/edx-markets-and-raven-partner-on-institutional-digital-asset-liquidity",
+      "publishedAt": "2026-10-07T15:53:00.000Z",
+      "category": "Digital assets",
+      "topics": [
+        "Digital assets"
+      ],
+      "collectionMode": "auto"
+    },
+    {
       "id": "finextra-crypto-integral-selected-for-digital-asset-trading-in-turkey-2026-10-07",
       "title": "Integral selected for digital asset trading in Turkey",
       "source": "Finextra",
@@ -1402,31 +1426,6 @@ window.REGWATCH_DATA = {
       "category": "Market structure",
       "topics": [
         "Market structure"
-      ],
-      "collectionMode": "auto"
-    },
-    {
-      "id": "finextra-markets-nasdaq-invests-100m-in-payward-as-part-of-tokenised-equities-partnership-2026-09-10",
-      "title": "Nasdaq invests $100m in Payward as part of tokenised equities partnership",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/newsarticle/48382/nasdaq-invests-100m-in-payward-as-part-of-tokenised-equities-partnership",
-      "publishedAt": "2026-09-10T15:31:00.000Z",
-      "category": "Tokenisation",
-      "topics": [
-        "Tokenisation",
-        "Market infrastructure"
-      ],
-      "collectionMode": "auto"
-    },
-    {
-      "id": "finextra-crypto-wirex-goes-live-on-tempo-for-enterprise-stablecoin-card-programmes-2026-09-10",
-      "title": "Wirex goes live on Tempo for enterprise stablecoin card programmes",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/pressarticle/110877/wirex-goes-live-on-tempo-for-enterprise-stablecoin-card-programmes",
-      "publishedAt": "2026-09-10T15:22:00.000Z",
-      "category": "Digital money & settlement assets",
-      "topics": [
-        "Digital money & settlement assets"
       ],
       "collectionMode": "auto"
     }

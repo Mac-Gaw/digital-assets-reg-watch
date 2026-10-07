@@ -1,6 +1,6 @@
 {
-  "scannedAt": "2026-10-07T13:18:31.544Z",
-  "newItems": 21,
+  "scannedAt": "2026-10-07T19:58:18.718Z",
+  "newItems": 18,
   "prunedStoredItems": 0,
   "sources": [
     {
@@ -13,7 +13,7 @@
       "source": "finextra-markets",
       "status": "ok",
       "feedItems": 43,
-      "relevantItems": 5
+      "relevantItems": 6
     },
     {
       "source": "finextra-payments",
@@ -25,13 +25,13 @@
       "source": "finextra-regulation",
       "status": "ok",
       "feedItems": 53,
-      "relevantItems": 6
+      "relevantItems": 7
     },
     {
       "source": "finextra-wholesale",
       "status": "ok",
       "feedItems": 45,
-      "relevantItems": 5
+      "relevantItems": 4
     },
     {
       "source": "global-custodian-feed",
