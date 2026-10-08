@@ -224,6 +224,18 @@ window.REGWATCH_DATA = {
   ],
   "marketIntelligence": [
     {
+      "id": "finextra-crypto-on-demand-deposits-and-stablecoins-the-complete-digital-money-proposition-for-banks-2026-10-08",
+      "title": "On-Demand – Deposits and stablecoins: The complete digital money proposition for banks",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/event-info/634/on-demand--deposits-and-stablecoins-the-complete-digital-money-proposition-for-banks",
+      "publishedAt": "2026-10-08T15:00:00.000Z",
+      "category": "Digital money & settlement assets",
+      "topics": [
+        "Digital money & settlement assets"
+      ],
+      "collectionMode": "auto"
+    },
+    {
       "id": "finextra-crypto-deposits-and-stablecoins-the-complete-digital-money-proposition-for-banks-2026-10-08",
       "title": "Deposits and stablecoins: The complete digital money proposition for banks",
       "source": "Finextra",
@@ -232,6 +244,18 @@ window.REGWATCH_DATA = {
       "category": "Digital money & settlement assets",
       "topics": [
         "Digital money & settlement assets"
+      ],
+      "collectionMode": "auto"
+    },
+    {
+      "id": "finextra-crypto-ownera-and-utila-form-digital-asset-infrastructure-partnership-2026-10-08",
+      "title": "Ownera and Utila form digital asset infrastructure partnership",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/pressarticle/111200/ownera-and-utila-form-digital-asset-infrastructure-partnership",
+      "publishedAt": "2026-10-08T14:24:00.000Z",
+      "category": "Digital assets",
+      "topics": [
+        "Digital assets"
       ],
       "collectionMode": "auto"
     },
@@ -1418,30 +1442,6 @@ window.REGWATCH_DATA = {
       "category": "Digital money & settlement assets",
       "topics": [
         "Digital money & settlement assets"
-      ],
-      "collectionMode": "auto"
-    },
-    {
-      "id": "markets-media-feed-first-intra-day-repo-implemented-with-cdm-on-canton-network-2026-09-15",
-      "title": "First Intra-Day Repo Implemented with CDM on Canton Network",
-      "source": "Markets Media",
-      "url": "https://www.marketsmedia.com/first-intra-day-repo-implemented-with-cdm-on-canton-network",
-      "publishedAt": "2026-09-15T09:03:03.000Z",
-      "category": "Institutional adoption",
-      "topics": [
-        "Institutional adoption"
-      ],
-      "collectionMode": "auto"
-    },
-    {
-      "id": "markets-media-feed-bnpp-securities-services-reorganises-digital-assets-business-2026-09-15",
-      "title": "BNPP Securities Services Reorganises Digital Assets Business",
-      "source": "Markets Media",
-      "url": "https://www.marketsmedia.com/bnp-paribas-securities-services-reorganises-digital-assets-business",
-      "publishedAt": "2026-09-15T08:31:15.000Z",
-      "category": "Market structure",
-      "topics": [
-        "Market structure"
       ],
       "collectionMode": "auto"
     }
