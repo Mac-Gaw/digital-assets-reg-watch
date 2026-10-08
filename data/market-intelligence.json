@@ -12,6 +12,68 @@
     "collectionMode": "auto"
   },
   {
+    "id": "finextra-crypto-the-future-of-rwa-payment-rails-tokenization-stablecoins-and-programmable-finance-2026-10-08",
+    "title": "The Future of RWA Payment Rails: Tokenization, Stablecoins and Programmable Finance",
+    "source": "Finextra",
+    "url": "https://www.finextra.com/blogposting/33104/the-future-of-rwa-payment-rails-tokenization-stablecoins-and-programmable-finance",
+    "publishedAt": "2026-10-08T12:39:12.000Z",
+    "category": "Tokenisation",
+    "topics": [
+      "Tokenisation",
+      "Digital money & settlement assets"
+    ],
+    "collectionMode": "auto"
+  },
+  {
+    "id": "asset-servicing-times-bny-expands-its-digital-asset-custody-platform-in-the-eu-2026-10-08",
+    "title": "BNY expands its Digital Asset Custody platform in the EU",
+    "source": "Asset Servicing Times",
+    "url": "https://www.assetservicingtimes.com/assetservicesnews/digitalassetsarticle.php?article_id=18425",
+    "publishedAt": "2026-10-08T11:44:59.000Z",
+    "category": "Custody",
+    "topics": [
+      "Custody"
+    ],
+    "collectionMode": "auto"
+  },
+  {
+    "id": "asset-servicing-times-cr-dit-agricole-assurances-makes-tokenised-amundi-fund-investment-2026-10-08",
+    "title": "Crédit Agricole Assurances makes tokenised Amundi fund investment",
+    "source": "Asset Servicing Times",
+    "url": "https://www.assetservicingtimes.com/assetservicesnews/fundservicesarticle.php?article_id=18424",
+    "publishedAt": "2026-10-08T11:05:06.000Z",
+    "category": "Tokenisation",
+    "topics": [
+      "Tokenisation"
+    ],
+    "collectionMode": "auto"
+  },
+  {
+    "id": "asset-servicing-times-standard-chartered-unveils-singapore-digital-asset-custody-plans-2026-10-08",
+    "title": "Standard Chartered unveils Singapore digital asset custody plans",
+    "source": "Asset Servicing Times",
+    "url": "https://www.assetservicingtimes.com/assetservicesnews/custodyarticle.php?article_id=18423",
+    "publishedAt": "2026-10-08T10:58:58.000Z",
+    "category": "Tokenisation",
+    "topics": [
+      "Tokenisation",
+      "Custody"
+    ],
+    "collectionMode": "auto"
+  },
+  {
+    "id": "finextra-crypto-standard-chartered-extends-digital-asset-custody-to-singapore-2026-10-08",
+    "title": "Standard Chartered extends digital asset custody to Singapore",
+    "source": "Finextra",
+    "url": "https://www.finextra.com/newsarticle/48555/standard-chartered-extends-digital-asset-custody-to-singapore",
+    "publishedAt": "2026-10-08T10:50:00.000Z",
+    "category": "Custody",
+    "topics": [
+      "Custody"
+    ],
+    "collectionMode": "auto"
+  },
+  {
     "id": "finextra-crypto-digital-asset-controls-have-two-boundaries-who-can-act-and-who-can-see-2026-10-07",
     "title": "Digital Asset Controls Have Two Boundaries: Who Can Act and Who Can See",
     "source": "Finextra",
@@ -90,6 +152,18 @@
     "source": "Markets Media",
     "url": "https://www.marketsmedia.com/collateral-mobility-is-holy-grail-of-tokenization",
     "publishedAt": "2026-10-06T20:10:05.000Z",
+    "category": "Tokenisation",
+    "topics": [
+      "Tokenisation"
+    ],
+    "collectionMode": "auto"
+  },
+  {
+    "id": "finextra-payments-tokenisation-and-digital-assets-what-is-the-real-end-goal-2026-10-06",
+    "title": "Tokenisation and Digital Assets: What is the Real End Goal?",
+    "source": "Finextra",
+    "url": "https://www.finextra.com/videoarticle/3605/tokenisation-and-digital-assets-what-is-the-real-end-goal",
+    "publishedAt": "2026-10-06T11:00:00.000Z",
     "category": "Tokenisation",
     "topics": [
       "Tokenisation"
@@ -1144,79 +1218,6 @@
     "category": "Market structure",
     "topics": [
       "Market structure"
-    ],
-    "collectionMode": "auto"
-  },
-  {
-    "id": "finextra-crypto-digital-asset-infrastructure-now-lives-or-dies-on-operational-integration-2026-09-14",
-    "title": "Digital Asset Infrastructure Now Lives or Dies on Operational Integration",
-    "source": "Finextra",
-    "url": "https://www.finextra.com/blogposting/32843/digital-asset-infrastructure-now-lives-or-dies-on-operational-integration",
-    "publishedAt": "2026-09-14T14:07:09.000Z",
-    "category": "Digital assets",
-    "topics": [
-      "Digital assets"
-    ],
-    "collectionMode": "auto"
-  },
-  {
-    "id": "securities-finance-times-tokenovate-launches-cdm-native-intraday-repo-on-canton-network-2026-09-14",
-    "title": "Tokenovate launches CDM‑native intraday repo on Canton Network",
-    "source": "Securities Finance Times",
-    "url": "https://www.securitiesfinancetimes.com/securitieslendingnews/repoarticle.php?article_id=228967",
-    "publishedAt": "2026-09-14T13:54:44.000Z",
-    "category": "Institutional adoption",
-    "topics": [
-      "Institutional adoption"
-    ],
-    "collectionMode": "auto"
-  },
-  {
-    "id": "finextra-crypto-tokenovate-executes-intra-day-repo-transaction-on-canton-network-2026-09-14",
-    "title": "Tokenovate executes intra-day repo transaction on Canton Network",
-    "source": "Finextra",
-    "url": "https://www.finextra.com/pressarticle/110898/tokenovate-executes-intra-day-repo-transaction-on-canton-network",
-    "publishedAt": "2026-09-14T13:52:00.000Z",
-    "category": "Market infrastructure",
-    "topics": [
-      "Market infrastructure",
-      "Institutional adoption"
-    ],
-    "collectionMode": "auto"
-  },
-  {
-    "id": "markets-media-feed-final-draft-of-digital-asset-market-clarity-act-released-2026-09-14",
-    "title": "Final Draft of Digital Asset Market Clarity Act Released",
-    "source": "Markets Media",
-    "url": "https://www.marketsmedia.com/final-draft-of-digital-asset-market-clarity-act-released",
-    "publishedAt": "2026-09-14T08:39:27.000Z",
-    "category": "Market structure",
-    "topics": [
-      "Market structure"
-    ],
-    "collectionMode": "auto"
-  },
-  {
-    "id": "asset-servicing-times-polymath-and-high-ridge-to-broaden-tokenised-markets-participation-2026-09-11",
-    "title": "Polymath and High Ridge to broaden tokenised markets participation",
-    "source": "Asset Servicing Times",
-    "url": "https://www.assetservicingtimes.com/assetservicesnews/digitalassetsarticle.php?article_id=18324",
-    "publishedAt": "2026-09-11T13:51:57.000Z",
-    "category": "Tokenisation",
-    "topics": [
-      "Tokenisation"
-    ],
-    "collectionMode": "auto"
-  },
-  {
-    "id": "finextra-crypto-coinbase-and-moov-partner-to-boost-stablecoin-payments-for-community-banks-ahead-of-clarity-vote-2026-09-11",
-    "title": "Coinbase and Moov partner to boost stablecoin payments for community banks ahead of CLARITY vote",
-    "source": "Finextra",
-    "url": "https://www.finextra.com/newsarticle/48384/coinbase-and-moov-partner-to-boost-stablecoin-payments-for-community-banks-ahead-of-clarity-vote",
-    "publishedAt": "2026-09-11T10:34:00.000Z",
-    "category": "Digital money & settlement assets",
-    "topics": [
-      "Digital money & settlement assets"
     ],
     "collectionMode": "auto"
   }
