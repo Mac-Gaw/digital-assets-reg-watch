@@ -1,5 +1,92 @@
 [
   {
+    "id": "finextra-crypto-how-tokenization-is-unlocking-liquidity-in-specialty-finance-2026-10-09",
+    "title": "How Tokenization Is Unlocking Liquidity in Specialty Finance",
+    "source": "Finextra",
+    "url": "https://www.finextra.com/blogposting/33109/how-tokenization-is-unlocking-liquidity-in-specialty-finance",
+    "publishedAt": "2026-10-09T13:48:30.000Z",
+    "category": "Tokenisation",
+    "topics": [
+      "Tokenisation"
+    ],
+    "collectionMode": "auto"
+  },
+  {
+    "id": "finextra-crypto-edx-markets-and-verified-x-partner-for-tokenised-bitcoin-trading-2026-10-09",
+    "title": "EDX Markets and Verified X partner for tokenised bitcoin trading",
+    "source": "Finextra",
+    "url": "https://www.finextra.com/pressarticle/111210/edx-markets-and-verified-x-partner-for-tokenised-bitcoin-trading",
+    "publishedAt": "2026-10-09T12:55:00.000Z",
+    "category": "Tokenisation",
+    "topics": [
+      "Tokenisation"
+    ],
+    "collectionMode": "auto"
+  },
+  {
+    "id": "securities-finance-times-ocbc-launches-tokenised-deposit-solution-with-ant-international-2026-10-09",
+    "title": "OCBC launches tokenised deposit solution with Ant International",
+    "source": "Securities Finance Times",
+    "url": "https://www.securitiesfinancetimes.com/securitieslendingnews/industryarticle.php?article_id=229043",
+    "publishedAt": "2026-10-09T09:50:06.000Z",
+    "category": "Tokenisation",
+    "topics": [
+      "Tokenisation",
+      "Digital money & settlement assets"
+    ],
+    "collectionMode": "auto"
+  },
+  {
+    "id": "securities-finance-times-esma-seeks-evidence-on-tokenised-collateral-for-eu-ccps-2026-10-09",
+    "title": "ESMA seeks evidence on tokenised collateral for EU CCPs",
+    "source": "Securities Finance Times",
+    "url": "https://www.securitiesfinancetimes.com/securitieslendingnews/regulationarticle.php?article_id=229042",
+    "publishedAt": "2026-10-09T09:35:36.000Z",
+    "category": "Tokenisation",
+    "topics": [
+      "Tokenisation",
+      "Collateral"
+    ],
+    "collectionMode": "auto"
+  },
+  {
+    "id": "markets-media-feed-esma-seeks-evidence-on-use-of-tokenised-collateral-2026-10-09",
+    "title": "ESMA Seeks Evidence on Use of Tokenised Collateral",
+    "source": "Markets Media",
+    "url": "https://www.marketsmedia.com/esma-seeks-evidence-on-use-of-tokenised-collateral",
+    "publishedAt": "2026-10-09T08:44:14.000Z",
+    "category": "Tokenisation",
+    "topics": [
+      "Tokenisation",
+      "Collateral"
+    ],
+    "collectionMode": "auto"
+  },
+  {
+    "id": "markets-media-feed-cr-dit-agricole-assurances-invests-in-tokenised-amundi-fund-2026-10-09",
+    "title": "Crédit Agricole Assurances Invests in Tokenised Amundi Fund",
+    "source": "Markets Media",
+    "url": "https://www.marketsmedia.com/credit-agricole-assurances-invests-e100m-in-tokenised-amundi-fund",
+    "publishedAt": "2026-10-09T08:19:44.000Z",
+    "category": "Tokenisation",
+    "topics": [
+      "Tokenisation"
+    ],
+    "collectionMode": "auto"
+  },
+  {
+    "id": "markets-media-feed-bny-expands-digital-asset-custody-in-europe-2026-10-09",
+    "title": "BNY Expands Digital Asset Custody in Europe",
+    "source": "Markets Media",
+    "url": "https://www.marketsmedia.com/bny-expands-digital-asset-custody-in-europe",
+    "publishedAt": "2026-10-09T08:10:23.000Z",
+    "category": "Custody",
+    "topics": [
+      "Custody"
+    ],
+    "collectionMode": "auto"
+  },
+  {
     "id": "finextra-crypto-anyflo-emerges-from-stealth-to-simplify-stablecoin-payments-for-enterprises-2026-10-09",
     "title": "Anyflo emerges from stealth to simplify stablecoin payments for enterprises",
     "source": "Finextra",
@@ -1133,91 +1220,6 @@
     "category": "Digital assets",
     "topics": [
       "Digital assets"
-    ],
-    "collectionMode": "auto"
-  },
-  {
-    "id": "finextra-crypto-deutsche-bank-prepares-for-go-live-of-digital-asset-custody-2026-09-16",
-    "title": "Deutsche Bank prepares for go-live of digital asset custody",
-    "source": "Finextra",
-    "url": "https://www.finextra.com/newsarticle/48417/deutsche-bank-prepares-for-go-live-of-digital-asset-custody",
-    "publishedAt": "2026-09-16T11:29:00.000Z",
-    "category": "Custody",
-    "topics": [
-      "Custody"
-    ],
-    "collectionMode": "auto"
-  },
-  {
-    "id": "asset-servicing-times-standard-chartered-appointed-lmax-group-s-digital-asset-custodian-2026-09-16",
-    "title": "Standard Chartered appointed LMAX Group’s digital asset custodian",
-    "source": "Asset Servicing Times",
-    "url": "https://www.assetservicingtimes.com/assetservicesnews/custodyarticle.php?article_id=18336",
-    "publishedAt": "2026-09-16T10:22:51.000Z",
-    "category": "Custody",
-    "topics": [
-      "Custody"
-    ],
-    "collectionMode": "auto"
-  },
-  {
-    "id": "finextra-crypto-from-asset-to-security-the-institutional-infrastructure-required-for-real-world-asset-tokenizati-2026-09-16",
-    "title": "From Asset to Security: The Institutional Infrastructure Required for Real-World Asset Tokenization",
-    "source": "Finextra",
-    "url": "https://www.finextra.com/blogposting/32876/from-asset-to-security-the-institutional-infrastructure-required-for-real-world-asset-tokenization",
-    "publishedAt": "2026-09-16T08:26:19.000Z",
-    "category": "Tokenisation",
-    "topics": [
-      "Tokenisation"
-    ],
-    "collectionMode": "auto"
-  },
-  {
-    "id": "finextra-crypto-why-institutions-are-saying-yes-to-stablecoins-2026-09-16",
-    "title": "Why institutions are saying ‘yes’ to stablecoins",
-    "source": "Finextra",
-    "url": "https://www.finextra.com/blogposting/32873/why-institutions-are-saying-yes-to-stablecoins",
-    "publishedAt": "2026-09-16T00:25:22.000Z",
-    "category": "Digital money & settlement assets",
-    "topics": [
-      "Digital money & settlement assets"
-    ],
-    "collectionMode": "auto"
-  },
-  {
-    "id": "finextra-crypto-circle-ripple-and-visa-join-10-million-funding-round-for-stablecoin-platform-velocity-2026-09-16",
-    "title": "Circle, Ripple and Visa join $10 million funding round for stablecoin platform Velocity",
-    "source": "Finextra",
-    "url": "https://www.finextra.com/newsarticle/48406/circle-ripple-and-visa-join-10-million-funding-round-for-stablecoin-platform-velocity",
-    "publishedAt": "2026-09-16T00:01:00.000Z",
-    "category": "Digital money & settlement assets",
-    "topics": [
-      "Digital money & settlement assets"
-    ],
-    "collectionMode": "auto"
-  },
-  {
-    "id": "finextra-crypto-circle-ripple-and-visa-join-10-funding-round-for-stablecoin-platform-velocity-2026-09-16",
-    "title": "Circle, Ripple and Visa join $10 funding round for stablecoin platform Velocity",
-    "source": "Finextra",
-    "url": "https://www.finextra.com/newsarticle/48406/circle-ripple-and-visa-join-10-funding-round-for-stablecoin-platform-velocity",
-    "publishedAt": "2026-09-16T00:01:00.000Z",
-    "category": "Digital money & settlement assets",
-    "topics": [
-      "Digital money & settlement assets"
-    ],
-    "collectionMode": "auto"
-  },
-  {
-    "id": "finextra-crypto-are-banks-actually-ready-for-digital-money-2026-09-15",
-    "title": "Are banks actually ready for digital money?",
-    "source": "Finextra",
-    "url": "https://www.finextra.com/event-info/625/are-banks-actually-ready-for-digital-money",
-    "publishedAt": "2026-09-15T15:00:00.000Z",
-    "category": "Tokenisation",
-    "topics": [
-      "Tokenisation",
-      "Digital money & settlement assets"
     ],
     "collectionMode": "auto"
   }
