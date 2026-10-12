@@ -60,25 +60,6 @@ window.REGWATCH_DATA = {
   },
   "events": [
     {
-      "id": "uk-public-private-capital-markets-summit-2026",
-      "title": "Reform of the UK Public and Private Capital Markets Summit 2026",
-      "source": "City & Financial Global / ICMA",
-      "url": "https://www.icmagroup.org/events/reform-of-the-uk-public-and-private-capital-markets-summit-2026/",
-      "eventDate": "2026-10-05T09:00:00+01:00",
-      "endDate": "2026-10-05",
-      "format": "Summit",
-      "location": "London",
-      "access": "Paid / registration required",
-      "category": "Tokenisation",
-      "topics": [
-        "UK capital markets",
-        "DLT",
-        "Tokenisation",
-        "Market infrastructure"
-      ],
-      "collectionMode": "manual"
-    },
-    {
       "id": "finextra-events-ai-without-the-hype-what-aml-transformation-means-2026-10-06",
       "title": "AI without the hype: What AML transformation means",
       "source": "Finextra Events",
