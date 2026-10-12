@@ -224,6 +224,18 @@ window.REGWATCH_DATA = {
   ],
   "marketIntelligence": [
     {
+      "id": "finextra-crypto-sbi-group-and-mesh-prep-digital-asset-jv-2026-10-12",
+      "title": "SBI Group and Mesh prep digital asset JV",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/newsarticle/48567/sbi-group-and-mesh-prep-digital-asset-jv",
+      "publishedAt": "2026-10-12T00:01:00.000Z",
+      "category": "Digital assets",
+      "topics": [
+        "Digital assets"
+      ],
+      "collectionMode": "auto"
+    },
+    {
       "id": "finextra-crypto-how-tokenization-is-unlocking-liquidity-in-specialty-finance-2026-10-09",
       "title": "How Tokenization Is Unlocking Liquidity in Specialty Finance",
       "source": "Finextra",
@@ -1432,18 +1444,6 @@ window.REGWATCH_DATA = {
       "category": "Tokenisation",
       "topics": [
         "Tokenisation"
-      ],
-      "collectionMode": "auto"
-    },
-    {
-      "id": "markets-media-feed-deutsche-bank-to-offer-digital-asset-custody-2026-09-16",
-      "title": "Deutsche Bank to Offer Digital Asset Custody",
-      "source": "Markets Media",
-      "url": "https://www.marketsmedia.com/deutsche-bank-to-offer-digital-asset-custody",
-      "publishedAt": "2026-09-16T12:56:08.000Z",
-      "category": "Custody",
-      "topics": [
-        "Custody"
       ],
       "collectionMode": "auto"
     }
