@@ -224,6 +224,30 @@ window.REGWATCH_DATA = {
   ],
   "marketIntelligence": [
     {
+      "id": "markets-media-feed-franklin-templeton-animoca-brands-expand-access-to-tokenization-2026-10-12",
+      "title": "Franklin Templeton, Animoca Brands Expand Access to Tokenization",
+      "source": "Markets Media",
+      "url": "https://www.marketsmedia.com/franklin-templeton-animoca-brands-expand-access-to-tokenized-investments",
+      "publishedAt": "2026-10-12T08:43:33.000Z",
+      "category": "Tokenisation",
+      "topics": [
+        "Tokenisation"
+      ],
+      "collectionMode": "auto"
+    },
+    {
+      "id": "markets-media-feed-fsb-chair-sets-out-work-on-ai-and-038-stablecoins-2026-10-12",
+      "title": "FSB Chair Sets Out Work on AI &#038; Stablecoins",
+      "source": "Markets Media",
+      "url": "https://www.marketsmedia.com/fsb-chair-sets-out-work-on-ai-stablecoins",
+      "publishedAt": "2026-10-12T08:12:05.000Z",
+      "category": "Digital money & settlement assets",
+      "topics": [
+        "Digital money & settlement assets"
+      ],
+      "collectionMode": "auto"
+    },
+    {
       "id": "finextra-crypto-sbi-group-and-mesh-prep-digital-asset-jv-2026-10-12",
       "title": "SBI Group and Mesh prep digital asset JV",
       "source": "Finextra",
@@ -1417,30 +1441,6 @@ window.REGWATCH_DATA = {
       "source": "Markets Media",
       "url": "https://www.marketsmedia.com/dtccs-fund-serv-adds-ondo-finance-as-first-tokenization-member",
       "publishedAt": "2026-09-17T09:39:27.000Z",
-      "category": "Tokenisation",
-      "topics": [
-        "Tokenisation"
-      ],
-      "collectionMode": "auto"
-    },
-    {
-      "id": "finextra-markets-the-hidden-overhead-of-open-banking-apis-architecture-for-scaling-tokenized-ledger-networks-2026-09-16",
-      "title": "The Hidden Overhead of Open Banking APIs: Architecture for Scaling Tokenized Ledger Networks",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/blogposting/32891/the-hidden-overhead-of-open-banking-apis-architecture-for-scaling-tokenized-ledger-networks",
-      "publishedAt": "2026-09-16T20:45:38.000Z",
-      "category": "Tokenisation",
-      "topics": [
-        "Tokenisation"
-      ],
-      "collectionMode": "auto"
-    },
-    {
-      "id": "asset-servicing-times-dtcc-s-fund-serv-adds-ondo-finance-as-first-tokenisation-member-2026-09-16",
-      "title": "DTCC’s Fund/SERV adds Ondo Finance as first tokenisation member",
-      "source": "Asset Servicing Times",
-      "url": "https://www.assetservicingtimes.com/assetservicesnews/digitalassetsarticle.php?article_id=18338",
-      "publishedAt": "2026-09-16T14:36:13.000Z",
       "category": "Tokenisation",
       "topics": [
         "Tokenisation"
