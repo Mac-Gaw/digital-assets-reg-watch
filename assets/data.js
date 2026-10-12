@@ -205,6 +205,30 @@ window.REGWATCH_DATA = {
   ],
   "marketIntelligence": [
     {
+      "id": "finextra-crypto-the-digital-eurodollar-how-stablecoins-reshape-bitcoin-liquidity-channels-2026-10-12",
+      "title": "The Digital Eurodollar: How Stablecoins Reshape Bitcoin Liquidity Channels",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/blogposting/33130/the-digital-eurodollar-how-stablecoins-reshape-bitcoin-liquidity-channels",
+      "publishedAt": "2026-10-12T14:15:50.000Z",
+      "category": "Digital money & settlement assets",
+      "topics": [
+        "Digital money & settlement assets"
+      ],
+      "collectionMode": "auto"
+    },
+    {
+      "id": "finextra-crypto-digital-assets-firm-3iq-secures-in-principal-approval-in-abu-dhabi-2026-10-12",
+      "title": "Digital assets firm 3iQ secures in-principal approval in Abu Dhabi",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/pressarticle/111223/digital-assets-firm-3iq-secures-in-principal-approval-in-abu-dhabi",
+      "publishedAt": "2026-10-12T11:46:00.000Z",
+      "category": "Digital assets",
+      "topics": [
+        "Digital assets"
+      ],
+      "collectionMode": "auto"
+    },
+    {
       "id": "markets-media-feed-franklin-templeton-animoca-brands-expand-access-to-tokenization-2026-10-12",
       "title": "Franklin Templeton, Animoca Brands Expand Access to Tokenization",
       "source": "Markets Media",
@@ -1401,30 +1425,6 @@ window.REGWATCH_DATA = {
       "topics": [
         "Tokenisation",
         "Collateral"
-      ],
-      "collectionMode": "auto"
-    },
-    {
-      "id": "markets-media-feed-sec-issues-exemption-to-trade-tokenized-nms-stock-2026-09-17",
-      "title": "SEC Issues Exemption to Trade Tokenized NMS Stock",
-      "source": "Markets Media",
-      "url": "https://www.marketsmedia.com/sec-issues-innovation-exemption-for-trading-tokenized-nms-stock",
-      "publishedAt": "2026-09-17T13:43:52.000Z",
-      "category": "Tokenisation",
-      "topics": [
-        "Tokenisation"
-      ],
-      "collectionMode": "auto"
-    },
-    {
-      "id": "markets-media-feed-dtcc-and-8217-s-fund-serv-adds-ondo-as-first-tokenization-member-2026-09-17",
-      "title": "DTCC&#8217;s Fund/SERV Adds Ondo as First Tokenization Member",
-      "source": "Markets Media",
-      "url": "https://www.marketsmedia.com/dtccs-fund-serv-adds-ondo-finance-as-first-tokenization-member",
-      "publishedAt": "2026-09-17T09:39:27.000Z",
-      "category": "Tokenisation",
-      "topics": [
-        "Tokenisation"
       ],
       "collectionMode": "auto"
     }
