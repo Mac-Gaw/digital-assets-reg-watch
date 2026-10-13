@@ -205,6 +205,43 @@ window.REGWATCH_DATA = {
   ],
   "marketIntelligence": [
     {
+      "id": "finextra-crypto-rain-launches-stablecoin-wallet-2026-10-13",
+      "title": "Rain launches stablecoin wallet",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/pressarticle/111233/rain-launches-stablecoin-wallet",
+      "publishedAt": "2026-10-13T15:59:00.000Z",
+      "category": "Digital money & settlement assets",
+      "topics": [
+        "Digital money & settlement assets"
+      ],
+      "collectionMode": "auto"
+    },
+    {
+      "id": "asset-servicing-times-zodia-custody-receives-frsa-approval-for-digital-securities-2026-10-13",
+      "title": "Zodia Custody receives FRSA approval for digital securities",
+      "source": "Asset Servicing Times",
+      "url": "https://www.assetservicingtimes.com/assetservicesnews/custodyarticle.php?article_id=18439",
+      "publishedAt": "2026-10-13T09:29:07.000Z",
+      "category": "Tokenisation",
+      "topics": [
+        "Tokenisation",
+        "Custody"
+      ],
+      "collectionMode": "auto"
+    },
+    {
+      "id": "finextra-crypto-tokenized-us-treasuries-the-future-of-yield-bearing-digital-assets-2026-10-13",
+      "title": "Tokenized US Treasuries: The Future of Yield-Bearing Digital Assets",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/blogposting/33143/tokenized-us-treasuries-the-future-of-yield-bearing-digital-assets",
+      "publishedAt": "2026-10-13T08:26:06.000Z",
+      "category": "Tokenisation",
+      "topics": [
+        "Tokenisation"
+      ],
+      "collectionMode": "auto"
+    },
+    {
       "id": "markets-media-feed-broadridge-extends-digital-asset-capabilities-beyond-repo-2026-10-12",
       "title": "Broadridge Extends Digital Asset Capabilities Beyond Repo",
       "source": "Markets Media",
@@ -1388,42 +1425,6 @@ window.REGWATCH_DATA = {
       "category": "Tokenisation",
       "topics": [
         "Tokenisation"
-      ],
-      "collectionMode": "auto"
-    },
-    {
-      "id": "finextra-crypto-tee-hsm-and-mpc-a-practical-security-model-for-institutional-digital-assets-2026-09-19",
-      "title": "TEE, HSM and MPC: A Practical Security Model for Institutional Digital Assets",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/blogposting/32917/tee-hsm-and-mpc-a-practical-security-model-for-institutional-digital-assets",
-      "publishedAt": "2026-09-19T17:41:22.000Z",
-      "category": "Institutional adoption",
-      "topics": [
-        "Institutional adoption"
-      ],
-      "collectionMode": "auto"
-    },
-    {
-      "id": "finextra-crypto-sec-clears-way-for-tokenised-stock-trading-2026-09-18",
-      "title": "SEC clears way for tokenised stock trading",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/newsarticle/48432/sec-clears-way-for-tokenised-stock-trading",
-      "publishedAt": "2026-09-18T14:57:00.000Z",
-      "category": "Tokenisation",
-      "topics": [
-        "Tokenisation"
-      ],
-      "collectionMode": "auto"
-    },
-    {
-      "id": "securities-finance-times-treasuryspring-becomes-super-validator-on-canton-network-2026-09-18",
-      "title": "TreasurySpring becomes super validator on Canton Network",
-      "source": "Securities Finance Times",
-      "url": "https://www.securitiesfinancetimes.com/securitieslendingnews/industryarticle.php?article_id=228982",
-      "publishedAt": "2026-09-18T09:40:21.000Z",
-      "category": "Institutional adoption",
-      "topics": [
-        "Institutional adoption"
       ],
       "collectionMode": "auto"
     }
