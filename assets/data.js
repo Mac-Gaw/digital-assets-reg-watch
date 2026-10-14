@@ -190,6 +190,81 @@ window.REGWATCH_DATA = {
   ],
   "marketIntelligence": [
     {
+      "id": "finextra-regulation-canton-foundation-and-meritz-securities-partner-for-tokenisation-in-korea-2026-10-14",
+      "title": "Canton Foundation and Meritz Securities partner for tokenisation in Korea",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/pressarticle/111247/canton-foundation-and-meritz-securities-partner-for-tokenisation-in-korea",
+      "publishedAt": "2026-10-14T12:05:00.000Z",
+      "category": "Tokenisation",
+      "topics": [
+        "Tokenisation",
+        "Institutional adoption"
+      ],
+      "collectionMode": "auto"
+    },
+    {
+      "id": "finextra-payments-agentic-ai-and-digital-assets-how-can-banks-future-proof-payments-2026-10-14",
+      "title": "Agentic AI and Digital Assets: How Can Banks Future-Proof Payments?",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/videoarticle/3613/agentic-ai-and-digital-assets-how-can-banks-future-proof-payments",
+      "publishedAt": "2026-10-14T11:00:00.000Z",
+      "category": "Payments",
+      "topics": [
+        "Payments"
+      ],
+      "collectionMode": "auto"
+    },
+    {
+      "id": "securities-finance-times-bny-completes-tokenised-us-treasury-triparty-repo-workflow-2026-10-14",
+      "title": "BNY completes tokenised US Treasury triparty repo workflow",
+      "source": "Securities Finance Times",
+      "url": "https://www.securitiesfinancetimes.com/securitieslendingnews/repoarticle.php?article_id=229058",
+      "publishedAt": "2026-10-14T09:30:28.000Z",
+      "category": "Tokenisation",
+      "topics": [
+        "Tokenisation"
+      ],
+      "collectionMode": "auto"
+    },
+    {
+      "id": "markets-media-feed-bny-completes-tokenized-u-s-treasury-triparty-repo-2026-10-14",
+      "title": "BNY Completes Tokenized U.S. Treasury Triparty Repo",
+      "source": "Markets Media",
+      "url": "https://www.marketsmedia.com/bny-citadel-securities-complete-tokenized-u-s-treasury-triparty-repo",
+      "publishedAt": "2026-10-14T08:40:09.000Z",
+      "category": "Tokenisation",
+      "topics": [
+        "Tokenisation"
+      ],
+      "collectionMode": "auto"
+    },
+    {
+      "id": "markets-media-feed-federated-hermes-to-issue-tokenized-funds-2026-10-14",
+      "title": "Federated Hermes to Issue Tokenized Funds",
+      "source": "Markets Media",
+      "url": "https://www.marketsmedia.com/federated-hermes-partners-with-prometheum-to-issue-tokenized-funds",
+      "publishedAt": "2026-10-14T08:32:48.000Z",
+      "category": "Tokenisation",
+      "topics": [
+        "Tokenisation"
+      ],
+      "collectionMode": "auto"
+    },
+    {
+      "id": "markets-media-feed-first-otc-swap-transacted-on-canton-network-2026-10-14",
+      "title": "First OTC Swap Transacted on Canton Network",
+      "source": "Markets Media",
+      "url": "https://www.marketsmedia.com/first-otc-swap-transacted-on-canton-network",
+      "publishedAt": "2026-10-14T08:22:03.000Z",
+      "category": "Tokenisation",
+      "topics": [
+        "Tokenisation",
+        "Market infrastructure",
+        "Institutional adoption"
+      ],
+      "collectionMode": "auto"
+    },
+    {
       "id": "finextra-crypto-rain-launches-stablecoin-wallet-2026-10-13",
       "title": "Rain launches stablecoin wallet",
       "source": "Finextra",
@@ -1334,82 +1409,6 @@ window.REGWATCH_DATA = {
         "Tokenisation",
         "Market infrastructure",
         "Institutional adoption"
-      ],
-      "collectionMode": "auto"
-    },
-    {
-      "id": "asset-servicing-times-cleartoken-receives-boe-approval-for-digital-securities-depository-2026-09-22",
-      "title": "ClearToken receives BoE approval for digital securities depository",
-      "source": "Asset Servicing Times",
-      "url": "https://www.assetservicingtimes.com/assetservicesnews/clearingandsettlementarticle.php?article_id=18352",
-      "publishedAt": "2026-09-22T10:39:24.000Z",
-      "category": "Tokenisation",
-      "topics": [
-        "Tokenisation",
-        "Market infrastructure",
-        "Institutional adoption"
-      ],
-      "collectionMode": "auto"
-    },
-    {
-      "id": "finextra-markets-cleartoken-wins-bank-of-england-approval-to-clear-tokenised-assets-2026-09-22",
-      "title": "ClearToken wins Bank of England approval to clear tokenised assets",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/newsarticle/48447/cleartoken-wins-bank-of-england-approval-to-clear-tokenised-assets",
-      "publishedAt": "2026-09-22T09:43:00.000Z",
-      "category": "Tokenisation",
-      "topics": [
-        "Tokenisation",
-        "Market infrastructure",
-        "Institutional adoption"
-      ],
-      "collectionMode": "auto"
-    },
-    {
-      "id": "securities-finance-times-ecb-begins-preparatory-work-for-investments-in-tokenised-securities-2026-09-21",
-      "title": "ECB begins preparatory work for investments in tokenised securities",
-      "source": "Securities Finance Times",
-      "url": "https://www.securitiesfinancetimes.com/securitieslendingnews/technologyarticle.php?article_id=228988",
-      "publishedAt": "2026-09-21T15:46:15.000Z",
-      "category": "Tokenisation",
-      "topics": [
-        "Tokenisation"
-      ],
-      "collectionMode": "auto"
-    },
-    {
-      "id": "markets-media-feed-trade-tech-fx-digital-assets-data-intelligence-and-038-smarter-execution-2026-09-21",
-      "title": "Trade Tech FX: Digital Assets, Data Intelligence &#038; Smarter Execution",
-      "source": "Markets Media",
-      "url": "https://www.marketsmedia.com/trade-tech-fx-digital-assets-data-intelligence-smarter-execution",
-      "publishedAt": "2026-09-21T14:12:01.000Z",
-      "category": "Market structure",
-      "topics": [
-        "Market structure"
-      ],
-      "collectionMode": "auto"
-    },
-    {
-      "id": "finextra-markets-eurosystem-brings-central-bank-money-to-tokenised-finance-2026-09-21",
-      "title": "Eurosystem brings central bank money to tokenised finance",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/newsarticle/48439/eurosystem-brings-central-bank-money-to-tokenised-finance",
-      "publishedAt": "2026-09-21T11:42:00.000Z",
-      "category": "Tokenisation",
-      "topics": [
-        "Tokenisation"
-      ],
-      "collectionMode": "auto"
-    },
-    {
-      "id": "markets-media-feed-eurosystem-brings-central-bank-money-to-tokenised-finance-2026-09-21",
-      "title": "Eurosystem Brings Central Bank Money to Tokenised Finance",
-      "source": "Markets Media",
-      "url": "https://www.marketsmedia.com/eurosystem-brings-central-bank-money-to-tokenised-finance",
-      "publishedAt": "2026-09-21T10:57:01.000Z",
-      "category": "Tokenisation",
-      "topics": [
-        "Tokenisation"
       ],
       "collectionMode": "auto"
     }
