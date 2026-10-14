@@ -1,20 +1,5 @@
 [
   {
-    "id": "finextra-events-how-leading-global-banks-are-driving-the-next-generation-of-consumer-scam-controls-2026-10-07",
-    "title": "How leading global banks are driving the next generation of consumer scam controls",
-    "source": "Finextra Events",
-    "url": "https://www.finextra.com/event-info/631/how-leading-global-banks-are-driving-the-next-generation-of-consumer-scam-controls",
-    "eventDate": "2026-10-07T15:00:00.000Z",
-    "format": "Webinar",
-    "location": "Online",
-    "access": "Registration required",
-    "category": "Regulation",
-    "topics": [
-      "Regulation"
-    ],
-    "collectionMode": "auto"
-  },
-  {
     "id": "finextra-events-deposits-and-stablecoins-the-complete-digital-money-proposition-for-banks-2026-10-08",
     "title": "Deposits and stablecoins: The complete digital money proposition for banks",
     "source": "Finextra Events",
@@ -52,6 +37,21 @@
     "url": "https://www.finextra.com/event-info/632/how-ai-agents-help-fis-tackle-regulatory-change",
     "eventDate": "2026-10-14T15:00:00.000Z",
     "format": "Webinar",
+    "location": "Online",
+    "access": "Registration required",
+    "category": "Regulation",
+    "topics": [
+      "Regulation"
+    ],
+    "collectionMode": "auto"
+  },
+  {
+    "id": "finextra-events-on-demand-how-ai-agents-help-fis-tackle-regulatory-change-2026-10-14",
+    "title": "On-Demand – How AI agents help FIs tackle regulatory change",
+    "source": "Finextra Events",
+    "url": "https://www.finextra.com/event-info/632/on-demand--how-ai-agents-help-fis-tackle-regulatory-change",
+    "eventDate": "2026-10-14T15:00:00.000Z",
+    "format": "Replay",
     "location": "Online",
     "access": "Registration required",
     "category": "Regulation",
