@@ -1,5 +1,93 @@
 [
   {
+    "id": "nrf-regulation-tomorrow-draft-si-the-financial-services-and-markets-act-2023-addition-of-relevant-enactments-regulations-2026-10-13",
+    "title": "Draft SI: The Financial Services and Markets Act 2023 (Addition of Relevant Enactments) Regulations 2026",
+    "source": "Norton Rose Fulbright Regulation Tomorrow",
+    "sourceType": "Legal analysis",
+    "url": "https://www.regulationtomorrow.com/2026/10/draft-si-the-financial-services-and-markets-act-2023-addition-of-relevant-enactments-regulations-2026/",
+    "publishedAt": "2026-10-13T15:16:17.000Z",
+    "jurisdiction": "Global",
+    "category": "Implementation Workstream",
+    "topics": [
+      "Tokenisation"
+    ],
+    "priority": "Medium",
+    "status": "Published",
+    "scope": "core-digital",
+    "radarEligible": false,
+    "summary": "On 13 October 2026, there were published a draft of The Financial Services and Markets Act 2023 (Addition of Relevant Enactments) Regulations 2026 , with an explanatory memorandum . Background HM Treasury ( HMT ) sets out in its explanatory memorandum that this instrument brings several additional pieces of legislation into scope of section 17(3) of the Financial Services and Market Act of 2023 ( FSMA 2023 ), which i",
+    "whyItMatters": "Relevant for institutional tokenisation, settlement, custody, DvP, collateral and financial market infrastructure use cases.",
+    "reviewStatus": "draft",
+    "collectedAt": "2026-10-14T08:42:56.434Z"
+  },
+  {
+    "id": "ledger-insights-eu-council-wants-only-significant-crypto-firms-supervised-by-esma-2026-10-13",
+    "title": "EU Council wants only significant crypto firms supervised by ESMA",
+    "source": "Ledger Insights",
+    "sourceType": "Institutional news / analysis",
+    "url": "https://www.ledgerinsights.com/eu-council-wants-only-significant-crypto-firms-supervised-by-esma/",
+    "publishedAt": "2026-10-13T10:57:00.000Z",
+    "jurisdiction": "Global",
+    "category": "Regulatory Update",
+    "topics": [
+      "MiCA",
+      "Cryptoasset Regulation"
+    ],
+    "priority": "High",
+    "status": "Published",
+    "scope": "core-digital",
+    "radarEligible": false,
+    "summary": "Under a regulatory package released last December, the European Commission proposed that all MiCA regulated crypto asset service providers (CASPs) be supervised directly by ESMA, the EU securities regulator, rather than national authorities. EU finance ministers have watered down that proposal and instead want ESMA to supervise only “significant” CASPs. However, the change is not [&#8230;] The post EU Council wants o",
+    "whyItMatters": "Relevant for EU regulatory perimeter, CASP authorisation, stablecoin issuance or crypto-asset service implementation analysis.",
+    "reviewStatus": "draft",
+    "collectedAt": "2026-10-14T08:42:56.299Z"
+  },
+  {
+    "id": "nrf-regulation-tomorrow-fsb-chair-sets-out-fsb-work-on-ai-and-stablecoins-2026-10-13",
+    "title": "FSB Chair sets out FSB work on AI and stablecoins",
+    "source": "Norton Rose Fulbright Regulation Tomorrow",
+    "sourceType": "Legal analysis",
+    "url": "https://www.regulationtomorrow.com/2026/10/fsb-chair-sets-out-fsb-work-on-ai-and-stablecoins/",
+    "publishedAt": "2026-10-13T08:39:27.000Z",
+    "jurisdiction": "Global",
+    "category": "Source Update",
+    "topics": [
+      "Cryptoasset Regulation",
+      "Tokenisation",
+      "Stablecoins"
+    ],
+    "priority": "Low",
+    "status": "Published",
+    "scope": "core-digital",
+    "radarEligible": false,
+    "summary": "On 12 October 2026, the Financial Stability Board ( FSB ) published a letter from its Chair, Andrew Bailey, to G20 Finance Ministers and Central Bank Governors, ahead of their meeting on 15 October. Background The letter highlights risks to the global financial system, including heightened volatility in sovereign bond markets, vulnerabilities in private credit markets and risks related to artificial intelligence ( AI",
+    "whyItMatters": "Relevant for settlement assets, reserve models, payment stablecoin issuance, redemption rights and prudential or supervisory treatment.",
+    "reviewStatus": "draft",
+    "collectedAt": "2026-10-14T08:42:56.440Z"
+  },
+  {
+    "id": "nrf-regulation-tomorrow-esma-call-for-evidence-ccp-collateral-tokenisation-2026-10-13",
+    "title": "ESMA Call for Evidence – CCP collateral tokenisation",
+    "source": "Norton Rose Fulbright Regulation Tomorrow",
+    "sourceType": "Legal analysis",
+    "url": "https://www.regulationtomorrow.com/2026/10/esma-call-for-evidence-ccp-collateral-tokenisation/",
+    "publishedAt": "2026-10-13T08:33:53.000Z",
+    "jurisdiction": "Global",
+    "category": "Consultation",
+    "topics": [
+      "Tokenisation",
+      "Collateral"
+    ],
+    "priority": "High",
+    "status": "Consultation",
+    "scope": "core-digital",
+    "radarEligible": false,
+    "summary": "On 9 October 2026, the European Securities and Markets Authority ( ESMA ) issued a Call for Evidence on central counterparty ( CCP ) collateral tokenisation. Background The Call for Evidence seeks to gather evidence on the legal, market, operational and infrastructure issues raised by tokenised collateral arrangements. It sets the scene on the potential implications of tokenisation in the life cycle of CCP collateral",
+    "whyItMatters": "Relevant for institutional tokenisation, settlement, custody, DvP, collateral and financial market infrastructure use cases.",
+    "reviewStatus": "draft",
+    "collectedAt": "2026-10-14T08:42:56.445Z"
+  },
+  {
     "id": "nrf-regulation-tomorrow-esma-responds-to-commission-s-consultation-on-the-review-of-mica-2026-09-30",
     "title": "ESMA responds to Commission’s consultation on the review of MiCA",
     "source": "Norton Rose Fulbright Regulation Tomorrow",

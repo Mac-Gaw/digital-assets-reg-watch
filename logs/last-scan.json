@@ -1,7 +1,7 @@
 {
-  "scannedAt": "2026-10-01T08:53:06.328Z",
+  "scannedAt": "2026-10-14T08:42:56.511Z",
   "newAuto": 1,
-  "newPending": 6,
+  "newPending": 4,
   "prunedFalsePositives": 0,
   "sources": [
     {
@@ -18,7 +18,7 @@
       "source": "bank-of-england-publications",
       "status": "ok",
       "feedItems": 50,
-      "relevantItems": 1
+      "relevantItems": 0
     },
     {
       "source": "bank-of-england-pra",
@@ -134,7 +134,7 @@
       "source": "nrf-regulation-tomorrow",
       "status": "ok",
       "feedItems": 10,
-      "relevantItems": 5
+      "relevantItems": 3
     }
   ]
 }
