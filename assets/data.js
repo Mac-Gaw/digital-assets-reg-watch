@@ -190,6 +190,103 @@ window.REGWATCH_DATA = {
   ],
   "marketIntelligence": [
     {
+      "id": "finextra-crypto-cross-river-embeds-ripple-stablecoin-into-operating-system-2026-10-15",
+      "title": "Cross River embeds Ripple stablecoin into operating system",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/pressarticle/111299/cross-river-embeds-ripple-stablecoin-into-operating-system",
+      "publishedAt": "2026-10-15T15:57:00.000Z",
+      "category": "Digital money & settlement assets",
+      "topics": [
+        "Digital money & settlement assets"
+      ],
+      "collectionMode": "auto"
+    },
+    {
+      "id": "finextra-payments-episode-six-launches-real-time-backing-verification-for-tokenised-money-2026-10-15",
+      "title": "Episode Six launches real-time backing verification for tokenised money",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/pressarticle/111297/episode-six-launches-real-time-backing-verification-for-tokenised-money",
+      "publishedAt": "2026-10-15T15:53:00.000Z",
+      "category": "Tokenisation",
+      "topics": [
+        "Tokenisation"
+      ],
+      "collectionMode": "auto"
+    },
+    {
+      "id": "finextra-crypto-mastercard-and-bvnk-bring-fiat-and-stablecoin-payments-together-in-global-money-platform-2026-10-15",
+      "title": "Mastercard and BVNK bring fiat and stablecoin payments together in global money platform",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/newsarticle/48590/mastercard-and-bvnk-bring-fiat-and-stablecoin-payments-together-in-global-money-platform",
+      "publishedAt": "2026-10-15T15:17:00.000Z",
+      "category": "Digital money & settlement assets",
+      "topics": [
+        "Digital money & settlement assets"
+      ],
+      "collectionMode": "auto"
+    },
+    {
+      "id": "securities-finance-times-isla-americas-a-collateral-state-of-mind-from-equity-to-equity-to-tokenisation-2026-10-15",
+      "title": "ISLA Americas: A collateral state of mind — from equity-to-equity to tokenisation",
+      "source": "Securities Finance Times",
+      "url": "https://www.securitiesfinancetimes.com/securitieslendingnews/industryarticle.php?article_id=229069",
+      "publishedAt": "2026-10-15T14:06:48.000Z",
+      "category": "Tokenisation",
+      "topics": [
+        "Tokenisation"
+      ],
+      "collectionMode": "auto"
+    },
+    {
+      "id": "finextra-crypto-ppro-and-damisa-tam-on-stablecoin-powered-treasury-and-cross-border-settlement-2026-10-15",
+      "title": "PPRO and Damisa tam on stablecoin-powered treasury and cross-border settlement",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/pressarticle/111280/ppro-and-damisa-tam-on-stablecoin-powered-treasury-and-cross-border-settlement",
+      "publishedAt": "2026-10-15T13:23:00.000Z",
+      "category": "Digital money & settlement assets",
+      "topics": [
+        "Digital money & settlement assets"
+      ],
+      "collectionMode": "auto"
+    },
+    {
+      "id": "finextra-crypto-straitsx-partners-visa-to-expand-stablecoin-backed-card-issuring-to-mre-markets-2026-10-15",
+      "title": "StraitsX partners Visa to expand stablecoin-backed card issuring to mre markets",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/pressarticle/111278/straitsx-partners-visa-to-expand-stablecoin-backed-card-issuring-to-mre-markets",
+      "publishedAt": "2026-10-15T13:21:00.000Z",
+      "category": "Digital money & settlement assets",
+      "topics": [
+        "Digital money & settlement assets"
+      ],
+      "collectionMode": "auto"
+    },
+    {
+      "id": "finextra-crypto-drivewealth-and-ripple-bring-institutional-digital-asset-infrastructure-to-global-investing-2026-10-15",
+      "title": "DriveWealth and Ripple bring institutional digital asset infrastructure to global investing",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/pressarticle/111277/drivewealth-and-ripple-bring-institutional-digital-asset-infrastructure-to-global-investing",
+      "publishedAt": "2026-10-15T13:17:00.000Z",
+      "category": "Digital assets",
+      "topics": [
+        "Digital assets"
+      ],
+      "collectionMode": "auto"
+    },
+    {
+      "id": "finextra-payments-what-banks-need-to-know-before-choosing-tokenized-deposit-infrastructure-2026-10-15",
+      "title": "What Banks Need to Know Before Choosing Tokenized Deposit Infrastructure",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/blogposting/33171/what-banks-need-to-know-before-choosing-tokenized-deposit-infrastructure",
+      "publishedAt": "2026-10-15T08:46:22.000Z",
+      "category": "Tokenisation",
+      "topics": [
+        "Tokenisation",
+        "Digital money & settlement assets"
+      ],
+      "collectionMode": "auto"
+    },
+    {
       "id": "finextra-regulation-canton-foundation-and-meritz-securities-partner-for-tokenisation-in-korea-2026-10-14",
       "title": "Canton Foundation and Meritz Securities partner for tokenisation in Korea",
       "source": "Finextra",
@@ -1308,107 +1405,6 @@ window.REGWATCH_DATA = {
       "category": "Digital assets",
       "topics": [
         "Digital assets"
-      ],
-      "collectionMode": "auto"
-    },
-    {
-      "id": "finextra-crypto-tokenized-stocks-in-2026-building-the-infrastructure-for-24-7-on-chain-equity-markets-2026-09-23",
-      "title": "Tokenized Stocks in 2026: Building the Infrastructure for 24/7 On-Chain Equity Markets",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/blogposting/32952/tokenized-stocks-in-2026-building-the-infrastructure-for-247-on-chain-equity-markets",
-      "publishedAt": "2026-09-23T13:03:19.000Z",
-      "category": "Tokenisation",
-      "topics": [
-        "Tokenisation"
-      ],
-      "collectionMode": "auto"
-    },
-    {
-      "id": "finextra-markets-bluewhale-delivers-always-on-ai-agents-for-tokenised-stock-and-asset-trading-2026-09-23",
-      "title": "Bluewhale delivers always-on AI agents for tokenised stock and asset trading",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/pressarticle/110983/bluewhale-delivers-always-on-ai-agents-for-tokenised-stock-and-asset-trading",
-      "publishedAt": "2026-09-23T09:41:00.000Z",
-      "category": "Tokenisation",
-      "topics": [
-        "Tokenisation"
-      ],
-      "collectionMode": "auto"
-    },
-    {
-      "id": "finextra-crypto-reap-and-visa-collaborate-to-launch-stablecoin-card-programme-across-100-markets-2026-09-23",
-      "title": "Reap and Visa collaborate to launch stablecoin card programme across 100+ markets",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/pressarticle/110982/reap-and-visa-collaborate-to-launch-stablecoin-card-programme-across-100-markets",
-      "publishedAt": "2026-09-23T09:39:00.000Z",
-      "category": "Digital money & settlement assets",
-      "topics": [
-        "Digital money & settlement assets"
-      ],
-      "collectionMode": "auto"
-    },
-    {
-      "id": "markets-media-feed-cleartoken-digital-securities-depository-approved-in-boe-sandbox-2026-09-23",
-      "title": "ClearToken Digital Securities Depository Approved in BoE Sandbox",
-      "source": "Markets Media",
-      "url": "https://www.marketsmedia.com/cleartoken-digital-securities-depository-approved-in-boe-sandbox",
-      "publishedAt": "2026-09-23T07:54:04.000Z",
-      "category": "Tokenisation",
-      "topics": [
-        "Tokenisation",
-        "Market infrastructure",
-        "Institutional adoption"
-      ],
-      "collectionMode": "auto"
-    },
-    {
-      "id": "finextra-crypto-sofi-bank-goes-live-with-stablecoin-settlement-across-mastercard-network-2026-09-23",
-      "title": "SoFi Bank goes live with stablecoin settlement across Mastercard network",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/newsarticle/48453/sofi-bank-goes-live-with-stablecoin-settlement-across-mastercard-network",
-      "publishedAt": "2026-09-23T00:01:00.000Z",
-      "category": "Digital money & settlement assets",
-      "topics": [
-        "Digital money & settlement assets"
-      ],
-      "collectionMode": "auto"
-    },
-    {
-      "id": "finextra-payments-canadian-banks-join-forces-on-tokenised-deposits-2026-09-23",
-      "title": "Canadian banks join forces on tokenised deposits",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/newsarticle/48456/canadian-banks-join-forces-on-tokenised-deposits",
-      "publishedAt": "2026-09-23T00:01:00.000Z",
-      "category": "Tokenisation",
-      "topics": [
-        "Tokenisation",
-        "Digital money & settlement assets"
-      ],
-      "collectionMode": "auto"
-    },
-    {
-      "id": "finextra-crypto-tokenized-venture-capital-how-vc-can-digitize-fund-interests-and-private-investments-in-2026-2026-09-22",
-      "title": "Tokenized Venture Capital: How VC Can Digitize Fund Interests and Private Investments in 2026",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/blogposting/32941/tokenized-venture-capital-how-vc-can-digitize-fund-interests-and-private-investments-in-2026",
-      "publishedAt": "2026-09-22T10:44:49.000Z",
-      "category": "Tokenisation",
-      "topics": [
-        "Tokenisation"
-      ],
-      "collectionMode": "auto"
-    },
-    {
-      "id": "securities-finance-times-cleartoken-receives-boe-approval-for-digital-securities-depository-2026-09-22",
-      "title": "ClearToken receives BoE approval for digital securities depository",
-      "source": "Securities Finance Times",
-      "url": "https://www.securitiesfinancetimes.com/securitieslendingnews/repoarticle.php?article_id=228989",
-      "publishedAt": "2026-09-22T10:39:29.000Z",
-      "category": "Tokenisation",
-      "topics": [
-        "Tokenisation",
-        "Market infrastructure",
-        "Institutional adoption"
       ],
       "collectionMode": "auto"
     }
