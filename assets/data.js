@@ -60,37 +60,6 @@ window.REGWATCH_DATA = {
   },
   "events": [
     {
-      "id": "finextra-events-deposits-and-stablecoins-the-complete-digital-money-proposition-for-banks-2026-10-08",
-      "title": "Deposits and stablecoins: The complete digital money proposition for banks",
-      "source": "Finextra Events",
-      "url": "https://www.finextra.com/event-info/634/deposits-and-stablecoins-the-complete-digital-money-proposition-for-banks",
-      "eventDate": "2026-10-08T15:00:00.000Z",
-      "format": "Webinar",
-      "location": "Online",
-      "access": "Registration required",
-      "category": "Digital money & settlement assets",
-      "topics": [
-        "Digital money & settlement assets",
-        "Regulation"
-      ],
-      "collectionMode": "auto"
-    },
-    {
-      "id": "finextra-events-on-demand-deposits-and-stablecoins-the-complete-digital-money-proposition-for-banks-2026-10-08",
-      "title": "On-Demand – Deposits and stablecoins: The complete digital money proposition for banks",
-      "source": "Finextra Events",
-      "url": "https://www.finextra.com/event-info/634/on-demand--deposits-and-stablecoins-the-complete-digital-money-proposition-for-banks",
-      "eventDate": "2026-10-08T15:00:00.000Z",
-      "format": "Replay",
-      "location": "Online",
-      "access": "Registration required",
-      "category": "Digital money & settlement assets",
-      "topics": [
-        "Digital money & settlement assets"
-      ],
-      "collectionMode": "auto"
-    },
-    {
       "id": "finextra-events-how-ai-agents-help-fis-tackle-regulatory-change-2026-10-14",
       "title": "How AI agents help FIs tackle regulatory change",
       "source": "Finextra Events",
