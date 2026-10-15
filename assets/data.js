@@ -159,6 +159,30 @@ window.REGWATCH_DATA = {
   ],
   "marketIntelligence": [
     {
+      "id": "finextra-crypto-visa-takes-stablecoin-powered-money-movement-from-pilots-to-production-2026-10-15",
+      "title": "Visa takes stablecoin-powered money movement from pilots to production",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/pressarticle/111303/visa-takes-stablecoin-powered-money-movement-from-pilots-to-production",
+      "publishedAt": "2026-10-15T16:30:00.000Z",
+      "category": "Digital money & settlement assets",
+      "topics": [
+        "Digital money & settlement assets"
+      ],
+      "collectionMode": "auto"
+    },
+    {
+      "id": "finextra-regulation-digital-money-in-gaming-what-virtual-economies-can-teach-financial-services-2026-10-15",
+      "title": "Digital Money in Gaming: What Virtual Economies Can Teach Financial Services",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/blogposting/33188/digital-money-in-gaming-what-virtual-economies-can-teach-financial-services",
+      "publishedAt": "2026-10-15T15:59:09.000Z",
+      "category": "Digital money & settlement assets",
+      "topics": [
+        "Digital money & settlement assets"
+      ],
+      "collectionMode": "auto"
+    },
+    {
       "id": "finextra-crypto-cross-river-embeds-ripple-stablecoin-into-operating-system-2026-10-15",
       "title": "Cross River embeds Ripple stablecoin into operating system",
       "source": "Finextra",
@@ -1350,30 +1374,6 @@ window.REGWATCH_DATA = {
       "topics": [
         "Tokenisation",
         "Digital money & settlement assets"
-      ],
-      "collectionMode": "auto"
-    },
-    {
-      "id": "markets-media-feed-nyse-blockchain-com-explore-trading-of-tokenized-securities-2026-09-23",
-      "title": "NYSE, Blockchain.com Explore Trading of Tokenized Securities",
-      "source": "Markets Media",
-      "url": "https://www.marketsmedia.com/nyse-blockchain-com-explore-24-7-365-trading-of-tokenized-securities",
-      "publishedAt": "2026-09-23T14:48:43.000Z",
-      "category": "Tokenisation",
-      "topics": [
-        "Tokenisation"
-      ],
-      "collectionMode": "auto"
-    },
-    {
-      "id": "finextra-crypto-rbi-to-provide-digital-asset-services-across-europe-with-bitpanda-support-2026-09-23",
-      "title": "RBI to provide digital asset services across Europe with Bitpanda support",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/pressarticle/110992/rbi-to-provide-digital-asset-services-across-europe-with-bitpanda-support",
-      "publishedAt": "2026-09-23T14:26:00.000Z",
-      "category": "Digital assets",
-      "topics": [
-        "Digital assets"
       ],
       "collectionMode": "auto"
     }
