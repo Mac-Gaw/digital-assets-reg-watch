@@ -159,6 +159,54 @@ window.REGWATCH_DATA = {
   ],
   "marketIntelligence": [
     {
+      "id": "finextra-crypto-stripe-and-plasma-team-on-multi-currency-stablecoin-cards-2026-10-16",
+      "title": "Stripe and Plasma team on multi-currency stablecoin cards",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/pressarticle/111319/stripe-and-plasma-team-on-multi-currency-stablecoin-cards",
+      "publishedAt": "2026-10-16T14:53:00.000Z",
+      "category": "Digital money & settlement assets",
+      "topics": [
+        "Digital money & settlement assets"
+      ],
+      "collectionMode": "auto"
+    },
+    {
+      "id": "finextra-payments-research-reveals-gaps-in-sme-s-stablecoin-adoption-2026-10-16",
+      "title": "Research reveals gaps in SME's stablecoin adoption",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/pressarticle/111312/research-reveals-gaps-in-smes-stablecoin-adoption",
+      "publishedAt": "2026-10-16T13:13:00.000Z",
+      "category": "Digital money & settlement assets",
+      "topics": [
+        "Digital money & settlement assets"
+      ],
+      "collectionMode": "auto"
+    },
+    {
+      "id": "finextra-crypto-japanese-banks-complete-stablecoin-poc-2026-10-16",
+      "title": "Japanese banks complete stablecoin PoC",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/pressarticle/111311/japanese-banks-complete-stablecoin-poc",
+      "publishedAt": "2026-10-16T12:51:00.000Z",
+      "category": "Digital money & settlement assets",
+      "topics": [
+        "Digital money & settlement assets"
+      ],
+      "collectionMode": "auto"
+    },
+    {
+      "id": "asset-servicing-times-neo-88-believe-stablecoins-could-improve-cross-border-b2b-collections-2026-10-16",
+      "title": "Neo: 88% believe stablecoins could improve cross-border B2B collections",
+      "source": "Asset Servicing Times",
+      "url": "https://www.assetservicingtimes.com/assetservicesnews/digitalassetsarticle.php?article_id=18460",
+      "publishedAt": "2026-10-16T11:49:05.000Z",
+      "category": "Digital money & settlement assets",
+      "topics": [
+        "Digital money & settlement assets"
+      ],
+      "collectionMode": "auto"
+    },
+    {
       "id": "markets-media-feed-marex-launches-first-qis-indices-on-digital-assets-2026-10-16",
       "title": "Marex Launches First QIS Indices on Digital Assets",
       "source": "Markets Media",
@@ -248,6 +296,18 @@ window.REGWATCH_DATA = {
       "source": "Finextra",
       "url": "https://www.finextra.com/pressarticle/111280/ppro-and-damisa-tam-on-stablecoin-powered-treasury-and-cross-border-settlement",
       "publishedAt": "2026-10-15T13:23:00.000Z",
+      "category": "Digital money & settlement assets",
+      "topics": [
+        "Digital money & settlement assets"
+      ],
+      "collectionMode": "auto"
+    },
+    {
+      "id": "finextra-crypto-straitsx-partners-visa-to-expand-stablecoin-backed-card-issuing-to-more-markets-2026-10-15",
+      "title": "StraitsX partners Visa to expand stablecoin-backed card issuing to more markets",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/pressarticle/111278/straitsx-partners-visa-to-expand-stablecoin-backed-card-issuing-to-more-markets",
+      "publishedAt": "2026-10-15T13:21:00.000Z",
       "category": "Digital money & settlement assets",
       "topics": [
         "Digital money & settlement assets"
@@ -1312,67 +1372,6 @@ window.REGWATCH_DATA = {
       "category": "Tokenisation",
       "topics": [
         "Tokenisation"
-      ],
-      "collectionMode": "auto"
-    },
-    {
-      "id": "markets-media-feed-tokenization-moves-from-powerpoint-to-production-2026-09-24",
-      "title": "Tokenization Moves from ‘PowerPoint to Production’",
-      "source": "Markets Media",
-      "url": "https://www.marketsmedia.com/tokenization-moves-from-powerpoint-to-production",
-      "publishedAt": "2026-09-24T17:57:04.000Z",
-      "category": "Tokenisation",
-      "topics": [
-        "Tokenisation"
-      ],
-      "collectionMode": "auto"
-    },
-    {
-      "id": "finextra-crypto-ibm-integrates-digital-asset-platform-with-swift-shared-ledger-2026-09-24",
-      "title": "IBM integrates digital asset platform with Swift shared ledger",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/newsarticle/48469/ibm-integrates-digital-asset-platform-with-swift-shared-ledger",
-      "publishedAt": "2026-09-24T14:28:00.000Z",
-      "category": "Institutional adoption",
-      "topics": [
-        "Institutional adoption"
-      ],
-      "collectionMode": "auto"
-    },
-    {
-      "id": "finextra-payments-the-clearing-house-taps-quant-for-tokenised-deposit-network-2026-09-24",
-      "title": "The Clearing House taps Quant for tokenised deposit network",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/newsarticle/48465/the-clearing-house-taps-quant-for-tokenised-deposit-network",
-      "publishedAt": "2026-09-24T14:00:00.000Z",
-      "category": "Tokenisation",
-      "topics": [
-        "Tokenisation",
-        "Digital money & settlement assets"
-      ],
-      "collectionMode": "auto"
-    },
-    {
-      "id": "finextra-crypto-tokenized-renewable-energy-projects-building-the-infrastructure-for-on-chain-ownership-2026-09-24",
-      "title": "Tokenized Renewable Energy Projects: Building the Infrastructure for On-Chain Ownership",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/blogposting/32970/tokenized-renewable-energy-projects-building-the-infrastructure-for-on-chain-ownership",
-      "publishedAt": "2026-09-24T12:30:56.000Z",
-      "category": "Tokenisation",
-      "topics": [
-        "Tokenisation"
-      ],
-      "collectionMode": "auto"
-    },
-    {
-      "id": "finextra-payments-kredete-acquires-gravv-to-build-stablecoin-infrastructure-2026-09-24",
-      "title": "Kredete acquires Gravv to build stablecoin infrastructure",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/pressarticle/111018/kredete-acquires-gravv-to-build-stablecoin-infrastructure",
-      "publishedAt": "2026-09-24T12:12:00.000Z",
-      "category": "Digital money & settlement assets",
-      "topics": [
-        "Digital money & settlement assets"
       ],
       "collectionMode": "auto"
     }
