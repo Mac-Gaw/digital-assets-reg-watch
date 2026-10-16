@@ -159,6 +159,18 @@ window.REGWATCH_DATA = {
   ],
   "marketIntelligence": [
     {
+      "id": "markets-media-feed-marex-launches-first-qis-indices-on-digital-assets-2026-10-16",
+      "title": "Marex Launches First QIS Indices on Digital Assets",
+      "source": "Markets Media",
+      "url": "https://www.marketsmedia.com/marex-launches-first-institutional-qis-indices-on-digital-assets",
+      "publishedAt": "2026-10-16T07:46:13.000Z",
+      "category": "Market structure",
+      "topics": [
+        "Market structure"
+      ],
+      "collectionMode": "auto"
+    },
+    {
       "id": "finextra-crypto-visa-takes-stablecoin-powered-money-movement-from-pilots-to-production-2026-10-15",
       "title": "Visa takes stablecoin-powered money movement from pilots to production",
       "source": "Finextra",
@@ -1360,19 +1372,6 @@ window.REGWATCH_DATA = {
       "publishedAt": "2026-09-24T12:12:00.000Z",
       "category": "Digital money & settlement assets",
       "topics": [
-        "Digital money & settlement assets"
-      ],
-      "collectionMode": "auto"
-    },
-    {
-      "id": "finextra-payments-uk-banks-pilot-tokenised-deposit-transactions-2026-09-24",
-      "title": "UK banks pilot tokenised deposit transactions",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/newsarticle/48467/uk-banks-pilot-tokenised-deposit-transactions",
-      "publishedAt": "2026-09-24T09:33:00.000Z",
-      "category": "Tokenisation",
-      "topics": [
-        "Tokenisation",
         "Digital money & settlement assets"
       ],
       "collectionMode": "auto"
