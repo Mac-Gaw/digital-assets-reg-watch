@@ -1,5 +1,91 @@
 [
   {
+    "id": "finextra-crypto-mastercard-launches-stablecoin-security-2026-10-19",
+    "title": "Mastercard launches Stablecoin Security",
+    "source": "Finextra",
+    "url": "https://www.finextra.com/pressarticle/111350/mastercard-launches-stablecoin-security",
+    "publishedAt": "2026-10-19T18:47:00.000Z",
+    "category": "Digital money & settlement assets",
+    "topics": [
+      "Digital money & settlement assets"
+    ],
+    "collectionMode": "auto"
+  },
+  {
+    "id": "finextra-crypto-mesh-makes-stablecoin-and-crypto-balances-spendable-across-visa-network-2026-10-19",
+    "title": "Mesh makes stablecoin and crypto balances spendable across Visa network",
+    "source": "Finextra",
+    "url": "https://www.finextra.com/pressarticle/111346/mesh-makes-stablecoin-and-crypto-balances-spendable-across-visa-network",
+    "publishedAt": "2026-10-19T16:52:00.000Z",
+    "category": "Digital money & settlement assets",
+    "topics": [
+      "Digital money & settlement assets"
+    ],
+    "collectionMode": "auto"
+  },
+  {
+    "id": "markets-media-feed-issuers-have-little-reason-to-allow-3rd-party-stock-tokenization-2026-10-19",
+    "title": "Issuers Have ‘Little Reason’ to Allow 3rd Party Stock Tokenization",
+    "source": "Markets Media",
+    "url": "https://www.marketsmedia.com/companies-have-little-reason-to-permit-third-party-stock-tokenization",
+    "publishedAt": "2026-10-19T16:38:55.000Z",
+    "category": "Tokenisation",
+    "topics": [
+      "Tokenisation"
+    ],
+    "collectionMode": "auto"
+  },
+  {
+    "id": "finextra-crypto-euronet-and-fireblocks-team-on-stablecoin-funded-card-issuing-2026-10-19",
+    "title": "Euronet and Fireblocks team on stablecoin-funded card issuing",
+    "source": "Finextra",
+    "url": "https://www.finextra.com/pressarticle/111344/euronet-and-fireblocks-team-on-stablecoin-funded-card-issuing",
+    "publishedAt": "2026-10-19T16:12:00.000Z",
+    "category": "Custody",
+    "topics": [
+      "Custody",
+      "Digital money & settlement assets"
+    ],
+    "collectionMode": "auto"
+  },
+  {
+    "id": "finextra-payments-scalable-digital-asset-payments-need-a-control-loop-not-just-a-transaction-api-2026-10-19",
+    "title": "Scalable Digital Asset Payments Need a Control Loop, Not Just a Transaction API",
+    "source": "Finextra",
+    "url": "https://www.finextra.com/blogposting/33220/scalable-digital-asset-payments-need-a-control-loop-not-just-a-transaction-api",
+    "publishedAt": "2026-10-19T15:53:08.000Z",
+    "category": "Payments",
+    "topics": [
+      "Payments"
+    ],
+    "collectionMode": "auto"
+  },
+  {
+    "id": "asset-servicing-times-thunes-and-coinbase-partner-on-unified-digital-asset-infrastructure-2026-10-19",
+    "title": "Thunes and Coinbase partner on unified digital asset infrastructure",
+    "source": "Asset Servicing Times",
+    "url": "https://www.assetservicingtimes.com/assetservicesnews/digitalassetsarticle.php?article_id=18464",
+    "publishedAt": "2026-10-19T15:51:51.000Z",
+    "category": "Digital money & settlement assets",
+    "topics": [
+      "Digital money & settlement assets"
+    ],
+    "collectionMode": "auto"
+  },
+  {
+    "id": "finextra-payments-jack-henry-expands-google-cloud-partnership-to-tokenised-deposits-2026-10-19",
+    "title": "Jack Henry expands Google Cloud partnership to tokenised deposits",
+    "source": "Finextra",
+    "url": "https://www.finextra.com/pressarticle/111335/jack-henry-expands-google-cloud-partnership-to-tokenised-deposits",
+    "publishedAt": "2026-10-19T15:11:00.000Z",
+    "category": "Tokenisation",
+    "topics": [
+      "Tokenisation",
+      "Digital money & settlement assets"
+    ],
+    "collectionMode": "auto"
+  },
+  {
     "id": "securities-finance-times-dlt-moves-towards-practical-global-adoption-afme-report-finds-2026-10-19",
     "title": "DLT moves towards practical global adoption, AFME report finds",
     "source": "Securities Finance Times",
@@ -1129,90 +1215,6 @@
     "category": "Institutional adoption",
     "topics": [
       "Institutional adoption"
-    ],
-    "collectionMode": "auto"
-  },
-  {
-    "id": "finextra-payments-sibos-2026-keynote-speakers-explore-interoperability-digital-assets-and-ai-2026-09-29",
-    "title": "Sibos 2026: Keynote speakers explore interoperability, digital assets, and AI",
-    "source": "Finextra",
-    "url": "https://www.finextra.com/newsarticle/48491/sibos-2026-keynote-speakers-explore-interoperability-digital-assets-and-ai",
-    "publishedAt": "2026-09-29T00:00:00.000Z",
-    "category": "Payments",
-    "topics": [
-      "Payments"
-    ],
-    "collectionMode": "auto"
-  },
-  {
-    "id": "markets-media-feed-coinbase-citi-collaborate-on-fiat-and-038-stablecoin-payments-2026-09-28",
-    "title": "Coinbase, Citi Collaborate on Fiat &#038; Stablecoin Payments",
-    "source": "Markets Media",
-    "url": "https://www.marketsmedia.com/coinbase-citi-collaborate-on-fiat-stablecoin-payments",
-    "publishedAt": "2026-09-28T14:29:44.000Z",
-    "category": "Digital money & settlement assets",
-    "topics": [
-      "Digital money & settlement assets"
-    ],
-    "collectionMode": "auto"
-  },
-  {
-    "id": "finextra-markets-lseg-appointed-as-super-validator-on-canton-network-2026-09-28",
-    "title": "LSEG appointed as super validator on Canton Network",
-    "source": "Finextra",
-    "url": "https://www.finextra.com/pressarticle/111041/lseg-appointed-as-super-validator-on-canton-network",
-    "publishedAt": "2026-09-28T14:18:00.000Z",
-    "category": "Institutional adoption",
-    "topics": [
-      "Institutional adoption"
-    ],
-    "collectionMode": "auto"
-  },
-  {
-    "id": "securities-finance-times-canton-network-appoints-lseg-as-super-validator-2026-09-28",
-    "title": "Canton Network appoints LSEG as Super Validator",
-    "source": "Securities Finance Times",
-    "url": "https://www.securitiesfinancetimes.com/securitieslendingnews/industryarticle.php?article_id=229005",
-    "publishedAt": "2026-09-28T13:33:39.000Z",
-    "category": "Institutional adoption",
-    "topics": [
-      "Institutional adoption"
-    ],
-    "collectionMode": "auto"
-  },
-  {
-    "id": "asset-servicing-times-lseg-appointed-as-super-validator-on-canton-network-2026-09-28",
-    "title": "LSEG appointed as Super Validator on Canton Network",
-    "source": "Asset Servicing Times",
-    "url": "https://www.assetservicingtimes.com/assetservicesnews/industryarticle.php?article_id=18375",
-    "publishedAt": "2026-09-28T13:29:32.000Z",
-    "category": "Institutional adoption",
-    "topics": [
-      "Institutional adoption"
-    ],
-    "collectionMode": "auto"
-  },
-  {
-    "id": "finextra-crypto-bluwhale-announces-trading-agents-for-tokenised-stocks-and-real-world-assets-2026-09-25",
-    "title": "Bluwhale announces trading agents for tokenised stocks and real-world assets",
-    "source": "Finextra",
-    "url": "https://www.finextra.com/pressarticle/111025/bluwhale-announces-trading-agents-for-tokenised-stocks-and-real-world-assets",
-    "publishedAt": "2026-09-25T10:52:00.000Z",
-    "category": "Tokenisation",
-    "topics": [
-      "Tokenisation"
-    ],
-    "collectionMode": "auto"
-  },
-  {
-    "id": "markets-media-feed-fed-consults-on-stablecoin-proposals-related-to-genius-act-2026-09-25",
-    "title": "Fed Consults on Stablecoin Proposals Related to GENIUS Act",
-    "source": "Markets Media",
-    "url": "https://www.marketsmedia.com/fed-consults-on-stablecoin-proposals-related-to-genius-act",
-    "publishedAt": "2026-09-25T10:50:07.000Z",
-    "category": "Digital money & settlement assets",
-    "topics": [
-      "Digital money & settlement assets"
     ],
     "collectionMode": "auto"
   }
