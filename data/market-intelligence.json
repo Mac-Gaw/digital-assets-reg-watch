@@ -1,5 +1,42 @@
 [
   {
+    "id": "securities-finance-times-dlt-moves-towards-practical-global-adoption-afme-report-finds-2026-10-19",
+    "title": "DLT moves towards practical global adoption, AFME report finds",
+    "source": "Securities Finance Times",
+    "url": "https://www.securitiesfinancetimes.com/securitieslendingnews/industryarticle.php?article_id=229075",
+    "publishedAt": "2026-10-19T10:33:57.000Z",
+    "category": "Tokenisation",
+    "topics": [
+      "Tokenisation",
+      "Market infrastructure"
+    ],
+    "collectionMode": "auto"
+  },
+  {
+    "id": "markets-media-feed-dtcc-details-tokenization-service-2026-10-19",
+    "title": "DTCC Details Tokenization Service",
+    "source": "Markets Media",
+    "url": "https://www.marketsmedia.com/dtcc-details-tokenization-service",
+    "publishedAt": "2026-10-19T08:45:48.000Z",
+    "category": "Tokenisation",
+    "topics": [
+      "Tokenisation"
+    ],
+    "collectionMode": "auto"
+  },
+  {
+    "id": "markets-media-feed-japanese-banks-complete-joint-stablecoin-issuance-2026-10-19",
+    "title": "Japanese Banks Complete Joint Stablecoin Issuance",
+    "source": "Markets Media",
+    "url": "https://www.marketsmedia.com/japanese-banks-complete-joint-stablecoin-issuance",
+    "publishedAt": "2026-10-19T07:28:09.000Z",
+    "category": "Digital money & settlement assets",
+    "topics": [
+      "Digital money & settlement assets"
+    ],
+    "collectionMode": "auto"
+  },
+  {
     "id": "finextra-crypto-stripe-and-plasma-team-on-multi-currency-stablecoin-cards-2026-10-16",
     "title": "Stripe and Plasma team on multi-currency stablecoin cards",
     "source": "Finextra",
@@ -1176,43 +1213,6 @@
     "category": "Digital money & settlement assets",
     "topics": [
       "Digital money & settlement assets"
-    ],
-    "collectionMode": "auto"
-  },
-  {
-    "id": "markets-media-feed-uk-banks-complete-live-tokenised-deposit-customer-transactions-2026-09-25",
-    "title": "UK Banks Complete Live Tokenised Deposit Customer Transactions",
-    "source": "Markets Media",
-    "url": "https://www.marketsmedia.com/uk-banks-complete-first-live-tokenised-deposit-customer-transactions",
-    "publishedAt": "2026-09-25T08:26:26.000Z",
-    "category": "Tokenisation",
-    "topics": [
-      "Tokenisation",
-      "Digital money & settlement assets"
-    ],
-    "collectionMode": "auto"
-  },
-  {
-    "id": "markets-media-feed-coalition-formed-to-advance-issuer-sponsored-tokenization-2026-09-25",
-    "title": "Coalition Formed to Advance Issuer-Sponsored Tokenization",
-    "source": "Markets Media",
-    "url": "https://www.marketsmedia.com/coalition-formed-to-advance-issuer-sponsored-tokenized-securities",
-    "publishedAt": "2026-09-25T08:08:39.000Z",
-    "category": "Tokenisation",
-    "topics": [
-      "Tokenisation"
-    ],
-    "collectionMode": "auto"
-  },
-  {
-    "id": "finextra-crypto-tokenisation-promised-easier-access-to-assets-who-decides-the-price-2026-09-25",
-    "title": "Tokenisation Promised Easier Access To Assets. Who Decides The Price?",
-    "source": "Finextra",
-    "url": "https://www.finextra.com/blogposting/32984/tokenisation-promised-easier-access-to-assets-who-decides-the-price",
-    "publishedAt": "2026-09-25T07:21:50.000Z",
-    "category": "Tokenisation",
-    "topics": [
-      "Tokenisation"
     ],
     "collectionMode": "auto"
   }
