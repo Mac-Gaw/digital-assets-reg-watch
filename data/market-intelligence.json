@@ -1,5 +1,17 @@
 [
   {
+    "id": "markets-media-feed-archax-chainlink-unlock-tokenised-treasuries-as-collateral-2026-10-20",
+    "title": "Archax, Chainlink Unlock Tokenised Treasuries as Collateral",
+    "source": "Markets Media",
+    "url": "https://www.marketsmedia.com/archax-adopts-chainlink-to-unlock-tokenised-treasuries-as-collateral",
+    "publishedAt": "2026-10-20T07:58:19.000Z",
+    "category": "Tokenisation",
+    "topics": [
+      "Tokenisation"
+    ],
+    "collectionMode": "auto"
+  },
+  {
     "id": "finextra-crypto-mastercard-launches-stablecoin-security-2026-10-19",
     "title": "Mastercard launches Stablecoin Security",
     "source": "Finextra",
@@ -1203,18 +1215,6 @@
     "category": "Tokenisation",
     "topics": [
       "Tokenisation"
-    ],
-    "collectionMode": "auto"
-  },
-  {
-    "id": "markets-media-feed-lseg-appointed-as-super-validator-on-canton-network-2026-09-29",
-    "title": "LSEG Appointed as Super Validator on Canton Network",
-    "source": "Markets Media",
-    "url": "https://www.marketsmedia.com/lseg-appointed-as-super-validator-on-canton-network",
-    "publishedAt": "2026-09-29T07:46:46.000Z",
-    "category": "Institutional adoption",
-    "topics": [
-      "Institutional adoption"
     ],
     "collectionMode": "auto"
   }
