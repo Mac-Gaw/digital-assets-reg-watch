@@ -174,6 +174,18 @@ window.REGWATCH_DATA = {
   ],
   "marketIntelligence": [
     {
+      "id": "finextra-crypto-boerse-stuttgart-obtains-dlt-trading-and-settlement-system-license-2026-10-20",
+      "title": "Boerse Stuttgart obtains DLT trading and settlement system license",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/pressarticle/111362/boerse-stuttgart-obtains-dlt-trading-and-settlement-system-license",
+      "publishedAt": "2026-10-20T13:23:00.000Z",
+      "category": "Market infrastructure",
+      "topics": [
+        "Market infrastructure"
+      ],
+      "collectionMode": "auto"
+    },
+    {
       "id": "markets-media-feed-archax-chainlink-unlock-tokenised-treasuries-as-collateral-2026-10-20",
       "title": "Archax, Chainlink Unlock Tokenised Treasuries as Collateral",
       "source": "Markets Media",
@@ -1377,18 +1389,6 @@ window.REGWATCH_DATA = {
       "topics": [
         "Tokenisation",
         "Market infrastructure"
-      ],
-      "collectionMode": "auto"
-    },
-    {
-      "id": "markets-media-feed-franklin-templeton-bybit-expand-access-to-tokenized-funds-2026-09-29",
-      "title": "Franklin Templeton, Bybit Expand Access to Tokenized Funds",
-      "source": "Markets Media",
-      "url": "https://www.marketsmedia.com/franklin-templeton-bybit-expand-access-to-tokenized-investing",
-      "publishedAt": "2026-09-29T08:10:43.000Z",
-      "category": "Tokenisation",
-      "topics": [
-        "Tokenisation"
       ],
       "collectionMode": "auto"
     }
