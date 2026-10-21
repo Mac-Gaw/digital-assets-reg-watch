@@ -174,6 +174,55 @@ window.REGWATCH_DATA = {
   ],
   "marketIntelligence": [
     {
+      "id": "finextra-markets-moonpay-and-dunamu-collaborate-on-digital-asset-infrastructure-2026-10-21",
+      "title": "MoonPay and Dunamu collaborate on digital asset infrastructure",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/pressarticle/111378/moonpay-and-dunamu-collaborate-on-digital-asset-infrastructure",
+      "publishedAt": "2026-10-21T09:54:00.000Z",
+      "category": "Digital money & settlement assets",
+      "topics": [
+        "Digital money & settlement assets"
+      ],
+      "collectionMode": "auto"
+    },
+    {
+      "id": "finextra-payments-participate-and-hazel-complete-tokenised-payment-using-tokenised-deposits-2026-10-21",
+      "title": "Participate and Hazel complete tokenised payment using tokenised deposits",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/pressarticle/111377/participate-and-hazel-complete-tokenised-payment-using-tokenised-deposits",
+      "publishedAt": "2026-10-21T09:50:00.000Z",
+      "category": "Tokenisation",
+      "topics": [
+        "Tokenisation",
+        "Digital money & settlement assets"
+      ],
+      "collectionMode": "auto"
+    },
+    {
+      "id": "asset-servicing-times-generali-investments-launches-natively-tokenised-class-of-mmf-2026-10-21",
+      "title": "Generali Investments launches natively tokenised class of MMF",
+      "source": "Asset Servicing Times",
+      "url": "https://www.assetservicingtimes.com/assetservicesnews/digitalassetsarticle.php?article_id=18471",
+      "publishedAt": "2026-10-21T09:12:55.000Z",
+      "category": "Tokenisation",
+      "topics": [
+        "Tokenisation"
+      ],
+      "collectionMode": "auto"
+    },
+    {
+      "id": "markets-media-feed-boerse-stuttgart-group-obtains-dlt-tss-license-2026-10-21",
+      "title": "Boerse Stuttgart Group Obtains DLT TSS License",
+      "source": "Markets Media",
+      "url": "https://www.marketsmedia.com/boerse-stuttgart-group-obtains-dlt-tss-license",
+      "publishedAt": "2026-10-21T07:39:03.000Z",
+      "category": "Market infrastructure",
+      "topics": [
+        "Market infrastructure"
+      ],
+      "collectionMode": "auto"
+    },
+    {
       "id": "finextra-crypto-boerse-stuttgart-obtains-dlt-trading-and-settlement-system-license-2026-10-20",
       "title": "Boerse Stuttgart obtains DLT trading and settlement system license",
       "source": "Finextra",
@@ -1339,56 +1388,6 @@ window.REGWATCH_DATA = {
       "category": "Tokenisation",
       "topics": [
         "Tokenisation"
-      ],
-      "collectionMode": "auto"
-    },
-    {
-      "id": "asset-servicing-times-broadridge-appoints-golden-as-head-of-tokenized-product-2026-09-29",
-      "title": "Broadridge appoints Golden as Head of Tokenized Product",
-      "source": "Asset Servicing Times",
-      "url": "https://www.assetservicingtimes.com/assetservicesnews/peoplemovesarticle.php?article_id=18384",
-      "publishedAt": "2026-09-29T13:06:06.000Z",
-      "category": "Tokenisation",
-      "topics": [
-        "Tokenisation"
-      ],
-      "collectionMode": "auto"
-    },
-    {
-      "id": "finextra-crypto-broadridge-appoints-theo-golden-as-head-of-tokenized-products-international-2026-09-29",
-      "title": "Broadridge appoints Theo Golden as head of tokenized products, international",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/pressarticle/111057/broadridge-appoints-theo-golden-as-head-of-tokenized-products-international",
-      "publishedAt": "2026-09-29T09:41:00.000Z",
-      "category": "Tokenisation",
-      "topics": [
-        "Tokenisation"
-      ],
-      "collectionMode": "auto"
-    },
-    {
-      "id": "finextra-markets-icma-examines-the-role-of-smart-contracts-in-distributed-ledger-technology-in-fixed-income-marke-2026-09-29",
-      "title": "Icma examines the role of smart contracts in distributed ledger technology in fixed income markets",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/pressarticle/111054/icma-examines-the-role-of-smart-contracts-in-distributed-ledger-technology-in-fixed-income-markets",
-      "publishedAt": "2026-09-29T09:35:00.000Z",
-      "category": "Market infrastructure",
-      "topics": [
-        "Market infrastructure",
-        "Institutional adoption"
-      ],
-      "collectionMode": "auto"
-    },
-    {
-      "id": "markets-media-feed-tokenized-settlement-available-for-goldman-sachs-100bn-treasury-fund-2026-09-29",
-      "title": "Tokenized Settlement Available for Goldman Sachs $100bn Treasury Fund",
-      "source": "Markets Media",
-      "url": "https://www.marketsmedia.com/goldman-sachs-100bn-treasury-fund-joins-tokenized-settlement-platform",
-      "publishedAt": "2026-09-29T08:24:35.000Z",
-      "category": "Tokenisation",
-      "topics": [
-        "Tokenisation",
-        "Market infrastructure"
       ],
       "collectionMode": "auto"
     }
