@@ -144,6 +144,92 @@ window.REGWATCH_DATA = {
   ],
   "marketIntelligence": [
     {
+      "id": "finextra-crypto-bloomberg-enables-scalable-crypto-asset-exposure-classification-under-base-framework-2026-10-22",
+      "title": "Bloomberg enables scalable crypto asset exposure classification under Base framework",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/pressarticle/111416/bloomberg-enables-scalable-crypto-asset-exposure-classification-under-base-framework",
+      "publishedAt": "2026-10-22T14:21:00.000Z",
+      "category": "Tokenisation",
+      "topics": [
+        "Tokenisation"
+      ],
+      "collectionMode": "auto"
+    },
+    {
+      "id": "finextra-crypto-gcex-launches-options-on-digital-assets-for-professional-and-institutional-clients-2026-10-22",
+      "title": "GCEX launches options on digital assets for professional and institutional clients",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/pressarticle/111414/gcex-launches-options-on-digital-assets-for-professional-and-institutional-clients",
+      "publishedAt": "2026-10-22T14:07:00.000Z",
+      "category": "Digital assets",
+      "topics": [
+        "Digital assets"
+      ],
+      "collectionMode": "auto"
+    },
+    {
+      "id": "finextra-payments-terrapay-verify-integrates-with-kinexys-by-jp-morgan-s-liink-network-for-global-payee-verificati-2026-10-22",
+      "title": "TerraPay Verify integrates with Kinexys by JP Morgan’s Liink network for global payee verification",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/pressarticle/111413/terrapay-verify-integrates-with-kinexys-by-jp-morgans-liink-network-for-global-payee-verification",
+      "publishedAt": "2026-10-22T13:31:00.000Z",
+      "category": "Institutional adoption",
+      "topics": [
+        "Institutional adoption"
+      ],
+      "collectionMode": "auto"
+    },
+    {
+      "id": "asset-servicing-times-boerse-stuttgart-group-receives-dlt-tss-licence-2026-10-22",
+      "title": "Boerse Stuttgart Group receives DLT TSS licence",
+      "source": "Asset Servicing Times",
+      "url": "https://www.assetservicingtimes.com/assetservicesnews/regulationarticle.php?article_id=18480",
+      "publishedAt": "2026-10-22T12:08:55.000Z",
+      "category": "Tokenisation",
+      "topics": [
+        "Tokenisation",
+        "Market infrastructure",
+        "Institutional adoption"
+      ],
+      "collectionMode": "auto"
+    },
+    {
+      "id": "finextra-crypto-gcex-launches-digital-assets-options-2026-10-22",
+      "title": "GCEX launches digital assets options",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/pressarticle/111405/gcex-launches-digital-assets-options",
+      "publishedAt": "2026-10-22T11:12:00.000Z",
+      "category": "Digital assets",
+      "topics": [
+        "Digital assets"
+      ],
+      "collectionMode": "auto"
+    },
+    {
+      "id": "securities-finance-times-luxembourg-state-treasury-issues-first-dlt-benchmark-bond-in-luxcsd-2026-10-22",
+      "title": "Luxembourg State Treasury issues first DLT benchmark bond in LuxCSD",
+      "source": "Securities Finance Times",
+      "url": "https://www.securitiesfinancetimes.com/securitieslendingnews/industryarticle.php?article_id=229088",
+      "publishedAt": "2026-10-22T10:58:32.000Z",
+      "category": "Market infrastructure",
+      "topics": [
+        "Market infrastructure"
+      ],
+      "collectionMode": "auto"
+    },
+    {
+      "id": "finextra-regulation-the-stablecoin-highway-is-open-the-accountability-gap-remains-2026-10-22",
+      "title": "The Stablecoin Highway Is Open. The Accountability Gap Remains.",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/blogposting/33253/the-stablecoin-highway-is-open-the-accountability-gap-remains",
+      "publishedAt": "2026-10-22T07:44:04.000Z",
+      "category": "Digital money & settlement assets",
+      "topics": [
+        "Digital money & settlement assets"
+      ],
+      "collectionMode": "auto"
+    },
+    {
       "id": "finextra-crypto-fintechs-top-banks-and-stablecoins-for-cheap-cross-border-payment-bis-research-2026-10-22",
       "title": "Fintechs top banks and stablecoins for cheap cross-border payment - BIS research",
       "source": "Finextra",
@@ -1271,90 +1357,6 @@ window.REGWATCH_DATA = {
       "source": "Markets Media",
       "url": "https://www.marketsmedia.com/hsbc-names-stablecoin-hsbc-redcoin",
       "publishedAt": "2026-10-01T05:55:00.000Z",
-      "category": "Digital money & settlement assets",
-      "topics": [
-        "Digital money & settlement assets"
-      ],
-      "collectionMode": "auto"
-    },
-    {
-      "id": "finextra-regulation-integrity-in-digital-asset-architecture-evaluating-crypto-trading-applications-2026-09-30",
-      "title": "Integrity in Digital Asset Architecture: Evaluating Crypto Trading Applications",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/blogposting/33039/integrity-in-digital-asset-architecture-evaluating-crypto-trading-applications",
-      "publishedAt": "2026-09-30T19:41:36.000Z",
-      "category": "Regulation",
-      "topics": [
-        "Regulation"
-      ],
-      "collectionMode": "auto"
-    },
-    {
-      "id": "finextra-payments-hsbc-prepares-for-the-launch-of-hk-backed-stablecoin-redcoin-2026-09-30",
-      "title": "HSBC prepares for the launch of HK$-backed stablecoin, RedCoin",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/newsarticle/48504/hsbc-prepares-for-the-launch-of-hk-backed-stablecoin-redcoin",
-      "publishedAt": "2026-09-30T11:05:00.000Z",
-      "category": "Digital money & settlement assets",
-      "topics": [
-        "Digital money & settlement assets"
-      ],
-      "collectionMode": "auto"
-    },
-    {
-      "id": "finextra-payments-kora-debuts-one-rail-to-support-pan-african-stablecoin-transactions-2026-09-30",
-      "title": "Kora debuts One Rail to support Pan-African stablecoin transactions",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/pressarticle/111083/kora-debuts-one-rail-to-support-pan-african-stablecoin-transactions",
-      "publishedAt": "2026-09-30T09:56:00.000Z",
-      "category": "Digital money & settlement assets",
-      "topics": [
-        "Digital money & settlement assets"
-      ],
-      "collectionMode": "auto"
-    },
-    {
-      "id": "finextra-crypto-visa-and-lloyds-complete-live-trials-of-stablecoin-settlement-2026-09-30",
-      "title": "Visa and Lloyds complete live trials of stablecoin settlement",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/newsarticle/48503/visa-and-lloyds-complete-live-trials-of-stablecoin-settlement",
-      "publishedAt": "2026-09-30T09:44:00.000Z",
-      "category": "Digital money & settlement assets",
-      "topics": [
-        "Digital money & settlement assets"
-      ],
-      "collectionMode": "auto"
-    },
-    {
-      "id": "markets-media-feed-baillie-gifford-opens-tokenised-bond-fund-in-four-markets-2026-09-30",
-      "title": "Baillie Gifford Opens Tokenised Bond Fund in Four Markets",
-      "source": "Markets Media",
-      "url": "https://www.marketsmedia.com/baillie-gifford-takes-tokenised-bond-fund-across-four-markets",
-      "publishedAt": "2026-09-30T08:11:36.000Z",
-      "category": "Tokenisation",
-      "topics": [
-        "Tokenisation"
-      ],
-      "collectionMode": "auto"
-    },
-    {
-      "id": "finextra-crypto-circle-and-volante-partner-to-help-banks-integrate-stablecoins-into-payment-operations-2026-09-30",
-      "title": "Circle and Volante partner to help banks integrate stablecoins into payment operations",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/newsarticle/48496/circle-and-volante-partner-to-help-banks-integrate-stablecoins-into-payment-operations",
-      "publishedAt": "2026-09-30T00:01:00.000Z",
-      "category": "Digital money & settlement assets",
-      "topics": [
-        "Digital money & settlement assets"
-      ],
-      "collectionMode": "auto"
-    },
-    {
-      "id": "finextra-crypto-jeeves-raises-110m-for-stablecoin-banking-platform-2026-09-29",
-      "title": "Jeeves raises $110m for stablecoin banking platform",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/newsarticle/48498/jeeves-raises-110m-for-stablecoin-banking-platform",
-      "publishedAt": "2026-09-29T18:26:00.000Z",
       "category": "Digital money & settlement assets",
       "topics": [
         "Digital money & settlement assets"
