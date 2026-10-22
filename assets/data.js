@@ -144,6 +144,19 @@ window.REGWATCH_DATA = {
   ],
   "marketIntelligence": [
     {
+      "id": "finextra-crypto-sofi-launches-tokenised-deposits-2026-10-22",
+      "title": "SoFi launches tokenised deposits",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/pressarticle/111421/sofi-launches-tokenised-deposits",
+      "publishedAt": "2026-10-22T19:19:00.000Z",
+      "category": "Tokenisation",
+      "topics": [
+        "Tokenisation",
+        "Digital money & settlement assets"
+      ],
+      "collectionMode": "auto"
+    },
+    {
       "id": "finextra-crypto-bloomberg-enables-scalable-crypto-asset-exposure-classification-under-base-framework-2026-10-22",
       "title": "Bloomberg enables scalable crypto asset exposure classification under Base framework",
       "source": "Finextra",
@@ -1347,18 +1360,6 @@ window.REGWATCH_DATA = {
       "category": "Tokenisation",
       "topics": [
         "Tokenisation",
-        "Digital money & settlement assets"
-      ],
-      "collectionMode": "auto"
-    },
-    {
-      "id": "markets-media-feed-hsbc-names-stablecoin-hsbc-redcoin-2026-10-01",
-      "title": "HSBC Names Stablecoin ‘HSBC Redcoin’",
-      "source": "Markets Media",
-      "url": "https://www.marketsmedia.com/hsbc-names-stablecoin-hsbc-redcoin",
-      "publishedAt": "2026-10-01T05:55:00.000Z",
-      "category": "Digital money & settlement assets",
-      "topics": [
         "Digital money & settlement assets"
       ],
       "collectionMode": "auto"
