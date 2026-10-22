@@ -1,6 +1,6 @@
 {
-  "scannedAt": "2026-10-22T04:39:45.810Z",
-  "newItems": 16,
+  "scannedAt": "2026-10-22T10:08:32.681Z",
+  "newItems": 18,
   "prunedStoredItems": 0,
   "sources": [
     {
@@ -55,7 +55,7 @@
       "source": "markets-media-feed",
       "status": "ok",
       "feedItems": 10,
-      "relevantItems": 4
+      "relevantItems": 5
     }
   ]
 }
