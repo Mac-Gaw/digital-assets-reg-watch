@@ -144,6 +144,18 @@ window.REGWATCH_DATA = {
   ],
   "marketIntelligence": [
     {
+      "id": "asset-servicing-times-nolan-joins-fnality-as-chief-operating-officer-2026-10-23",
+      "title": "Nolan joins Fnality as chief operating officer",
+      "source": "Asset Servicing Times",
+      "url": "https://www.assetservicingtimes.com/assetservicesnews/peoplemovesarticle.php?article_id=18486",
+      "publishedAt": "2026-10-23T15:38:40.000Z",
+      "category": "Institutional adoption",
+      "topics": [
+        "Institutional adoption"
+      ],
+      "collectionMode": "auto"
+    },
+    {
       "id": "finextra-crypto-thailand-and-malaysia-back-singapore-s-bloom-cross-border-digital-money-initiative-2026-10-23",
       "title": "Thailand and Malaysia back Singapore's BLOOM cross-border digital money initiative",
       "source": "Finextra",
@@ -1348,18 +1360,6 @@ window.REGWATCH_DATA = {
       "category": "Payments",
       "topics": [
         "Payments"
-      ],
-      "collectionMode": "auto"
-    },
-    {
-      "id": "finextra-crypto-lloyds-survey-reveals-71-of-uk-fis-believe-tokenisation-will-reshape-financial-services-2026-10-02",
-      "title": "Lloyds survey reveals 71% of UK FIs believe tokenisation will reshape financial services",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/newsarticle/48526/lloyds-survey-reveals-71-of-uk-fis-believe-tokenisation-will-reshape-financial-services",
-      "publishedAt": "2026-10-02T11:07:00.000Z",
-      "category": "Tokenisation",
-      "topics": [
-        "Tokenisation"
       ],
       "collectionMode": "auto"
     }
