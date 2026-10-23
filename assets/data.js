@@ -144,6 +144,42 @@ window.REGWATCH_DATA = {
   ],
   "marketIntelligence": [
     {
+      "id": "finextra-crypto-thailand-and-malaysia-back-singapore-s-bloom-cross-border-digital-money-initiative-2026-10-23",
+      "title": "Thailand and Malaysia back Singapore's BLOOM cross-border digital money initiative",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/newsarticle/48641/thailand-and-malaysia-back-singapores-bloom-cross-border-digital-money-initiative",
+      "publishedAt": "2026-10-23T13:52:00.000Z",
+      "category": "Digital money & settlement assets",
+      "topics": [
+        "Digital money & settlement assets"
+      ],
+      "collectionMode": "auto"
+    },
+    {
+      "id": "finextra-crypto-hsbc-launches-first-stablecoin-2026-10-23",
+      "title": "HSBC launches first stablecoin",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/newsarticle/48638/hsbc-launches-first-stablecoin",
+      "publishedAt": "2026-10-23T11:09:00.000Z",
+      "category": "Digital money & settlement assets",
+      "topics": [
+        "Digital money & settlement assets"
+      ],
+      "collectionMode": "auto"
+    },
+    {
+      "id": "markets-media-feed-hsbc-launches-its-first-stablecoin-2026-10-23",
+      "title": "HSBC Launches its First Stablecoin",
+      "source": "Markets Media",
+      "url": "https://www.marketsmedia.com/hsbc-launches-its-first-stablecoin",
+      "publishedAt": "2026-10-23T10:53:07.000Z",
+      "category": "Digital money & settlement assets",
+      "topics": [
+        "Digital money & settlement assets"
+      ],
+      "collectionMode": "auto"
+    },
+    {
       "id": "finextra-crypto-sofi-launches-tokenised-deposits-2026-10-22",
       "title": "SoFi launches tokenised deposits",
       "source": "Finextra",
@@ -1324,43 +1360,6 @@ window.REGWATCH_DATA = {
       "category": "Tokenisation",
       "topics": [
         "Tokenisation"
-      ],
-      "collectionMode": "auto"
-    },
-    {
-      "id": "finextra-crypto-marex-expands-digital-assets-offering-with-rolling-spot-crypto-2026-10-01",
-      "title": "Marex expands digital assets offering with rolling spot crypto",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/pressarticle/111098/marex-expands-digital-assets-offering-with-rolling-spot-crypto",
-      "publishedAt": "2026-10-01T13:45:00.000Z",
-      "category": "Digital assets",
-      "topics": [
-        "Digital assets"
-      ],
-      "collectionMode": "auto"
-    },
-    {
-      "id": "finextra-crypto-straitsx-to-bring-first-sgd-denominated-stablecoin-to-monad-2026-10-01",
-      "title": "StraitsX to bring first SGD-denominated stablecoin to Monad",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/pressarticle/111097/straitsx-to-bring-first-sgd-denominated-stablecoin-to-monad",
-      "publishedAt": "2026-10-01T13:23:00.000Z",
-      "category": "Digital money & settlement assets",
-      "topics": [
-        "Digital money & settlement assets"
-      ],
-      "collectionMode": "auto"
-    },
-    {
-      "id": "finextra-markets-the-transatlantic-fintech-pivot-infrastructure-overhaul-tokenised-deposits-and-agentic-risks-2026-10-01",
-      "title": "The Transatlantic Fintech Pivot: Infrastructure Overhaul, Tokenised Deposits, and Agentic Risks",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/blogposting/33044/the-transatlantic-fintech-pivot-infrastructure-overhaul-tokenised-deposits-and-agentic-risks",
-      "publishedAt": "2026-10-01T10:14:44.000Z",
-      "category": "Tokenisation",
-      "topics": [
-        "Tokenisation",
-        "Digital money & settlement assets"
       ],
       "collectionMode": "auto"
     }
