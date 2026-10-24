@@ -70,7 +70,7 @@
     }
   },
   "marketIntelligence": {
-    "lastScan": "2026-10-24T18:06:42.102Z",
+    "lastScan": "2026-10-24T20:45:23.300Z",
     "retentionDays": 30,
     "maxItems": 100,
     "lastScanResult": {
