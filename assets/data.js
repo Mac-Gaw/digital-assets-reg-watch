@@ -144,6 +144,42 @@ window.REGWATCH_DATA = {
   ],
   "marketIntelligence": [
     {
+      "id": "finextra-crypto-canada-opens-stablecoin-consultation-2026-10-26",
+      "title": "Canada opens stablecoin consultation",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/newsarticle/48651/canada-opens-stablecoin-consultation",
+      "publishedAt": "2026-10-26T19:38:00.000Z",
+      "category": "Digital money & settlement assets",
+      "topics": [
+        "Digital money & settlement assets"
+      ],
+      "collectionMode": "auto"
+    },
+    {
+      "id": "finextra-markets-esm-settles-dlt-based-bond-issuance-on-eurosystem-s-pontes-platform-2026-10-26",
+      "title": "ESM settles DLT-based bond issuance on Eurosystem’s Pontes platform",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/pressarticle/111446/esm-settles-dlt-based-bond-issuance-on-eurosystems-pontes-platform",
+      "publishedAt": "2026-10-26T19:25:00.000Z",
+      "category": "Market infrastructure",
+      "topics": [
+        "Market infrastructure"
+      ],
+      "collectionMode": "auto"
+    },
+    {
+      "id": "finextra-crypto-stablecoin-payments-need-a-tougher-business-case-2026-10-26",
+      "title": "Stablecoin payments need a tougher business case",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/blogposting/33304/stablecoin-payments-need-a-tougher-business-case",
+      "publishedAt": "2026-10-26T15:58:59.000Z",
+      "category": "Digital money & settlement assets",
+      "topics": [
+        "Digital money & settlement assets"
+      ],
+      "collectionMode": "auto"
+    },
+    {
       "id": "finextra-crypto-solana-leads-rwa-tokenization-building-the-next-generation-of-capital-markets-2026-10-26",
       "title": "Solana Leads RWA Tokenization: Building the Next Generation of Capital Markets",
       "source": "Finextra",
@@ -1324,42 +1360,6 @@ window.REGWATCH_DATA = {
       "category": "Digital money & settlement assets",
       "topics": [
         "Digital money & settlement assets"
-      ],
-      "collectionMode": "auto"
-    },
-    {
-      "id": "finextra-crypto-sec-publishes-new-crypto-custody-rules-2026-10-05",
-      "title": "SEC publishes new crypto custody rules",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/newsarticle/48530/sec-publishes-new-crypto-custody-rules",
-      "publishedAt": "2026-10-05T11:46:00.000Z",
-      "category": "Custody",
-      "topics": [
-        "Custody"
-      ],
-      "collectionMode": "auto"
-    },
-    {
-      "id": "finextra-crypto-apac-consumers-show-appetite-for-stablecoin-2026-10-05",
-      "title": "APAC consumers show appetite for stablecoin",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/newsarticle/48529/apac-consumers-show-appetite-for-stablecoin",
-      "publishedAt": "2026-10-05T10:50:00.000Z",
-      "category": "Digital money & settlement assets",
-      "topics": [
-        "Digital money & settlement assets"
-      ],
-      "collectionMode": "auto"
-    },
-    {
-      "id": "markets-media-feed-okxice-files-to-launch-tokenized-securities-venue-2026-10-05",
-      "title": "OKXICE Files to Launch Tokenized Securities Venue",
-      "source": "Markets Media",
-      "url": "https://www.marketsmedia.com/okxice-files-to-launch-tokenized-securities-venue",
-      "publishedAt": "2026-10-05T08:11:17.000Z",
-      "category": "Tokenisation",
-      "topics": [
-        "Tokenisation"
       ],
       "collectionMode": "auto"
     }
