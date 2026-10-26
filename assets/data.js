@@ -144,6 +144,18 @@ window.REGWATCH_DATA = {
   ],
   "marketIntelligence": [
     {
+      "id": "markets-media-feed-hong-kong-approves-1st-secondary-trading-of-tokenised-funds-2026-10-26",
+      "title": "Hong Kong Approves 1st Secondary Trading Of Tokenised Funds",
+      "source": "Markets Media",
+      "url": "https://www.marketsmedia.com/hong-kong-approves-first-secondary-trading-of-tokenised-public-funds",
+      "publishedAt": "2026-10-26T09:12:32.000Z",
+      "category": "Tokenisation",
+      "topics": [
+        "Tokenisation"
+      ],
+      "collectionMode": "auto"
+    },
+    {
       "id": "asset-servicing-times-nolan-joins-fnality-as-chief-operating-officer-2026-10-23",
       "title": "Nolan joins Fnality as chief operating officer",
       "source": "Asset Servicing Times",
@@ -1348,18 +1360,6 @@ window.REGWATCH_DATA = {
       "category": "Digital assets",
       "topics": [
         "Digital assets"
-      ],
-      "collectionMode": "auto"
-    },
-    {
-      "id": "finextra-payments-how-can-digital-assets-bridge-the-bank-modernisation-gap-2026-10-02",
-      "title": "How Can Digital Assets Bridge the Bank Modernisation Gap?",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/videoarticle/3603/how-can-digital-assets-bridge-the-bank-modernisation-gap",
-      "publishedAt": "2026-10-02T15:00:00.000Z",
-      "category": "Payments",
-      "topics": [
-        "Payments"
       ],
       "collectionMode": "auto"
     }
