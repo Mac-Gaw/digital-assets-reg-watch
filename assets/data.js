@@ -60,24 +60,6 @@ window.REGWATCH_DATA = {
   },
   "events": [
     {
-      "id": "digital-asset-conference-iv-2026",
-      "title": "The Digital Asset Conference IV",
-      "source": "The Digital Asset Conference",
-      "url": "https://www.thedigitalassetconference.com/event-details/the-digital-asset-conference-iv",
-      "eventDate": "2026-10-20T09:00:00+01:00",
-      "endDate": "2026-10-20",
-      "format": "Conference",
-      "location": "London",
-      "access": "Paid tickets",
-      "category": "Institutional digital assets",
-      "topics": [
-        "Digital assets",
-        "Tokenisation",
-        "Institutional adoption"
-      ],
-      "collectionMode": "manual"
-    },
-    {
       "id": "finextra-events-is-europe-ready-to-embrace-stablecoins-2026-11-17",
       "title": "Is Europe ready to embrace stablecoins?",
       "source": "Finextra Events",
