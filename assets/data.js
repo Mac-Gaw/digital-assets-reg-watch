@@ -126,6 +126,78 @@ window.REGWATCH_DATA = {
   ],
   "marketIntelligence": [
     {
+      "id": "finextra-regulation-axiology-and-vialet-bring-tokenised-money-market-funds-to-client-safeguarding-2026-10-27",
+      "title": "Axiology and Vialet bring tokenised money market funds to client safeguarding",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/pressarticle/111459/axiology-and-vialet-bring-tokenised-money-market-funds-to-client-safeguarding",
+      "publishedAt": "2026-10-27T13:01:00.000Z",
+      "category": "Tokenisation",
+      "topics": [
+        "Tokenisation"
+      ],
+      "collectionMode": "auto"
+    },
+    {
+      "id": "asset-servicing-times-axiology-and-vialet-enable-tokenised-mmfs-for-client-fund-safeguarding-2026-10-27",
+      "title": "Axiology and VIALET enable tokenised MMFs for client fund safeguarding",
+      "source": "Asset Servicing Times",
+      "url": "https://www.assetservicingtimes.com/assetservicesnews/digitalassetsarticle.php?article_id=18496",
+      "publishedAt": "2026-10-27T12:06:40.000Z",
+      "category": "Tokenisation",
+      "topics": [
+        "Tokenisation"
+      ],
+      "collectionMode": "auto"
+    },
+    {
+      "id": "asset-servicing-times-esm-hits-milestone-with-dlt-based-bond-issuance-on-pontes-2026-10-27",
+      "title": "ESM hits milestone with DLT-based bond issuance on Pontes",
+      "source": "Asset Servicing Times",
+      "url": "https://www.assetservicingtimes.com/assetservicesnews/clearingandsettlementarticle.php?article_id=18491",
+      "publishedAt": "2026-10-27T10:14:54.000Z",
+      "category": "Market infrastructure",
+      "topics": [
+        "Market infrastructure"
+      ],
+      "collectionMode": "auto"
+    },
+    {
+      "id": "securities-finance-times-esm-hits-milestone-with-dlt-based-bond-issuance-on-pontes-2026-10-27",
+      "title": "ESM hits milestone with DLT-based bond issuance on Pontes",
+      "source": "Securities Finance Times",
+      "url": "https://www.securitiesfinancetimes.com/securitieslendingnews/technologyarticle.php?article_id=229098",
+      "publishedAt": "2026-10-27T10:14:49.000Z",
+      "category": "Market infrastructure",
+      "topics": [
+        "Market infrastructure"
+      ],
+      "collectionMode": "auto"
+    },
+    {
+      "id": "markets-media-feed-aviva-investors-expands-tokenised-offering-2026-10-27",
+      "title": "Aviva Investors Expands Tokenised Offering",
+      "source": "Markets Media",
+      "url": "https://www.marketsmedia.com/aviva-investors-expands-tokenised-offering",
+      "publishedAt": "2026-10-27T09:39:45.000Z",
+      "category": "Tokenisation",
+      "topics": [
+        "Tokenisation"
+      ],
+      "collectionMode": "auto"
+    },
+    {
+      "id": "markets-media-feed-first-european-supranational-issues-dlt-bond-on-pontes-2026-10-27",
+      "title": "First European Supranational Issues DLT Bond on Pontes",
+      "source": "Markets Media",
+      "url": "https://www.marketsmedia.com/first-european-supranational-issues-dlt-based-bond-on-pontes",
+      "publishedAt": "2026-10-27T08:41:16.000Z",
+      "category": "Market infrastructure",
+      "topics": [
+        "Market infrastructure"
+      ],
+      "collectionMode": "auto"
+    },
+    {
       "id": "finextra-crypto-canada-opens-stablecoin-consultation-2026-10-26",
       "title": "Canada opens stablecoin consultation",
       "source": "Finextra",
@@ -1268,79 +1340,6 @@ window.REGWATCH_DATA = {
       "category": "Tokenisation",
       "topics": [
         "Tokenisation",
-        "Digital money & settlement assets"
-      ],
-      "collectionMode": "auto"
-    },
-    {
-      "id": "finextra-wholesale-sponsor-s-message-webinar-is-europe-ready-to-embrace-stablecoins-2026-10-06",
-      "title": "Sponsor's message: [Webinar] Is Europe ready to embrace stablecoins?",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/banners/banner.aspx?opt=ad&baid=8233",
-      "publishedAt": "2026-10-06T00:00:00.000Z",
-      "category": "Digital money & settlement assets",
-      "topics": [
-        "Digital money & settlement assets"
-      ],
-      "collectionMode": "auto"
-    },
-    {
-      "id": "finextra-crypto-morgan-stanley-sets-up-digital-asset-lab-2026-10-05",
-      "title": "Morgan Stanley sets up digital asset lab",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/newsarticle/48536/morgan-stanley-sets-up-digital-asset-lab",
-      "publishedAt": "2026-10-05T18:24:00.000Z",
-      "category": "Tokenisation",
-      "topics": [
-        "Tokenisation",
-        "Digital money & settlement assets"
-      ],
-      "collectionMode": "auto"
-    },
-    {
-      "id": "markets-media-feed-tipping-point-reached-for-commercialization-of-digital-assets-2026-10-05",
-      "title": "“Tipping Point” Reached for Commercialization of Digital Assets",
-      "source": "Markets Media",
-      "url": "https://www.marketsmedia.com/tipping-point-reached-for-commercialization-of-digital-assets",
-      "publishedAt": "2026-10-05T17:29:11.000Z",
-      "category": "Market structure",
-      "topics": [
-        "Market structure"
-      ],
-      "collectionMode": "auto"
-    },
-    {
-      "id": "asset-servicing-times-investre-adds-digital-transfer-agent-to-regulated-tokenisation-suite-2026-10-05",
-      "title": "Investre adds Digital Transfer Agent to regulated tokenisation suite",
-      "source": "Asset Servicing Times",
-      "url": "https://www.assetservicingtimes.com/assetservicesnews/industryarticle.php?article_id=18404",
-      "publishedAt": "2026-10-05T15:50:58.000Z",
-      "category": "Tokenisation",
-      "topics": [
-        "Tokenisation"
-      ],
-      "collectionMode": "auto"
-    },
-    {
-      "id": "finextra-payments-can-banks-adapt-to-a-new-age-of-agentic-commerce-and-tokenized-money-2026-10-05",
-      "title": "Can Banks Adapt to a New Age of Agentic Commerce and Tokenized Money?",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/videoarticle/3604/can-banks-adapt-to-a-new-age-of-agentic-commerce-and-tokenized-money",
-      "publishedAt": "2026-10-05T15:00:00.000Z",
-      "category": "Tokenisation",
-      "topics": [
-        "Tokenisation"
-      ],
-      "collectionMode": "auto"
-    },
-    {
-      "id": "finextra-crypto-consortium-launched-for-euro-stablecoin-adoption-2026-10-05",
-      "title": "Consortium launched for euro stablecoin adoption",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/pressarticle/111126/consortium-launched-for-euro-stablecoin-adoption",
-      "publishedAt": "2026-10-05T13:05:00.000Z",
-      "category": "Digital money & settlement assets",
-      "topics": [
         "Digital money & settlement assets"
       ],
       "collectionMode": "auto"
