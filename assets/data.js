@@ -126,6 +126,18 @@ window.REGWATCH_DATA = {
   ],
   "marketIntelligence": [
     {
+      "id": "finextra-crypto-bitgo-to-integrate-wisdomtree-tokenised-money-market-fund-2026-10-27",
+      "title": "BitGo to integrate WisdomTree tokenised money market fund",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/pressarticle/111471/bitgo-to-integrate-wisdomtree-tokenised-money-market-fund",
+      "publishedAt": "2026-10-27T15:10:00.000Z",
+      "category": "Tokenisation",
+      "topics": [
+        "Tokenisation"
+      ],
+      "collectionMode": "auto"
+    },
+    {
       "id": "finextra-regulation-axiology-and-vialet-bring-tokenised-money-market-funds-to-client-safeguarding-2026-10-27",
       "title": "Axiology and Vialet bring tokenised money market funds to client safeguarding",
       "source": "Finextra",
@@ -1328,19 +1340,6 @@ window.REGWATCH_DATA = {
       "category": "Tokenisation",
       "topics": [
         "Tokenisation"
-      ],
-      "collectionMode": "auto"
-    },
-    {
-      "id": "finextra-payments-anz-completes-cross-border-tokenised-deposit-payment-with-swift-ledger-2026-10-06",
-      "title": "ANZ completes cross-border tokenised deposit payment with Swift ledger",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/newsarticle/48534/anz-completes-cross-border-tokenised-deposit-payment-with-swift-ledger",
-      "publishedAt": "2026-10-06T00:01:00.000Z",
-      "category": "Tokenisation",
-      "topics": [
-        "Tokenisation",
-        "Digital money & settlement assets"
       ],
       "collectionMode": "auto"
     }
