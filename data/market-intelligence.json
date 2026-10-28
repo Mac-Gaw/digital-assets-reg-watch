@@ -1,5 +1,92 @@
 [
   {
+    "id": "finextra-markets-dtcc-tokenisation-service-goes-live-2026-10-28",
+    "title": "DTCC tokenisation service goes live",
+    "source": "Finextra",
+    "url": "https://www.finextra.com/pressarticle/111494/dtcc-tokenisation-service-goes-live",
+    "publishedAt": "2026-10-28T18:01:00.000Z",
+    "category": "Tokenisation",
+    "topics": [
+      "Tokenisation",
+      "Market infrastructure"
+    ],
+    "collectionMode": "auto"
+  },
+  {
+    "id": "finextra-payments-how-will-tokenisation-transform-cross-border-payments-and-settlement-2026-10-28",
+    "title": "How Will Tokenisation Transform Cross-Border Payments and Settlement?",
+    "source": "Finextra",
+    "url": "https://www.finextra.com/videoarticle/3631/how-will-tokenisation-transform-cross-border-payments-and-settlement",
+    "publishedAt": "2026-10-28T15:00:00.000Z",
+    "category": "Tokenisation",
+    "topics": [
+      "Tokenisation"
+    ],
+    "collectionMode": "auto"
+  },
+  {
+    "id": "finextra-crypto-firms-object-to-shares-being-part-of-okx-ice-tokenised-stock-trading-venture-2026-10-28",
+    "title": "Firms object to shares being part of OKX-ICE tokenised stock trading venture",
+    "source": "Finextra",
+    "url": "https://www.finextra.com/newsarticle/48663/firms-object-to-shares-being-part-of-okx-ice-tokenised-stock-trading-venture",
+    "publishedAt": "2026-10-28T14:51:00.000Z",
+    "category": "Tokenisation",
+    "topics": [
+      "Tokenisation"
+    ],
+    "collectionMode": "auto"
+  },
+  {
+    "id": "asset-servicing-times-dtcc-launches-tokenisation-service-2026-10-28",
+    "title": "DTCC launches tokenisation service",
+    "source": "Asset Servicing Times",
+    "url": "https://www.assetservicingtimes.com/assetservicesnews/digitalassetsarticle.php?article_id=18504",
+    "publishedAt": "2026-10-28T14:16:52.000Z",
+    "category": "Tokenisation",
+    "topics": [
+      "Tokenisation",
+      "Market infrastructure"
+    ],
+    "collectionMode": "auto"
+  },
+  {
+    "id": "securities-finance-times-dtcc-launches-tokenisation-service-2026-10-28",
+    "title": "DTCC launches tokenisation service",
+    "source": "Securities Finance Times",
+    "url": "https://www.securitiesfinancetimes.com/securitieslendingnews/industryarticle.php?article_id=229104",
+    "publishedAt": "2026-10-28T14:09:00.000Z",
+    "category": "Tokenisation",
+    "topics": [
+      "Tokenisation",
+      "Market infrastructure"
+    ],
+    "collectionMode": "auto"
+  },
+  {
+    "id": "finextra-crypto-archax-brings-perpetual-tokenised-government-bill-product-to-eurozone-2026-10-28",
+    "title": "Archax brings perpetual tokenised government bill product to Eurozone",
+    "source": "Finextra",
+    "url": "https://www.finextra.com/pressarticle/111481/archax-brings-perpetual-tokenised-government-bill-product-to-eurozone",
+    "publishedAt": "2026-10-28T13:20:00.000Z",
+    "category": "Tokenisation",
+    "topics": [
+      "Tokenisation"
+    ],
+    "collectionMode": "auto"
+  },
+  {
+    "id": "finextra-crypto-digital-asset-self-custodial-platform-bron-joins-hashgraph-association-2026-10-28",
+    "title": "Digital asset self-custodial platform Bron joins Hashgraph Association",
+    "source": "Finextra",
+    "url": "https://www.finextra.com/pressarticle/111479/digital-asset-self-custodial-platform-bron-joins-hashgraph-association",
+    "publishedAt": "2026-10-28T12:14:00.000Z",
+    "category": "Digital assets",
+    "topics": [
+      "Digital assets"
+    ],
+    "collectionMode": "auto"
+  },
+  {
     "id": "markets-media-feed-dtcc-tokenization-service-goes-live-2026-10-28",
     "title": "DTCC Tokenization Service Goes Live",
     "source": "Markets Media",
@@ -1133,91 +1220,6 @@
     "category": "Custody",
     "topics": [
       "Custody"
-    ],
-    "collectionMode": "auto"
-  },
-  {
-    "id": "asset-servicing-times-cr-dit-agricole-assurances-makes-tokenised-amundi-fund-investment-2026-10-08",
-    "title": "Crédit Agricole Assurances makes tokenised Amundi fund investment",
-    "source": "Asset Servicing Times",
-    "url": "https://www.assetservicingtimes.com/assetservicesnews/fundservicesarticle.php?article_id=18424",
-    "publishedAt": "2026-10-08T11:05:06.000Z",
-    "category": "Tokenisation",
-    "topics": [
-      "Tokenisation"
-    ],
-    "collectionMode": "auto"
-  },
-  {
-    "id": "asset-servicing-times-standard-chartered-unveils-singapore-digital-asset-custody-plans-2026-10-08",
-    "title": "Standard Chartered unveils Singapore digital asset custody plans",
-    "source": "Asset Servicing Times",
-    "url": "https://www.assetservicingtimes.com/assetservicesnews/custodyarticle.php?article_id=18423",
-    "publishedAt": "2026-10-08T10:58:58.000Z",
-    "category": "Tokenisation",
-    "topics": [
-      "Tokenisation",
-      "Custody"
-    ],
-    "collectionMode": "auto"
-  },
-  {
-    "id": "finextra-crypto-standard-chartered-extends-digital-asset-custody-to-singapore-2026-10-08",
-    "title": "Standard Chartered extends digital asset custody to Singapore",
-    "source": "Finextra",
-    "url": "https://www.finextra.com/newsarticle/48555/standard-chartered-extends-digital-asset-custody-to-singapore",
-    "publishedAt": "2026-10-08T10:50:00.000Z",
-    "category": "Custody",
-    "topics": [
-      "Custody"
-    ],
-    "collectionMode": "auto"
-  },
-  {
-    "id": "finextra-crypto-digital-asset-controls-have-two-boundaries-who-can-act-and-who-can-see-2026-10-07",
-    "title": "Digital Asset Controls Have Two Boundaries: Who Can Act and Who Can See",
-    "source": "Finextra",
-    "url": "https://www.finextra.com/blogposting/33099/digital-asset-controls-have-two-boundaries-who-can-act-and-who-can-see",
-    "publishedAt": "2026-10-07T16:41:24.000Z",
-    "category": "Digital assets",
-    "topics": [
-      "Digital assets"
-    ],
-    "collectionMode": "auto"
-  },
-  {
-    "id": "finextra-crypto-edx-markets-and-raven-partner-on-institutional-digital-asset-liquidity-2026-10-07",
-    "title": "EDX Markets and Raven partner on institutional digital asset liquidity",
-    "source": "Finextra",
-    "url": "https://www.finextra.com/pressarticle/111186/edx-markets-and-raven-partner-on-institutional-digital-asset-liquidity",
-    "publishedAt": "2026-10-07T15:53:00.000Z",
-    "category": "Digital assets",
-    "topics": [
-      "Digital assets"
-    ],
-    "collectionMode": "auto"
-  },
-  {
-    "id": "finextra-crypto-integral-selected-for-digital-asset-trading-in-turkey-2026-10-07",
-    "title": "Integral selected for digital asset trading in Turkey",
-    "source": "Finextra",
-    "url": "https://www.finextra.com/pressarticle/111175/integral-selected-for-digital-asset-trading-in-turkey",
-    "publishedAt": "2026-10-07T12:57:00.000Z",
-    "category": "Digital assets",
-    "topics": [
-      "Digital assets"
-    ],
-    "collectionMode": "auto"
-  },
-  {
-    "id": "finextra-crypto-noah-raises-38m-for-stablecoin-payments-platform-2026-10-07",
-    "title": "Noah raises $38m for stablecoin payments platform",
-    "source": "Finextra",
-    "url": "https://www.finextra.com/newsarticle/48548/noah-raises-38m-for-stablecoin-payments-platform",
-    "publishedAt": "2026-10-07T12:07:00.000Z",
-    "category": "Digital money & settlement assets",
-    "topics": [
-      "Digital money & settlement assets"
     ],
     "collectionMode": "auto"
   }
