@@ -1,5 +1,70 @@
 [
   {
+    "id": "markets-media-feed-dtcc-tokenization-service-goes-live-2026-10-28",
+    "title": "DTCC Tokenization Service Goes Live",
+    "source": "Markets Media",
+    "url": "https://www.marketsmedia.com/dtcc-tokenization-service-goes-live",
+    "publishedAt": "2026-10-28T12:09:25.000Z",
+    "category": "Tokenisation",
+    "topics": [
+      "Tokenisation",
+      "Market infrastructure"
+    ],
+    "collectionMode": "auto"
+  },
+  {
+    "id": "finextra-regulation-the-stablecoin-build-vs-buy-debate-is-wrong-2026-10-28",
+    "title": "The stablecoin “build vs buy” debate is wrong",
+    "source": "Finextra",
+    "url": "https://www.finextra.com/blogposting/33328/the-stablecoin-build-vs-buy-debate-is-wrong",
+    "publishedAt": "2026-10-28T11:22:42.000Z",
+    "category": "Digital money & settlement assets",
+    "topics": [
+      "Digital money & settlement assets"
+    ],
+    "collectionMode": "auto"
+  },
+  {
+    "id": "asset-servicing-times-clearstream-advances-tokenised-fund-distribution-as-authorised-control-agent-2026-10-28",
+    "title": "Clearstream advances tokenised fund distribution as authorised control agent",
+    "source": "Asset Servicing Times",
+    "url": "https://www.assetservicingtimes.com/assetservicesnews/digitalassetsarticle.php?article_id=18501",
+    "publishedAt": "2026-10-28T09:41:25.000Z",
+    "category": "Tokenisation",
+    "topics": [
+      "Tokenisation",
+      "Institutional adoption"
+    ],
+    "collectionMode": "auto"
+  },
+  {
+    "id": "finextra-markets-clearstream-makes-tokenised-fund-distribution-move-2026-10-28",
+    "title": "Clearstream makes tokenised fund distribution move",
+    "source": "Finextra",
+    "url": "https://www.finextra.com/newsarticle/48658/clearstream-makes-tokenised-fund-distribution-move",
+    "publishedAt": "2026-10-28T08:30:00.000Z",
+    "category": "Tokenisation",
+    "topics": [
+      "Tokenisation",
+      "Market infrastructure",
+      "Institutional adoption"
+    ],
+    "collectionMode": "auto"
+  },
+  {
+    "id": "markets-media-feed-bny-expands-digital-asset-collaboration-with-ripple-2026-10-28",
+    "title": "BNY Expands Digital Asset Collaboration with Ripple",
+    "source": "Markets Media",
+    "url": "https://www.marketsmedia.com/bny-expands-digital-asset-collaboration-with-ripple",
+    "publishedAt": "2026-10-28T08:22:27.000Z",
+    "category": "Tokenisation",
+    "topics": [
+      "Tokenisation",
+      "Custody"
+    ],
+    "collectionMode": "auto"
+  },
+  {
     "id": "finextra-crypto-bitgo-to-integrate-wisdomtree-tokenised-money-market-fund-2026-10-27",
     "title": "BitGo to integrate WisdomTree tokenised money market fund",
     "source": "Finextra",
@@ -1153,67 +1218,6 @@
     "category": "Digital money & settlement assets",
     "topics": [
       "Digital money & settlement assets"
-    ],
-    "collectionMode": "auto"
-  },
-  {
-    "id": "finextra-crypto-block-street-expands-tokenised-stock-infrastructure-2026-10-07",
-    "title": "Block Street expands tokenised stock infrastructure",
-    "source": "Finextra",
-    "url": "https://www.finextra.com/pressarticle/111169/block-street-expands-tokenised-stock-infrastructure",
-    "publishedAt": "2026-10-07T10:05:00.000Z",
-    "category": "Tokenisation",
-    "topics": [
-      "Tokenisation"
-    ],
-    "collectionMode": "auto"
-  },
-  {
-    "id": "markets-media-feed-isda-reviews-tokenized-money-market-funds-as-collateral-2026-10-07",
-    "title": "ISDA Reviews Tokenized Money Market Funds as Collateral",
-    "source": "Markets Media",
-    "url": "https://www.marketsmedia.com/isda-assesses-tokenized-money-market-funds-as-eligible-collateral",
-    "publishedAt": "2026-10-07T07:57:09.000Z",
-    "category": "Tokenisation",
-    "topics": [
-      "Tokenisation",
-      "Market infrastructure"
-    ],
-    "collectionMode": "auto"
-  },
-  {
-    "id": "markets-media-feed-collateral-mobility-is-holy-grail-of-tokenization-2026-10-06",
-    "title": "Collateral Mobility is “Holy Grail” of Tokenization",
-    "source": "Markets Media",
-    "url": "https://www.marketsmedia.com/collateral-mobility-is-holy-grail-of-tokenization",
-    "publishedAt": "2026-10-06T20:10:05.000Z",
-    "category": "Tokenisation",
-    "topics": [
-      "Tokenisation"
-    ],
-    "collectionMode": "auto"
-  },
-  {
-    "id": "finextra-payments-tokenisation-and-digital-assets-what-is-the-real-end-goal-2026-10-06",
-    "title": "Tokenisation and Digital Assets: What is the Real End Goal?",
-    "source": "Finextra",
-    "url": "https://www.finextra.com/videoarticle/3605/tokenisation-and-digital-assets-what-is-the-real-end-goal",
-    "publishedAt": "2026-10-06T11:00:00.000Z",
-    "category": "Tokenisation",
-    "topics": [
-      "Tokenisation"
-    ],
-    "collectionMode": "auto"
-  },
-  {
-    "id": "finextra-payments-tokenization-and-digital-assets-what-is-the-real-end-goal-2026-10-06",
-    "title": "Tokenization and Digital Assets: What is the Real End Goal?",
-    "source": "Finextra",
-    "url": "https://www.finextra.com/videoarticle/3605/tokenization-and-digital-assets-what-is-the-real-end-goal",
-    "publishedAt": "2026-10-06T11:00:00.000Z",
-    "category": "Tokenisation",
-    "topics": [
-      "Tokenisation"
     ],
     "collectionMode": "auto"
   }
