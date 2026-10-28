@@ -126,6 +126,19 @@ window.REGWATCH_DATA = {
   ],
   "marketIntelligence": [
     {
+      "id": "finextra-markets-equilend-1source-dlt-platform-adds-goldman-sachs-2026-10-28",
+      "title": "Equilend 1Source DLT platform adds Goldman Sachs",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/pressarticle/111496/equilend-1source-dlt-platform-adds-goldman-sachs",
+      "publishedAt": "2026-10-28T19:44:00.000Z",
+      "category": "Market infrastructure",
+      "topics": [
+        "Market infrastructure",
+        "Institutional adoption"
+      ],
+      "collectionMode": "auto"
+    },
+    {
       "id": "finextra-markets-dtcc-tokenisation-service-goes-live-2026-10-28",
       "title": "DTCC tokenisation service goes live",
       "source": "Finextra",
@@ -1334,18 +1347,6 @@ window.REGWATCH_DATA = {
       "topics": [
         "Tokenisation",
         "Digital money & settlement assets"
-      ],
-      "collectionMode": "auto"
-    },
-    {
-      "id": "asset-servicing-times-bny-expands-its-digital-asset-custody-platform-in-the-eu-2026-10-08",
-      "title": "BNY expands its Digital Asset Custody platform in the EU",
-      "source": "Asset Servicing Times",
-      "url": "https://www.assetservicingtimes.com/assetservicesnews/digitalassetsarticle.php?article_id=18425",
-      "publishedAt": "2026-10-08T11:44:59.000Z",
-      "category": "Custody",
-      "topics": [
-        "Custody"
       ],
       "collectionMode": "auto"
     }
