@@ -1,5 +1,42 @@
 [
   {
+    "id": "securities-finance-times-bank-of-england-opens-tokenised-collateral-consultation-2026-10-29",
+    "title": "Bank of England opens tokenised collateral consultation",
+    "source": "Securities Finance Times",
+    "url": "https://www.securitiesfinancetimes.com/securitieslendingnews/industryarticle.php?article_id=229108",
+    "publishedAt": "2026-10-29T14:59:20.000Z",
+    "category": "Tokenisation",
+    "topics": [
+      "Tokenisation",
+      "Collateral"
+    ],
+    "collectionMode": "auto"
+  },
+  {
+    "id": "finextra-crypto-former-swift-ceo-l-and-225-zaro-campos-joins-stablecoin-firm-opentrade-as-chair-2026-10-29",
+    "title": "Former Swift CEO L&#225;zaro Campos joins stablecoin firm OpenTrade as chair",
+    "source": "Finextra",
+    "url": "https://www.finextra.com/newsarticle/48669/former-swift-ceo-lzaro-campos-joins-stablecoin-firm-opentrade-as-chair",
+    "publishedAt": "2026-10-29T14:31:00.000Z",
+    "category": "Digital money & settlement assets",
+    "topics": [
+      "Digital money & settlement assets"
+    ],
+    "collectionMode": "auto"
+  },
+  {
+    "id": "finextra-crypto-settlemint-integrates-digital-asset-lifecycle-platform-with-ibm-digital-asset-haven-2026-10-29",
+    "title": "SettleMint integrates digital asset lifecycle platform with IBM Digital Asset Haven",
+    "source": "Finextra",
+    "url": "https://www.finextra.com/pressarticle/111509/settlemint-integrates-digital-asset-lifecycle-platform-with-ibm-digital-asset-haven",
+    "publishedAt": "2026-10-29T12:31:00.000Z",
+    "category": "Tokenisation",
+    "topics": [
+      "Tokenisation"
+    ],
+    "collectionMode": "auto"
+  },
+  {
     "id": "markets-media-feed-clearstream-advances-tokenized-fund-distribution-2026-10-29",
     "title": "Clearstream Advances Tokenized Fund Distribution",
     "source": "Markets Media",
@@ -1184,42 +1221,6 @@
     "category": "Custody",
     "topics": [
       "Custody"
-    ],
-    "collectionMode": "auto"
-  },
-  {
-    "id": "finextra-crypto-anyflo-emerges-from-stealth-to-simplify-stablecoin-payments-for-enterprises-2026-10-09",
-    "title": "Anyflo emerges from stealth to simplify stablecoin payments for enterprises",
-    "source": "Finextra",
-    "url": "https://www.finextra.com/newsarticle/48561/anyflo-emerges-from-stealth-to-simplify-stablecoin-payments-for-enterprises",
-    "publishedAt": "2026-10-09T00:01:00.000Z",
-    "category": "Digital money & settlement assets",
-    "topics": [
-      "Digital money & settlement assets"
-    ],
-    "collectionMode": "auto"
-  },
-  {
-    "id": "finextra-crypto-on-demand-deposits-and-stablecoins-the-complete-digital-money-proposition-for-banks-2026-10-08",
-    "title": "On-Demand – Deposits and stablecoins: The complete digital money proposition for banks",
-    "source": "Finextra",
-    "url": "https://www.finextra.com/event-info/634/on-demand--deposits-and-stablecoins-the-complete-digital-money-proposition-for-banks",
-    "publishedAt": "2026-10-08T15:00:00.000Z",
-    "category": "Digital money & settlement assets",
-    "topics": [
-      "Digital money & settlement assets"
-    ],
-    "collectionMode": "auto"
-  },
-  {
-    "id": "finextra-crypto-deposits-and-stablecoins-the-complete-digital-money-proposition-for-banks-2026-10-08",
-    "title": "Deposits and stablecoins: The complete digital money proposition for banks",
-    "source": "Finextra",
-    "url": "https://www.finextra.com/event-info/634/deposits-and-stablecoins-the-complete-digital-money-proposition-for-banks",
-    "publishedAt": "2026-10-08T15:00:00.000Z",
-    "category": "Digital money & settlement assets",
-    "topics": [
-      "Digital money & settlement assets"
     ],
     "collectionMode": "auto"
   }
