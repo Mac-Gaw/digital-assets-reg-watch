@@ -126,6 +126,30 @@ window.REGWATCH_DATA = {
   ],
   "marketIntelligence": [
     {
+      "id": "markets-media-feed-clearstream-advances-tokenized-fund-distribution-2026-10-29",
+      "title": "Clearstream Advances Tokenized Fund Distribution",
+      "source": "Markets Media",
+      "url": "https://www.marketsmedia.com/clearstream-advances-tokenized-fund-distribution",
+      "publishedAt": "2026-10-29T08:42:40.000Z",
+      "category": "Tokenisation",
+      "topics": [
+        "Tokenisation"
+      ],
+      "collectionMode": "auto"
+    },
+    {
+      "id": "markets-media-feed-goldman-sachs-joins-equilend-s-1source-dlt-2026-10-29",
+      "title": "Goldman Sachs Joins Equilend’s 1Source DLT",
+      "source": "Markets Media",
+      "url": "https://www.marketsmedia.com/goldman-sachs-joins-equilends-1source-dlt",
+      "publishedAt": "2026-10-29T08:34:17.000Z",
+      "category": "Market infrastructure",
+      "topics": [
+        "Market infrastructure"
+      ],
+      "collectionMode": "auto"
+    },
+    {
       "id": "finextra-markets-equilend-1source-dlt-platform-adds-goldman-sachs-2026-10-28",
       "title": "Equilend 1Source DLT platform adds Goldman Sachs",
       "source": "Finextra",
@@ -1321,31 +1345,6 @@ window.REGWATCH_DATA = {
       "publishedAt": "2026-10-08T15:00:00.000Z",
       "category": "Digital money & settlement assets",
       "topics": [
-        "Digital money & settlement assets"
-      ],
-      "collectionMode": "auto"
-    },
-    {
-      "id": "finextra-crypto-ownera-and-utila-form-digital-asset-infrastructure-partnership-2026-10-08",
-      "title": "Ownera and Utila form digital asset infrastructure partnership",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/pressarticle/111200/ownera-and-utila-form-digital-asset-infrastructure-partnership",
-      "publishedAt": "2026-10-08T14:24:00.000Z",
-      "category": "Digital assets",
-      "topics": [
-        "Digital assets"
-      ],
-      "collectionMode": "auto"
-    },
-    {
-      "id": "finextra-crypto-the-future-of-rwa-payment-rails-tokenization-stablecoins-and-programmable-finance-2026-10-08",
-      "title": "The Future of RWA Payment Rails: Tokenization, Stablecoins and Programmable Finance",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/blogposting/33104/the-future-of-rwa-payment-rails-tokenization-stablecoins-and-programmable-finance",
-      "publishedAt": "2026-10-08T12:39:12.000Z",
-      "category": "Tokenisation",
-      "topics": [
-        "Tokenisation",
         "Digital money & settlement assets"
       ],
       "collectionMode": "auto"
