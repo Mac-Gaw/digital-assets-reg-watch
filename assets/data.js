@@ -126,6 +126,19 @@ window.REGWATCH_DATA = {
   ],
   "marketIntelligence": [
     {
+      "id": "finextra-markets-bofe-consults-on-tokenised-collateral-in-central-clearing-2026-10-29",
+      "title": "BofE consults on tokenised collateral in central clearing",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/newsarticle/48670/bofe-consults-on-tokenised-collateral-in-central-clearing",
+      "publishedAt": "2026-10-29T17:23:00.000Z",
+      "category": "Tokenisation",
+      "topics": [
+        "Tokenisation",
+        "Collateral"
+      ],
+      "collectionMode": "auto"
+    },
+    {
       "id": "securities-finance-times-bank-of-england-opens-tokenised-collateral-consultation-2026-10-29",
       "title": "Bank of England opens tokenised collateral consultation",
       "source": "Securities Finance Times",
@@ -1335,18 +1348,6 @@ window.REGWATCH_DATA = {
       "category": "Tokenisation",
       "topics": [
         "Tokenisation"
-      ],
-      "collectionMode": "auto"
-    },
-    {
-      "id": "markets-media-feed-bny-expands-digital-asset-custody-in-europe-2026-10-09",
-      "title": "BNY Expands Digital Asset Custody in Europe",
-      "source": "Markets Media",
-      "url": "https://www.marketsmedia.com/bny-expands-digital-asset-custody-in-europe",
-      "publishedAt": "2026-10-09T08:10:23.000Z",
-      "category": "Custody",
-      "topics": [
-        "Custody"
       ],
       "collectionMode": "auto"
     }
