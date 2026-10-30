@@ -126,6 +126,18 @@ window.REGWATCH_DATA = {
   ],
   "marketIntelligence": [
     {
+      "id": "finextra-crypto-photonpay-raises-40m-for-stablecoin-centric-financial-os-2026-10-30",
+      "title": "PhotonPay raises $40m for stablecoin-centric financial OS",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/newsarticle/48671/photonpay-raises-40m-for-stablecoin-centric-financial-os",
+      "publishedAt": "2026-10-30T00:01:00.000Z",
+      "category": "Digital money & settlement assets",
+      "topics": [
+        "Digital money & settlement assets"
+      ],
+      "collectionMode": "auto"
+    },
+    {
       "id": "finextra-markets-bofe-consults-on-tokenised-collateral-in-central-clearing-2026-10-29",
       "title": "BofE consults on tokenised collateral in central clearing",
       "source": "Finextra",
@@ -1336,18 +1348,6 @@ window.REGWATCH_DATA = {
       "topics": [
         "Tokenisation",
         "Collateral"
-      ],
-      "collectionMode": "auto"
-    },
-    {
-      "id": "markets-media-feed-cr-dit-agricole-assurances-invests-in-tokenised-amundi-fund-2026-10-09",
-      "title": "Crédit Agricole Assurances Invests in Tokenised Amundi Fund",
-      "source": "Markets Media",
-      "url": "https://www.marketsmedia.com/credit-agricole-assurances-invests-e100m-in-tokenised-amundi-fund",
-      "publishedAt": "2026-10-09T08:19:44.000Z",
-      "category": "Tokenisation",
-      "topics": [
-        "Tokenisation"
       ],
       "collectionMode": "auto"
     }
