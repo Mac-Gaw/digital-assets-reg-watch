@@ -1,5 +1,42 @@
 [
   {
+    "id": "finextra-regulation-goldman-sachs-joins-dlt-sec-finance-platform-2026-10-30",
+    "title": "Goldman Sachs joins DLT sec finance platform",
+    "source": "Finextra",
+    "url": "https://www.finextra.com/newsarticle/48675/goldman-sachs-joins-dlt-sec-finance-platform",
+    "publishedAt": "2026-10-30T10:44:00.000Z",
+    "category": "Market infrastructure",
+    "topics": [
+      "Market infrastructure"
+    ],
+    "collectionMode": "auto"
+  },
+  {
+    "id": "finextra-crypto-tokenisation-platform-assetize-secures-jersey-registration-2026-10-30",
+    "title": "Tokenisation platform Assetize secures Jersey registration",
+    "source": "Finextra",
+    "url": "https://www.finextra.com/pressarticle/111517/tokenisation-platform-assetize-secures-jersey-registration",
+    "publishedAt": "2026-10-30T10:21:00.000Z",
+    "category": "Tokenisation",
+    "topics": [
+      "Tokenisation"
+    ],
+    "collectionMode": "auto"
+  },
+  {
+    "id": "markets-media-feed-bank-of-england-consults-on-tokenised-collateral-2026-10-30",
+    "title": "Bank of England Consults on Tokenised Collateral",
+    "source": "Markets Media",
+    "url": "https://www.marketsmedia.com/bank-of-england-consults-on-tokenised-collateral",
+    "publishedAt": "2026-10-30T08:39:31.000Z",
+    "category": "Tokenisation",
+    "topics": [
+      "Tokenisation",
+      "Collateral"
+    ],
+    "collectionMode": "auto"
+  },
+  {
     "id": "finextra-crypto-photonpay-raises-40m-for-stablecoin-centric-financial-os-2026-10-30",
     "title": "PhotonPay raises $40m for stablecoin-centric financial OS",
     "source": "Finextra",
@@ -1183,45 +1220,6 @@
     "category": "Tokenisation",
     "topics": [
       "Tokenisation"
-    ],
-    "collectionMode": "auto"
-  },
-  {
-    "id": "securities-finance-times-ocbc-launches-tokenised-deposit-solution-with-ant-international-2026-10-09",
-    "title": "OCBC launches tokenised deposit solution with Ant International",
-    "source": "Securities Finance Times",
-    "url": "https://www.securitiesfinancetimes.com/securitieslendingnews/industryarticle.php?article_id=229043",
-    "publishedAt": "2026-10-09T09:50:06.000Z",
-    "category": "Tokenisation",
-    "topics": [
-      "Tokenisation",
-      "Digital money & settlement assets"
-    ],
-    "collectionMode": "auto"
-  },
-  {
-    "id": "securities-finance-times-esma-seeks-evidence-on-tokenised-collateral-for-eu-ccps-2026-10-09",
-    "title": "ESMA seeks evidence on tokenised collateral for EU CCPs",
-    "source": "Securities Finance Times",
-    "url": "https://www.securitiesfinancetimes.com/securitieslendingnews/regulationarticle.php?article_id=229042",
-    "publishedAt": "2026-10-09T09:35:36.000Z",
-    "category": "Tokenisation",
-    "topics": [
-      "Tokenisation",
-      "Collateral"
-    ],
-    "collectionMode": "auto"
-  },
-  {
-    "id": "markets-media-feed-esma-seeks-evidence-on-use-of-tokenised-collateral-2026-10-09",
-    "title": "ESMA Seeks Evidence on Use of Tokenised Collateral",
-    "source": "Markets Media",
-    "url": "https://www.marketsmedia.com/esma-seeks-evidence-on-use-of-tokenised-collateral",
-    "publishedAt": "2026-10-09T08:44:14.000Z",
-    "category": "Tokenisation",
-    "topics": [
-      "Tokenisation",
-      "Collateral"
     ],
     "collectionMode": "auto"
   }
