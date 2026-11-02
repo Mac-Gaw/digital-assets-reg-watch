@@ -126,6 +126,44 @@ window.REGWATCH_DATA = {
   ],
   "marketIntelligence": [
     {
+      "id": "asset-servicing-times-standard-chartered-launches-hong-kong-tokenised-deposits-solution-2026-11-02",
+      "title": "Standard Chartered launches Hong Kong tokenised deposits solution",
+      "source": "Asset Servicing Times",
+      "url": "https://www.assetservicingtimes.com/assetservicesnews/digitalassetsarticle.php?article_id=18517",
+      "publishedAt": "2026-11-02T14:45:31.000Z",
+      "category": "Tokenisation",
+      "topics": [
+        "Tokenisation",
+        "Digital money & settlement assets",
+        "Institutional adoption"
+      ],
+      "collectionMode": "auto"
+    },
+    {
+      "id": "finextra-crypto-trading-technologies-expands-institutional-digital-asset-access-through-bitstamp-2026-11-02",
+      "title": "Trading Technologies expands institutional digital asset access through Bitstamp",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/pressarticle/111532/trading-technologies-expands-institutional-digital-asset-access-through-bitstamp",
+      "publishedAt": "2026-11-02T14:08:00.000Z",
+      "category": "Digital assets",
+      "topics": [
+        "Digital assets"
+      ],
+      "collectionMode": "auto"
+    },
+    {
+      "id": "finextra-crypto-the-evolution-of-crypto-infrastructure-from-exchanges-to-full-stack-digital-asset-platforms-2026-11-02",
+      "title": "The Evolution of Crypto Infrastructure: From Exchanges to Full-Stack Digital Asset Platforms",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/blogposting/33312/the-evolution-of-crypto-infrastructure-from-exchanges-to-full-stack-digital-asset-platforms",
+      "publishedAt": "2026-11-02T04:41:08.000Z",
+      "category": "Digital assets",
+      "topics": [
+        "Digital assets"
+      ],
+      "collectionMode": "auto"
+    },
+    {
       "id": "finextra-regulation-goldman-sachs-joins-dlt-sec-finance-platform-2026-10-30",
       "title": "Goldman Sachs joins DLT sec finance platform",
       "source": "Finextra",
@@ -1310,42 +1348,6 @@ window.REGWATCH_DATA = {
       "category": "Digital assets",
       "topics": [
         "Digital assets"
-      ],
-      "collectionMode": "auto"
-    },
-    {
-      "id": "finextra-crypto-how-tokenization-is-unlocking-liquidity-in-specialty-finance-2026-10-09",
-      "title": "How Tokenization Is Unlocking Liquidity in Specialty Finance",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/blogposting/33109/how-tokenization-is-unlocking-liquidity-in-specialty-finance",
-      "publishedAt": "2026-10-09T13:48:30.000Z",
-      "category": "Tokenisation",
-      "topics": [
-        "Tokenisation"
-      ],
-      "collectionMode": "auto"
-    },
-    {
-      "id": "markets-media-feed-coordination-will-drive-next-phase-of-digital-assets-2026-10-09",
-      "title": "Coordination Will Drive Next Phase of Digital Assets",
-      "source": "Markets Media",
-      "url": "https://www.marketsmedia.com/coordination-will-drive-next-phase-of-digital-assets",
-      "publishedAt": "2026-10-09T13:46:16.000Z",
-      "category": "Tokenisation",
-      "topics": [
-        "Tokenisation"
-      ],
-      "collectionMode": "auto"
-    },
-    {
-      "id": "finextra-crypto-edx-markets-and-verified-x-partner-for-tokenised-bitcoin-trading-2026-10-09",
-      "title": "EDX Markets and Verified X partner for tokenised bitcoin trading",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/pressarticle/111210/edx-markets-and-verified-x-partner-for-tokenised-bitcoin-trading",
-      "publishedAt": "2026-10-09T12:55:00.000Z",
-      "category": "Tokenisation",
-      "topics": [
-        "Tokenisation"
       ],
       "collectionMode": "auto"
     }
