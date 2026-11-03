@@ -1,5 +1,17 @@
 [
   {
+    "id": "finextra-crypto-rwas-need-more-than-tokenization-to-function-in-defi-2026-11-03",
+    "title": "RWAs Need More Than Tokenization to Function in DeFi",
+    "source": "Finextra",
+    "url": "https://www.finextra.com/blogposting/33389/rwas-need-more-than-tokenization-to-function-in-defi",
+    "publishedAt": "2026-11-03T21:13:11.000Z",
+    "category": "Tokenisation",
+    "topics": [
+      "Tokenisation"
+    ],
+    "collectionMode": "auto"
+  },
+  {
     "id": "finextra-regulation-cross-river-and-offchain-bring-native-tokenisation-to-lending-infrastructure-2026-11-03",
     "title": "Cross River and Offchain bring native tokenisation to lending infrastructure",
     "source": "Finextra",
@@ -1208,20 +1220,6 @@
     "category": "Tokenisation",
     "topics": [
       "Tokenisation"
-    ],
-    "collectionMode": "auto"
-  },
-  {
-    "id": "markets-media-feed-first-otc-swap-transacted-on-canton-network-2026-10-14",
-    "title": "First OTC Swap Transacted on Canton Network",
-    "source": "Markets Media",
-    "url": "https://www.marketsmedia.com/first-otc-swap-transacted-on-canton-network",
-    "publishedAt": "2026-10-14T08:22:03.000Z",
-    "category": "Tokenisation",
-    "topics": [
-      "Tokenisation",
-      "Market infrastructure",
-      "Institutional adoption"
     ],
     "collectionMode": "auto"
   }
