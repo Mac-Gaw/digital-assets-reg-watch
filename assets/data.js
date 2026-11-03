@@ -126,6 +126,54 @@ window.REGWATCH_DATA = {
   ],
   "marketIntelligence": [
     {
+      "id": "finextra-markets-nyse-tokenised-securities-platform-gets-on-chain-shareholder-services-through-broadridge-2026-11-03",
+      "title": "Nyse tokenised securities platform gets on-chain shareholder services through Broadridge",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/newsarticle/48688/nyse-tokenised-securities-platform-gets-on-chain-shareholder-services-through-broadridge",
+      "publishedAt": "2026-11-03T00:01:00.000Z",
+      "category": "Tokenisation",
+      "topics": [
+        "Tokenisation"
+      ],
+      "collectionMode": "auto"
+    },
+    {
+      "id": "finextra-crypto-wirex-appoints-kulveer-ranger-as-board-adviser-to-uk-digital-asset-arm-2026-11-02",
+      "title": "Wirex appoints Kulveer Ranger as board adviser to UK digital asset arm",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/pressarticle/111537/wirex-appoints-kulveer-ranger-as-board-adviser-to-uk-digital-asset-arm",
+      "publishedAt": "2026-11-02T18:34:00.000Z",
+      "category": "Digital money & settlement assets",
+      "topics": [
+        "Digital money & settlement assets"
+      ],
+      "collectionMode": "auto"
+    },
+    {
+      "id": "finextra-crypto-okx-launches-mastercard-stablecoin-card-in-the-us-2026-11-02",
+      "title": "OKX launches Mastercard stablecoin card in the US",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/pressarticle/111535/okx-launches-mastercard-stablecoin-card-in-the-us",
+      "publishedAt": "2026-11-02T16:01:00.000Z",
+      "category": "Digital money & settlement assets",
+      "topics": [
+        "Digital money & settlement assets"
+      ],
+      "collectionMode": "auto"
+    },
+    {
+      "id": "finextra-crypto-stablecoins-have-scaled-as-money-now-they-need-to-scale-as-capital-2026-11-02",
+      "title": "Stablecoins have scaled as money - now they need to scale as capital",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/blogposting/33375/stablecoins-have-scaled-as-money---now-they-need-to-scale-as-capital",
+      "publishedAt": "2026-11-02T15:53:37.000Z",
+      "category": "Digital money & settlement assets",
+      "topics": [
+        "Digital money & settlement assets"
+      ],
+      "collectionMode": "auto"
+    },
+    {
       "id": "asset-servicing-times-standard-chartered-launches-hong-kong-tokenised-deposits-solution-2026-11-02",
       "title": "Standard Chartered launches Hong Kong tokenised deposits solution",
       "source": "Asset Servicing Times",
@@ -1300,54 +1348,6 @@ window.REGWATCH_DATA = {
       "category": "Digital money & settlement assets",
       "topics": [
         "Digital money & settlement assets"
-      ],
-      "collectionMode": "auto"
-    },
-    {
-      "id": "finextra-crypto-digital-assets-firm-3iq-secures-in-principal-approval-in-abu-dhabi-2026-10-12",
-      "title": "Digital assets firm 3iQ secures in-principal approval in Abu Dhabi",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/pressarticle/111223/digital-assets-firm-3iq-secures-in-principal-approval-in-abu-dhabi",
-      "publishedAt": "2026-10-12T11:46:00.000Z",
-      "category": "Digital assets",
-      "topics": [
-        "Digital assets"
-      ],
-      "collectionMode": "auto"
-    },
-    {
-      "id": "markets-media-feed-franklin-templeton-animoca-brands-expand-access-to-tokenization-2026-10-12",
-      "title": "Franklin Templeton, Animoca Brands Expand Access to Tokenization",
-      "source": "Markets Media",
-      "url": "https://www.marketsmedia.com/franklin-templeton-animoca-brands-expand-access-to-tokenized-investments",
-      "publishedAt": "2026-10-12T08:43:33.000Z",
-      "category": "Tokenisation",
-      "topics": [
-        "Tokenisation"
-      ],
-      "collectionMode": "auto"
-    },
-    {
-      "id": "markets-media-feed-fsb-chair-sets-out-work-on-ai-and-038-stablecoins-2026-10-12",
-      "title": "FSB Chair Sets Out Work on AI &#038; Stablecoins",
-      "source": "Markets Media",
-      "url": "https://www.marketsmedia.com/fsb-chair-sets-out-work-on-ai-stablecoins",
-      "publishedAt": "2026-10-12T08:12:05.000Z",
-      "category": "Digital money & settlement assets",
-      "topics": [
-        "Digital money & settlement assets"
-      ],
-      "collectionMode": "auto"
-    },
-    {
-      "id": "finextra-crypto-sbi-group-and-mesh-prep-digital-asset-jv-2026-10-12",
-      "title": "SBI Group and Mesh prep digital asset JV",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/newsarticle/48567/sbi-group-and-mesh-prep-digital-asset-jv",
-      "publishedAt": "2026-10-12T00:01:00.000Z",
-      "category": "Digital assets",
-      "topics": [
-        "Digital assets"
       ],
       "collectionMode": "auto"
     }
