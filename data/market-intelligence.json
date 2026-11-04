@@ -1,5 +1,17 @@
 [
   {
+    "id": "finextra-crypto-komainu-completes-two-way-digital-asset-transfers-for-first-abu-dhabi-bank-2026-11-04",
+    "title": "Komainu completes two-way digital asset transfers for First Abu Dhabi Bank",
+    "source": "Finextra",
+    "url": "https://www.finextra.com/pressarticle/111571/komainu-completes-two-way-digital-asset-transfers-for-first-abu-dhabi-bank",
+    "publishedAt": "2026-11-04T13:21:00.000Z",
+    "category": "Custody",
+    "topics": [
+      "Custody"
+    ],
+    "collectionMode": "auto"
+  },
+  {
     "id": "finextra-crypto-rwas-need-more-than-tokenization-to-function-in-defi-2026-11-03",
     "title": "RWAs Need More Than Tokenization to Function in DeFi",
     "source": "Finextra",
@@ -1205,18 +1217,6 @@
     "source": "Markets Media",
     "url": "https://www.marketsmedia.com/bny-citadel-securities-complete-tokenized-u-s-treasury-triparty-repo",
     "publishedAt": "2026-10-14T08:40:09.000Z",
-    "category": "Tokenisation",
-    "topics": [
-      "Tokenisation"
-    ],
-    "collectionMode": "auto"
-  },
-  {
-    "id": "markets-media-feed-federated-hermes-to-issue-tokenized-funds-2026-10-14",
-    "title": "Federated Hermes to Issue Tokenized Funds",
-    "source": "Markets Media",
-    "url": "https://www.marketsmedia.com/federated-hermes-partners-with-prometheum-to-issue-tokenized-funds",
-    "publishedAt": "2026-10-14T08:32:48.000Z",
     "category": "Tokenisation",
     "topics": [
       "Tokenisation"
