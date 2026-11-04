@@ -126,6 +126,18 @@ window.REGWATCH_DATA = {
   ],
   "marketIntelligence": [
     {
+      "id": "finextra-crypto-scaling-digital-assets-and-overcoming-market-fragmentation-2026-11-04",
+      "title": "Scaling Digital Assets and Overcoming Market Fragmentation",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/videoarticle/3641/scaling-digital-assets-and-overcoming-market-fragmentation",
+      "publishedAt": "2026-11-04T15:00:00.000Z",
+      "category": "Digital assets",
+      "topics": [
+        "Digital assets"
+      ],
+      "collectionMode": "auto"
+    },
+    {
       "id": "finextra-crypto-komainu-completes-two-way-digital-asset-transfers-for-first-abu-dhabi-bank-2026-11-04",
       "title": "Komainu completes two-way digital asset transfers for First Abu Dhabi Bank",
       "source": "Finextra",
@@ -1331,18 +1343,6 @@ window.REGWATCH_DATA = {
       "source": "Securities Finance Times",
       "url": "https://www.securitiesfinancetimes.com/securitieslendingnews/repoarticle.php?article_id=229058",
       "publishedAt": "2026-10-14T09:30:28.000Z",
-      "category": "Tokenisation",
-      "topics": [
-        "Tokenisation"
-      ],
-      "collectionMode": "auto"
-    },
-    {
-      "id": "markets-media-feed-bny-completes-tokenized-u-s-treasury-triparty-repo-2026-10-14",
-      "title": "BNY Completes Tokenized U.S. Treasury Triparty Repo",
-      "source": "Markets Media",
-      "url": "https://www.marketsmedia.com/bny-citadel-securities-complete-tokenized-u-s-treasury-triparty-repo",
-      "publishedAt": "2026-10-14T08:40:09.000Z",
       "category": "Tokenisation",
       "topics": [
         "Tokenisation"
