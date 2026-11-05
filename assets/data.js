@@ -126,6 +126,66 @@ window.REGWATCH_DATA = {
   ],
   "marketIntelligence": [
     {
+      "id": "finextra-markets-lombard-systems-raises-4m-for-tokenised-securities-financing-2026-11-05",
+      "title": "Lombard Systems raises $4m for tokenised securities financing",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/pressarticle/111594/lombard-systems-raises-4m-for-tokenised-securities-financing",
+      "publishedAt": "2026-11-05T18:05:00.000Z",
+      "category": "Tokenisation",
+      "topics": [
+        "Tokenisation"
+      ],
+      "collectionMode": "auto"
+    },
+    {
+      "id": "finextra-crypto-stablecoin-firm-yellow-card-target-brazil-through-gomoney-acquisition-2026-11-05",
+      "title": "Stablecoin firm Yellow Card target Brazil through GoMoney acquisition",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/newsarticle/48710/stablecoin-firm-yellow-card-target-brazil-through-gomoney-acquisition",
+      "publishedAt": "2026-11-05T15:45:00.000Z",
+      "category": "Digital money & settlement assets",
+      "topics": [
+        "Digital money & settlement assets"
+      ],
+      "collectionMode": "auto"
+    },
+    {
+      "id": "finextra-markets-broadridge-brings-proxy-voting-to-dinari-s-dshares-tokenised-us-equities-2026-11-05",
+      "title": "Broadridge brings proxy voting to Dinari's dShares tokenised US equities",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/pressarticle/111590/broadridge-brings-proxy-voting-to-dinaris-dshares-tokenised-us-equities",
+      "publishedAt": "2026-11-05T13:30:00.000Z",
+      "category": "Tokenisation",
+      "topics": [
+        "Tokenisation"
+      ],
+      "collectionMode": "auto"
+    },
+    {
+      "id": "finextra-crypto-aracore-and-dozn-partner-to-bridge-korean-financial-infrastructure-and-global-stablecoin-settlem-2026-11-05",
+      "title": "Aracore and Dozn partner to bridge Korean financial infrastructure and global stablecoin settlement",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/pressarticle/111584/aracore-and-dozn-partner-to-bridge-korean-financial-infrastructure-and-global-stablecoin-settlement",
+      "publishedAt": "2026-11-05T13:12:00.000Z",
+      "category": "Digital money & settlement assets",
+      "topics": [
+        "Digital money & settlement assets"
+      ],
+      "collectionMode": "auto"
+    },
+    {
+      "id": "markets-media-feed-amundi-unveils-tokenised-access-to-a-flagship-index-fund-2026-11-05",
+      "title": "Amundi Unveils Tokenised Access to a Flagship Index Fund",
+      "source": "Markets Media",
+      "url": "https://www.marketsmedia.com/amundi-unveils-tokenised-access-to-a-flagship-index-fund",
+      "publishedAt": "2026-11-05T12:16:51.000Z",
+      "category": "Tokenisation",
+      "topics": [
+        "Tokenisation"
+      ],
+      "collectionMode": "auto"
+    },
+    {
       "id": "finextra-crypto-scaling-digital-assets-and-overcoming-market-fragmentation-2026-11-04",
       "title": "Scaling Digital Assets and Overcoming Market Fragmentation",
       "source": "Finextra",
@@ -1284,68 +1344,6 @@ window.REGWATCH_DATA = {
       "category": "Digital money & settlement assets",
       "topics": [
         "Digital money & settlement assets"
-      ],
-      "collectionMode": "auto"
-    },
-    {
-      "id": "finextra-crypto-drivewealth-and-ripple-bring-institutional-digital-asset-infrastructure-to-global-investing-2026-10-15",
-      "title": "DriveWealth and Ripple bring institutional digital asset infrastructure to global investing",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/pressarticle/111277/drivewealth-and-ripple-bring-institutional-digital-asset-infrastructure-to-global-investing",
-      "publishedAt": "2026-10-15T13:17:00.000Z",
-      "category": "Digital assets",
-      "topics": [
-        "Digital assets"
-      ],
-      "collectionMode": "auto"
-    },
-    {
-      "id": "finextra-payments-what-banks-need-to-know-before-choosing-tokenized-deposit-infrastructure-2026-10-15",
-      "title": "What Banks Need to Know Before Choosing Tokenized Deposit Infrastructure",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/blogposting/33171/what-banks-need-to-know-before-choosing-tokenized-deposit-infrastructure",
-      "publishedAt": "2026-10-15T08:46:22.000Z",
-      "category": "Tokenisation",
-      "topics": [
-        "Tokenisation",
-        "Digital money & settlement assets"
-      ],
-      "collectionMode": "auto"
-    },
-    {
-      "id": "finextra-regulation-canton-foundation-and-meritz-securities-partner-for-tokenisation-in-korea-2026-10-14",
-      "title": "Canton Foundation and Meritz Securities partner for tokenisation in Korea",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/pressarticle/111247/canton-foundation-and-meritz-securities-partner-for-tokenisation-in-korea",
-      "publishedAt": "2026-10-14T12:05:00.000Z",
-      "category": "Tokenisation",
-      "topics": [
-        "Tokenisation",
-        "Institutional adoption"
-      ],
-      "collectionMode": "auto"
-    },
-    {
-      "id": "finextra-payments-agentic-ai-and-digital-assets-how-can-banks-future-proof-payments-2026-10-14",
-      "title": "Agentic AI and Digital Assets: How Can Banks Future-Proof Payments?",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/videoarticle/3613/agentic-ai-and-digital-assets-how-can-banks-future-proof-payments",
-      "publishedAt": "2026-10-14T11:00:00.000Z",
-      "category": "Payments",
-      "topics": [
-        "Payments"
-      ],
-      "collectionMode": "auto"
-    },
-    {
-      "id": "securities-finance-times-bny-completes-tokenised-us-treasury-triparty-repo-workflow-2026-10-14",
-      "title": "BNY completes tokenised US Treasury triparty repo workflow",
-      "source": "Securities Finance Times",
-      "url": "https://www.securitiesfinancetimes.com/securitieslendingnews/repoarticle.php?article_id=229058",
-      "publishedAt": "2026-10-14T09:30:28.000Z",
-      "category": "Tokenisation",
-      "topics": [
-        "Tokenisation"
       ],
       "collectionMode": "auto"
     }
