@@ -126,6 +126,18 @@ window.REGWATCH_DATA = {
   ],
   "marketIntelligence": [
     {
+      "id": "finextra-crypto-wirex-and-aurora-target-fragmentation-in-stablecoin-payments-2026-11-09",
+      "title": "Wirex and Aurora target fragmentation in stablecoin payments",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/pressarticle/111615/wirex-and-aurora-target-fragmentation-in-stablecoin-payments",
+      "publishedAt": "2026-11-09T13:25:00.000Z",
+      "category": "Digital money & settlement assets",
+      "topics": [
+        "Digital money & settlement assets"
+      ],
+      "collectionMode": "auto"
+    },
+    {
       "id": "finextra-markets-lombard-systems-raises-4m-for-tokenised-securities-financing-2026-11-05",
       "title": "Lombard Systems raises $4m for tokenised securities financing",
       "source": "Finextra",
@@ -1328,18 +1340,6 @@ window.REGWATCH_DATA = {
       "title": "StraitsX partners Visa to expand stablecoin-backed card issuing to more markets",
       "source": "Finextra",
       "url": "https://www.finextra.com/pressarticle/111278/straitsx-partners-visa-to-expand-stablecoin-backed-card-issuing-to-more-markets",
-      "publishedAt": "2026-10-15T13:21:00.000Z",
-      "category": "Digital money & settlement assets",
-      "topics": [
-        "Digital money & settlement assets"
-      ],
-      "collectionMode": "auto"
-    },
-    {
-      "id": "finextra-crypto-straitsx-partners-visa-to-expand-stablecoin-backed-card-issuring-to-mre-markets-2026-10-15",
-      "title": "StraitsX partners Visa to expand stablecoin-backed card issuring to mre markets",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/pressarticle/111278/straitsx-partners-visa-to-expand-stablecoin-backed-card-issuring-to-mre-markets",
       "publishedAt": "2026-10-15T13:21:00.000Z",
       "category": "Digital money & settlement assets",
       "topics": [
