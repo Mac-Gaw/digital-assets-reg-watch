@@ -126,6 +126,18 @@ window.REGWATCH_DATA = {
   ],
   "marketIntelligence": [
     {
+      "id": "finextra-crypto-pnc-launches-stablecoin-payments-for-corporate-clients-2026-11-10",
+      "title": "PNC launches stablecoin payments for corporate clients",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/newsarticle/48728/pnc-launches-stablecoin-payments-for-corporate-clients",
+      "publishedAt": "2026-11-10T00:01:00.000Z",
+      "category": "Digital money & settlement assets",
+      "topics": [
+        "Digital money & settlement assets"
+      ],
+      "collectionMode": "auto"
+    },
+    {
       "id": "finextra-crypto-wirex-and-aurora-target-fragmentation-in-stablecoin-payments-2026-11-09",
       "title": "Wirex and Aurora target fragmentation in stablecoin payments",
       "source": "Finextra",
@@ -1329,18 +1341,6 @@ window.REGWATCH_DATA = {
       "source": "Finextra",
       "url": "https://www.finextra.com/pressarticle/111280/ppro-and-damisa-tam-on-stablecoin-powered-treasury-and-cross-border-settlement",
       "publishedAt": "2026-10-15T13:23:00.000Z",
-      "category": "Digital money & settlement assets",
-      "topics": [
-        "Digital money & settlement assets"
-      ],
-      "collectionMode": "auto"
-    },
-    {
-      "id": "finextra-crypto-straitsx-partners-visa-to-expand-stablecoin-backed-card-issuing-to-more-markets-2026-10-15",
-      "title": "StraitsX partners Visa to expand stablecoin-backed card issuing to more markets",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/pressarticle/111278/straitsx-partners-visa-to-expand-stablecoin-backed-card-issuing-to-more-markets",
-      "publishedAt": "2026-10-15T13:21:00.000Z",
       "category": "Digital money & settlement assets",
       "topics": [
         "Digital money & settlement assets"
