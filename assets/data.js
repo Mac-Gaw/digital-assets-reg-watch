@@ -126,6 +126,18 @@ window.REGWATCH_DATA = {
   ],
   "marketIntelligence": [
     {
+      "id": "finextra-crypto-gtn-appoints-former-gemini-and-kraken-executive-mark-jennings-as-global-head-of-digital-assets-2026-11-10",
+      "title": "GTN appoints former Gemini and Kraken executive Mark Jennings as global head of digital assets",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/pressarticle/111621/gtn-appoints-former-gemini-and-kraken-executive-mark-jennings-as-global-head-of-digital-assets",
+      "publishedAt": "2026-11-10T09:00:00.000Z",
+      "category": "Tokenisation",
+      "topics": [
+        "Tokenisation"
+      ],
+      "collectionMode": "auto"
+    },
+    {
       "id": "finextra-crypto-pnc-launches-stablecoin-payments-for-corporate-clients-2026-11-10",
       "title": "PNC launches stablecoin payments for corporate clients",
       "source": "Finextra",
@@ -1332,18 +1344,6 @@ window.REGWATCH_DATA = {
       "category": "Tokenisation",
       "topics": [
         "Tokenisation"
-      ],
-      "collectionMode": "auto"
-    },
-    {
-      "id": "finextra-crypto-ppro-and-damisa-tam-on-stablecoin-powered-treasury-and-cross-border-settlement-2026-10-15",
-      "title": "PPRO and Damisa tam on stablecoin-powered treasury and cross-border settlement",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/pressarticle/111280/ppro-and-damisa-tam-on-stablecoin-powered-treasury-and-cross-border-settlement",
-      "publishedAt": "2026-10-15T13:23:00.000Z",
-      "category": "Digital money & settlement assets",
-      "topics": [
-        "Digital money & settlement assets"
       ],
       "collectionMode": "auto"
     }
