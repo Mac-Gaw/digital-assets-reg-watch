@@ -126,6 +126,18 @@ window.REGWATCH_DATA = {
   ],
   "marketIntelligence": [
     {
+      "id": "finextra-crypto-bottomline-brings-usdc-stablecoin-payments-into-platform-2026-11-10",
+      "title": "Bottomline brings USDC stablecoin payments into platform",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/pressarticle/111632/bottomline-brings-usdc-stablecoin-payments-into-platform",
+      "publishedAt": "2026-11-10T13:32:00.000Z",
+      "category": "Digital money & settlement assets",
+      "topics": [
+        "Digital money & settlement assets"
+      ],
+      "collectionMode": "auto"
+    },
+    {
       "id": "finextra-crypto-gtn-appoints-former-gemini-and-kraken-executive-mark-jennings-as-global-head-of-digital-assets-2026-11-10",
       "title": "GTN appoints former Gemini and Kraken executive Mark Jennings as global head of digital assets",
       "source": "Finextra",
@@ -1332,18 +1344,6 @@ window.REGWATCH_DATA = {
       "category": "Digital money & settlement assets",
       "topics": [
         "Digital money & settlement assets"
-      ],
-      "collectionMode": "auto"
-    },
-    {
-      "id": "securities-finance-times-isla-americas-a-collateral-state-of-mind-from-equity-to-equity-to-tokenisation-2026-10-15",
-      "title": "ISLA Americas: A collateral state of mind — from equity-to-equity to tokenisation",
-      "source": "Securities Finance Times",
-      "url": "https://www.securitiesfinancetimes.com/securitieslendingnews/industryarticle.php?article_id=229069",
-      "publishedAt": "2026-10-15T14:06:48.000Z",
-      "category": "Tokenisation",
-      "topics": [
-        "Tokenisation"
       ],
       "collectionMode": "auto"
     }
