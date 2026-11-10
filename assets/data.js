@@ -126,6 +126,18 @@ window.REGWATCH_DATA = {
   ],
   "marketIntelligence": [
     {
+      "id": "finextra-crypto-banking-giants-commit-270m-to-stablecoin-venture-bloomberg-2026-11-10",
+      "title": "Banking giants commit $270m to stablecoin venture - Bloomberg",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/newsarticle/48738/banking-giants-commit-270m-to-stablecoin-venture---bloomberg",
+      "publishedAt": "2026-11-10T18:46:00.000Z",
+      "category": "Digital money & settlement assets",
+      "topics": [
+        "Digital money & settlement assets"
+      ],
+      "collectionMode": "auto"
+    },
+    {
       "id": "finextra-crypto-bottomline-brings-usdc-stablecoin-payments-into-platform-2026-11-10",
       "title": "Bottomline brings USDC stablecoin payments into platform",
       "source": "Finextra",
@@ -1332,18 +1344,6 @@ window.REGWATCH_DATA = {
       "category": "Tokenisation",
       "topics": [
         "Tokenisation"
-      ],
-      "collectionMode": "auto"
-    },
-    {
-      "id": "finextra-crypto-mastercard-and-bvnk-bring-fiat-and-stablecoin-payments-together-in-global-money-platform-2026-10-15",
-      "title": "Mastercard and BVNK bring fiat and stablecoin payments together in global money platform",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/newsarticle/48590/mastercard-and-bvnk-bring-fiat-and-stablecoin-payments-together-in-global-money-platform",
-      "publishedAt": "2026-10-15T15:17:00.000Z",
-      "category": "Digital money & settlement assets",
-      "topics": [
-        "Digital money & settlement assets"
       ],
       "collectionMode": "auto"
     }
