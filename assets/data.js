@@ -126,6 +126,18 @@ window.REGWATCH_DATA = {
   ],
   "marketIntelligence": [
     {
+      "id": "asset-servicing-times-tokenised-dax-40-now-available-on-360x-2026-11-11",
+      "title": "Tokenised DAX 40 now available on 360x",
+      "source": "Asset Servicing Times",
+      "url": "https://www.assetservicingtimes.com/assetservicesnews/digitalassetsarticle.php?article_id=18544",
+      "publishedAt": "2026-11-11T11:33:15.000Z",
+      "category": "Tokenisation",
+      "topics": [
+        "Tokenisation"
+      ],
+      "collectionMode": "auto"
+    },
+    {
       "id": "markets-media-feed-standard-chartered-24x-expand-digital-assets-prime-brokerage-2026-11-11",
       "title": "Standard Chartered, 24X Expand Digital Assets Prime Brokerage",
       "source": "Markets Media",
@@ -1329,18 +1341,6 @@ window.REGWATCH_DATA = {
       "source": "Finextra",
       "url": "https://www.finextra.com/pressarticle/111303/visa-takes-stablecoin-powered-money-movement-from-pilots-to-production",
       "publishedAt": "2026-10-15T16:30:00.000Z",
-      "category": "Digital money & settlement assets",
-      "topics": [
-        "Digital money & settlement assets"
-      ],
-      "collectionMode": "auto"
-    },
-    {
-      "id": "finextra-regulation-digital-money-in-gaming-what-virtual-economies-can-teach-financial-services-2026-10-15",
-      "title": "Digital Money in Gaming: What Virtual Economies Can Teach Financial Services",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/blogposting/33188/digital-money-in-gaming-what-virtual-economies-can-teach-financial-services",
-      "publishedAt": "2026-10-15T15:59:09.000Z",
       "category": "Digital money & settlement assets",
       "topics": [
         "Digital money & settlement assets"
