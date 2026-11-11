@@ -126,6 +126,30 @@ window.REGWATCH_DATA = {
   ],
   "marketIntelligence": [
     {
+      "id": "markets-media-feed-standard-chartered-24x-expand-digital-assets-prime-brokerage-2026-11-11",
+      "title": "Standard Chartered, 24X Expand Digital Assets Prime Brokerage",
+      "source": "Markets Media",
+      "url": "https://www.marketsmedia.com/standard-chartered-expands-digital-assets-prime-brokerage-with-24x",
+      "publishedAt": "2026-11-11T09:40:26.000Z",
+      "category": "Market structure",
+      "topics": [
+        "Market structure"
+      ],
+      "collectionMode": "auto"
+    },
+    {
+      "id": "markets-media-feed-kimber-digital-securities-becomes-registered-broker-dealer-2026-11-11",
+      "title": "Kimber Digital Securities Becomes Registered Broker-Dealer",
+      "source": "Markets Media",
+      "url": "https://www.marketsmedia.com/kimber-digital-securities-becomes-registered-broker-dealer",
+      "publishedAt": "2026-11-11T08:49:23.000Z",
+      "category": "Tokenisation",
+      "topics": [
+        "Tokenisation"
+      ],
+      "collectionMode": "auto"
+    },
+    {
       "id": "finextra-crypto-banking-giants-commit-270m-to-stablecoin-venture-bloomberg-2026-11-10",
       "title": "Banking giants commit $270m to stablecoin venture - Bloomberg",
       "source": "Finextra",
@@ -1320,30 +1344,6 @@ window.REGWATCH_DATA = {
       "category": "Digital money & settlement assets",
       "topics": [
         "Digital money & settlement assets"
-      ],
-      "collectionMode": "auto"
-    },
-    {
-      "id": "finextra-crypto-cross-river-embeds-ripple-stablecoin-into-operating-system-2026-10-15",
-      "title": "Cross River embeds Ripple stablecoin into operating system",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/pressarticle/111299/cross-river-embeds-ripple-stablecoin-into-operating-system",
-      "publishedAt": "2026-10-15T15:57:00.000Z",
-      "category": "Digital money & settlement assets",
-      "topics": [
-        "Digital money & settlement assets"
-      ],
-      "collectionMode": "auto"
-    },
-    {
-      "id": "finextra-payments-episode-six-launches-real-time-backing-verification-for-tokenised-money-2026-10-15",
-      "title": "Episode Six launches real-time backing verification for tokenised money",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/pressarticle/111297/episode-six-launches-real-time-backing-verification-for-tokenised-money",
-      "publishedAt": "2026-10-15T15:53:00.000Z",
-      "category": "Tokenisation",
-      "topics": [
-        "Tokenisation"
       ],
       "collectionMode": "auto"
     }
