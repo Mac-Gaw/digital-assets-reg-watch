@@ -1,5 +1,103 @@
 [
   {
+    "id": "asset-servicing-times-dtcc-plans-solana-integration-for-tokenised-securities-service-2026-11-12",
+    "title": "DTCC plans Solana integration for tokenised securities service",
+    "source": "Asset Servicing Times",
+    "url": "https://www.assetservicingtimes.com/assetservicesnews/digitalassetsarticle.php?article_id=18551",
+    "publishedAt": "2026-11-12T16:39:15.000Z",
+    "category": "Tokenisation",
+    "topics": [
+      "Tokenisation"
+    ],
+    "collectionMode": "auto"
+  },
+  {
+    "id": "securities-finance-times-dtcc-plans-solana-integration-for-tokenised-securities-service-2026-11-12",
+    "title": "DTCC plans Solana integration for tokenised securities service",
+    "source": "Securities Finance Times",
+    "url": "https://www.securitiesfinancetimes.com/securitieslendingnews/industryarticle.php?article_id=229144",
+    "publishedAt": "2026-11-12T16:23:57.000Z",
+    "category": "Tokenisation",
+    "topics": [
+      "Tokenisation"
+    ],
+    "collectionMode": "auto"
+  },
+  {
+    "id": "finextra-crypto-baas-bank-griffin-raises-and-163-20m-to-add-cards-and-stablecoin-capabilities-2026-11-12",
+    "title": "BaaS bank Griffin raises &#163;20m to add cards and stablecoin capabilities",
+    "source": "Finextra",
+    "url": "https://www.finextra.com/newsarticle/48746/baas-bank-griffin-raises-20m-to-add-cards-and-stablecoin-capabilities",
+    "publishedAt": "2026-11-12T14:41:00.000Z",
+    "category": "Digital money & settlement assets",
+    "topics": [
+      "Digital money & settlement assets"
+    ],
+    "collectionMode": "auto"
+  },
+  {
+    "id": "finextra-markets-dtcc-tokenisation-service-to-connect-with-solana-2026-11-12",
+    "title": "DTCC tokenisation service to connect with Solana",
+    "source": "Finextra",
+    "url": "https://www.finextra.com/pressarticle/111656/dtcc-tokenisation-service-to-connect-with-solana",
+    "publishedAt": "2026-11-12T13:29:00.000Z",
+    "category": "Tokenisation",
+    "topics": [
+      "Tokenisation",
+      "Market infrastructure"
+    ],
+    "collectionMode": "auto"
+  },
+  {
+    "id": "finextra-crypto-sparkasse-bank-malta-launches-digital-asset-trading-services-2026-11-12",
+    "title": "Sparkasse Bank Malta launches digital asset trading services",
+    "source": "Finextra",
+    "url": "https://www.finextra.com/pressarticle/111653/sparkasse-bank-malta-launches-digital-asset-trading-services",
+    "publishedAt": "2026-11-12T13:18:00.000Z",
+    "category": "Digital assets",
+    "topics": [
+      "Digital assets"
+    ],
+    "collectionMode": "auto"
+  },
+  {
+    "id": "finextra-crypto-dcs-decard-partners-visa-on-stablecoin-lined-cards-2026-11-12",
+    "title": "DCS DeCard partners Visa on stablecoin-lined cards",
+    "source": "Finextra",
+    "url": "https://www.finextra.com/pressarticle/111651/dcs-decard-partners-visa-on-stablecoin-lined-cards",
+    "publishedAt": "2026-11-12T13:14:00.000Z",
+    "category": "Digital money & settlement assets",
+    "topics": [
+      "Digital money & settlement assets"
+    ],
+    "collectionMode": "auto"
+  },
+  {
+    "id": "finextra-crypto-apex-group-joins-hedera-council-to-advance-institutional-digital-assets-2026-11-12",
+    "title": "Apex Group joins Hedera Council to advance institutional digital assets",
+    "source": "Finextra",
+    "url": "https://www.finextra.com/pressarticle/111649/apex-group-joins-hedera-council-to-advance-institutional-digital-assets",
+    "publishedAt": "2026-11-12T13:10:00.000Z",
+    "category": "Market infrastructure",
+    "topics": [
+      "Market infrastructure",
+      "Institutional adoption"
+    ],
+    "collectionMode": "auto"
+  },
+  {
+    "id": "securities-finance-times-cnb-issues-first-tokenised-bond-2026-11-12",
+    "title": "CNB issues first tokenised bond",
+    "source": "Securities Finance Times",
+    "url": "https://www.securitiesfinancetimes.com/securitieslendingnews/industryarticle.php?article_id=229143",
+    "publishedAt": "2026-11-12T11:45:15.000Z",
+    "category": "Tokenisation",
+    "topics": [
+      "Tokenisation"
+    ],
+    "collectionMode": "auto"
+  },
+  {
     "id": "markets-media-feed-okxice-tsv-to-list-70-digital-assets-2026-11-12",
     "title": "OKXICE TSV to List 70+ Digital Assets",
     "source": "Markets Media",
@@ -8,6 +106,18 @@
     "category": "Market structure",
     "topics": [
       "Market structure"
+    ],
+    "collectionMode": "auto"
+  },
+  {
+    "id": "finextra-regulation-beyond-digitization-how-tokenization-is-unlocking-liquidity-in-trade-finance-receivables-2026-11-12",
+    "title": "Beyond Digitization: How Tokenization Is Unlocking Liquidity in Trade Finance Receivables",
+    "source": "Finextra",
+    "url": "https://www.finextra.com/blogposting/33449/beyond-digitization-how-tokenization-is-unlocking-liquidity-in-trade-finance-receivables",
+    "publishedAt": "2026-11-12T09:18:05.000Z",
+    "category": "Tokenisation",
+    "topics": [
+      "Tokenisation"
     ],
     "collectionMode": "auto"
   },
@@ -1108,116 +1218,6 @@
     "category": "Payments",
     "topics": [
       "Payments"
-    ],
-    "collectionMode": "auto"
-  },
-  {
-    "id": "asset-servicing-times-thunes-and-coinbase-partner-on-unified-digital-asset-infrastructure-2026-10-19",
-    "title": "Thunes and Coinbase partner on unified digital asset infrastructure",
-    "source": "Asset Servicing Times",
-    "url": "https://www.assetservicingtimes.com/assetservicesnews/digitalassetsarticle.php?article_id=18464",
-    "publishedAt": "2026-10-19T15:51:51.000Z",
-    "category": "Digital money & settlement assets",
-    "topics": [
-      "Digital money & settlement assets"
-    ],
-    "collectionMode": "auto"
-  },
-  {
-    "id": "finextra-payments-jack-henry-expands-google-cloud-partnership-to-tokenised-deposits-2026-10-19",
-    "title": "Jack Henry expands Google Cloud partnership to tokenised deposits",
-    "source": "Finextra",
-    "url": "https://www.finextra.com/pressarticle/111335/jack-henry-expands-google-cloud-partnership-to-tokenised-deposits",
-    "publishedAt": "2026-10-19T15:11:00.000Z",
-    "category": "Tokenisation",
-    "topics": [
-      "Tokenisation",
-      "Digital money & settlement assets"
-    ],
-    "collectionMode": "auto"
-  },
-  {
-    "id": "securities-finance-times-dlt-moves-towards-practical-global-adoption-afme-report-finds-2026-10-19",
-    "title": "DLT moves towards practical global adoption, AFME report finds",
-    "source": "Securities Finance Times",
-    "url": "https://www.securitiesfinancetimes.com/securitieslendingnews/industryarticle.php?article_id=229075",
-    "publishedAt": "2026-10-19T10:33:57.000Z",
-    "category": "Tokenisation",
-    "topics": [
-      "Tokenisation",
-      "Market infrastructure"
-    ],
-    "collectionMode": "auto"
-  },
-  {
-    "id": "markets-media-feed-dtcc-details-tokenization-service-2026-10-19",
-    "title": "DTCC Details Tokenization Service",
-    "source": "Markets Media",
-    "url": "https://www.marketsmedia.com/dtcc-details-tokenization-service",
-    "publishedAt": "2026-10-19T08:45:48.000Z",
-    "category": "Tokenisation",
-    "topics": [
-      "Tokenisation"
-    ],
-    "collectionMode": "auto"
-  },
-  {
-    "id": "markets-media-feed-japanese-banks-complete-joint-stablecoin-issuance-2026-10-19",
-    "title": "Japanese Banks Complete Joint Stablecoin Issuance",
-    "source": "Markets Media",
-    "url": "https://www.marketsmedia.com/japanese-banks-complete-joint-stablecoin-issuance",
-    "publishedAt": "2026-10-19T07:28:09.000Z",
-    "category": "Digital money & settlement assets",
-    "topics": [
-      "Digital money & settlement assets"
-    ],
-    "collectionMode": "auto"
-  },
-  {
-    "id": "finextra-crypto-stripe-and-plasma-team-on-multi-currency-stablecoin-cards-2026-10-16",
-    "title": "Stripe and Plasma team on multi-currency stablecoin cards",
-    "source": "Finextra",
-    "url": "https://www.finextra.com/pressarticle/111319/stripe-and-plasma-team-on-multi-currency-stablecoin-cards",
-    "publishedAt": "2026-10-16T14:53:00.000Z",
-    "category": "Digital money & settlement assets",
-    "topics": [
-      "Digital money & settlement assets"
-    ],
-    "collectionMode": "auto"
-  },
-  {
-    "id": "finextra-payments-research-reveals-gaps-in-sme-s-stablecoin-adoption-2026-10-16",
-    "title": "Research reveals gaps in SME's stablecoin adoption",
-    "source": "Finextra",
-    "url": "https://www.finextra.com/pressarticle/111312/research-reveals-gaps-in-smes-stablecoin-adoption",
-    "publishedAt": "2026-10-16T13:13:00.000Z",
-    "category": "Digital money & settlement assets",
-    "topics": [
-      "Digital money & settlement assets"
-    ],
-    "collectionMode": "auto"
-  },
-  {
-    "id": "finextra-crypto-japanese-banks-complete-stablecoin-poc-2026-10-16",
-    "title": "Japanese banks complete stablecoin PoC",
-    "source": "Finextra",
-    "url": "https://www.finextra.com/pressarticle/111311/japanese-banks-complete-stablecoin-poc",
-    "publishedAt": "2026-10-16T12:51:00.000Z",
-    "category": "Digital money & settlement assets",
-    "topics": [
-      "Digital money & settlement assets"
-    ],
-    "collectionMode": "auto"
-  },
-  {
-    "id": "asset-servicing-times-neo-88-believe-stablecoins-could-improve-cross-border-b2b-collections-2026-10-16",
-    "title": "Neo: 88% believe stablecoins could improve cross-border B2B collections",
-    "source": "Asset Servicing Times",
-    "url": "https://www.assetservicingtimes.com/assetservicesnews/digitalassetsarticle.php?article_id=18460",
-    "publishedAt": "2026-10-16T11:49:05.000Z",
-    "category": "Digital money & settlement assets",
-    "topics": [
-      "Digital money & settlement assets"
     ],
     "collectionMode": "auto"
   }
