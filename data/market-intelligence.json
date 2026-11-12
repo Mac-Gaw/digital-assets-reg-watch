@@ -1,5 +1,29 @@
 [
   {
+    "id": "markets-media-feed-okxice-tsv-to-list-70-digital-assets-2026-11-12",
+    "title": "OKXICE TSV to List 70+ Digital Assets",
+    "source": "Markets Media",
+    "url": "https://www.marketsmedia.com/okxice-tsv-to-list-70-digital-assets",
+    "publishedAt": "2026-11-12T09:21:48.000Z",
+    "category": "Market structure",
+    "topics": [
+      "Market structure"
+    ],
+    "collectionMode": "auto"
+  },
+  {
+    "id": "markets-media-feed-eu-seeks-members-for-european-tokenisation-standards-group-2026-11-12",
+    "title": "EU Seeks Members for European Tokenisation Standards Group",
+    "source": "Markets Media",
+    "url": "https://www.marketsmedia.com/eu-seeks-members-for-the-european-tokenisation-standards-group",
+    "publishedAt": "2026-11-12T08:26:48.000Z",
+    "category": "Tokenisation",
+    "topics": [
+      "Tokenisation"
+    ],
+    "collectionMode": "auto"
+  },
+  {
     "id": "asset-servicing-times-tokenised-dax-40-now-available-on-360x-2026-11-11",
     "title": "Tokenised DAX 40 now available on 360x",
     "source": "Asset Servicing Times",
@@ -1191,30 +1215,6 @@
     "source": "Asset Servicing Times",
     "url": "https://www.assetservicingtimes.com/assetservicesnews/digitalassetsarticle.php?article_id=18460",
     "publishedAt": "2026-10-16T11:49:05.000Z",
-    "category": "Digital money & settlement assets",
-    "topics": [
-      "Digital money & settlement assets"
-    ],
-    "collectionMode": "auto"
-  },
-  {
-    "id": "markets-media-feed-marex-launches-first-qis-indices-on-digital-assets-2026-10-16",
-    "title": "Marex Launches First QIS Indices on Digital Assets",
-    "source": "Markets Media",
-    "url": "https://www.marketsmedia.com/marex-launches-first-institutional-qis-indices-on-digital-assets",
-    "publishedAt": "2026-10-16T07:46:13.000Z",
-    "category": "Market structure",
-    "topics": [
-      "Market structure"
-    ],
-    "collectionMode": "auto"
-  },
-  {
-    "id": "finextra-crypto-visa-takes-stablecoin-powered-money-movement-from-pilots-to-production-2026-10-15",
-    "title": "Visa takes stablecoin-powered money movement from pilots to production",
-    "source": "Finextra",
-    "url": "https://www.finextra.com/pressarticle/111303/visa-takes-stablecoin-powered-money-movement-from-pilots-to-production",
-    "publishedAt": "2026-10-15T16:30:00.000Z",
     "category": "Digital money & settlement assets",
     "topics": [
       "Digital money & settlement assets"
