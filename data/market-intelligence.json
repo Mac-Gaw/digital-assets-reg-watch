@@ -1,5 +1,17 @@
 [
   {
+    "id": "finextra-crypto-visa-and-anchorage-digital-bring-western-union-stablecoin-to-settlement-network-2026-11-13",
+    "title": "Visa and Anchorage Digital bring Western Union stablecoin to settlement network",
+    "source": "Finextra",
+    "url": "https://www.finextra.com/newsarticle/48752/visa-and-anchorage-digital-bring-western-union-stablecoin-to-settlement-network",
+    "publishedAt": "2026-11-13T00:01:00.000Z",
+    "category": "Digital money & settlement assets",
+    "topics": [
+      "Digital money & settlement assets"
+    ],
+    "collectionMode": "auto"
+  },
+  {
     "id": "asset-servicing-times-dtcc-plans-solana-integration-for-tokenised-securities-service-2026-11-12",
     "title": "DTCC plans Solana integration for tokenised securities service",
     "source": "Asset Servicing Times",
@@ -1206,18 +1218,6 @@
     "topics": [
       "Custody",
       "Digital money & settlement assets"
-    ],
-    "collectionMode": "auto"
-  },
-  {
-    "id": "finextra-payments-scalable-digital-asset-payments-need-a-control-loop-not-just-a-transaction-api-2026-10-19",
-    "title": "Scalable Digital Asset Payments Need a Control Loop, Not Just a Transaction API",
-    "source": "Finextra",
-    "url": "https://www.finextra.com/blogposting/33220/scalable-digital-asset-payments-need-a-control-loop-not-just-a-transaction-api",
-    "publishedAt": "2026-10-19T15:53:08.000Z",
-    "category": "Payments",
-    "topics": [
-      "Payments"
     ],
     "collectionMode": "auto"
   }
