@@ -126,6 +126,30 @@ window.REGWATCH_DATA = {
   ],
   "marketIntelligence": [
     {
+      "id": "markets-media-feed-dtcc-tokenization-service-to-connect-with-solana-2026-11-13",
+      "title": "DTCC Tokenization Service to Connect with Solana",
+      "source": "Markets Media",
+      "url": "https://www.marketsmedia.com/dtcc-tokenization-service-to-connect-with-solana",
+      "publishedAt": "2026-11-13T08:08:25.000Z",
+      "category": "Tokenisation",
+      "topics": [
+        "Tokenisation"
+      ],
+      "collectionMode": "auto"
+    },
+    {
+      "id": "markets-media-feed-deutsche-b-rse-offers-24-7-tokenized-dax-40-shares-trading-2026-11-13",
+      "title": "Deutsche Börse Offers 24/7 Tokenized DAX 40 Shares Trading",
+      "source": "Markets Media",
+      "url": "https://www.marketsmedia.com/deutsche-borse-offers-24-7-trading-for-tokenized-dax-40-equities",
+      "publishedAt": "2026-11-13T08:01:24.000Z",
+      "category": "Tokenisation",
+      "topics": [
+        "Tokenisation"
+      ],
+      "collectionMode": "auto"
+    },
+    {
       "id": "finextra-crypto-visa-and-anchorage-digital-bring-western-union-stablecoin-to-settlement-network-2026-11-13",
       "title": "Visa and Anchorage Digital bring Western Union stablecoin to settlement network",
       "source": "Finextra",
@@ -1318,31 +1342,6 @@ window.REGWATCH_DATA = {
       "publishedAt": "2026-10-19T16:52:00.000Z",
       "category": "Digital money & settlement assets",
       "topics": [
-        "Digital money & settlement assets"
-      ],
-      "collectionMode": "auto"
-    },
-    {
-      "id": "markets-media-feed-issuers-have-little-reason-to-allow-3rd-party-stock-tokenization-2026-10-19",
-      "title": "Issuers Have ‘Little Reason’ to Allow 3rd Party Stock Tokenization",
-      "source": "Markets Media",
-      "url": "https://www.marketsmedia.com/companies-have-little-reason-to-permit-third-party-stock-tokenization",
-      "publishedAt": "2026-10-19T16:38:55.000Z",
-      "category": "Tokenisation",
-      "topics": [
-        "Tokenisation"
-      ],
-      "collectionMode": "auto"
-    },
-    {
-      "id": "finextra-crypto-euronet-and-fireblocks-team-on-stablecoin-funded-card-issuing-2026-10-19",
-      "title": "Euronet and Fireblocks team on stablecoin-funded card issuing",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/pressarticle/111344/euronet-and-fireblocks-team-on-stablecoin-funded-card-issuing",
-      "publishedAt": "2026-10-19T16:12:00.000Z",
-      "category": "Custody",
-      "topics": [
-        "Custody",
         "Digital money & settlement assets"
       ],
       "collectionMode": "auto"
