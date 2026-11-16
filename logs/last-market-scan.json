@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-11-16T09:36:32.005Z",
+  "scannedAt": "2026-11-16T20:25:43.975Z",
   "newItems": 3,
   "prunedStoredItems": 0,
   "sources": [
@@ -38,7 +38,7 @@
       "source": "asset-servicing-times",
       "status": "ok",
       "feedItems": 10,
-      "relevantItems": 2
+      "relevantItems": 1
     },
     {
       "source": "securities-finance-times",
