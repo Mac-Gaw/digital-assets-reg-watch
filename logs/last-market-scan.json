@@ -1,6 +1,6 @@
 {
-  "scannedAt": "2026-11-17T03:49:09.736Z",
-  "newItems": 3,
+  "scannedAt": "2026-11-17T13:19:10.268Z",
+  "newItems": 5,
   "prunedStoredItems": 0,
   "sources": [
     {
@@ -44,7 +44,7 @@
       "source": "securities-finance-times",
       "status": "ok",
       "feedItems": 10,
-      "relevantItems": 2
+      "relevantItems": 3
     },
     {
       "source": "markets-media-feed",

@@ -126,6 +126,32 @@ window.REGWATCH_DATA = {
   ],
   "marketIntelligence": [
     {
+      "id": "asset-servicing-times-talos-marex-and-broadridge-to-support-dtcc-tokenization-service-2026-11-17",
+      "title": "Talos, Marex, and Broadridge to support DTCC Tokenization Service",
+      "source": "Asset Servicing Times",
+      "url": "https://www.assetservicingtimes.com/assetservicesnews/digitalassetsarticle.php?article_id=18564",
+      "publishedAt": "2026-11-17T11:23:08.000Z",
+      "category": "Tokenisation",
+      "topics": [
+        "Tokenisation",
+        "Market infrastructure"
+      ],
+      "collectionMode": "auto"
+    },
+    {
+      "id": "securities-finance-times-talos-marex-and-broadridge-to-support-dtcc-tokenization-service-2026-11-17",
+      "title": "Talos, Marex, and Broadridge to support DTCC Tokenization Service",
+      "source": "Securities Finance Times",
+      "url": "https://www.securitiesfinancetimes.com/securitieslendingnews/industryarticle.php?article_id=229151",
+      "publishedAt": "2026-11-17T11:11:32.000Z",
+      "category": "Tokenisation",
+      "topics": [
+        "Tokenisation",
+        "Market infrastructure"
+      ],
+      "collectionMode": "auto"
+    },
+    {
       "id": "markets-media-feed-dtcc-tokenization-service-to-connect-with-solana-2026-11-13",
       "title": "DTCC Tokenization Service to Connect with Solana",
       "source": "Markets Media",
@@ -1319,30 +1345,6 @@ window.REGWATCH_DATA = {
       "category": "Tokenisation",
       "topics": [
         "Tokenisation"
-      ],
-      "collectionMode": "auto"
-    },
-    {
-      "id": "finextra-crypto-mastercard-launches-stablecoin-security-2026-10-19",
-      "title": "Mastercard launches Stablecoin Security",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/pressarticle/111350/mastercard-launches-stablecoin-security",
-      "publishedAt": "2026-10-19T18:47:00.000Z",
-      "category": "Digital money & settlement assets",
-      "topics": [
-        "Digital money & settlement assets"
-      ],
-      "collectionMode": "auto"
-    },
-    {
-      "id": "finextra-crypto-mesh-makes-stablecoin-and-crypto-balances-spendable-across-visa-network-2026-10-19",
-      "title": "Mesh makes stablecoin and crypto balances spendable across Visa network",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/pressarticle/111346/mesh-makes-stablecoin-and-crypto-balances-spendable-across-visa-network",
-      "publishedAt": "2026-10-19T16:52:00.000Z",
-      "category": "Digital money & settlement assets",
-      "topics": [
-        "Digital money & settlement assets"
       ],
       "collectionMode": "auto"
     }
