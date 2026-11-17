@@ -126,6 +126,19 @@ window.REGWATCH_DATA = {
   ],
   "marketIntelligence": [
     {
+      "id": "securities-finance-times-deloitte-and-sifma-publish-digital-cash-white-paper-2026-11-17",
+      "title": "Deloitte and SIFMA publish digital cash white paper",
+      "source": "Securities Finance Times",
+      "url": "https://www.securitiesfinancetimes.com/securitieslendingnews/industryarticle.php?article_id=229152",
+      "publishedAt": "2026-11-17T14:32:05.000Z",
+      "category": "Tokenisation",
+      "topics": [
+        "Tokenisation",
+        "Digital money & settlement assets"
+      ],
+      "collectionMode": "auto"
+    },
+    {
       "id": "asset-servicing-times-talos-marex-and-broadridge-to-support-dtcc-tokenization-service-2026-11-17",
       "title": "Talos, Marex, and Broadridge to support DTCC Tokenization Service",
       "source": "Asset Servicing Times",
@@ -1333,18 +1346,6 @@ window.REGWATCH_DATA = {
       "category": "Market infrastructure",
       "topics": [
         "Market infrastructure"
-      ],
-      "collectionMode": "auto"
-    },
-    {
-      "id": "markets-media-feed-archax-chainlink-unlock-tokenised-treasuries-as-collateral-2026-10-20",
-      "title": "Archax, Chainlink Unlock Tokenised Treasuries as Collateral",
-      "source": "Markets Media",
-      "url": "https://www.marketsmedia.com/archax-adopts-chainlink-to-unlock-tokenised-treasuries-as-collateral",
-      "publishedAt": "2026-10-20T07:58:19.000Z",
-      "category": "Tokenisation",
-      "topics": [
-        "Tokenisation"
       ],
       "collectionMode": "auto"
     }
