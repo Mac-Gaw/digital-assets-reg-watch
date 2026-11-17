@@ -1,7 +1,7 @@
 {
-  "scannedAt": "2026-10-14T08:42:56.511Z",
-  "newAuto": 1,
-  "newPending": 4,
+  "scannedAt": "2026-11-17T09:45:59.057Z",
+  "newAuto": 3,
+  "newPending": 1,
   "prunedFalsePositives": 0,
   "sources": [
     {
@@ -18,7 +18,7 @@
       "source": "bank-of-england-publications",
       "status": "ok",
       "feedItems": 50,
-      "relevantItems": 0
+      "relevantItems": 2
     },
     {
       "source": "bank-of-england-pra",
@@ -118,7 +118,7 @@
       "source": "ledger-insights",
       "status": "ok",
       "feedItems": 1,
-      "relevantItems": 1
+      "relevantItems": 0
     },
     {
       "source": "finextra",
@@ -134,7 +134,7 @@
       "source": "nrf-regulation-tomorrow",
       "status": "ok",
       "feedItems": 10,
-      "relevantItems": 3
+      "relevantItems": 1
     }
   ]
 }

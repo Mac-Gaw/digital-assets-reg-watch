@@ -1,44 +1,44 @@
 window.REGWATCH_DATA = {
   "siteName": "Digital Assets Regulatory Watch",
   "release": "MVP v1.0.23 final stable",
-  "lastUpdated": "2026-10-14",
+  "lastUpdated": "2026-11-17",
   "monitoring": {
     "status": "Active",
-    "lastScan": "2026-10-14T08:42:56.482Z",
+    "lastScan": "2026-11-17T09:45:59.034Z",
     "quietPeriodDays": 14,
     "regions": [
       {
         "name": "United Kingdom",
         "shortName": "UK",
-        "lastChecked": "2026-10-14",
+        "lastChecked": "2026-11-17",
         "status": "Active"
       },
       {
         "name": "European Union",
         "shortName": "EU",
-        "lastChecked": "2026-10-14",
+        "lastChecked": "2026-11-17",
         "status": "Active"
       },
       {
         "name": "Global",
         "shortName": "Global",
-        "lastChecked": "2026-10-14",
+        "lastChecked": "2026-11-17",
         "status": "Active"
       },
       {
         "name": "United States",
         "shortName": "US",
-        "lastChecked": "2026-10-14",
+        "lastChecked": "2026-11-17",
         "status": "Active"
       }
     ],
     "lastScanResult": {
-      "newPublishedItems": 1,
-      "newHighPriorityItems": 1,
-      "newMediumPriorityItems": 0,
+      "newPublishedItems": 3,
+      "newHighPriorityItems": 2,
+      "newMediumPriorityItems": 1,
       "newLowPriorityItems": 0,
-      "materialItems": 1,
-      "newPendingItems": 4,
+      "materialItems": 2,
+      "newPendingItems": 1,
       "checkedSources": 25
     }
   },
@@ -1365,6 +1365,64 @@ window.REGWATCH_DATA = {
     }
   ],
   "updates": [
+    {
+      "id": "bank-of-england-publications-consultation-on-supervisory-expectations-for-central-counterparties-seeking-to-accept-tokenised--2026-10-29",
+      "title": "Consultation on supervisory expectations for central counterparties seeking to accept tokenised collateral",
+      "source": "Bank of England",
+      "sourceType": "Central bank",
+      "url": "https://www.bankofengland.co.uk/paper/2026/cp/supervisory-expectations-for-ccps-seeking-to-accept-tokenised-collateral",
+      "publishedAt": "2026-10-29T10:00:00.000Z",
+      "jurisdiction": "United Kingdom",
+      "category": "Consultation",
+      "topics": [
+        "Tokenisation",
+        "Collateral"
+      ],
+      "priority": "High",
+      "status": "Consultation",
+      "scope": "core-digital",
+      "radarEligible": true,
+      "summary": "Bank of England published a new item relevant to digital assets, tokenisation, digital money, stablecoins or financial market infrastructure monitoring.",
+      "whyItMatters": "Relevant for institutional tokenisation, settlement, custody, DvP, collateral and financial market infrastructure use cases."
+    },
+    {
+      "id": "bis-fsi-competing-rails-for-crossborder-payments-banks-fintechs-and-stablecoins-2026-10-19",
+      "title": "Competing rails for crossborder payments: banks, fintechs, and stablecoins",
+      "source": "Financial Stability Institute / BIS",
+      "sourceType": "Official source",
+      "url": "https://www.bis.org/publications/working-paper-1385-competing-rails-crossborder-payments-banks-fintechs-and-stablecoins",
+      "publishedAt": "2026-10-19T00:00:00.000Z",
+      "jurisdiction": "Global",
+      "category": "Source Update",
+      "topics": [
+        "Stablecoins"
+      ],
+      "priority": "Medium",
+      "status": "Published",
+      "scope": "core-digital",
+      "radarEligible": false,
+      "summary": "Cross-border payments remain slow and expensive despite significant improvements in digital financial infrastructure over the past several decades.",
+      "whyItMatters": "Relevant for settlement assets, reserve models, payment stablecoin issuance, redemption rights and prudential or supervisory treatment."
+    },
+    {
+      "id": "bank-of-england-publications-review-of-ccp-collateral-rules-letters-of-credit-2026-10-15",
+      "title": "Review of CCP collateral rules - letters of credit",
+      "source": "Bank of England",
+      "sourceType": "Central bank",
+      "url": "https://www.bankofengland.co.uk/paper/2026/cp/review-of-ccp-collateral-rules-letters-of-credit",
+      "publishedAt": "2026-10-15T09:00:00.000Z",
+      "jurisdiction": "United Kingdom",
+      "category": "Consultation",
+      "topics": [
+        "Digital Assets"
+      ],
+      "priority": "High",
+      "status": "Consultation",
+      "scope": "digital-market-infrastructure",
+      "radarEligible": false,
+      "summary": "Bank of England published a new item relevant to digital assets, tokenisation, digital money, stablecoins or financial market infrastructure monitoring.",
+      "whyItMatters": "Relevant as a public-source update from Bank of England within the covered digital assets regulatory intelligence scope."
+    },
     {
       "id": "bis-fsi-are-stablecoins-and-bank-deposits-substitutes-2026-10-13",
       "title": "Are stablecoins and bank deposits substitutes?",
