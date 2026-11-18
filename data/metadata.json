@@ -62,9 +62,9 @@
     "lastManualReview": "2026-07-29",
     "lookaheadDays": 365,
     "keepPastDays": 7,
-    "lastScan": "2026-11-18T15:55:25.681Z",
+    "lastScan": "2026-11-18T21:25:51.803Z",
     "lastScanResult": {
-      "newItems": 1,
+      "newItems": 0,
       "storedItems": 5,
       "checkedSources": 1
     }
