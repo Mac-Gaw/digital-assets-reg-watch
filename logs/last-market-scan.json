@@ -1,6 +1,6 @@
 {
-  "scannedAt": "2026-11-18T04:15:20.343Z",
-  "newItems": 3,
+  "scannedAt": "2026-11-18T13:04:25.272Z",
+  "newItems": 2,
   "prunedStoredItems": 0,
   "sources": [
     {
@@ -32,7 +32,7 @@
       "source": "global-custodian-feed",
       "status": "ok",
       "feedItems": 10,
-      "relevantItems": 1
+      "relevantItems": 0
     },
     {
       "source": "asset-servicing-times",
@@ -44,7 +44,7 @@
       "source": "securities-finance-times",
       "status": "ok",
       "feedItems": 10,
-      "relevantItems": 3
+      "relevantItems": 2
     },
     {
       "source": "markets-media-feed",
