@@ -141,6 +141,103 @@ window.REGWATCH_DATA = {
   ],
   "marketIntelligence": [
     {
+      "id": "finextra-crypto-anchorage-digital-and-fomo-pay-bring-usd-stablecoins-to-asian-payments-2026-11-18",
+      "title": "Anchorage Digital and Fomo Pay bring USD stablecoins to Asian payments",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/pressarticle/111725/anchorage-digital-and-fomo-pay-bring-usd-stablecoins-to-asian-payments",
+      "publishedAt": "2026-11-18T18:11:00.000Z",
+      "category": "Digital money & settlement assets",
+      "topics": [
+        "Digital money & settlement assets"
+      ],
+      "collectionMode": "auto"
+    },
+    {
+      "id": "finextra-crypto-world-bank-partners-citi-and-circle-to-test-stablecoins-for-development-payments-2026-11-18",
+      "title": "World Bank partners Citi and Circle to test stablecoins for development payments",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/newsarticle/48780/world-bank-partners-citi-and-circle-to-test-stablecoins-for-development-payments",
+      "publishedAt": "2026-11-18T16:07:00.000Z",
+      "category": "Digital money & settlement assets",
+      "topics": [
+        "Digital money & settlement assets"
+      ],
+      "collectionMode": "auto"
+    },
+    {
+      "id": "finextra-regulation-betanxt-partners-with-taurus-to-bring-tokenised-securities-into-existing-workflows-2026-11-18",
+      "title": "BetaNXT partners with Taurus to bring tokenised securities into existing workflows",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/pressarticle/111721/betanxt-partners-with-taurus-to-bring-tokenised-securities-into-existing-workflows",
+      "publishedAt": "2026-11-18T15:59:00.000Z",
+      "category": "Tokenisation",
+      "topics": [
+        "Tokenisation"
+      ],
+      "collectionMode": "auto"
+    },
+    {
+      "id": "finextra-payments-hyundai-card-validates-agent-powered-transaction-model-with-kinexys-by-jp-morgan-2026-11-18",
+      "title": "Hyundai Card validates agent-powered transaction model with Kinexys by JP Morgan",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/pressarticle/111709/hyundai-card-validates-agent-powered-transaction-model-with-kinexys-by-jp-morgan",
+      "publishedAt": "2026-11-18T13:14:00.000Z",
+      "category": "Institutional adoption",
+      "topics": [
+        "Institutional adoption"
+      ],
+      "collectionMode": "auto"
+    },
+    {
+      "id": "finextra-crypto-how-stablecoin-linked-cards-could-change-the-future-of-everyday-payment-funding-2026-11-18",
+      "title": "How Stablecoin-Linked Cards Could Change the Future of Everyday Payment Funding",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/videoarticle/3647/how-stablecoin-linked-cards-could-change-the-future-of-everyday-payment-funding",
+      "publishedAt": "2026-11-18T13:00:00.000Z",
+      "category": "Digital money & settlement assets",
+      "topics": [
+        "Digital money & settlement assets"
+      ],
+      "collectionMode": "auto"
+    },
+    {
+      "id": "finextra-regulation-decentralized-liquidity-bridges-understanding-interoperability-challenges-across-cbdc-networks-2026-11-18",
+      "title": "Decentralized Liquidity Bridges: Understanding Interoperability Challenges Across CBDC Networks",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/blogposting/33498/decentralized-liquidity-bridges-understanding-interoperability-challenges-across-cbdc-networks",
+      "publishedAt": "2026-11-18T07:00:20.000Z",
+      "category": "Institutional adoption",
+      "topics": [
+        "Institutional adoption"
+      ],
+      "collectionMode": "auto"
+    },
+    {
+      "id": "finextra-markets-wirex-now-powers-tokenised-stocks-2026-11-17",
+      "title": "Wirex now powers tokenised stocks",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/pressarticle/111706/wirex-now-powers-tokenised-stocks",
+      "publishedAt": "2026-11-17T18:12:00.000Z",
+      "category": "Tokenisation",
+      "topics": [
+        "Tokenisation",
+        "Digital money & settlement assets"
+      ],
+      "collectionMode": "auto"
+    },
+    {
+      "id": "finextra-markets-apex-group-and-tokeny-join-canadian-private-markets-tokenisation-pilot-2026-11-17",
+      "title": "Apex Group and Tokeny join Canadian private markets tokenisation pilot",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/pressarticle/111705/apex-group-and-tokeny-join-canadian-private-markets-tokenisation-pilot",
+      "publishedAt": "2026-11-17T18:09:00.000Z",
+      "category": "Tokenisation",
+      "topics": [
+        "Tokenisation"
+      ],
+      "collectionMode": "auto"
+    },
+    {
       "id": "securities-finance-times-deloitte-and-sifma-publish-digital-cash-white-paper-2026-11-17",
       "title": "Deloitte and SIFMA publish digital cash white paper",
       "source": "Securities Finance Times",
@@ -150,6 +247,18 @@ window.REGWATCH_DATA = {
       "topics": [
         "Tokenisation",
         "Digital money & settlement assets"
+      ],
+      "collectionMode": "auto"
+    },
+    {
+      "id": "finextra-crypto-deutsche-bank-picks-crypto-finance-infrastructure-for-digital-asset-custody-service-2026-11-17",
+      "title": "Deutsche Bank picks Crypto Finance infrastructure for digital asset custody service",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/newsarticle/48770/deutsche-bank-picks-crypto-finance-infrastructure-for-digital-asset-custody-service",
+      "publishedAt": "2026-11-17T14:27:00.000Z",
+      "category": "Custody",
+      "topics": [
+        "Custody"
       ],
       "collectionMode": "auto"
     },
@@ -176,6 +285,82 @@ window.REGWATCH_DATA = {
       "topics": [
         "Tokenisation",
         "Market infrastructure"
+      ],
+      "collectionMode": "auto"
+    },
+    {
+      "id": "finextra-crypto-dbs-and-kinexys-by-jp-morgan-launch-24-7-tokenised-deposit-transfers-2026-11-16",
+      "title": "DBS and Kinexys by JP Morgan launch 24/7 tokenised deposit transfers",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/pressarticle/111679/dbs-and-kinexys-by-jp-morgan-launch-247-tokenised-deposit-transfers",
+      "publishedAt": "2026-11-16T18:28:00.000Z",
+      "category": "Tokenisation",
+      "topics": [
+        "Tokenisation",
+        "Digital money & settlement assets",
+        "Institutional adoption"
+      ],
+      "collectionMode": "auto"
+    },
+    {
+      "id": "finextra-crypto-hkma-and-swift-explore-tokenised-deposits-for-cross-border-payments-2026-11-16",
+      "title": "HKMA and Swift explore tokenised deposits for cross-border payments",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/pressarticle/111677/hkma-and-swift-explore-tokenised-deposits-for-cross-border-payments",
+      "publishedAt": "2026-11-16T15:13:00.000Z",
+      "category": "Tokenisation",
+      "topics": [
+        "Tokenisation",
+        "Digital money & settlement assets"
+      ],
+      "collectionMode": "auto"
+    },
+    {
+      "id": "finextra-wholesale-hsbc-expands-tokenised-deposit-service-to-ireland-and-the-netherlands-2026-11-16",
+      "title": "HSBC expands tokenised deposit service to Ireland and the Netherlands",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/pressarticle/111673/hsbc-expands-tokenised-deposit-service-to-ireland-and-the-netherlands",
+      "publishedAt": "2026-11-16T13:12:00.000Z",
+      "category": "Tokenisation",
+      "topics": [
+        "Tokenisation",
+        "Digital money & settlement assets"
+      ],
+      "collectionMode": "auto"
+    },
+    {
+      "id": "finextra-crypto-monument-becomes-first-uk-bank-to-offer-tokenised-retail-deposits-2026-11-16",
+      "title": "Monument becomes first UK bank to offer tokenised retail deposits",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/newsarticle/48761/monument-becomes-first-uk-bank-to-offer-tokenised-retail-deposits",
+      "publishedAt": "2026-11-16T12:07:00.000Z",
+      "category": "Tokenisation",
+      "topics": [
+        "Tokenisation"
+      ],
+      "collectionMode": "auto"
+    },
+    {
+      "id": "finextra-crypto-hkex-to-accept-cbdc-payments-for-derivatives-after-hours-trading-2026-11-16",
+      "title": "HKEX to accept CBDC payments for derivatives after-hours trading",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/newsarticle/48760/hkex-to-accept-cbdc-payments-for-derivatives-after-hours-trading",
+      "publishedAt": "2026-11-16T00:01:00.000Z",
+      "category": "Institutional adoption",
+      "topics": [
+        "Institutional adoption"
+      ],
+      "collectionMode": "auto"
+    },
+    {
+      "id": "finextra-crypto-should-a-fintech-build-or-buy-stablecoin-payment-infrastructure-2026-11-15",
+      "title": "Should a fintech build or buy stablecoin payment infrastructure?",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/blogposting/33474/should-a-fintech-build-or-buy-stablecoin-payment-infrastructure",
+      "publishedAt": "2026-11-15T14:16:50.000Z",
+      "category": "Digital money & settlement assets",
+      "topics": [
+        "Digital money & settlement assets"
       ],
       "collectionMode": "auto"
     },
@@ -1177,190 +1362,6 @@ window.REGWATCH_DATA = {
       "category": "Digital money & settlement assets",
       "topics": [
         "Digital money & settlement assets"
-      ],
-      "collectionMode": "auto"
-    },
-    {
-      "id": "markets-media-feed-hsbc-launches-its-first-stablecoin-2026-10-23",
-      "title": "HSBC Launches its First Stablecoin",
-      "source": "Markets Media",
-      "url": "https://www.marketsmedia.com/hsbc-launches-its-first-stablecoin",
-      "publishedAt": "2026-10-23T10:53:07.000Z",
-      "category": "Digital money & settlement assets",
-      "topics": [
-        "Digital money & settlement assets"
-      ],
-      "collectionMode": "auto"
-    },
-    {
-      "id": "finextra-crypto-sofi-launches-tokenised-deposits-2026-10-22",
-      "title": "SoFi launches tokenised deposits",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/pressarticle/111421/sofi-launches-tokenised-deposits",
-      "publishedAt": "2026-10-22T19:19:00.000Z",
-      "category": "Tokenisation",
-      "topics": [
-        "Tokenisation",
-        "Digital money & settlement assets"
-      ],
-      "collectionMode": "auto"
-    },
-    {
-      "id": "finextra-crypto-bloomberg-enables-scalable-crypto-asset-exposure-classification-under-base-framework-2026-10-22",
-      "title": "Bloomberg enables scalable crypto asset exposure classification under Base framework",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/pressarticle/111416/bloomberg-enables-scalable-crypto-asset-exposure-classification-under-base-framework",
-      "publishedAt": "2026-10-22T14:21:00.000Z",
-      "category": "Tokenisation",
-      "topics": [
-        "Tokenisation"
-      ],
-      "collectionMode": "auto"
-    },
-    {
-      "id": "finextra-crypto-gcex-launches-options-on-digital-assets-for-professional-and-institutional-clients-2026-10-22",
-      "title": "GCEX launches options on digital assets for professional and institutional clients",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/pressarticle/111414/gcex-launches-options-on-digital-assets-for-professional-and-institutional-clients",
-      "publishedAt": "2026-10-22T14:07:00.000Z",
-      "category": "Digital assets",
-      "topics": [
-        "Digital assets"
-      ],
-      "collectionMode": "auto"
-    },
-    {
-      "id": "finextra-payments-terrapay-verify-integrates-with-kinexys-by-jp-morgan-s-liink-network-for-global-payee-verificati-2026-10-22",
-      "title": "TerraPay Verify integrates with Kinexys by JP Morgan’s Liink network for global payee verification",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/pressarticle/111413/terrapay-verify-integrates-with-kinexys-by-jp-morgans-liink-network-for-global-payee-verification",
-      "publishedAt": "2026-10-22T13:31:00.000Z",
-      "category": "Institutional adoption",
-      "topics": [
-        "Institutional adoption"
-      ],
-      "collectionMode": "auto"
-    },
-    {
-      "id": "asset-servicing-times-boerse-stuttgart-group-receives-dlt-tss-licence-2026-10-22",
-      "title": "Boerse Stuttgart Group receives DLT TSS licence",
-      "source": "Asset Servicing Times",
-      "url": "https://www.assetservicingtimes.com/assetservicesnews/regulationarticle.php?article_id=18480",
-      "publishedAt": "2026-10-22T12:08:55.000Z",
-      "category": "Tokenisation",
-      "topics": [
-        "Tokenisation",
-        "Market infrastructure",
-        "Institutional adoption"
-      ],
-      "collectionMode": "auto"
-    },
-    {
-      "id": "finextra-crypto-gcex-launches-digital-assets-options-2026-10-22",
-      "title": "GCEX launches digital assets options",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/pressarticle/111405/gcex-launches-digital-assets-options",
-      "publishedAt": "2026-10-22T11:12:00.000Z",
-      "category": "Digital assets",
-      "topics": [
-        "Digital assets"
-      ],
-      "collectionMode": "auto"
-    },
-    {
-      "id": "securities-finance-times-luxembourg-state-treasury-issues-first-dlt-benchmark-bond-in-luxcsd-2026-10-22",
-      "title": "Luxembourg State Treasury issues first DLT benchmark bond in LuxCSD",
-      "source": "Securities Finance Times",
-      "url": "https://www.securitiesfinancetimes.com/securitieslendingnews/industryarticle.php?article_id=229088",
-      "publishedAt": "2026-10-22T10:58:32.000Z",
-      "category": "Market infrastructure",
-      "topics": [
-        "Market infrastructure"
-      ],
-      "collectionMode": "auto"
-    },
-    {
-      "id": "finextra-regulation-the-stablecoin-highway-is-open-the-accountability-gap-remains-2026-10-22",
-      "title": "The Stablecoin Highway Is Open. The Accountability Gap Remains.",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/blogposting/33253/the-stablecoin-highway-is-open-the-accountability-gap-remains",
-      "publishedAt": "2026-10-22T07:44:04.000Z",
-      "category": "Digital money & settlement assets",
-      "topics": [
-        "Digital money & settlement assets"
-      ],
-      "collectionMode": "auto"
-    },
-    {
-      "id": "finextra-crypto-fintechs-top-banks-and-stablecoins-for-cheap-cross-border-payment-bis-research-2026-10-22",
-      "title": "Fintechs top banks and stablecoins for cheap cross-border payment - BIS research",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/newsarticle/48630/fintechs-top-banks-and-stablecoins-for-cheap-cross-border-payment---bis-research",
-      "publishedAt": "2026-10-22T00:01:00.000Z",
-      "category": "Digital money & settlement assets",
-      "topics": [
-        "Digital money & settlement assets"
-      ],
-      "collectionMode": "auto"
-    },
-    {
-      "id": "finextra-markets-moonpay-and-dunamu-collaborate-on-digital-asset-infrastructure-2026-10-21",
-      "title": "MoonPay and Dunamu collaborate on digital asset infrastructure",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/pressarticle/111378/moonpay-and-dunamu-collaborate-on-digital-asset-infrastructure",
-      "publishedAt": "2026-10-21T09:54:00.000Z",
-      "category": "Digital money & settlement assets",
-      "topics": [
-        "Digital money & settlement assets"
-      ],
-      "collectionMode": "auto"
-    },
-    {
-      "id": "finextra-payments-participate-and-hazel-complete-tokenised-payment-using-tokenised-deposits-2026-10-21",
-      "title": "Participate and Hazel complete tokenised payment using tokenised deposits",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/pressarticle/111377/participate-and-hazel-complete-tokenised-payment-using-tokenised-deposits",
-      "publishedAt": "2026-10-21T09:50:00.000Z",
-      "category": "Tokenisation",
-      "topics": [
-        "Tokenisation",
-        "Digital money & settlement assets"
-      ],
-      "collectionMode": "auto"
-    },
-    {
-      "id": "asset-servicing-times-generali-investments-launches-natively-tokenised-class-of-mmf-2026-10-21",
-      "title": "Generali Investments launches natively tokenised class of MMF",
-      "source": "Asset Servicing Times",
-      "url": "https://www.assetservicingtimes.com/assetservicesnews/digitalassetsarticle.php?article_id=18471",
-      "publishedAt": "2026-10-21T09:12:55.000Z",
-      "category": "Tokenisation",
-      "topics": [
-        "Tokenisation"
-      ],
-      "collectionMode": "auto"
-    },
-    {
-      "id": "markets-media-feed-boerse-stuttgart-group-obtains-dlt-tss-license-2026-10-21",
-      "title": "Boerse Stuttgart Group Obtains DLT TSS License",
-      "source": "Markets Media",
-      "url": "https://www.marketsmedia.com/boerse-stuttgart-group-obtains-dlt-tss-license",
-      "publishedAt": "2026-10-21T07:39:03.000Z",
-      "category": "Market infrastructure",
-      "topics": [
-        "Market infrastructure"
-      ],
-      "collectionMode": "auto"
-    },
-    {
-      "id": "finextra-crypto-boerse-stuttgart-obtains-dlt-trading-and-settlement-system-license-2026-10-20",
-      "title": "Boerse Stuttgart obtains DLT trading and settlement system license",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/pressarticle/111362/boerse-stuttgart-obtains-dlt-trading-and-settlement-system-license",
-      "publishedAt": "2026-10-20T13:23:00.000Z",
-      "category": "Market infrastructure",
-      "topics": [
-        "Market infrastructure"
       ],
       "collectionMode": "auto"
     }
