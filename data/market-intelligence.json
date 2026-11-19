@@ -1,5 +1,30 @@
 [
   {
+    "id": "markets-media-feed-world-bank-group-explores-regulated-stablecoins-2026-11-19",
+    "title": "World Bank Group Explores Regulated Stablecoins",
+    "source": "Markets Media",
+    "url": "https://www.marketsmedia.com/world-bank-group-explores-regulated-stablecoins",
+    "publishedAt": "2026-11-19T09:05:46.000Z",
+    "category": "Digital money & settlement assets",
+    "topics": [
+      "Digital money & settlement assets"
+    ],
+    "collectionMode": "auto"
+  },
+  {
+    "id": "markets-media-feed-mas-issues-tokenised-bills-using-wholesale-cbdc-2026-11-19",
+    "title": "MAS Issues Tokenised Bills Using Wholesale CBDC",
+    "source": "Markets Media",
+    "url": "https://www.marketsmedia.com/mas-issues-tokenised-bills-using-wholesale-cbdc",
+    "publishedAt": "2026-11-19T08:48:03.000Z",
+    "category": "Tokenisation",
+    "topics": [
+      "Tokenisation",
+      "Institutional adoption"
+    ],
+    "collectionMode": "auto"
+  },
+  {
     "id": "finextra-crypto-anchorage-digital-and-fomo-pay-bring-usd-stablecoins-to-asian-payments-2026-11-18",
     "title": "Anchorage Digital and Fomo Pay bring USD stablecoins to Asian payments",
     "source": "Finextra",
@@ -1197,30 +1222,6 @@
     "category": "Institutional adoption",
     "topics": [
       "Institutional adoption"
-    ],
-    "collectionMode": "auto"
-  },
-  {
-    "id": "finextra-crypto-thailand-and-malaysia-back-singapore-s-bloom-cross-border-digital-money-initiative-2026-10-23",
-    "title": "Thailand and Malaysia back Singapore's BLOOM cross-border digital money initiative",
-    "source": "Finextra",
-    "url": "https://www.finextra.com/newsarticle/48641/thailand-and-malaysia-back-singapores-bloom-cross-border-digital-money-initiative",
-    "publishedAt": "2026-10-23T13:52:00.000Z",
-    "category": "Digital money & settlement assets",
-    "topics": [
-      "Digital money & settlement assets"
-    ],
-    "collectionMode": "auto"
-  },
-  {
-    "id": "finextra-crypto-hsbc-launches-first-stablecoin-2026-10-23",
-    "title": "HSBC launches first stablecoin",
-    "source": "Finextra",
-    "url": "https://www.finextra.com/newsarticle/48638/hsbc-launches-first-stablecoin",
-    "publishedAt": "2026-10-23T11:09:00.000Z",
-    "category": "Digital money & settlement assets",
-    "topics": [
-      "Digital money & settlement assets"
     ],
     "collectionMode": "auto"
   }
