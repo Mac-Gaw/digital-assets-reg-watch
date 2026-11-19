@@ -141,6 +141,43 @@ window.REGWATCH_DATA = {
   ],
   "marketIntelligence": [
     {
+      "id": "asset-servicing-times-hsbc-offers-new-tokenised-unit-class-2026-11-19",
+      "title": "HSBC offers new tokenised unit class",
+      "source": "Asset Servicing Times",
+      "url": "https://www.assetservicingtimes.com/assetservicesnews/digitalassetsarticle.php?article_id=18575",
+      "publishedAt": "2026-11-19T15:05:39.000Z",
+      "category": "Tokenisation",
+      "topics": [
+        "Tokenisation"
+      ],
+      "collectionMode": "auto"
+    },
+    {
+      "id": "finextra-crypto-pine-labs-unveils-platform-to-connect-stablecoins-and-card-payments-2026-11-19",
+      "title": "Pine Labs unveils platform to connect stablecoins and card payments",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/pressarticle/111733/pine-labs-unveils-platform-to-connect-stablecoins-and-card-payments",
+      "publishedAt": "2026-11-19T13:19:00.000Z",
+      "category": "Digital money & settlement assets",
+      "topics": [
+        "Digital money & settlement assets"
+      ],
+      "collectionMode": "auto"
+    },
+    {
+      "id": "finextra-payments-straitsx-ocbc-and-standard-chartered-complete-tokenised-deposit-interoperability-poc-2026-11-19",
+      "title": "StraitsX, OCBC and Standard Chartered complete tokenised deposit interoperability PoC",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/pressarticle/111731/straitsx-ocbc-and-standard-chartered-complete-tokenised-deposit-interoperability-poc",
+      "publishedAt": "2026-11-19T13:15:00.000Z",
+      "category": "Tokenisation",
+      "topics": [
+        "Tokenisation",
+        "Digital money & settlement assets"
+      ],
+      "collectionMode": "auto"
+    },
+    {
       "id": "markets-media-feed-world-bank-group-explores-regulated-stablecoins-2026-11-19",
       "title": "World Bank Group Explores Regulated Stablecoins",
       "source": "Markets Media",
@@ -1327,42 +1364,6 @@ window.REGWATCH_DATA = {
       "category": "Digital money & settlement assets",
       "topics": [
         "Digital money & settlement assets"
-      ],
-      "collectionMode": "auto"
-    },
-    {
-      "id": "finextra-crypto-solana-leads-rwa-tokenization-building-the-next-generation-of-capital-markets-2026-10-26",
-      "title": "Solana Leads RWA Tokenization: Building the Next Generation of Capital Markets",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/blogposting/33296/solana-leads-rwa-tokenization-building-the-next-generation-of-capital-markets",
-      "publishedAt": "2026-10-26T09:47:55.000Z",
-      "category": "Tokenisation",
-      "topics": [
-        "Tokenisation"
-      ],
-      "collectionMode": "auto"
-    },
-    {
-      "id": "markets-media-feed-hong-kong-approves-1st-secondary-trading-of-tokenised-funds-2026-10-26",
-      "title": "Hong Kong Approves 1st Secondary Trading Of Tokenised Funds",
-      "source": "Markets Media",
-      "url": "https://www.marketsmedia.com/hong-kong-approves-first-secondary-trading-of-tokenised-public-funds",
-      "publishedAt": "2026-10-26T09:12:32.000Z",
-      "category": "Tokenisation",
-      "topics": [
-        "Tokenisation"
-      ],
-      "collectionMode": "auto"
-    },
-    {
-      "id": "asset-servicing-times-nolan-joins-fnality-as-chief-operating-officer-2026-10-23",
-      "title": "Nolan joins Fnality as chief operating officer",
-      "source": "Asset Servicing Times",
-      "url": "https://www.assetservicingtimes.com/assetservicesnews/peoplemovesarticle.php?article_id=18486",
-      "publishedAt": "2026-10-23T15:38:40.000Z",
-      "category": "Institutional adoption",
-      "topics": [
-        "Institutional adoption"
       ],
       "collectionMode": "auto"
     }
