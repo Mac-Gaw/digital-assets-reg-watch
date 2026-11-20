@@ -141,6 +141,43 @@ window.REGWATCH_DATA = {
   ],
   "marketIntelligence": [
     {
+      "id": "finextra-crypto-aqua-global-and-intellecteu-partner-to-connect-banks-existing-systems-with-digital-asset-network-2026-11-20",
+      "title": "Aqua Global and IntellectEU partner to connect banks’ existing systems with digital asset networks",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/pressarticle/111750/aqua-global-and-intellecteu-partner-to-connect-banks-existing-systems-with-digital-asset-networks",
+      "publishedAt": "2026-11-20T13:23:00.000Z",
+      "category": "Digital assets",
+      "topics": [
+        "Digital assets"
+      ],
+      "collectionMode": "auto"
+    },
+    {
+      "id": "finextra-payments-maybank-executes-malaysia-s-first-tokenised-mgs-transaction-2026-11-20",
+      "title": "Maybank executes Malaysia’s first Tokenised MGS transaction",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/pressarticle/111748/maybank-executes-malaysias-first-tokenised-mgs-transaction",
+      "publishedAt": "2026-11-20T13:18:00.000Z",
+      "category": "Tokenisation",
+      "topics": [
+        "Tokenisation"
+      ],
+      "collectionMode": "auto"
+    },
+    {
+      "id": "finextra-crypto-the-end-to-end-test-for-tokenized-deposits-2026-11-20",
+      "title": "The End-to-End Test for Tokenized Deposits",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/blogposting/33526/the-end-to-end-test-for-tokenized-deposits",
+      "publishedAt": "2026-11-20T12:39:20.000Z",
+      "category": "Tokenisation",
+      "topics": [
+        "Tokenisation",
+        "Digital money & settlement assets"
+      ],
+      "collectionMode": "auto"
+    },
+    {
       "id": "asset-servicing-times-hsbc-offers-new-tokenised-unit-class-2026-11-19",
       "title": "HSBC offers new tokenised unit class",
       "source": "Asset Servicing Times",
@@ -1328,42 +1365,6 @@ window.REGWATCH_DATA = {
       "category": "Market infrastructure",
       "topics": [
         "Market infrastructure"
-      ],
-      "collectionMode": "auto"
-    },
-    {
-      "id": "finextra-crypto-canada-opens-stablecoin-consultation-2026-10-26",
-      "title": "Canada opens stablecoin consultation",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/newsarticle/48651/canada-opens-stablecoin-consultation",
-      "publishedAt": "2026-10-26T19:38:00.000Z",
-      "category": "Digital money & settlement assets",
-      "topics": [
-        "Digital money & settlement assets"
-      ],
-      "collectionMode": "auto"
-    },
-    {
-      "id": "finextra-markets-esm-settles-dlt-based-bond-issuance-on-eurosystem-s-pontes-platform-2026-10-26",
-      "title": "ESM settles DLT-based bond issuance on Eurosystem’s Pontes platform",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/pressarticle/111446/esm-settles-dlt-based-bond-issuance-on-eurosystems-pontes-platform",
-      "publishedAt": "2026-10-26T19:25:00.000Z",
-      "category": "Market infrastructure",
-      "topics": [
-        "Market infrastructure"
-      ],
-      "collectionMode": "auto"
-    },
-    {
-      "id": "finextra-crypto-stablecoin-payments-need-a-tougher-business-case-2026-10-26",
-      "title": "Stablecoin payments need a tougher business case",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/blogposting/33304/stablecoin-payments-need-a-tougher-business-case",
-      "publishedAt": "2026-10-26T15:58:59.000Z",
-      "category": "Digital money & settlement assets",
-      "topics": [
-        "Digital money & settlement assets"
       ],
       "collectionMode": "auto"
     }
