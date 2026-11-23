@@ -1,5 +1,127 @@
 [
   {
+    "id": "finextra-markets-ecb-expands-acceptance-of-dlt-based-assets-as-eligible-eurosystem-collateral-2026-11-23",
+    "title": "ECB expands acceptance of DLT-based assets as eligible Eurosystem collateral",
+    "source": "Finextra",
+    "url": "https://www.finextra.com/pressarticle/111765/ecb-expands-acceptance-of-dlt-based-assets-as-eligible-eurosystem-collateral",
+    "publishedAt": "2026-11-23T18:05:00.000Z",
+    "category": "Market infrastructure",
+    "topics": [
+      "Market infrastructure"
+    ],
+    "collectionMode": "auto"
+  },
+  {
+    "id": "finextra-markets-state-street-joins-equilend-1source-dlt-platform-2026-11-23",
+    "title": "State Street joins Equilend 1Source DLT platform",
+    "source": "Finextra",
+    "url": "https://www.finextra.com/pressarticle/111764/state-street-joins-equilend-1source-dlt-platform",
+    "publishedAt": "2026-11-23T16:41:00.000Z",
+    "category": "Market infrastructure",
+    "topics": [
+      "Market infrastructure",
+      "Institutional adoption"
+    ],
+    "collectionMode": "auto"
+  },
+  {
+    "id": "finextra-crypto-payoneer-scores-preliminarily-occ-approval-for-stablecoin-bank-2026-11-23",
+    "title": "Payoneer scores preliminarily OCC approval for stablecoin bank",
+    "source": "Finextra",
+    "url": "https://www.finextra.com/newsarticle/48798/payoneer-scores-preliminarily-occ-approval-for-stablecoin-bank",
+    "publishedAt": "2026-11-23T15:39:00.000Z",
+    "category": "Digital money & settlement assets",
+    "topics": [
+      "Digital money & settlement assets"
+    ],
+    "collectionMode": "auto"
+  },
+  {
+    "id": "securities-finance-times-ecb-expands-acceptance-of-dlt-based-assets-as-eurosystem-collateral-2026-11-23",
+    "title": "ECB expands acceptance of DLT-based assets as Eurosystem collateral",
+    "source": "Securities Finance Times",
+    "url": "https://www.securitiesfinancetimes.com/securitieslendingnews/industryarticle.php?article_id=229171",
+    "publishedAt": "2026-11-23T15:35:30.000Z",
+    "category": "Market infrastructure",
+    "topics": [
+      "Market infrastructure"
+    ],
+    "collectionMode": "auto"
+  },
+  {
+    "id": "finextra-crypto-stablecoin-fx-platform-codex-raises-30m-2026-11-23",
+    "title": "Stablecoin FX platform Codex raises $30m",
+    "source": "Finextra",
+    "url": "https://www.finextra.com/newsarticle/48797/stablecoin-fx-platform-codex-raises-30m",
+    "publishedAt": "2026-11-23T15:21:00.000Z",
+    "category": "Digital money & settlement assets",
+    "topics": [
+      "Digital money & settlement assets"
+    ],
+    "collectionMode": "auto"
+  },
+  {
+    "id": "markets-media-feed-ecb-expands-acceptance-of-dlt-based-assets-as-collateral-2026-11-23",
+    "title": "ECB Expands Acceptance of DLT-Based Assets as Collateral",
+    "source": "Markets Media",
+    "url": "https://www.marketsmedia.com/ecb-expands-acceptance-of-dlt-based-assets-as-eligible-collateral",
+    "publishedAt": "2026-11-23T14:04:40.000Z",
+    "category": "Market infrastructure",
+    "topics": [
+      "Market infrastructure"
+    ],
+    "collectionMode": "auto"
+  },
+  {
+    "id": "finextra-crypto-straitsx-and-ocbc-pilot-cross-border-stablecoin-payments-into-business-bank-accounts-2026-11-23",
+    "title": "StraitsX and OCBC pilot cross-border stablecoin payments into business bank accounts",
+    "source": "Finextra",
+    "url": "https://www.finextra.com/pressarticle/111758/straitsx-and-ocbc-pilot-cross-border-stablecoin-payments-into-business-bank-accounts",
+    "publishedAt": "2026-11-23T13:09:00.000Z",
+    "category": "Digital money & settlement assets",
+    "topics": [
+      "Digital money & settlement assets"
+    ],
+    "collectionMode": "auto"
+  },
+  {
+    "id": "finextra-crypto-how-to-build-a-tokenized-reit-platform-with-multi-chain-support-and-defi-integration-2026-11-23",
+    "title": "How to Build a Tokenized REIT Platform with Multi-Chain Support and DeFi Integration",
+    "source": "Finextra",
+    "url": "https://www.finextra.com/blogposting/33545/how-to-build-a-tokenized-reit-platform-with-multi-chain-support-and-defi-integration",
+    "publishedAt": "2026-11-23T10:13:18.000Z",
+    "category": "Tokenisation",
+    "topics": [
+      "Tokenisation"
+    ],
+    "collectionMode": "auto"
+  },
+  {
+    "id": "markets-media-feed-hsbc-redcoin-expands-into-wealth-with-tokenised-fund-access-2026-11-23",
+    "title": "HSBC RedCoin Expands into Wealth with Tokenised Fund Access",
+    "source": "Markets Media",
+    "url": "https://www.marketsmedia.com/hsbc-redcoin-expands-into-wealth-with-tokenised-fund-access",
+    "publishedAt": "2026-11-23T08:41:41.000Z",
+    "category": "Tokenisation",
+    "topics": [
+      "Tokenisation",
+      "Digital money & settlement assets"
+    ],
+    "collectionMode": "auto"
+  },
+  {
+    "id": "markets-media-feed-iosco-publishes-2026-monitoring-report-on-tokenization-2026-11-23",
+    "title": "IOSCO Publishes 2026 Monitoring Report on Tokenization",
+    "source": "Markets Media",
+    "url": "https://www.marketsmedia.com/iosco-publishes-2026-monitoring-report-on-tokenization",
+    "publishedAt": "2026-11-23T08:29:44.000Z",
+    "category": "Tokenisation",
+    "topics": [
+      "Tokenisation"
+    ],
+    "collectionMode": "auto"
+  },
+  {
     "id": "finextra-crypto-aqua-global-and-intellecteu-partner-to-connect-banks-existing-systems-with-digital-asset-network-2026-11-20",
     "title": "Aqua Global and IntellectEU partner to connect banks’ existing systems with digital asset networks",
     "source": "Finextra",
@@ -1100,130 +1222,6 @@
     "category": "Digital money & settlement assets",
     "topics": [
       "Digital money & settlement assets"
-    ],
-    "collectionMode": "auto"
-  },
-  {
-    "id": "asset-servicing-times-clearstream-advances-tokenised-fund-distribution-as-authorised-control-agent-2026-10-28",
-    "title": "Clearstream advances tokenised fund distribution as authorised control agent",
-    "source": "Asset Servicing Times",
-    "url": "https://www.assetservicingtimes.com/assetservicesnews/digitalassetsarticle.php?article_id=18501",
-    "publishedAt": "2026-10-28T09:41:25.000Z",
-    "category": "Tokenisation",
-    "topics": [
-      "Tokenisation",
-      "Institutional adoption"
-    ],
-    "collectionMode": "auto"
-  },
-  {
-    "id": "finextra-markets-clearstream-makes-tokenised-fund-distribution-move-2026-10-28",
-    "title": "Clearstream makes tokenised fund distribution move",
-    "source": "Finextra",
-    "url": "https://www.finextra.com/newsarticle/48658/clearstream-makes-tokenised-fund-distribution-move",
-    "publishedAt": "2026-10-28T08:30:00.000Z",
-    "category": "Tokenisation",
-    "topics": [
-      "Tokenisation",
-      "Market infrastructure",
-      "Institutional adoption"
-    ],
-    "collectionMode": "auto"
-  },
-  {
-    "id": "markets-media-feed-bny-expands-digital-asset-collaboration-with-ripple-2026-10-28",
-    "title": "BNY Expands Digital Asset Collaboration with Ripple",
-    "source": "Markets Media",
-    "url": "https://www.marketsmedia.com/bny-expands-digital-asset-collaboration-with-ripple",
-    "publishedAt": "2026-10-28T08:22:27.000Z",
-    "category": "Tokenisation",
-    "topics": [
-      "Tokenisation",
-      "Custody"
-    ],
-    "collectionMode": "auto"
-  },
-  {
-    "id": "finextra-crypto-bitgo-to-integrate-wisdomtree-tokenised-money-market-fund-2026-10-27",
-    "title": "BitGo to integrate WisdomTree tokenised money market fund",
-    "source": "Finextra",
-    "url": "https://www.finextra.com/pressarticle/111471/bitgo-to-integrate-wisdomtree-tokenised-money-market-fund",
-    "publishedAt": "2026-10-27T15:10:00.000Z",
-    "category": "Tokenisation",
-    "topics": [
-      "Tokenisation"
-    ],
-    "collectionMode": "auto"
-  },
-  {
-    "id": "finextra-regulation-axiology-and-vialet-bring-tokenised-money-market-funds-to-client-safeguarding-2026-10-27",
-    "title": "Axiology and Vialet bring tokenised money market funds to client safeguarding",
-    "source": "Finextra",
-    "url": "https://www.finextra.com/pressarticle/111459/axiology-and-vialet-bring-tokenised-money-market-funds-to-client-safeguarding",
-    "publishedAt": "2026-10-27T13:01:00.000Z",
-    "category": "Tokenisation",
-    "topics": [
-      "Tokenisation"
-    ],
-    "collectionMode": "auto"
-  },
-  {
-    "id": "asset-servicing-times-axiology-and-vialet-enable-tokenised-mmfs-for-client-fund-safeguarding-2026-10-27",
-    "title": "Axiology and VIALET enable tokenised MMFs for client fund safeguarding",
-    "source": "Asset Servicing Times",
-    "url": "https://www.assetservicingtimes.com/assetservicesnews/digitalassetsarticle.php?article_id=18496",
-    "publishedAt": "2026-10-27T12:06:40.000Z",
-    "category": "Tokenisation",
-    "topics": [
-      "Tokenisation"
-    ],
-    "collectionMode": "auto"
-  },
-  {
-    "id": "asset-servicing-times-esm-hits-milestone-with-dlt-based-bond-issuance-on-pontes-2026-10-27",
-    "title": "ESM hits milestone with DLT-based bond issuance on Pontes",
-    "source": "Asset Servicing Times",
-    "url": "https://www.assetservicingtimes.com/assetservicesnews/clearingandsettlementarticle.php?article_id=18491",
-    "publishedAt": "2026-10-27T10:14:54.000Z",
-    "category": "Market infrastructure",
-    "topics": [
-      "Market infrastructure"
-    ],
-    "collectionMode": "auto"
-  },
-  {
-    "id": "securities-finance-times-esm-hits-milestone-with-dlt-based-bond-issuance-on-pontes-2026-10-27",
-    "title": "ESM hits milestone with DLT-based bond issuance on Pontes",
-    "source": "Securities Finance Times",
-    "url": "https://www.securitiesfinancetimes.com/securitieslendingnews/technologyarticle.php?article_id=229098",
-    "publishedAt": "2026-10-27T10:14:49.000Z",
-    "category": "Market infrastructure",
-    "topics": [
-      "Market infrastructure"
-    ],
-    "collectionMode": "auto"
-  },
-  {
-    "id": "markets-media-feed-aviva-investors-expands-tokenised-offering-2026-10-27",
-    "title": "Aviva Investors Expands Tokenised Offering",
-    "source": "Markets Media",
-    "url": "https://www.marketsmedia.com/aviva-investors-expands-tokenised-offering",
-    "publishedAt": "2026-10-27T09:39:45.000Z",
-    "category": "Tokenisation",
-    "topics": [
-      "Tokenisation"
-    ],
-    "collectionMode": "auto"
-  },
-  {
-    "id": "markets-media-feed-first-european-supranational-issues-dlt-bond-on-pontes-2026-10-27",
-    "title": "First European Supranational Issues DLT Bond on Pontes",
-    "source": "Markets Media",
-    "url": "https://www.marketsmedia.com/first-european-supranational-issues-dlt-based-bond-on-pontes",
-    "publishedAt": "2026-10-27T08:41:16.000Z",
-    "category": "Market infrastructure",
-    "topics": [
-      "Market infrastructure"
     ],
     "collectionMode": "auto"
   }
