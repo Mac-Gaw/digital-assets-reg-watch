@@ -141,6 +141,42 @@ window.REGWATCH_DATA = {
   ],
   "marketIntelligence": [
     {
+      "id": "finextra-crypto-deel-launches-card-that-lets-contractors-spend-stablecoin-balance-2026-11-24",
+      "title": "Deel launches card that lets contractors spend stablecoin balance",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/pressarticle/111773/deel-launches-card-that-lets-contractors-spend-stablecoin-balance",
+      "publishedAt": "2026-11-24T13:23:00.000Z",
+      "category": "Digital money & settlement assets",
+      "topics": [
+        "Digital money & settlement assets"
+      ],
+      "collectionMode": "auto"
+    },
+    {
+      "id": "finextra-crypto-form3-partners-picks-coinbase-infrastructure-for-stablecoin-money-movement-2026-11-24",
+      "title": "Form3 partners picks Coinbase infrastructure for stablecoin money movement",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/pressarticle/111760/form3-partners-picks-coinbase-infrastructure-for-stablecoin-money-movement",
+      "publishedAt": "2026-11-24T09:00:00.000Z",
+      "category": "Digital money & settlement assets",
+      "topics": [
+        "Digital money & settlement assets"
+      ],
+      "collectionMode": "auto"
+    },
+    {
+      "id": "markets-media-feed-franklin-templeton-launches-tokenised-euro-money-market-fund-2026-11-24",
+      "title": "Franklin Templeton Launches Tokenised Euro Money Market Fund",
+      "source": "Markets Media",
+      "url": "https://www.marketsmedia.com/franklin-templeton-launches-tokenised-euro-money-market-fund",
+      "publishedAt": "2026-11-24T08:32:46.000Z",
+      "category": "Tokenisation",
+      "topics": [
+        "Tokenisation"
+      ],
+      "collectionMode": "auto"
+    },
+    {
       "id": "finextra-markets-ecb-expands-acceptance-of-dlt-based-assets-as-eligible-eurosystem-collateral-2026-11-23",
       "title": "ECB expands acceptance of DLT-based assets as eligible Eurosystem collateral",
       "source": "Finextra",
@@ -1326,43 +1362,6 @@ window.REGWATCH_DATA = {
       "category": "Tokenisation",
       "topics": [
         "Tokenisation"
-      ],
-      "collectionMode": "auto"
-    },
-    {
-      "id": "finextra-crypto-digital-asset-self-custodial-platform-bron-joins-hashgraph-association-2026-10-28",
-      "title": "Digital asset self-custodial platform Bron joins Hashgraph Association",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/pressarticle/111479/digital-asset-self-custodial-platform-bron-joins-hashgraph-association",
-      "publishedAt": "2026-10-28T12:14:00.000Z",
-      "category": "Digital assets",
-      "topics": [
-        "Digital assets"
-      ],
-      "collectionMode": "auto"
-    },
-    {
-      "id": "markets-media-feed-dtcc-tokenization-service-goes-live-2026-10-28",
-      "title": "DTCC Tokenization Service Goes Live",
-      "source": "Markets Media",
-      "url": "https://www.marketsmedia.com/dtcc-tokenization-service-goes-live",
-      "publishedAt": "2026-10-28T12:09:25.000Z",
-      "category": "Tokenisation",
-      "topics": [
-        "Tokenisation",
-        "Market infrastructure"
-      ],
-      "collectionMode": "auto"
-    },
-    {
-      "id": "finextra-regulation-the-stablecoin-build-vs-buy-debate-is-wrong-2026-10-28",
-      "title": "The stablecoin “build vs buy” debate is wrong",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/blogposting/33328/the-stablecoin-build-vs-buy-debate-is-wrong",
-      "publishedAt": "2026-10-28T11:22:42.000Z",
-      "category": "Digital money & settlement assets",
-      "topics": [
-        "Digital money & settlement assets"
       ],
       "collectionMode": "auto"
     }
