@@ -60,21 +60,6 @@ window.REGWATCH_DATA = {
   },
   "events": [
     {
-      "id": "finextra-events-is-europe-ready-to-embrace-stablecoins-2026-11-17",
-      "title": "Is Europe ready to embrace stablecoins?",
-      "source": "Finextra Events",
-      "url": "https://www.finextra.com/event-info/636/is-europe-ready-to-embrace-stablecoins",
-      "eventDate": "2026-11-17T15:00:00.000Z",
-      "format": "Webinar",
-      "location": "Online",
-      "access": "Registration required",
-      "category": "Digital money & settlement assets",
-      "topics": [
-        "Digital money & settlement assets"
-      ],
-      "collectionMode": "auto"
-    },
-    {
       "id": "finextra-events-closing-the-dispute-gap-how-closer-collaboration-can-reduce-chargebacks-2026-11-19",
       "title": "Closing the Dispute Gap: How Closer Collaboration Can Reduce Chargebacks",
       "source": "Finextra Events",
