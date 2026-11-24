@@ -1,12 +1,11 @@
 {
-  "scannedAt": "2026-11-23T18:40:42.212Z",
+  "scannedAt": "2026-11-24T00:50:21.937Z",
   "newItems": 0,
   "sources": [
     {
       "source": "finextra-events",
-      "status": "ok",
-      "feedItems": 10,
-      "relevantItems": 2
+      "status": "error",
+      "message": "HTTP 403"
     }
   ]
 }
