@@ -126,6 +126,55 @@ window.REGWATCH_DATA = {
   ],
   "marketIntelligence": [
     {
+      "id": "markets-media-feed-hong-kong-launches-cmu-digital-asset-platform-2026-11-25",
+      "title": "Hong Kong Launches CMU Digital Asset Platform",
+      "source": "Markets Media",
+      "url": "https://www.marketsmedia.com/hong-kong-launches-cmu-digital-asset-platform",
+      "publishedAt": "2026-11-25T13:53:27.000Z",
+      "category": "Tokenisation",
+      "topics": [
+        "Tokenisation"
+      ],
+      "collectionMode": "auto"
+    },
+    {
+      "id": "finextra-payments-stablecoins-vs-traditional-payment-rails-what-changes-for-businesses-2026-11-25",
+      "title": "Stablecoins vs Traditional Payment Rails: What Changes for Businesses?",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/blogposting/33572/stablecoins-vs-traditional-payment-rails-what-changes-for-businesses",
+      "publishedAt": "2026-11-25T13:08:06.000Z",
+      "category": "Digital money & settlement assets",
+      "topics": [
+        "Digital money & settlement assets"
+      ],
+      "collectionMode": "auto"
+    },
+    {
+      "id": "finextra-regulation-tokenized-deposits-and-wholesale-settlement-market-data-and-institutional-shifts-2026-11-25",
+      "title": "Tokenized Deposits and Wholesale Settlement: Market Data and Institutional Shifts",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/blogposting/33570/tokenized-deposits-and-wholesale-settlement-market-data-and-institutional-shifts",
+      "publishedAt": "2026-11-25T12:54:48.000Z",
+      "category": "Tokenisation",
+      "topics": [
+        "Tokenisation",
+        "Digital money & settlement assets"
+      ],
+      "collectionMode": "auto"
+    },
+    {
+      "id": "finextra-crypto-south-korea-proposes-new-stablecoin-rules-for-local-bank-issuance-2026-11-25",
+      "title": "South Korea proposes new stablecoin rules for local bank issuance",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/newsarticle/48809/south-korea-proposes-new-stablecoin-rules-for-local-bank-issuance",
+      "publishedAt": "2026-11-25T11:10:00.000Z",
+      "category": "Digital money & settlement assets",
+      "topics": [
+        "Digital money & settlement assets"
+      ],
+      "collectionMode": "auto"
+    },
+    {
       "id": "finextra-crypto-digital-asset-clearing-centre-establishes-digital-asset-distribution-alliance-2026-11-24",
       "title": "Digital Asset Clearing Centre establishes Digital Asset Distribution Alliance",
       "source": "Finextra",
@@ -1293,56 +1342,6 @@ window.REGWATCH_DATA = {
       "source": "Finextra",
       "url": "https://www.finextra.com/pressarticle/111494/dtcc-tokenisation-service-goes-live",
       "publishedAt": "2026-10-28T18:01:00.000Z",
-      "category": "Tokenisation",
-      "topics": [
-        "Tokenisation",
-        "Market infrastructure"
-      ],
-      "collectionMode": "auto"
-    },
-    {
-      "id": "finextra-payments-how-will-tokenisation-transform-cross-border-payments-and-settlement-2026-10-28",
-      "title": "How Will Tokenisation Transform Cross-Border Payments and Settlement?",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/videoarticle/3631/how-will-tokenisation-transform-cross-border-payments-and-settlement",
-      "publishedAt": "2026-10-28T15:00:00.000Z",
-      "category": "Tokenisation",
-      "topics": [
-        "Tokenisation"
-      ],
-      "collectionMode": "auto"
-    },
-    {
-      "id": "finextra-crypto-firms-object-to-shares-being-part-of-okx-ice-tokenised-stock-trading-venture-2026-10-28",
-      "title": "Firms object to shares being part of OKX-ICE tokenised stock trading venture",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/newsarticle/48663/firms-object-to-shares-being-part-of-okx-ice-tokenised-stock-trading-venture",
-      "publishedAt": "2026-10-28T14:51:00.000Z",
-      "category": "Tokenisation",
-      "topics": [
-        "Tokenisation"
-      ],
-      "collectionMode": "auto"
-    },
-    {
-      "id": "asset-servicing-times-dtcc-launches-tokenisation-service-2026-10-28",
-      "title": "DTCC launches tokenisation service",
-      "source": "Asset Servicing Times",
-      "url": "https://www.assetservicingtimes.com/assetservicesnews/digitalassetsarticle.php?article_id=18504",
-      "publishedAt": "2026-10-28T14:16:52.000Z",
-      "category": "Tokenisation",
-      "topics": [
-        "Tokenisation",
-        "Market infrastructure"
-      ],
-      "collectionMode": "auto"
-    },
-    {
-      "id": "securities-finance-times-dtcc-launches-tokenisation-service-2026-10-28",
-      "title": "DTCC launches tokenisation service",
-      "source": "Securities Finance Times",
-      "url": "https://www.securitiesfinancetimes.com/securitieslendingnews/industryarticle.php?article_id=229104",
-      "publishedAt": "2026-10-28T14:09:00.000Z",
       "category": "Tokenisation",
       "topics": [
         "Tokenisation",
