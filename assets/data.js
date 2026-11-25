@@ -126,6 +126,18 @@ window.REGWATCH_DATA = {
   ],
   "marketIntelligence": [
     {
+      "id": "finextra-crypto-digital-asset-clearing-centre-establishes-digital-asset-distribution-alliance-2026-11-24",
+      "title": "Digital Asset Clearing Centre establishes Digital Asset Distribution Alliance",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/pressarticle/111775/digital-asset-clearing-centre-establishes-digital-asset-distribution-alliance",
+      "publishedAt": "2026-11-24T16:54:00.000Z",
+      "category": "Market infrastructure",
+      "topics": [
+        "Market infrastructure"
+      ],
+      "collectionMode": "auto"
+    },
+    {
       "id": "finextra-crypto-deel-launches-card-that-lets-contractors-spend-stablecoin-balance-2026-11-24",
       "title": "Deel launches card that lets contractors spend stablecoin balance",
       "source": "Finextra",
@@ -1335,18 +1347,6 @@ window.REGWATCH_DATA = {
       "topics": [
         "Tokenisation",
         "Market infrastructure"
-      ],
-      "collectionMode": "auto"
-    },
-    {
-      "id": "finextra-crypto-archax-brings-perpetual-tokenised-government-bill-product-to-eurozone-2026-10-28",
-      "title": "Archax brings perpetual tokenised government bill product to Eurozone",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/pressarticle/111481/archax-brings-perpetual-tokenised-government-bill-product-to-eurozone",
-      "publishedAt": "2026-10-28T13:20:00.000Z",
-      "category": "Tokenisation",
-      "topics": [
-        "Tokenisation"
       ],
       "collectionMode": "auto"
     }
