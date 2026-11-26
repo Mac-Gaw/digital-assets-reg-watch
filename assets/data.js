@@ -60,21 +60,6 @@ window.REGWATCH_DATA = {
   },
   "events": [
     {
-      "id": "finextra-events-closing-the-dispute-gap-how-closer-collaboration-can-reduce-chargebacks-2026-11-19",
-      "title": "Closing the Dispute Gap: How Closer Collaboration Can Reduce Chargebacks",
-      "source": "Finextra Events",
-      "url": "https://www.finextra.com/event-info/646/closing-the-dispute-gap-how-closer-collaboration-can-reduce-chargebacks",
-      "eventDate": "2026-11-19T15:00:00.000Z",
-      "format": "Webinar",
-      "location": "Online",
-      "access": "Registration required",
-      "category": "Regulation",
-      "topics": [
-        "Regulation"
-      ],
-      "collectionMode": "auto"
-    },
-    {
       "id": "finextra-events-closing-the-dispute-gap-how-closer-collaboration-can-reduce-chargebacks-2027-02-17",
       "title": "Closing the Dispute Gap: How Closer Collaboration Can Reduce Chargebacks",
       "source": "Finextra Events",
