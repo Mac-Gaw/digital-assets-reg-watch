@@ -111,6 +111,30 @@ window.REGWATCH_DATA = {
   ],
   "marketIntelligence": [
     {
+      "id": "finextra-crypto-nbx-partners-visa-for-stablecoin-linked-card-2026-11-26",
+      "title": "NBX partners Visa for stablecoin-linked card",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/pressarticle/111795/nbx-partners-visa-for-stablecoin-linked-card",
+      "publishedAt": "2026-11-26T13:11:00.000Z",
+      "category": "Digital money & settlement assets",
+      "topics": [
+        "Digital money & settlement assets"
+      ],
+      "collectionMode": "auto"
+    },
+    {
+      "id": "finextra-regulation-stablecoin-supervision-starts-january-18-the-aml-rulebook-won-t-be-ready-2026-11-26",
+      "title": "Stablecoin Supervision Starts January 18. The AML Rulebook Won't Be Ready.",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/blogposting/33580/stablecoin-supervision-starts-january-18-the-aml-rulebook-wont-be-ready",
+      "publishedAt": "2026-11-26T07:24:50.000Z",
+      "category": "Digital money & settlement assets",
+      "topics": [
+        "Digital money & settlement assets"
+      ],
+      "collectionMode": "auto"
+    },
+    {
       "id": "markets-media-feed-hong-kong-launches-cmu-digital-asset-platform-2026-11-25",
       "title": "Hong Kong Launches CMU Digital Asset Platform",
       "source": "Markets Media",
@@ -1304,32 +1328,6 @@ window.REGWATCH_DATA = {
       "publishedAt": "2026-10-29T08:34:17.000Z",
       "category": "Market infrastructure",
       "topics": [
-        "Market infrastructure"
-      ],
-      "collectionMode": "auto"
-    },
-    {
-      "id": "finextra-markets-equilend-1source-dlt-platform-adds-goldman-sachs-2026-10-28",
-      "title": "Equilend 1Source DLT platform adds Goldman Sachs",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/pressarticle/111496/equilend-1source-dlt-platform-adds-goldman-sachs",
-      "publishedAt": "2026-10-28T19:44:00.000Z",
-      "category": "Market infrastructure",
-      "topics": [
-        "Market infrastructure",
-        "Institutional adoption"
-      ],
-      "collectionMode": "auto"
-    },
-    {
-      "id": "finextra-markets-dtcc-tokenisation-service-goes-live-2026-10-28",
-      "title": "DTCC tokenisation service goes live",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/pressarticle/111494/dtcc-tokenisation-service-goes-live",
-      "publishedAt": "2026-10-28T18:01:00.000Z",
-      "category": "Tokenisation",
-      "topics": [
-        "Tokenisation",
         "Market infrastructure"
       ],
       "collectionMode": "auto"
