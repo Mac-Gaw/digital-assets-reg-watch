@@ -111,6 +111,18 @@ window.REGWATCH_DATA = {
   ],
   "marketIntelligence": [
     {
+      "id": "markets-media-feed-eba-examines-use-of-stablecoins-in-defi-2026-11-27",
+      "title": "EBA Examines Use Of Stablecoins in DeFi",
+      "source": "Markets Media",
+      "url": "https://www.marketsmedia.com/eba-examines-use-of-stablecoins-in-defi",
+      "publishedAt": "2026-11-27T07:42:48.000Z",
+      "category": "Digital money & settlement assets",
+      "topics": [
+        "Digital money & settlement assets"
+      ],
+      "collectionMode": "auto"
+    },
+    {
       "id": "finextra-crypto-nbx-partners-visa-for-stablecoin-linked-card-2026-11-26",
       "title": "NBX partners Visa for stablecoin-linked card",
       "source": "Finextra",
@@ -1317,18 +1329,6 @@ window.REGWATCH_DATA = {
       "category": "Tokenisation",
       "topics": [
         "Tokenisation"
-      ],
-      "collectionMode": "auto"
-    },
-    {
-      "id": "markets-media-feed-goldman-sachs-joins-equilend-s-1source-dlt-2026-10-29",
-      "title": "Goldman Sachs Joins Equilend’s 1Source DLT",
-      "source": "Markets Media",
-      "url": "https://www.marketsmedia.com/goldman-sachs-joins-equilends-1source-dlt",
-      "publishedAt": "2026-10-29T08:34:17.000Z",
-      "category": "Market infrastructure",
-      "topics": [
-        "Market infrastructure"
       ],
       "collectionMode": "auto"
     }
