@@ -111,6 +111,18 @@ window.REGWATCH_DATA = {
   ],
   "marketIntelligence": [
     {
+      "id": "markets-media-feed-dtcc-tokenization-service-considers-adding-functionality-2026-11-27",
+      "title": "DTCC Tokenization Service Considers Adding Functionality",
+      "source": "Markets Media",
+      "url": "https://www.marketsmedia.com/dtcc-tokenization-service-considers-adding-functionality",
+      "publishedAt": "2026-11-27T16:34:43.000Z",
+      "category": "Tokenisation",
+      "topics": [
+        "Tokenisation"
+      ],
+      "collectionMode": "auto"
+    },
+    {
       "id": "markets-media-feed-eba-examines-use-of-stablecoins-in-defi-2026-11-27",
       "title": "EBA Examines Use Of Stablecoins in DeFi",
       "source": "Markets Media",
@@ -1314,18 +1326,6 @@ window.REGWATCH_DATA = {
       "source": "Finextra",
       "url": "https://www.finextra.com/pressarticle/111509/settlemint-integrates-digital-asset-lifecycle-platform-with-ibm-digital-asset-haven",
       "publishedAt": "2026-10-29T12:31:00.000Z",
-      "category": "Tokenisation",
-      "topics": [
-        "Tokenisation"
-      ],
-      "collectionMode": "auto"
-    },
-    {
-      "id": "markets-media-feed-clearstream-advances-tokenized-fund-distribution-2026-10-29",
-      "title": "Clearstream Advances Tokenized Fund Distribution",
-      "source": "Markets Media",
-      "url": "https://www.marketsmedia.com/clearstream-advances-tokenized-fund-distribution",
-      "publishedAt": "2026-10-29T08:42:40.000Z",
       "category": "Tokenisation",
       "topics": [
         "Tokenisation"
