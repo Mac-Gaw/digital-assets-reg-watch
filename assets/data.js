@@ -1294,43 +1294,6 @@ window.REGWATCH_DATA = {
         "Collateral"
       ],
       "collectionMode": "auto"
-    },
-    {
-      "id": "securities-finance-times-bank-of-england-opens-tokenised-collateral-consultation-2026-10-29",
-      "title": "Bank of England opens tokenised collateral consultation",
-      "source": "Securities Finance Times",
-      "url": "https://www.securitiesfinancetimes.com/securitieslendingnews/industryarticle.php?article_id=229108",
-      "publishedAt": "2026-10-29T14:59:20.000Z",
-      "category": "Tokenisation",
-      "topics": [
-        "Tokenisation",
-        "Collateral"
-      ],
-      "collectionMode": "auto"
-    },
-    {
-      "id": "finextra-crypto-former-swift-ceo-l-and-225-zaro-campos-joins-stablecoin-firm-opentrade-as-chair-2026-10-29",
-      "title": "Former Swift CEO L&#225;zaro Campos joins stablecoin firm OpenTrade as chair",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/newsarticle/48669/former-swift-ceo-lzaro-campos-joins-stablecoin-firm-opentrade-as-chair",
-      "publishedAt": "2026-10-29T14:31:00.000Z",
-      "category": "Digital money & settlement assets",
-      "topics": [
-        "Digital money & settlement assets"
-      ],
-      "collectionMode": "auto"
-    },
-    {
-      "id": "finextra-crypto-settlemint-integrates-digital-asset-lifecycle-platform-with-ibm-digital-asset-haven-2026-10-29",
-      "title": "SettleMint integrates digital asset lifecycle platform with IBM Digital Asset Haven",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/pressarticle/111509/settlemint-integrates-digital-asset-lifecycle-platform-with-ibm-digital-asset-haven",
-      "publishedAt": "2026-10-29T12:31:00.000Z",
-      "category": "Tokenisation",
-      "topics": [
-        "Tokenisation"
-      ],
-      "collectionMode": "auto"
     }
   ],
   "monthlyReviews": [
